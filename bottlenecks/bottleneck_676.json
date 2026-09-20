@@ -1,0 +1,18 @@
+{
+  "id": 676,
+  "domain": "space",
+  "title": "Helium-3 scarcity for aneutronic fusion propulsion",
+  "bottleneck": "The cleanest fusion reactions for spacecraft (deuterium-helium-3) produce few neutrons, sparing the ship from massive shielding — but helium-3 is vanishingly rare on Earth and exists on the Moon only in parts-per-billion concentrations implanted by the solar wind. Harvesting useful quantities would require strip-mining vast areas of regolith with machinery that does not exist, for a fusion reactor that also does not exist. The fuel cycle and the engine are both unsolved, and each depends on the other.",
+  "why_it_blocks": "Without an accessible fuel supply, even a working fusion drive could not be fueled; the helium-3 economy is a prerequisite bottleneck stacked on top of the reactor bottleneck.",
+  "current_state": "No helium-3 extraction has ever been attempted; lunar resource plans focus on water and oxygen. Fusion research overwhelmingly targets deuterium-tritium for terrestrial power, not D-He3 for space.",
+  "sources": [
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    },
+    {
+      "title": "Lunar soil shows promise for in-situ oxygen and fuel production (Moon Daily)",
+      "url": "https://www.moondaily.com/reports/Lunar_soil_shows_promise_for_in_situ_oxygen_and_fuel_production_999.html"
+    }
+  ]
+}

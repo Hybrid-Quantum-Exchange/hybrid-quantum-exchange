@@ -1,0 +1,18 @@
+{
+  "id": 501,
+  "domain": "health_longevity",
+  "title": "Diversity gaps in human aging research",
+  "bottleneck": "Aging biomarkers, genetic studies, and clinical trials overwhelmingly sample people of European ancestry, yet aging trajectories differ across populations due to genetics, environment, and lifetime exposures. The 2025 open-problems roadmap in GeroScience flagged diversity in human aging as severely underrepresented.",
+  "why_it_blocks": "Interventions validated in one population may fail or harm in others, and the global majority ages without relevant data. The longevity field risks building precision aging medicine for a narrow slice of humanity.",
+  "current_state": "Biobanks are slowly diversifying; epigenetic clocks are being recalibrated across ancestries. But most geroscience trials still recruit homogeneous cohorts, and environmental-exposure research is only 2% of open problems. All-of-Us and similar diverse biobanks are beginning to fill the gap, but geroscience trials still recruit predominantly European-ancestry cohorts, limiting generalizability of aging biomarkers.",
+  "sources": [
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    },
+    {
+      "title": "Global Gaps in COVID-19 Vaccine Rollout and Impact (ScienMag)",
+      "url": "https://scienmag.com/global-gaps-in-covid-19-vaccine-rollout-and-impact/"
+    }
+  ]
+}

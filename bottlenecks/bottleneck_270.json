@@ -1,0 +1,18 @@
+{
+  "id": 270,
+  "domain": "compute_semiconductors",
+  "title": "Cryogenic control electronics for quantum processors",
+  "bottleneck": "Quantum processors need control electronics at millikelvin temperatures, but conventional CMOS dissipates too much heat and behaves unpredictably at cryogenic temperatures (carrier freeze-out, kink effects). Running thousands of control lines from room temperature into a dilution refrigerator creates a wiring and thermal bottleneck that scales worse than the qubits. Cryo-CMOS and superconducting control logic exist but lack the density and maturity for million-qubit systems.",
+  "why_it_blocks": "Control scaling is the hidden wall for quantum computing: qubits are useless without classical electronics to drive them, and the fridge can't host today's control racks. Fault-tolerant quantum computing waits on cryogenic electronics as much as on better qubits.",
+  "current_state": "Cryo-CMOS controllers from Intel, Google, and others demonstrate multiplexed control of tens to hundreds of qubits. Scaling to thousands of channels within millikelvin thermal budgets is unsolved.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

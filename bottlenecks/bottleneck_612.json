@@ -1,0 +1,18 @@
+{
+  "id": 612,
+  "domain": "neuroscience",
+  "title": "Menopause-related brain transitions and cognition",
+  "bottleneck": "During the menopausal transition the brain undergoes measurable structural and metabolic changes, including shifts in glucose metabolism and gray-matter volume, coinciding with complaints of memory lapses and brain fog. Yet the mechanisms, the enormous heterogeneity between women, and the optimal timing of interventions remain under-resolved.",
+  "why_it_blocks": "Half the population goes through this neurological transition with minimal mechanistic understanding guiding care. The uncertainty fuels both undertreatment of genuine symptoms and an unregulated market of interventions with thin evidence.",
+  "current_state": "Imaging studies document the metabolic and structural shifts, and hormonal changes are linked to cognitive deficits, but causal pathways and long-term consequences are unclear. Trials of hormone therapy timing and non-hormonal neuroprotective strategies are ongoing without definitive answers. Biomarkers that distinguish transient fog from lasting decline do not yet exist.",
+  "sources": [
+    {
+      "title": "Menopause brain changes",
+      "url": "https://www.nationalgeographic.com/health/article/menopause-brain-changes-shrinking-memory"
+    },
+    {
+      "title": "Menopausal hormone changes and cognitive deficits",
+      "url": "https://www.newswise.com/articles/menopausal-hormone-changes-linked-to-cognitive-deficits"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 443,
+  "domain": "medicine_cures",
+  "title": "Endometriosis non-hormonal disease-modifying treatment",
+  "bottleneck": "Endometriosis affects roughly 10% of reproductive-age women, causing severe pain and infertility, but diagnosis requires surgery with an average delay of 7 to 10 years, and treatments are hormonal suppression or surgical excision, neither curative, with high recurrence.",
+  "why_it_blocks": "A common, debilitating disease is managed with blunt tools because its pathogenesis, spanning retrograde menstruation, immune dysfunction, and stem cells, remains disputed.",
+  "current_state": "Non-hormonal candidates targeting inflammation, angiogenesis, and neurogenesis are in trials, alongside noninvasive diagnostics. No disease-modifying, non-hormonal therapy is approved. The average diagnostic delay of nearly a decade means many patients suffer through their most fertile years without answers. Noninvasive diagnostics based on blood or menstrual-fluid biomarkers could transform care, but none is yet validated for routine use, and research funding lags far behind the disease's prevalence.",
+  "sources": [
+    {
+      "title": "Galleri Test for Early Cancer Detection: Comprehensive Guide",
+      "url": "https://www.preventivemedicinedaily.com/healthy-living/screening/galleri-test-for-early-cancer-detection-comprehensive-guide/"
+    }
+  ]
+}

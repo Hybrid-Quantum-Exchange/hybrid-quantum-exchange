@@ -1,0 +1,18 @@
+{
+  "id": 967,
+  "domain": "coordination",
+  "title": "Publish-or-Perish and Research Quality",
+  "bottleneck": "Career advancement keys off publication counts and journal prestige, incentivizing salami-slicing, p-hacking, and least-publishable-unit strategies. The metric becomes the target, and quality — rigor, importance, honesty — is what gets sacrificed first. The resulting literature is voluminous but unreliable, forcing researchers to spend effort discerning signal from noise.",
+  "why_it_blocks": "Goodhart's law applied to science degrades the signal that hiring and funding decisions rely on. Hiring committees inherit the distorted signal, perpetuating the cycle across generations.",
+  "current_state": "DORA and narrative CVs push back, but adoption is uneven and citation-based evaluation still dominates most institutions. Reform movements have raised awareness without denting the underlying career incentives. Until evaluation changes, researchers will keep optimizing for the metrics that decide careers, everywhere.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "'Science by Consensus' Impedes Scientific Creativity (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11126901/"
+    }
+  ]
+}

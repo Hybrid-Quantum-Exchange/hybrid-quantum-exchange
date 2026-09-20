@@ -1,0 +1,18 @@
+{
+  "id": 780,
+  "domain": "materials",
+  "title": "Low-carbon cement binder chemistry",
+  "bottleneck": "Cement production emits roughly 8 percent of global CO2, mostly from calcining limestone, and no alternative binder has matched Portland cement's strength, setting time, durability, and cost all at once. Alkali-activated and belite-rich cements cut emissions but suffer from variable feedstocks, efflorescence, or slow strength gain; carbon-cured concretes need CO2 supply chains that do not exist at scale. Standards written around Portland chemistry further block adoption.",
+  "why_it_blocks": "Concrete is the most consumed material on Earth after water, and infrastructure demand keeps growing. Without a drop-in low-carbon binder, every new bridge and building locks in decades of process emissions that efficiency tweaks cannot erase.",
+  "current_state": "Limestone-calcined-clay cements are cutting emissions 30-40 percent in commercial use, and several startups are piloting novel binders. But a true zero-process-emission binder proven over 50-year service life does not yet exist.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    }
+  ]
+}

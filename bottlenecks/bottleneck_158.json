@@ -1,0 +1,18 @@
+{
+  "id": 158,
+  "domain": "energy",
+  "title": "Inertial confinement driver efficiency and repetition rate",
+  "bottleneck": "Laser inertial fusion must deliver megajoules to targets with high wall-plug efficiency and fire several times per second. The National Ignition Facility's lasers are roughly 1 percent efficient and fire a few times per day. Diode-pumped solid-state and excimer laser concepts promise better efficiency, but no driver has demonstrated the combination of energy, efficiency, repetition rate, and durability a power plant needs. Driver cost and lifetime dominate inertial fusion economics.",
+  "why_it_blocks": "An inertial fusion plant lives or dies on its driver. At 1 percent efficiency the plant consumes more power than it makes, and at one shot per day it produces no meaningful energy regardless of target gain.",
+  "current_state": "NIF achieved ignition in 2022, and rep-rated laser architectures are in development at national labs and startups, but a power-plant-class driver remains a paper concept.",
+  "sources": [
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    },
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    }
+  ]
+}

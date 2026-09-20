@@ -1,0 +1,18 @@
+{
+  "id": 808,
+  "domain": "climate_environment",
+  "title": "AMOC collapse early warning",
+  "bottleneck": "The Atlantic Meridional Overturning Circulation may be weakening toward collapse, which would plunge European winters, disrupt tropical rainfall, and raise sea levels on the US East Coast — but direct observations cover only two decades, far too short to distinguish trend from natural variability. Proposed early-warning signals based on critical slowing down are contested, and models disagree wildly on timing, from decades to centuries. We may get no reliable warning before it happens.",
+  "why_it_blocks": "AMOC collapse is among the highest-impact tipping points, with continental-scale consequences for food and habitability. The warning gap means adaptation planning cannot be targeted — societies must either prepare blindly or gamble that models are wrong.",
+  "current_state": "The Global Tipping Points report lists AMOC disruption among the systems edging toward thresholds, and expanded ocean monitoring arrays are being deployed. But the science community still cannot say whether collapse is a this-century risk or a millennium-scale one.",
+  "sources": [
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    },
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    }
+  ]
+}

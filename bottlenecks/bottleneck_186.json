@@ -1,0 +1,18 @@
+{
+  "id": 186,
+  "domain": "energy",
+  "title": "Microreactor autonomous control and remote siting",
+  "bottleneck": "Microreactors promise power for remote sites and industrial heat with minimal staffing, but autonomous or semi-autonomous control of a nuclear reactor has never been licensed. Regulators require licensed operators and defined emergency planning even for small cores, and demonstrating that passive safety truly eliminates accident scenarios to regulators' satisfaction takes years. Remote siting also means no nearby emergency response infrastructure. Insurers and financiers add another layer, demanding proven safety records before backing reactors designed to run with skeleton crews.",
+  "why_it_blocks": "The microreactor business case, drop-in power without a large operating crew, is incompatible with current regulatory expectations, and resolving that gap is as hard as any engineering problem.",
+  "current_state": "The DOD's Project Pele and commercial microreactor developers are pursuing demonstrations. No autonomous-control licensing precedent exists.",
+  "sources": [
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    },
+    {
+      "title": "Small Modular Reactors: Executive Summary",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/01_executive_summary.md"
+    }
+  ]
+}

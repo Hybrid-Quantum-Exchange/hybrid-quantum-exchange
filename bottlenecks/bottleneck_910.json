@@ -1,0 +1,18 @@
+{
+  "id": 910,
+  "domain": "xr_interface",
+  "title": "XR session handoff across devices",
+  "bottleneck": "Starting a task in VR, continuing on a phone, and finishing on a laptop should be seamless, but XR apps are siloed: spatial state, anchors, and interaction context don't transfer. No standard represents 'where I was standing and what I was holding' across devices. The XR device is an island.",
+  "why_it_blocks": "Computing is increasingly multi-device; XR that can't hand off becomes a dead end for workflows. Continuity is what turns a gadget into a platform.",
+  "current_state": "Cloud-synced app state exists in limited forms, but spatial-context handoff standards and cross-device XR continuity frameworks don't exist. Without shared representations of spatial state, every device starts from zero and multi-device workflows stay manual. No standard represents spatial context like position, gaze, and held objects, so continuity across devices stays a manual chore.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "AndroidHeadlines: Haptic feedback tech",
+      "url": "https://www.androidheadlines.com/2026/06/haptic-feedback-technology-and-the-future-of-immersive-digital-interaction.html"
+    }
+  ]
+}

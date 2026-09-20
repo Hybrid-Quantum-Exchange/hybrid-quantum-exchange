@@ -1,0 +1,18 @@
+{
+  "id": 778,
+  "domain": "materials",
+  "title": "Molten salt corrosion-resistant alloys",
+  "bottleneck": "Molten salt reactors and concentrated solar plants need structural alloys that survive hot fluoride or chloride salts for decades, but salts dissolve protective oxide scales and drive selective leaching of chromium and other elements along grain boundaries. Nickel-based alloys perform best yet still corrode, and they are expensive; cheaper iron-based alloys fail faster. Long-term corrosion data under real thermal cycling is sparse.",
+  "why_it_blocks": "Molten salt systems are central to several advanced nuclear designs and to cheap thermal energy storage. Corrosion uncertainty forces overdesign, frequent replacement, and regulatory caution that inflate costs and slow licensing.",
+  "current_state": "Controlled salt chemistry — managing redox potential and impurities — has dramatically cut corrosion in test loops, shifting the problem from materials alone to chemistry control. But validated 60-year component lifetimes, which regulators expect, cannot be demonstrated yet.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 782,
+  "domain": "materials",
+  "title": "Green steel hydrogen direct-reduction refractories",
+  "bottleneck": "Hydrogen-based direct reduction of iron ore avoids coal, but the process runs hot in hydrogen-rich atmospheres that destroy conventional refractories and challenge reactor materials. Hydrogen attacks furnace linings, high temperatures plus reducing conditions degrade containment alloys, and the shaft furnace designs proven for natural gas do not transfer directly. Materials for durable, efficient hydrogen shaft furnaces are still being qualified.",
+  "why_it_blocks": "Steel causes about 7 percent of global CO2, and hydrogen DRI is the leading deep-decarbonization route. Without reactor materials that survive the process economically, green steel stays a pilot-scale premium product instead of displacing blast furnaces.",
+  "current_state": "Pilot hydrogen DRI plants are operating in Europe with first production runs underway, using adapted materials at small scale. Scaling to the billion-tonne steel industry needs lining and alloy solutions proven over multi-year campaigns that have not happened yet.",
+  "sources": [
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    }
+  ]
+}

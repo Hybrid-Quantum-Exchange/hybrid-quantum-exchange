@@ -1,0 +1,18 @@
+{
+  "id": 153,
+  "domain": "energy",
+  "title": "Steady-state current drive for tokamaks",
+  "bottleneck": "A tokamak's confining magnetic field requires a plasma current of millions of amps, which today's machines drive inductively in pulses, but a power plant must run steady-state for months. Non-inductive current drive using radiofrequency waves or neutral beams exists but converts wall-plug power to plasma current at a few percent efficiency, recirculating too much of the plant's output. The bootstrap current helps but cannot sustain the full current profile alone in most designs.",
+  "why_it_blocks": "Without efficient steady-state current drive, tokamak power plants either pulse, incurring thermal fatigue and grid-integration penalties, or burn a large fraction of their own output just sustaining the plasma, erasing net electricity.",
+  "current_state": "High bootstrap fractions above 70 percent have been demonstrated transiently, and spherical tokamaks promise higher bootstrap current. No device has yet sustained fully non-inductive operation at power-plant-relevant pressure and duration.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    }
+  ]
+}

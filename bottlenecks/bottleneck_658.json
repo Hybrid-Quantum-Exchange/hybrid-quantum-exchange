@@ -1,0 +1,18 @@
+{
+  "id": 658,
+  "domain": "space",
+  "title": "Zero boil-off storage of cryogenic hydrogen in orbit",
+  "bottleneck": "Liquid hydrogen boils at -253 C, just 20 degrees above absolute zero, and no insulation is perfect: heat from sunlight and radiation constantly leaks in, vaporizing propellant and pressurizing the tank. A NASA analysis found a large liquid-hydrogen tank carrying 38 tons would passively lose roughly 16 tons per year — the fuel would boil away long before a Mars mission departed. Preventing this needs active zero-boil-off cooling (cryocoolers, jet mixing, droplet injection) running reliably for months.",
+  "why_it_blocks": "Every beyond-Earth-orbit architecture — lunar landers, Mars transfer stages, orbital depots — depends on stockpiling cryogenic propellant for weeks to months. Without long-duration storage, multi-launch refueling architectures cannot accumulate the propellant they need.",
+  "current_state": "NASA's Robotic Refueling Mission 3 demonstrated zero-boil-off techniques, and active-cooling approaches exist as lab hardware. Depot-scale, months-long demonstration in orbit has not flown.",
+  "sources": [
+    {
+      "title": "Why we need in-orbit refueling to return to the Moon (Astronomy)",
+      "url": "https://www.astronomy.com/space-exploration/why-we-need-in-orbit-refueling-to-return-to-the-moon/"
+    },
+    {
+      "title": "Cryogenic Space-Based Fuel Depots: Challenges (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2024/01/29/cryogenic-space-based-fuel-depots-challenges/"
+    }
+  ]
+}

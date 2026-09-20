@@ -1,0 +1,18 @@
+{
+  "id": 203,
+  "domain": "energy",
+  "title": "Lithium supply chain concentration",
+  "bottleneck": "Lithium mining and especially refining are concentrated in a few countries, with China dominating processing, creating price volatility and geopolitical risk for the battery supply chain. Prices spiked an order of magnitude in 2022 before collapsing, whipsawing project economics. New mines take a decade to permit and build, while demand keeps growing. Brine operations in South America and hard-rock mines in Australia feed a refining chain dominated by China, which controls most chemical conversion capacity.",
+  "why_it_blocks": "Concentration turns a commodity into a strategic vulnerability. Supply disruptions or export controls could stall storage and EV deployment simultaneously.",
+  "current_state": "New mines and direct lithium extraction technologies are advancing. Refining remains concentrated, with Western capacity years from scale. Recycling could eventually supply a large share of lithium, but end-of-life battery volumes will not scale until the 2030s.",
+  "sources": [
+    {
+      "title": "Rechargeable Batteries for Grid-Scale Energy Storage: Technologies, Performance, and Emerging Directions",
+      "url": "https://mdpi-res.com/d_attachment/batteries/batteries-12-00264/article_deploy/batteries-12-00264.pdf?version=1784562080"
+    },
+    {
+      "title": "Lithium Ion Batteries for Grid Energy Storage Sales Market Research Report 2034",
+      "url": "https://dataintelo.com/report/global-lithium-ion-batteries-for-grid-energy-storage-sales-market"
+    }
+  ]
+}

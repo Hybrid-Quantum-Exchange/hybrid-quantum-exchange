@@ -1,0 +1,18 @@
+{
+  "id": 167,
+  "domain": "energy",
+  "title": "Tritium safety licensing frameworks",
+  "bottleneck": "No regulator has yet licensed a commercial fusion power plant, and tritium, mobile, radioactive, and biologically active as tritiated water, sits at the center of the safety case. Source-term definitions, allowable release limits, and accident scenarios for kilogram-scale tritium inventories are still being negotiated between developers and regulators. Overly conservative rules could make plants uneconomic; lax ones risk public acceptance.",
+  "why_it_blocks": "Fusion's social license depends on credible tritium safety. A single significant release incident at an early plant could set the industry back a decade regardless of the technology's merits.",
+  "current_state": "The US NRC and UK regulators are developing fusion-specific frameworks distinct from fission rules. No commercial fusion plant has completed licensing anywhere. Developers are engaging regulators early through pre-application processes, but binding safety criteria for tritium handling remain undefined.",
+  "sources": [
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    },
+    {
+      "title": "How lithium walls trap tritium in fusion reactors revealed",
+      "url": "https://phys.org/news/2025-07-lithium-walls-tritium-fusion-reactors.amp"
+    }
+  ]
+}

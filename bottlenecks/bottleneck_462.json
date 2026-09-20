@@ -1,0 +1,18 @@
+{
+  "id": 462,
+  "domain": "health_longevity",
+  "title": "NAD+ decline and systemic metabolic rejuvenation",
+  "bottleneck": "NAD+ levels fall with age across tissues, impairing sirtuins, DNA repair, and mitochondrial function, partly because the NAD+ consumer CD38 rises with age. Precursors like NMN and NR raise NAD+ in blood, but whether this translates to functional rejuvenation in human tissues is unproven, and the 2020s saw major NMN trials with underwhelming results.",
+  "why_it_blocks": "NAD+ was the flagship metabolic-aging target with massive commercial hype; if precursors cannot show hard functional outcomes, it discredits the broader metabolic-rejuvenation thesis and the supplement-heavy funding model around it.",
+  "current_state": "NMN/NR are widely sold as supplements while human trials test metabolic and muscle endpoints. CD38 inhibitors, which block NAD+ consumption rather than boosting supply, are the emerging pharmaceutical direction. Human trials of NMN raised blood NAD+ without consistent functional gains, shifting the field toward combination strategies and tissue-specific delivery rather than precursor monotherapy.",
+  "sources": [
+    {
+      "title": "What Is: Cellular Senescence (Scientific Frontline)",
+      "url": "https://www.sflorg.com/2026/03/wi03202601.html"
+    },
+    {
+      "title": "Age reprogramming: Innovations and ethical considerations for prolonged longevity (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12035601/"
+    }
+  ]
+}

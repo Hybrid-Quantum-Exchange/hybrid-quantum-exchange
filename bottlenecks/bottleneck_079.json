@@ -1,0 +1,14 @@
+{
+  "id": 79,
+  "domain": "fundamental_physics",
+  "title": "Bouncing and cyclic cosmologies: testability",
+  "bottleneck": "Bouncing models replace the Big Bang singularity with a contracting phase that rebounds, avoiding inflation's initial-condition puzzles, but most bounces require violations of the null energy condition or other exotic physics, and distinctive predictions like specific non-Gaussianity patterns are hard to separate from inflationary ones.",
+  "why_it_blocks": "If the universe is cyclic or bouncing, the Big Bang was not the beginning and inflation may be unnecessary; but without testable distinctions, these models remain philosophical alternatives rather than scientific competitors.",
+  "current_state": "Ekpyrotic and matter-bounce scenarios make tentative predictions for the gravitational-wave background and non-Gaussianity that future CMB and interferometer experiments could probe. Ekpyrotic models predict negligible primordial gravitational waves, so a B-mode detection would rule them out while confirming inflation. Matter-bounce models instead predict a blue-tilted tensor spectrum, offering a sharp observational discriminant if sensitivity ever reaches it.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

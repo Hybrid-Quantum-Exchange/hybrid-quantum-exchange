@@ -1,0 +1,14 @@
+{
+  "id": 373,
+  "domain": "medicine_cures",
+  "title": "PARP inhibitor resistance",
+  "bottleneck": "PARP inhibitors exploit defective DNA repair in BRCA-mutant cancers, but resistance emerges through restoration of homologous recombination, replication-fork stabilization, and drug efflux. A 2026 study added a new mechanism: aneuploid cancer cells suppress PARP1 itself via a lysosomal stress pathway, disabling the self-destruct mechanism these drugs rely on.",
+  "why_it_blocks": "PARP inhibitors are among the most important targeted therapies for ovarian, breast, prostate, and pancreatic cancers; resistance limits their durable benefit.",
+  "current_state": "Researchers are exploring whether restoring PARP1 activity or targeting the aneuploidy stress response can overcome resistance, alongside combination strategies. Clinical solutions remain investigational. Combinations of PARP inhibitors with immune checkpoint blockade, anti-angiogenics, or next-generation DNA-repair inhibitors are being tested to delay or overcome resistance. Biomarkers predicting which resistance mechanism dominates in a given patient are still lacking.",
+  "sources": [
+    {
+      "title": "Cancer cells are better able to resist treatments when they have an abnormal number of chromosomes",
+      "url": "https://medicalxpress.com/news/2026-05-cancer-cells-resist-treatments-abnormal.html"
+    }
+  ]
+}

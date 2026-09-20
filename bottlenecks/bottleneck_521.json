@@ -1,0 +1,18 @@
+{
+  "id": 521,
+  "domain": "health_longevity",
+  "title": "Insurance barriers and trial-and-error psychiatric prescribing",
+  "bottleneck": "Formularies, prior authorizations, and step therapy force clinicians to prescribe the cheapest drug first rather than the best-fit one, then document failure before better options are covered. This institutionalizes trial-and-error prescribing and delays effective treatment by months.",
+  "why_it_blocks": "Payer delays worsen symptoms, work performance, and ER risk while forcing clinicians into inefficient, demoralizing care. The financing layer actively degrades the clinical layer.",
+  "current_state": "Clinicians navigate formularies with 14-day check-ins and PHQ-9 data to justify better medications. Parity laws exist but are weakly enforced; prior authorization reform is slow. State parity-enforcement actions have recovered millions in wrongly denied claims, but proactive auditing remains rare, so most violations go unchallenged. Automated prior-authorization reforms and real-time benefit checks are proposed fixes, but implementation timelines stretch years.",
+  "sources": [
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    },
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    }
+  ]
+}

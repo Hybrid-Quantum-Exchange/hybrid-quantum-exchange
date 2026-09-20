@@ -1,0 +1,18 @@
+{
+  "id": 452,
+  "domain": "health_longevity",
+  "title": "Partial epigenetic reprogramming without dedifferentiation",
+  "bottleneck": "Transient expression of Yamanaka factors (OSKM) can reset epigenetic age markers in mice, but the same factors that rejuvenate also erase cell identity and can trigger teratomas. Altos Labs reported only a 12% median lifespan gain in wild-type mice, and aging markers reaccumulate within days after induction stops. No one knows the dose, timing, or delivery method that rejuvenates without risking cancer.",
+  "why_it_blocks": "Reprogramming is the most dramatic rejuvenation tool ever observed, but its cancer and dedifferentiation risks make it clinically unusable in its current form. Until the therapeutic window is defined, it stays a lab phenomenon.",
+  "current_state": "Partial reprogramming reverses aging phenotypes in mouse retina, muscle, and other tissues in preclinical work. Phase 1 human safety studies were anticipated for the mid-2020s, but delivery (AAV tropism, insertional mutagenesis) and durability remain unsolved.",
+  "sources": [
+    {
+      "title": "Epigenetic Reprogramming as a Key to Reverse Ageing and Increase Longevity (ResearchGate review)",
+      "url": "https://www.researchgate.net/publication/377642874_Epigenetic_Reprogramming_as_a_Key_to_Reverse_Ageing_and_Increase_Longevity"
+    },
+    {
+      "title": "Age reprogramming: Innovations and ethical considerations for prolonged longevity (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12035601/"
+    }
+  ]
+}

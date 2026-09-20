@@ -1,0 +1,18 @@
+{
+  "id": 905,
+  "domain": "xr_interface",
+  "title": "AR contact lens power and display feasibility",
+  "bottleneck": "AR contact lenses would be the ultimate form factor, but they face extreme constraints: no room for batteries (wireless power is weak and heats the eye), displays must focus on the retina from millimeters away, and the eye's oxygen and tear chemistry limit materials. Safety certification for powered eye implants is a mountain. Demos exist; products don't.",
+  "why_it_blocks": "Contact-lens AR would make all other form factors obsolete, but the power and optics physics may never fit. It's the most desired and least feasible XR device.",
+  "current_state": "Mojo Vision and others demonstrated smart contact lens prototypes with tiny displays, then pivoted; no company is close to a shippable AR contact lens. Wireless power transfer at the eye surface risks heating delicate tissue, adding a safety barrier on top of the engineering ones.",
+  "sources": [
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    },
+    {
+      "title": "EE Times: AR brightness requirements",
+      "url": "https://www.eetimes.com/how-bright-is-bright-enough-for-ar-in-the-real-world/"
+    }
+  ]
+}

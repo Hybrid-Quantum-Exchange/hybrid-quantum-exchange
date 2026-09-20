@@ -1,0 +1,14 @@
+{
+  "id": 39,
+  "domain": "fundamental_physics",
+  "title": "CP violation in the lepton sector: measuring delta_CP",
+  "bottleneck": "The Pontecorvo-Maki-Nakagawa-Sakata matrix contains a CP-violating phase, delta_CP, that could explain the universe's matter-antimatter asymmetry through leptogenesis, but current measurements are too imprecise to establish even whether it differs from zero or pi. Hints from T2K and NOvA have fluctuated and partially disagree.",
+  "why_it_blocks": "Leptonic CP violation is the missing input to the most elegant baryogenesis scenario; without it, leptogenesis remains an untestable story rather than a quantitative theory.",
+  "current_state": "DUNE and Hyper-Kamiokande aim for precision measurements of delta_CP over the next decade, with sensitivity to discover CP violation across most of the parameter space if it is large. Current T2K and NOvA hints favor maximal CP violation but disagree on details, leaving the field waiting for next-generation precision.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 917,
+  "domain": "food_water_agriculture",
+  "title": "Soil erosion control at landscape scale",
+  "bottleneck": "Soil erosion is the most severe and interconnected threat to soil health — 81% of FAO regional assessments judge erosion management poor or very poor, with a deteriorating trend since 2015 — yet control requires coordinated action across whole landscapes and watersheds, not individual farms. Terraces, cover crops, and no-till work locally but adoption is low, and erosion's worst damage is diffuse and delayed, so nobody pays for prevention.",
+  "why_it_blocks": "Topsoil forms over centuries and is lost in seasons. Unchecked erosion permanently destroys the productive base that yields depend on.",
+  "current_state": "Proven practices like reduced tillage, cover crops, and agroforestry exist, but FAO finds low adoption in over half of assessments while erosion worsens. Terraces, cover crops, and no-till work locally, but landscape-scale coordination remains the missing piece.",
+  "sources": [
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    },
+    {
+      "title": "Restoring damaged soil could feed 70 million more people a year",
+      "url": "https://www.earth.com/plants/restoring-damaged-soil-could-feed-70-million-more-people-a-year/"
+    }
+  ]
+}

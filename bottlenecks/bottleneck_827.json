@@ -1,0 +1,18 @@
+{
+  "id": 827,
+  "domain": "climate_environment",
+  "title": "Stratospheric aerosol injection side effects",
+  "bottleneck": "Injecting sulfate aerosols to cool the planet is the best-studied geoengineering method, yet its side effects are poorly bounded: models suggest disrupted monsoons threatening billions' food supply, ozone depletion, and altered diffuse light harming crops — but these come from models never validated against a real stratospheric injection at scale. The termination shock problem is worse: stopping injection after starting would cause warming far faster than ecosystems or societies could adapt. No safe exit strategy exists.",
+  "why_it_blocks": "SRM is increasingly discussed as a backstop if mitigation fails, but deploying it without understanding side effects risks catastrophic regional impacts, particularly for the Global South. The knowledge gap makes rational decision-making impossible — neither deployment nor rejection can be evidence-based.",
+  "current_state": "Small-scale outdoor experiments remain mostly blocked by moratoria, so the science advances only through modeling. The 2024 EU scientific opinion stressed that SRM cannot replace emissions cuts and that effects are highly uncertain with major risks.",
+  "sources": [
+    {
+      "title": "Changes in solar radiation: risks, uncertainties and governance",
+      "url": "https://www.college-de-france.fr/en/agenda/symposium/geoengineering-at-glance/changes-in-solar-radiation-risks-uncertainties-and-governance"
+    },
+    {
+      "title": "Options for the responsible governance of research on solar radiation modification",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2026)789310"
+    }
+  ]
+}

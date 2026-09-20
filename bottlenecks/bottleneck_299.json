@@ -1,0 +1,18 @@
+{
+  "id": 299,
+  "domain": "artificial_intelligence",
+  "title": "Persistent structured memory for AI agents",
+  "bottleneck": "No production AI system maintains a runtime-evolving, causally organized memory that consolidates knowledge over time, resolves contradictions between stored beliefs, and supports hierarchical abstraction. RAG retrieves documents and context windows buffer text, but neither remembers — agents start each session amnesiac and re-derive everything. Bolt-on memory stores produce stale, contradictory, or poisoned recollections with no consolidation mechanism.",
+  "why_it_blocks": "Long-horizon work — research projects, ongoing operations, personal assistance — requires accumulating understanding across sessions. Without real memory, agents cannot learn from experience and repeat the same mistakes forever.",
+  "current_state": "Vendors ship memory features that are thin wrappers over vector retrieval, and production postmortems rank context fragility as the top failure layer. True consolidating memory remains unsolved. Even labs shipping memory products admit the features are stateless retrieval, not consolidation.",
+  "sources": [
+    {
+      "title": "The Hidden Bottlenecks of Intelligence: Memory, Reasoning, and System Coherence in Modern AI",
+      "url": "https://medium.com/architectural-intelligence/the-hidden-bottlenecks-of-intelligence-memory-reasoning-and-system-coherence-in-modern-ai-76f4b99204a8"
+    },
+    {
+      "title": "The Real Bottlenecks in Production AI",
+      "url": "https://medium.com/@artiquare/the-real-bottlenecks-in-production-ai-3c4e5df5abf3"
+    }
+  ]
+}

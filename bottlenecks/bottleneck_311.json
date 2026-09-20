@@ -1,0 +1,18 @@
+{
+  "id": 311,
+  "domain": "artificial_intelligence",
+  "title": "Value pluralism across cultures",
+  "bottleneck": "Humans disagree fundamentally about ethics, priorities, and acceptable outcomes — across cultures, religions, and individuals. An AI aligned to one group's values is misaligned to another's, and there is no agreed procedure for whose values count or how to trade them off. Averaging preferences washes out minorities; picking a single constitution imposes one worldview on everyone. Legal systems handle this with jurisdiction and consent; AI systems offer no equivalent of opting out of governing values.",
+  "why_it_blocks": "Global deployment of one model family forces a single moral framework on billions of people, guaranteeing legitimate grievances and political backlash that could fragment or halt deployment.",
+  "current_state": "Labs write constitutions reflecting their own institutional values; personalization research is nascent and raises its own manipulation risks.",
+  "sources": [
+    {
+      "title": "AI Alignment: 9 Problems Researchers Still Haven't Solved",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/ai-alignment-9-problems-researchers-still-havent-solved"
+    },
+    {
+      "title": "AIAlignment - llm-wiki-agent",
+      "url": "https://github.com/wxj-1019/llm-wiki-agent/blob/HEAD/wiki/concepts/AIAlignment.md"
+    }
+  ]
+}

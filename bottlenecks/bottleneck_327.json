@@ -1,0 +1,18 @@
+{
+  "id": 327,
+  "domain": "artificial_intelligence",
+  "title": "Training-data extraction attacks",
+  "bottleneck": "Large models memorize chunks of their training data and can be induced to regurgitate them — personal information, copyrighted text, secrets — via adversarial prompting. Deduplication and differential privacy reduce but don't eliminate memorization, and there's a fundamental tension: the same capacity that enables learning enables verbatim recall. Attackers keep finding new extraction methods. Privacy budgets compose poorly over many queries, and the noise required for strong guarantees destroys model utility.",
+  "why_it_blocks": "Until extraction is solved, training on any sensitive or proprietary data risks leaking it to any user with a clever prompt.",
+  "current_state": "Extraction attacks have been demonstrated against production models and mitigations are partial. No method provably prevents memorization while preserving capability. DP-SGD works for small models; at frontier scale the compute overhead and accuracy cost remain prohibitive.",
+  "sources": [
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    },
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    }
+  ]
+}

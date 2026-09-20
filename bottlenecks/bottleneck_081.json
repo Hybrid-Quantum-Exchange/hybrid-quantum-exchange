@@ -1,0 +1,18 @@
+{
+  "id": 81,
+  "domain": "fundamental_physics",
+  "title": "Rigorous construction of interacting quantum field theory in four dimensions",
+  "bottleneck": "No interacting quantum field theory in four spacetime dimensions has ever been constructed with full mathematical rigor satisfying the Wightman or Haag-Kastler axioms. The Standard Model, the most successful theory in science, lacks a rigorous mathematical existence proof.",
+  "why_it_blocks": "Physics relies on perturbation theory and lattice approximations that work in practice but are not known to define the theories they approximate; Hilbert's sixth problem, the axiomatization of physics, remains open at its core.",
+  "current_state": "Constructive field theory has built rigorous models in two and three dimensions, and recent work claims progress on kinetic limits, but four-dimensional interacting theories remain beyond rigorous reach. Algebraic quantum field theory provides rigorous frameworks for free theories, yet interacting models in four dimensions still escape construction.",
+  "sources": [
+    {
+      "title": "open-physics-problems SOURCES.md - meta-aggregator of unsolved physics lists",
+      "url": "https://github.com/zozo123/open-physics-problems/blob/HEAD/SOURCES.md"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 896,
+  "domain": "xr_interface",
+  "title": "EMG wristband gesture vocabulary limits",
+  "bottleneck": "Wrist EMG (like sEMG neural bands) reads muscle signals to infer gestures, but the vocabulary is small (a handful of discrete gestures), false triggers are common, and performance varies with fit, sweat, and arm position. Continuous, expressive control (like a mouse) from EMG is unreliable, and calibration drifts.",
+  "why_it_blocks": "EMG promises subtle, always-available input for AR glasses, but a tiny unreliable gesture set can't carry real interaction. The wristband risks becoming a gimmick input.",
+  "current_state": "Products ship with basic gesture sets (tap, swipe) and improving ML; research demos show richer decoding. Large-vocabulary, calibration-free, robust EMG control is unsolved. Sweat changes skin conductivity during use, so a calibrated wristband degrades over the course of a single workout. Calibration drift means a wristband trained in the morning may misread gestures by the afternoon.",
+  "sources": [
+    {
+      "title": "ScienceTimes: Neural interface challenges",
+      "url": "https://www.sciencetimes.com/articles/61522/20260323/how-brain-computer-interfaces-use-neural-interface-technology-read-human-mind.htm"
+    },
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    }
+  ]
+}

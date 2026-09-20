@@ -1,0 +1,18 @@
+{
+  "id": 329,
+  "domain": "artificial_intelligence",
+  "title": "Robust watermarking of AI-generated content",
+  "bottleneck": "Watermarks meant to identify AI-generated text, images, and video are routinely defeated by paraphrasing, cropping, compression, or light editing — and making them robust tends to degrade quality or be detectable and strippable. There's a fundamental tension: any imperceptible signal can be removed by an adversary who knows roughly how it works, while robust signals distort the content. Courts have not settled whether training is fair use, leaving every frontier model under legal cloud.",
+  "why_it_blocks": "Provenance of synthetic content underpins trust in media, elections, and courts. Without robust watermarking, AI-generated misinformation is unattributable.",
+  "current_state": "Vendors deploy fragile watermarks; researchers demonstrate removal attacks against each new scheme. No robust, quality-preserving watermark exists. Opt-out registries and licensing deals are emerging, but they cover only a fraction of the training corpus.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "Many safety evaluations for AI models have significant limitations | TechCrunch",
+      "url": "https://bestofai.com/article/many-safety-evaluations-for-ai-models-have-significant-limitations-techcrunch"
+    }
+  ]
+}

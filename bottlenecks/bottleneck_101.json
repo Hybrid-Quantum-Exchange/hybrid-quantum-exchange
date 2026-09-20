@@ -1,0 +1,18 @@
+{
+  "id": 101,
+  "domain": "cosmology_multiverse",
+  "title": "Interacting Dark Energy-Dark Matter Models",
+  "bottleneck": "A coupling between dark energy and dark matter could explain cosmic coincidence and ease tensions, but the coupling's form is unconstrained and degenerate with other extensions. No observation requires it, yet no observation rules out order-unity couplings in the dark sector either. Coupled models can mimic uncoupled ones in expansion history while differing in growth, making full-shape galaxy clustering analyses essential.",
+  "why_it_blocks": "An interacting dark sector would rewrite structure formation and invalidate the standard separate-conservation assumptions of cosmology. A confirmed interaction would mean the dark sector has its own dynamics, invalidating the standard assumption that dark components evolve independently.",
+  "current_state": "Current constraints allow significant couplings; DESI full-shape power spectrum analyses are the main near-term probe. Current data allow couplings strong enough to shift structure growth by several percent, a target within reach of DESI's final analysis.",
+  "sources": [
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

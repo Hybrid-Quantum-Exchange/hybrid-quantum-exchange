@@ -1,0 +1,18 @@
+{
+  "id": 379,
+  "domain": "medicine_cures",
+  "title": "Pre-symptomatic Alzheimer's biomarkers and prevention trials",
+  "bottleneck": "Alzheimer's pathology accumulates for 15 to 20 years before symptoms, yet trials still largely enroll patients with established cognitive impairment, possibly too late for any intervention to work. Blood biomarkers such as p-tau and amyloid ratios can now detect pathology early, but predicting who will progress, and when, remains imprecise.",
+  "why_it_blocks": "If the therapeutic window closes before symptoms appear, prevention trials in at-risk but cognitively healthy people are the only path forward, requiring decades-long studies and better risk prediction.",
+  "current_state": "Prevention trials using amyloid and tau biomarkers for enrollment are underway, and blood tests are entering clinical use. Whether treating pre-symptomatic pathology changes outcomes is unproven. Blood-based screening could eventually identify at-risk individuals in primary care, but ethical questions about disclosing risk without proven prevention loom large.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    },
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

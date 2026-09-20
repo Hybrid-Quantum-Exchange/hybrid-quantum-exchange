@@ -1,0 +1,18 @@
+{
+  "id": 785,
+  "domain": "materials",
+  "title": "Shape-memory alloy fatigue life",
+  "bottleneck": "Nickel-titanium shape-memory alloys recover large deformations, but repeated cycling accumulates dislocations that degrade the transformation: actuation stroke shrinks, hysteresis grows, and devices drift out of calibration within thousands of cycles instead of the millions that applications need. High-temperature shape-memory alloys for engines and actuators fatigue even faster. The microstructural origins of functional fatigue are understood only qualitatively.",
+  "why_it_blocks": "Reliable shape-memory actuators could replace motors and hydraulics in aircraft, medical devices, and robotics with lighter, simpler systems. Fatigue-limited life keeps them in niche uses like stents and eyeglass frames rather than in safety-critical actuation.",
+  "current_state": "Precipitation-hardened and copper-alloyed variants have pushed cycle counts higher in the lab, and some aerospace actuators are in testing. But million-cycle, drift-free performance at useful work output is still beyond reach for most compositions.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    }
+  ]
+}

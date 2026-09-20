@@ -1,0 +1,18 @@
+{
+  "id": 58,
+  "domain": "fundamental_physics",
+  "title": "Chronology protection: are closed timelike curves possible",
+  "bottleneck": "Einstein's equations admit solutions with closed timelike curves, paths through spacetime that return to their own past, including wormholes and rapidly rotating universes. Stephen Hawking conjectured that quantum effects always intervene to prevent time machines, the chronology protection conjecture, but no proof exists. Resolving it requires a full theory of quantum gravity.",
+  "why_it_blocks": "If closed timelike curves are constructible even in principle, causality as a foundation of physics collapses, and with it the predictive framework of science. If they are forbidden, discovering the mechanism would reveal a deep structural principle of quantum gravity.",
+  "current_state": "Classical general relativity places no general ban on such geometries, and quantum-field-theory calculations in curved spacetime give partial, case-dependent support for chronology protection without a general theorem. Modern reviews frame the frontier as needing quantum-gravity input, which remains out of reach.",
+  "sources": [
+    {
+      "title": "Hawking (1992): chronology protection conjecture",
+      "url": "https://github.com/jmmonte/physicsos/blob/HEAD/papers/1992-hawking-chronology-protection.md"
+    },
+    {
+      "title": "Classical GR closed-timelike-curve frontier",
+      "url": "https://github.com/ibarrajo/applepie/blob/HEAD/research/investigations/classical-gr-ctc-frontier.md"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "domain": "fundamental_physics",
+  "title": "String theory landscape and the vacuum selection problem",
+  "bottleneck": "Compactifying string theory's extra dimensions yields an estimated 10^500 or more metastable vacua, each with different low-energy physics, and no known dynamical principle selects which one describes our universe. The theory can accommodate nearly any observed value of the cosmological constant or particle spectrum, which threatens its predictive content and makes the theory effectively unfalsifiable.",
+  "why_it_blocks": "A theory of everything that cannot single out our vacuum cannot explain why the Standard Model's parameters take their observed values, reducing unification to a menu of possibilities rather than an explanation.",
+  "current_state": "Researchers pursue statistical predictions over the landscape, anthropic selection arguments, and dynamical mechanisms like flux compactification, but no selection principle has achieved consensus or experimental support.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 53,
+  "domain": "fundamental_physics",
+  "title": "Non-perturbative QCD and the emergence of nuclear physics",
+  "bottleneck": "The equations of QCD are unsolved at the low energies where quarks bind into protons, neutrons, and nuclei, and deriving nuclear structure, the nuclear force, and the chart of nuclides directly from quark-gluon dynamics remains beyond reach. Lattice QCD can compute single-hadron properties but multi-nucleon systems are exponentially harder.",
+  "why_it_blocks": "All of chemistry and stellar astrophysics rests on nuclei whose properties cannot yet be derived from the fundamental theory, leaving a gap between the Standard Model and the physics of the visible world.",
+  "current_state": "Lattice QCD now computes light-nuclear binding energies at unphysical quark masses, and effective field theories bridge to physical nuclei, but ab initio nuclear physics from QCD is still in its infancy.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

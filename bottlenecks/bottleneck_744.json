@@ -1,0 +1,18 @@
+{
+  "id": 744,
+  "domain": "materials",
+  "title": "Cathode-electrolyte interfacial resistance in solid-state cells",
+  "bottleneck": "Where a solid cathode meets a solid electrolyte, point contacts replace the wetting of liquid electrolytes, producing high interfacial impedance that chokes power delivery. Interdiffusion and space-charge layers further degrade the interface during cycling, and the buffer coatings used to mitigate this add cost and process steps. No coating scheme has proven stable over thousands of automotive cycles.",
+  "why_it_blocks": "A solid-state battery with a resistive cathode interface cannot fast-charge or deliver high power, negating its advantages over conventional cells. Interface resistance is why many solid-state prototypes show good energy density on paper but poor real-world performance.",
+  "current_state": "Atomic-layer-deposited coatings and in-situ formed interphases have cut impedance in lab cells, but durability at automotive lifetimes is unproven. The interface problem is now considered as hard as the dendrite problem, and possibly harder to manufacture around.",
+  "sources": [
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    },
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    }
+  ]
+}

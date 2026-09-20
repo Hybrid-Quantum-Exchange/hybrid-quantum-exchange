@@ -1,0 +1,18 @@
+{
+  "id": 300,
+  "domain": "artificial_intelligence",
+  "title": "Long-context reasoning fidelity",
+  "bottleneck": "Extending context windows to millions of tokens has outpaced the ability to actually reason over them. Models exhibit lost-in-the-middle behavior, failing to use information buried in long contexts, while the KV cache for a 128K-token Llama-3-70B run consumes about 39 GB — nearly half an H100. Reasoning quality degrades as context grows even when the facts are present in the window.",
+  "why_it_blocks": "The promised use cases — whole-codebase analysis, full legal discovery, book-length reasoning — require reliable attention across the entire window, not a bigger buffer the model ignores.",
+  "current_state": "Needle-in-haystack retrieval tests look good, but multi-hop reasoning across long contexts still degrades sharply. Attention optimization shifts the bottleneck without removing it. Even frontier models with 1M-token windows fail multi-hop reasoning tests that span the full context.",
+  "sources": [
+    {
+      "title": "LLM inference Bottlenecks: Memory, CPU and I/O",
+      "url": "https://chierhu.medium.com/bottlenecks-memory-cpu-and-i-o-8463812ace94"
+    },
+    {
+      "title": "The Hidden Bottlenecks of Intelligence: Memory, Reasoning, and System Coherence in Modern AI",
+      "url": "https://medium.com/architectural-intelligence/the-hidden-bottlenecks-of-intelligence-memory-reasoning-and-system-coherence-in-modern-ai-76f4b99204a8"
+    }
+  ]
+}

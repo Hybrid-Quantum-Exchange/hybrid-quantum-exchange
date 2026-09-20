@@ -1,0 +1,18 @@
+{
+  "id": 210,
+  "domain": "energy",
+  "title": "Pumped hydro permitting and siting limits",
+  "bottleneck": "Pumped hydro is the cheapest bulk storage where it exists, but new sites face a decade of permitting, environmental opposition over water and land use, and transmission distance to loads. Closed-loop off-river designs reduce environmental impact but still need elevation difference and water rights. The US has a large pipeline of proposed projects and almost no completions.",
+  "why_it_blocks": "The best storage technology by cost and lifetime is throttled by process, not physics. Permitting timelines longer than technology lifetimes stall the pipeline.",
+  "current_state": "FERC has dozens of preliminary permits outstanding. Few projects reach construction amid environmental review and financing hurdles. Developers increasingly propose closed-loop designs sited away from rivers, but these still face multi-year federal licensing and local opposition over land use.",
+  "sources": [
+    {
+      "title": "Long Term Energy Storage Solutions For Grid Reliability",
+      "url": "https://electricityforum.com/td/energy-storage/long-term-energy-storage"
+    },
+    {
+      "title": "The growing need for long-duration energy storage in the US",
+      "url": "https://www.solarpowerworldonline.com/2026/02/the-growing-need-for-long-duration-energy-storage-in-the-us/"
+    }
+  ]
+}

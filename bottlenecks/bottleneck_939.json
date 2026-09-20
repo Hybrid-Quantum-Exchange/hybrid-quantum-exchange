@@ -1,0 +1,18 @@
+{
+  "id": 939,
+  "domain": "food_water_agriculture",
+  "title": "Cultivated meat cost parity",
+  "bottleneck": "Cultivated meat costs 5–10x conventional beef per kilogram by 2024 estimates, and the gap is structural: sterile bioreactors, pharmaceutical-grade growth media, and low cell densities make it an expensive way to grow protein. There is no existing manufacturing infrastructure to borrow — unlike plant-based, which uses food factories — so the industry must invent both the product and the factory simultaneously.",
+  "why_it_blocks": "Without price parity, cultivated meat stays a luxury demo. Its climate and land-use benefits require mass adoption that cost prohibits. Without price parity, cultivated meat stays a luxury demo; its climate benefits require mass adoption cost prohibits.",
+  "current_state": "A few products sell in Singapore and the US at premium prices; large-scale commercialization remains squarely in the future.",
+  "sources": [
+    {
+      "title": "Alternative proteins: Barriers to commercialisation",
+      "url": "https://www.foodnavigator.com/Article/2025/10/15/alternative-proteins-barriers-to-commercialisation/"
+    },
+    {
+      "title": "Why Alternative Proteins Are Winning the Future of Food — But Still Failing to Scale",
+      "url": "https://medium.com/@bfudem/why-alternative-proteins-are-winning-the-future-of-food-but-still-failing-to-scale-110f21935cf8"
+    }
+  ]
+}

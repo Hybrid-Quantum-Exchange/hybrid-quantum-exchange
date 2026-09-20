@@ -1,0 +1,18 @@
+{
+  "id": 728,
+  "domain": "materials",
+  "title": "Reproducibility standards for superconductor claims",
+  "bottleneck": "High-profile claims of room-temperature superconductivity keep arriving without the independent replication and complete evidence that would settle them. The LK-99 episode showed how partial signals — diamagnetic levitation, resistivity drops — can arise from impurities such as copper sulfide rather than zero resistance and the Meissner effect. There is still no community-wide protocol mandating raw data release, independent synthesis, and dual measurement of zero resistance plus magnetic expulsion.",
+  "why_it_blocks": "Every unverified claim wastes lab-years of replication effort and erodes public and investor trust in the field, slowing funding for careful materials work. The noise also drowns out legitimate incremental progress in real superconducting materials.",
+  "current_state": "As of 2026 the field relies on informal replication networks rather than enforced standards. The 2026 PNAS agenda paper calls for systematic search strategies, and consortia like SuperC require theoretical confirmation plus independent synthesis, but no journal or funding body mandates the full evidence package.",
+  "sources": [
+    {
+      "title": "Room-temperature superconductor",
+      "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor"
+    },
+    {
+      "title": "Room-Temperature Superconductors in 2025: Real Breakthrough or Hype?",
+      "url": "https://physicsqanda.com/room-temperature-superconductors-in-2025/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 294,
+  "domain": "compute_semiconductors",
+  "title": "EUV tool cost-per-wafer economics",
+  "bottleneck": "A single EUV scanner costs $150M+ ($350M+ for high-NA), needs megawatts of power, expensive masks, and specialized facilities; amortized over wafers, lithography dominates leading-edge wafer cost. Cost per transistor, once falling exponentially, has flattened or risen at new nodes, breaking the economic engine of Moore's law. Only three companies can afford the leading edge.",
+  "why_it_blocks": "When transistors stop getting cheaper, the whole computing industry's business model strains: performance gains must come from pricier, harder-won innovations. Concentration of leading-edge manufacturing in a few players is an economic and geopolitical risk.",
+  "current_state": "High-NA EUV is entering production with foundries betting that single-exposure patterning offsets tool cost. Whether cost-per-transistor resumes falling is the industry's open economic question. With only three customers able to afford the leading edge, tool R&D costs concentrate on a fragile and narrow market.",
+  "sources": [
+    {
+      "title": "Aminext: High-NA EUV Lithography",
+      "url": "https://www.aminext.blog/en/post/high-na-euv-lithography-asml-explained-moores-law-1"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

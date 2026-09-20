@@ -1,0 +1,18 @@
+{
+  "id": 279,
+  "domain": "compute_semiconductors",
+  "title": "EDA verification complexity for billion-transistor designs",
+  "bottleneck": "Verifying a modern SoC means proving correctness across billions of transistors, multiple clock domains, analog-mixed-signal blocks, and 3D-stacked chiplets; simulation and formal methods scale poorly, and verification now consumes the majority of design effort and schedule. Bugs that escape to silicon cost tens of millions per respin. AI-assisted verification helps but can't yet close the coverage gap.",
+  "why_it_blocks": "Design cost and risk, not fab cost alone, gate who can build advanced chips: verification complexity prices out all but the largest teams. A single missed bug in an AI accelerator can waste a product generation.",
+  "current_state": "Commercial EDA flows integrate ML-driven verification, emulation, and formal apps, steadily improving throughput. Complete verification of leading-edge heterogeneous designs remains infeasible in practice.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    }
+  ]
+}

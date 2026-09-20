@@ -1,0 +1,18 @@
+{
+  "id": 814,
+  "domain": "climate_environment",
+  "title": "Seagrass meadow loss and restoration",
+  "bottleneck": "Seagrass meadows bury carbon 35 times faster than tropical forests per area, yet they are disappearing from coastal development, poor water quality, and warming — and restoration is painfully slow because seeds are hard to collect, seedlings wash away, and water quality must improve first. Globally, restoration covers a negligible fraction of losses, and many meadows that die from heat stress cannot re-establish in the warmer water.",
+  "why_it_blocks": "Seagrass loss removes nursery habitat for a fifth of the world's largest fisheries plus coastal protection and carbon burial. The restoration bottleneck means the decline is effectively one-way in most regions.",
+  "current_state": "Mechanized seed planting and sediment restoration have improved success rates in places like Virginia's coastal bays, one of the few large-scale wins. But these remain exceptions; the default trajectory worldwide is continued loss.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

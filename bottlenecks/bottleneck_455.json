@@ -1,0 +1,18 @@
+{
+  "id": 455,
+  "domain": "health_longevity",
+  "title": "Vaccine efficacy in the immunosenescent elderly",
+  "bottleneck": "Aging degrades every step of the vaccine response: dendritic cell antigen presentation, naive T cell output, B cell diversity, and antibody persistence. Older adults get weaker, shorter-lived protection from influenza, COVID-19, and pneumococcal vaccines, precisely when they need it most. Inflammaging further blunts vaccine-induced immunity.",
+  "why_it_blocks": "Infectious disease is a leading killer of the oldest old, and the population is aging fastest where immune systems are weakest. If vaccines cannot protect the elderly, the single cheapest life-extending tool we have loses its power.",
+  "current_state": "High-dose and adjuvanted (MF59, AS03) formulations plus booster schedules partially compensate, as used in high-dose flu vaccines. Research is shifting toward geroscience-informed adjuvants and pre-vaccination immune modulation, but no rejuvenation-based vaccine strategy is clinical.",
+  "sources": [
+    {
+      "title": "Aging and vaccines: impact of immunosenescence and inflammaging in vaccine response (Frontiers in Aging)",
+      "url": "https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2026.1797166/pdf"
+    },
+    {
+      "title": "Aging and the Immune System: Immunosenescence and Vaccine Response",
+      "url": "https://www.walshmedicalmedia.com/open-access/aging-and-the-immune-system-immunosenescence-and-vaccine-response-133515.html"
+    }
+  ]
+}

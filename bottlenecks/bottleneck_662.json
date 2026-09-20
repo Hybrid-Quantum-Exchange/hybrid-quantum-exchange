@@ -1,0 +1,18 @@
+{
+  "id": 662,
+  "domain": "space",
+  "title": "Megawatt-class space nuclear reactors for electric propulsion",
+  "bottleneck": "Nuclear electric propulsion could power high-thrust ion and plasma engines for fast Mars transits and outer-planet missions, but it needs compact fission reactors delivering hundreds of kilowatts to megawatts — an order of magnitude beyond anything flown. Kilopower demonstrated only about 10 kW. Scaling up means solving reactor mass, vacuum heat rejection (radiators grow enormous), autonomous operation, and shielding that does not outweigh the payload it enables.",
+  "why_it_blocks": "Solar power fades with distance, and arrays big enough for megawatt-class thrust are impractical; without space nuclear power, high-power electric propulsion has no energy source, capping deep-space mission performance.",
+  "current_state": "NASA and DOE continue fission surface power and space reactor studies; DRACO covers thermal, not electric, propulsion. No megawatt-class space reactor program has a funded flight path.",
+  "sources": [
+    {
+      "title": "Ion thrusters: Why revolutionary?",
+      "url": "https://medium.com/@irmak.zelal.cengiz2/ion-thrusters-why-revolutionary-fdec437dcd42"
+    },
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    }
+  ]
+}

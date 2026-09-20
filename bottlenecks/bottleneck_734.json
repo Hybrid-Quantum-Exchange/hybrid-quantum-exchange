@@ -1,0 +1,18 @@
+{
+  "id": 734,
+  "domain": "materials",
+  "title": "Dielectric loss in superconducting qubit materials",
+  "bottleneck": "Superconducting qubits lose quantum coherence largely through two-level-system defects in amorphous dielectrics, interfaces, and surface oxides. Despite years of materials work, coherence times have plateaued: the microscopic identity of the dominant lossy defects is still debated, and no fabrication route reproducibly eliminates them. Each new qubit design re-encounters the same interface-loss wall.",
+  "why_it_blocks": "Coherence time directly limits the depth of quantum circuits and the overhead of error correction. Materials-limited coherence means fault-tolerant quantum computing needs millions more physical qubits than a low-loss platform would, pushing timelines out by years.",
+  "current_state": "State-of-the-art transmons reach a few hundred microseconds of coherence through cleaner interfaces and crystalline dielectrics, but gains are incremental. The 2026 SuperC materials-search pipeline may surface new low-loss superconductors, though qubit-specific materials screening is still in its infancy.",
+  "sources": [
+    {
+      "title": "New superconductors identified, unlocking process that could yield thousands more",
+      "url": "https://phys.org/news/2026-06-superconductors-yield-thousands.html"
+    },
+    {
+      "title": "Room-temperature superconductor",
+      "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 96,
+  "domain": "cosmology_multiverse",
+  "title": "Whether Dark Energy Evolves (DESI w0-wa Tension)",
+  "bottleneck": "DESI DR1 and DR2 baryon acoustic oscillation data, combined with CMB and supernovae, prefer an evolving dark energy equation of state (w0 > -1, wa < 0) over a cosmological constant at 2.8-4.2 sigma depending on the supernova sample. It is unknown whether this is the first crack in LambdaCDM, a supernova systematics artifact, or a parameterization artifact of the w0-wa form. The statistical significance depends notably on which supernova compilation is used, ranging from 2.5 to nearly 4 sigma, which keeps systematics debates alive.",
+  "why_it_blocks": "If dark energy evolves, the cosmological constant is dead and a dynamical field or modified gravity must replace it — the biggest shift in cosmology in 25 years.",
+  "current_state": "DESI DR2 strengthens the hint but stays below discovery threshold; Euclid and Rubin Observatory data in the late 2020s should confirm or kill it. DESI's full five-year dataset plus Euclid's independent BAO measurements should push the question past the discovery threshold either way.",
+  "sources": [
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    },
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    }
+  ]
+}

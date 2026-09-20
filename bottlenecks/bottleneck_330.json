@@ -1,0 +1,18 @@
+{
+  "id": 330,
+  "domain": "artificial_intelligence",
+  "title": "Measuring memorization and copyright risk",
+  "bottleneck": "Nobody can precisely say how much of a model's output derives from memorized training text versus genuine generalization, because memorization itself lacks an agreed operational definition at scale. This leaves copyright liability unquantifiable: rights holders can't prove derivation, labs can't prove innocence, and courts lack technical standards. Training on the open web makes the problem universal. Saturation is equally corrosive: once scores near 100%, a benchmark stops discriminating between models.",
+  "why_it_blocks": "Legal uncertainty chills both AI development and creative industries. Without measurement standards, every major model is a lawsuit waiting to happen. Progress claims rest on numbers that conflate memorization, contamination, and genuine capability gains.",
+  "current_state": "Researchers propose membership-inference and extraction-based metrics, but no standard measure of memorization is accepted by courts or industry.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "Many safety evaluations for AI models have significant limitations | TechCrunch",
+      "url": "https://bestofai.com/article/many-safety-evaluations-for-ai-models-have-significant-limitations-techcrunch"
+    }
+  ]
+}

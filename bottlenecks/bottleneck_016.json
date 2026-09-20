@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "domain": "fundamental_physics",
+  "title": "Black hole information paradox: unitarity of evaporation",
+  "bottleneck": "Hawking's semiclassical calculation shows black holes evaporate into purely thermal radiation carrying no information, which would convert pure quantum states into mixed ones and violate unitarity, a core principle of quantum mechanics. Reconciling unitary evolution with the smooth spacetime of general relativity at the horizon remains unresolved despite fifty years of effort.",
+  "why_it_blocks": "The paradox forces a choice between quantum mechanics and general relativity at their point of sharpest conflict; whichever principle gives way rewrites the foundations of physics.",
+  "current_state": "Recent island-formula calculations reproduce the expected Page curve for the radiation entropy in AdS models, suggesting unitarity holds, but the microscopic mechanism transferring information into the radiation is still unknown. The island formula reproduces the Page curve in AdS models, yet the microscopic mechanism transferring information into the outgoing radiation is still unknown.",
+  "sources": [
+    {
+      "title": "Black Hole Information Paradox - kb-physics open questions",
+      "url": "https://github.com/thibautbaissac/kb-physics/blob/HEAD/kb/open-questions/black-hole-information-paradox.md"
+    },
+    {
+      "title": "Black holes and information: A new take on an old paradox - arXiv",
+      "url": "https://arxiv.org/pdf/1603.07569v1"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 201,
+  "domain": "energy",
+  "title": "Multi-day long-duration energy storage",
+  "bottleneck": "Wind and solar droughts can last days to weeks, but today's grid storage, overwhelmingly lithium-ion, is economic only up to about 4 hours. Multi-day storage technologies such as iron-air, hydrogen, and compressed air exist as pilots but have not demonstrated the combination of low capital cost, acceptable efficiency, and durability at grid scale. Without multi-day storage, deep decarbonization requires massive renewable overbuild or firm generation.",
+  "why_it_blocks": "This is the central storage gap for a renewables-dominated grid. Short-duration batteries handle daily cycles, but weather-scale variability has no economic solution yet.",
+  "current_state": "Iron-air and other long-duration pilots are under construction with DOE support. Costs and performance at scale remain unproven. DOE's long-duration storage programs are funding first commercial projects, but none have operated long enough to prove bankability.",
+  "sources": [
+    {
+      "title": "The growing need for long-duration energy storage in the US",
+      "url": "https://www.solarpowerworldonline.com/2026/02/the-growing-need-for-long-duration-energy-storage-in-the-us/"
+    },
+    {
+      "title": "Long Term Energy Storage Solutions For Grid Reliability",
+      "url": "https://electricityforum.com/td/energy-storage/long-term-energy-storage"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 154,
+  "domain": "energy",
+  "title": "Tritium retention in plasma-facing walls",
+  "bottleneck": "Plasma-facing materials trap tritium: co-deposited layers, implantation, and diffusion lock fuel into walls, especially in colder, inaccessible regions. Retained tritium is unavailable for burning, inflates the required plant inventory, and creates a distributed radioactive source that complicates maintenance and decommissioning. Lithium wall coatings, attractive for plasma performance, worsen retention dramatically. Recovering trapped tritium requires baking walls at high temperature or plasma-based desorption, both of which consume operating time and energy.",
+  "why_it_blocks": "Every gram of tritium stuck in walls is a gram that must be bred, purchased, or accounted for. High retention can double the required tritium inventory and push the breeding ratio beyond what blankets can deliver.",
+  "current_state": "Experiments at DIII-D quantified tritium trapping in lithium coatings, motivating heated-wall and tritium-removal techniques. Predictive models of retention over a plant lifetime remain uncertain.",
+  "sources": [
+    {
+      "title": "How lithium walls trap tritium in fusion reactors revealed",
+      "url": "https://phys.org/news/2025-07-lithium-walls-tritium-fusion-reactors.amp"
+    },
+    {
+      "title": "Princeton achieves 10x reduction in tritium needs for nuclear fusion",
+      "url": "https://interestingengineering.com/energy/nuclear-fusion-fuel-breakthrough"
+    }
+  ]
+}

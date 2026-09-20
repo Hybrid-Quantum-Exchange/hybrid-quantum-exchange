@@ -1,0 +1,14 @@
+{
+  "id": 42,
+  "domain": "fundamental_physics",
+  "title": "Why three generations of matter",
+  "bottleneck": "The Standard Model contains three nearly identical copies of each fermion family with no explanation for why the count is three rather than one or seventeen. Anomaly cancellation and CP violation require at least three, but that is a consistency observation, not a derivation.",
+  "why_it_blocks": "Replication of generations is one of the most conspicuous unexplained patterns in nature; any deeper theory of matter must account for it, yet none does convincingly.",
+  "current_state": "String compactifications and grand unified theories can produce three generations in specific constructions, but they can equally produce other numbers, so the count remains an input rather than an output. Anomaly cancellation works for any number of generations, so the observed count of three remains an empirical input awaiting a deeper principle.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

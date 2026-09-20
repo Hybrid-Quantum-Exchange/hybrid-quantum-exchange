@@ -1,0 +1,18 @@
+{
+  "id": 948,
+  "domain": "food_water_agriculture",
+  "title": "Cold-chain gaps for perishable foods",
+  "bottleneck": "Fruits, vegetables, dairy, and meat need continuous refrigeration from farm to consumer, but cold chains are absent across much of the developing world — no packhouses, no refrigerated transport, unreliable electricity. Building cold chains is capital-intensive and energy-hungry, and the last mile (rural markets, street vendors) is the hardest to electrify. Perishables simply rot. Building cold chains is capital-intensive and energy-hungry, and the last mile - rural markets, street vendors - is hardest to electrify.",
+  "why_it_blocks": "Nutritious diets depend on perishables. Without cold chains, food systems stay locked into storable staples and nutrition suffers. Without cold chains, food systems stay locked into storable staples and nutrition suffers.",
+  "current_state": "Solar cold rooms and evaporative coolers fill niches; comprehensive cold chains cover a minority of developing-world food flows.",
+  "sources": [
+    {
+      "title": "FAO Save Food: Post-harvest losses brochure",
+      "url": "https://www.fao.org/fileadmin/user_upload/ags/publications/brochure_phl_low.pdf"
+    },
+    {
+      "title": "The biggest challenges in global supply chains for perishable goods - Hydropac",
+      "url": "https://hydropac.co.uk/insights/challenges-in-supply-chains-for-perishable-goods/"
+    }
+  ]
+}

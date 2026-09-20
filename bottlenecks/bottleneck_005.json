@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "domain": "fundamental_physics",
+  "title": "Stabilizing extra dimensions: the moduli problem",
+  "bottleneck": "Theories with extra spatial dimensions predict massless or extremely light scalar fields, called moduli, that parametrize the size and shape of the compact dimensions, yet no such fields are observed and unstabilized moduli would mediate unobserved fifth forces. Finding a mechanism that fixes all moduli at values consistent with observation, while keeping the cosmological constant tiny, is unsolved in general.",
+  "why_it_blocks": "Uncontrolled moduli would produce violations of the equivalence principle and time-varying fundamental constants, so any extra-dimensional or string model stands or falls on solving this stabilization problem.",
+  "current_state": "Flux compactification and non-perturbative effects can stabilize moduli in specific string constructions such as KKLT, but fully explicit, controlled examples with realistic cosmology remain scarce and contested.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

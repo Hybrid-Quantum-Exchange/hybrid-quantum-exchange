@@ -1,0 +1,18 @@
+{
+  "id": 287,
+  "domain": "compute_semiconductors",
+  "title": "Heterogeneous programming-model fragmentation",
+  "bottleneck": "GPUs, TPUs, NPUs, and emerging accelerators each demand their own programming model and toolchain, with CUDA's moat keeping most AI development NVIDIA-bound. Portable frameworks (OpenCL, SYCL, Triton) lag in performance and library coverage, so code written for one accelerator rarely runs well on another. Hardware innovation outpaces software portability.",
+  "why_it_blocks": "Fragmentation slows the adoption of better or cheaper accelerators: developers won't target hardware their code can't reach. It entrenches incumbents, raises costs, and means much of the world's accelerator innovation can't be used by mainstream developers.",
+  "current_state": "Triton, MLIR-based compilers, and open standards are improving portability, and some non-NVIDIA accelerators gain traction. CUDA's ecosystem lead remains decisive in practice. Library coverage is the real moat: even when alternative compilers match individual kernels, they lack the decade of tuned primitives that incumbents ship.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "Educba: Neuromorphic Computing",
+      "url": "https://www.educba.com/neuromorphic-computing/"
+    }
+  ]
+}

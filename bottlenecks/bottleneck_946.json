@@ -1,0 +1,18 @@
+{
+  "id": 946,
+  "domain": "food_water_agriculture",
+  "title": "Disease control in intensive aquaculture",
+  "bottleneck": "Dense fish farming is a disease factory — sea lice cost the salmon industry billions, and viral outbreaks can wipe out entire farm cohorts. Antibiotics are restricted, vaccines cover only some pathogens, and the ocean environment makes biosecurity nearly impossible in open-net pens. Moving to closed containment solves disease but multiplies capital costs. Antibiotics are restricted, vaccines cover only some pathogens, and the ocean environment makes biosecurity nearly impossible in open-net pens.",
+  "why_it_blocks": "Disease losses erase aquaculture's efficiency advantage and drive antibiotic and chemical use that damages surrounding ecosystems.",
+  "current_state": "Cleaner fish, thermal treatments, and vaccines manage sea lice imperfectly; land-based recirculating systems remain expensive. Cleaner fish, thermal treatments, and vaccines manage sea lice imperfectly; land-based recirculating systems remain expensive.",
+  "sources": [
+    {
+      "title": "New study highlights need for alternative aquaculture feed ingredients",
+      "url": "https://www.aquaculturenorthamerica.com/new-study-highlights-need-for-alternative-aquaculture-feed-ingredients/"
+    },
+    {
+      "title": "Aquaculture's next frontier: balancing growth, sustainability, and resilience",
+      "url": "https://www.mdpi.com/2071-1050/17/9/3936"
+    }
+  ]
+}

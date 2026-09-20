@@ -1,0 +1,18 @@
+{
+  "id": 295,
+  "domain": "compute_semiconductors",
+  "title": "Photonic-electronic co-simulation tooling gaps",
+  "bottleneck": "Designing systems that mix photonic and electronic circuits requires simulating Maxwell's equations, carrier dynamics, thermal effects, and digital logic together, but no unified EDA flow handles all domains at scale. Engineers stitch together separate tools with manual handoffs, missing cross-domain interactions until silicon. Verification of large photonic-electronic systems is effectively artisanal.",
+  "why_it_blocks": "The tooling gap raises design risk and cost for every photonic product, slowing the migration of optics into compute. Until co-design is as routine as mixed-signal CMOS design, photonic integration stays the domain of a few expert teams.",
+  "current_state": "EDA vendors and startups are building photonic-aware flows with foundry PDK support. Integrated, sign-off-quality co-simulation at system scale does not yet exist. Cross-domain effects like thermal drift in photonics are invisible to separate simulators, so first silicon often surprises designers.",
+  "sources": [
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    },
+    {
+      "title": "OptoMind review: Scalable photonic computing",
+      "url": "https://github.com/ycc-pku/optomind-review/blob/HEAD/artifacts/e2e/03-scalable-photonic-computing/publication/latex/manuscript.normalized.md"
+    }
+  ]
+}

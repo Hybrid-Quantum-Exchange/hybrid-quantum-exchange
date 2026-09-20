@@ -1,0 +1,18 @@
+{
+  "id": 146,
+  "domain": "energy",
+  "title": "Plasma-facing materials for fusion first walls",
+  "bottleneck": "The first wall of a deuterium-tritium fusion reactor must survive a 14 MeV neutron flux higher than any fission reactor produces, plus megawatt-per-square-meter heat loads, for years. Tungsten, the leading candidate, embrittles and cracks under neutron irradiation, blisters under helium bombardment, and eroded impurities can poison the plasma. No material has demonstrated survival for a full power-plant lifetime at reactor-relevant neutron fluences.",
+  "why_it_blocks": "Without qualified first-wall materials, fusion plants would face wall replacement every year or two, collapsing availability and economics. A plant that shuts down annually for wall swaps cannot deliver affordable baseload power.",
+  "current_state": "Tungsten and reduced-activation steels are being irradiated in fission test reactors, but no facility reproduces the fusion neutron spectrum at full fluence. IFMIF-DONES in Spain is under construction to fill the gap, with relevant data years away.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    }
+  ]
+}

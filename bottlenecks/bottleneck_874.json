@@ -1,0 +1,18 @@
+{
+  "id": 874,
+  "domain": "xr_interface",
+  "title": "Tactile rendering of texture and temperature",
+  "bottleneck": "Human skin senses texture through high-frequency vibrations and temperature through thermal receptors, but XR haptics mostly do crude buzzing. Rendering the difference between wood, metal, and fabric requires wide-bandwidth actuators and thermal displays that heat and cool quickly; Peltier elements are slow and power-hungry. Multimodal tactile+thermal+force rendering is barely explored.",
+  "why_it_blocks": "Touch is how we judge material reality; without texture and temperature, virtual objects feel uniformly plastic. The richness of the physical world has no haptic equivalent.",
+  "current_state": "Research devices demonstrate texture rendering via ultrasonic friction modulation and thermal feedback via fast Peltier arrays. Integrated, wearable multimodal tactile displays are still prototypes. Thermal displays that heat and cool quickly need substantial power, conflicting directly with the wearability that haptics require.",
+  "sources": [
+    {
+      "title": "Frontiers: Tactile & kinesthetic shape rendering",
+      "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1298537"
+    },
+    {
+      "title": "AndroidHeadlines: Haptic feedback tech",
+      "url": "https://www.androidheadlines.com/2026/06/haptic-feedback-technology-and-the-future-of-immersive-digital-interaction.html"
+    }
+  ]
+}

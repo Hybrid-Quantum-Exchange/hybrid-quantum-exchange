@@ -1,0 +1,18 @@
+{
+  "id": 761,
+  "domain": "materials",
+  "title": "Low-frequency acoustic metamaterial absorption",
+  "bottleneck": "Blocking low-frequency noise — traffic, aircraft, industrial hum — with thin structures is fundamentally hard because wavelengths are meters long while panels must be centimeters thick. Acoustic metamaterials with resonant inclusions can absorb narrow bands, but broadband low-frequency absorption in a thin, lightweight panel remains unsolved; resonances that work at 100 Hz fail at 150 Hz. Active cancellation helps but needs power and sensors everywhere.",
+  "why_it_blocks": "Noise pollution is a major urban health burden linked to cardiovascular disease and sleep disruption. Without thin, passive low-frequency absorbers, buildings and vehicles must rely on mass — thick concrete and heavy insulation — which conflicts with lightweight, low-carbon construction.",
+  "current_state": "Membrane-type and coiled-space metamaterials have demonstrated subwavelength absorption at targeted frequencies in the lab. Broadband, thin, and cheap panels that could be deployed in real buildings are still a research prototype, not a product.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Drive Innovations in Textile Engineering",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-drive-innovations-in-textile-engineering"
+    },
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    }
+  ]
+}

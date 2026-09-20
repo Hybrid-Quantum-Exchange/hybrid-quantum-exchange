@@ -1,0 +1,18 @@
+{
+  "id": 789,
+  "domain": "materials",
+  "title": "Bio-based polymer performance parity",
+  "bottleneck": "Polymers from biomass could displace petrochemical plastics, but they consistently fall short on the property combinations that matter: PLA is brittle and heat-sensitive, PHA is expensive to ferment at scale, and lignin-based polymers are hard to process reproducibly. Matching the barrier properties, toughness, and thermal stability of polyethylene or PET with a bio-based, biodegradable polymer remains unsolved.",
+  "why_it_blocks": "Plastics production is a major and growing emissions source, and plastic waste accumulates in the environment. Without performance parity, bio-polymers stay confined to niche packaging while commodity plastics keep expanding.",
+  "current_state": "PLA and bio-PET have captured meaningful market share in rigid packaging where their limitations are acceptable, and PHA production is scaling. But for films, engineering parts, and hot-fill applications, petrochemical polymers still have no bio-based rival.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Drive Innovations in Textile Engineering",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-drive-innovations-in-textile-engineering"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    }
+  ]
+}

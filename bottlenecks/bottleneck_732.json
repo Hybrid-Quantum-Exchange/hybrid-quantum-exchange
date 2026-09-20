@@ -1,0 +1,18 @@
+{
+  "id": 732,
+  "domain": "materials",
+  "title": "Pairing mechanism of nickelate superconductors",
+  "bottleneck": "Infinite-layer nickelates superconduct at ambient pressure — up to 44 K in recent rare-earth variants — and are stable in air, unlike cuprates. But the pairing mechanism is unknown: theories invoke pair density waves and unusual flat-band physics that may differ fundamentally from cuprate pairing. Without a confirmed mechanism, researchers cannot rationally design nickelates with higher Tc or better critical currents.",
+  "why_it_blocks": "Nickelates are the first genuinely new high-Tc family in decades and the most promising lead toward ambient-pressure, higher-temperature superconductivity. Blind synthesis without mechanistic understanding means progress depends on luck rather than design, wasting the opportunity.",
+  "current_state": "The 2026 SuperC discovery of kagome-lattice superconductors identified via quantum geometry plus machine learning offers a template for mechanism-guided search. For nickelates specifically, the mechanism debate remains open, with the PNAS 2026 agenda listing unconventional pairing as a core research direction.",
+  "sources": [
+    {
+      "title": "New superconductors identified, unlocking process that could yield thousands more",
+      "url": "https://phys.org/news/2026-06-superconductors-yield-thousands.html"
+    },
+    {
+      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
+      "url": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html"
+    }
+  ]
+}

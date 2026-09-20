@@ -1,0 +1,18 @@
+{
+  "id": 277,
+  "domain": "compute_semiconductors",
+  "title": "Sub-threshold logic variability",
+  "bottleneck": "Running transistors below threshold voltage slashes energy per operation, but in sub-threshold, tiny threshold-voltage variations cause exponential current spreads, making circuits slow and unreliable. Process variation at advanced nodes is already large relative to margins, and temperature sensitivity is extreme. Designing robust sub-threshold systems demands huge margins that erase the energy savings.",
+  "why_it_blocks": "Sub-threshold operation could enable decade-long battery life for sensors and implants, but variability keeps it out of general-purpose use. The ultra-low-power frontier stays limited to niche, carefully margined designs.",
+  "current_state": "Sub-threshold MCUs and sensor chips ship in niche ultra-low-power products with careful design. Mainstream logic at sub-threshold voltages remains impractical. Leakage and delay spread grow exponentially below threshold, so a single slow transistor can stall an entire pipeline stage and wreck timing closure.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    }
+  ]
+}

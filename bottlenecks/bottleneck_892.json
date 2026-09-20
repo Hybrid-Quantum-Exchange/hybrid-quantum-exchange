@@ -1,0 +1,18 @@
+{
+  "id": 892,
+  "domain": "xr_interface",
+  "title": "BCI speech decoding speed and accuracy",
+  "bottleneck": "Decoding attempted speech from neural activity could restore communication to locked-in patients, but current systems achieve tens of words per minute with significant errors, far below natural speech (~150 wpm). Vocabulary is limited, decoding latency is high, and performance varies across users and sessions. Real-time, open-vocabulary, conversational decoding is unsolved.",
+  "why_it_blocks": "Communication is the most urgent BCI application; slow, error-prone decoding leaves patients still effectively silenced. Speed and accuracy gaps keep neural speech from replacing even basic assistive devices.",
+  "current_state": "Research systems decode sentences from motor cortex at improving rates, with large-vocabulary demos emerging. Robust, real-time, conversational speech BCIs are still in clinical research. Error rates climb with vocabulary size, so open-ended conversation remains far harder than constrained phrase decoding.",
+  "sources": [
+    {
+      "title": "Vectree: High-bandwidth BCI architecture",
+      "url": "https://vectree.io/pdf/c/neural-interface-signal-processing"
+    },
+    {
+      "title": "ScienceTimes: Neural interface challenges",
+      "url": "https://www.sciencetimes.com/articles/61522/20260323/how-brain-computer-interfaces-use-neural-interface-technology-read-human-mind.htm"
+    }
+  ]
+}

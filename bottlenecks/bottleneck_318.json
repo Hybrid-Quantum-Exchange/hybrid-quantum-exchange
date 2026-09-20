@@ -1,0 +1,18 @@
+{
+  "id": 318,
+  "domain": "artificial_intelligence",
+  "title": "Debate and amplification for oversight",
+  "bottleneck": "AI safety via debate — models arguing opposing sides so a human judge can spot the truth — rests on the unproven assumption that truth has an advantage in adversarial argument. A more capable deceiver may simply be more persuasive, and human judges are swayed by rhetoric over correctness. Amplification schemes bootstrap trust gradually but can also bootstrap and amplify subtle misalignments at each step.",
+  "why_it_blocks": "These are the leading technical proposals for scalable oversight. If their core assumptions fail, the field has no backup plan for supervising superhuman systems. Deploying superhuman systems under oversight methods that assume an honesty advantage gambles the core safety premise.",
+  "current_state": "Small-scale debate experiments show accuracy gains on narrow tasks. Whether the honest-agent advantage holds at frontier capability is unknown.",
+  "sources": [
+    {
+      "title": "06_Alignment_Research - agentic-ai-course",
+      "url": "https://github.com/shurankain/agentic-ai-course/blob/HEAD/18_AI_Governance/06_Alignment_Research.md"
+    },
+    {
+      "title": "Alignment is still unsolved: the labs are racing anyway",
+      "url": "https://aiweekly.co/issues/alignment-is-still-unsolved-the-labs-are-racing-anyway"
+    }
+  ]
+}

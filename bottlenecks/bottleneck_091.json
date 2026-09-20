@@ -1,0 +1,18 @@
+{
+  "id": 91,
+  "domain": "cosmology_multiverse",
+  "title": "Self-Interacting Dark Matter Cross-Section Limits",
+  "bottleneck": "Self-interacting dark matter could solve small-scale structure puzzles, but allowed cross-sections span orders of magnitude and constraints from the Bullet Cluster, halo shapes, and dwarf densities point in different directions. No experiment can directly measure the self-interaction; inference is entirely astrophysical and model-dependent. Velocity-dependent cross-sections could reconcile dwarf cores with cluster constraints, but they introduce new model-building freedom that weakens falsifiability.",
+  "why_it_blocks": "A confirmed self-interaction would be the first non-gravitational dark matter property measured, opening particle physics of the dark sector; the current limbo yields neither confirmation nor exclusion.",
+  "current_state": "Bullet Cluster bounds sit near 1 cm^2/g while dwarf cores prefer ~1-10 cm^2/g; velocity-dependent models remain viable but untested. Merging-cluster offsets and strong-lensing substructure remain the cleanest astrophysical handles, though both are statistics-limited.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

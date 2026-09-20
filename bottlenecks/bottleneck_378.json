@@ -1,0 +1,14 @@
+{
+  "id": 378,
+  "domain": "medicine_cures",
+  "title": "CNS drug delivery for neurodegenerative disease",
+  "bottleneck": "The blood-brain barrier blocks the vast majority of candidate Alzheimer's, Parkinson's, and ALS drugs from reaching therapeutic concentrations in the brain. Antibodies cross poorly, gene therapies need invasive delivery, and small molecules are often pumped back out by efflux transporters.",
+  "why_it_blocks": "Neurodegeneration drug development fails as much on delivery as on biology: even a perfect target is useless if the drug cannot reach it.",
+  "current_state": "Engineered barrier-shuttle antibodies, focused-ultrasound opening, intrathecal delivery, and nanoparticle carriers are in clinical testing. Reviewers calling for alternative modalities underscore that delivery platforms, not just targets, need reinvention; no platform yet delivers drugs to the brain reliably and noninvasively at scale. Without a reliable delivery platform, even the most promising neurodegeneration targets will continue to fail in the clinic.",
+  "sources": [
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 507,
+  "domain": "health_longevity",
+  "title": "Bipolar depression treatment evidence gap",
+  "bottleneck": "Depressive phases dominate the morbidity of bipolar disorder, yet treatment of bipolar depression is far less studied than unipolar depression. Antidepressants risk inducing mania or mixed states, mood stabilizers have limited evidence for the depressive pole, and most trials exclude the complex, comorbid patients clinicians actually see.",
+  "why_it_blocks": "Bipolar depression carries suicide risk roughly 20 times the general population rate. The evidence gap means the deadliest phase of a common illness is treated by extrapolation and guesswork.",
+  "current_state": "Modern antipsychotics (quetiapine, lurasidone, cariprazine) show short-term efficacy for acute bipolar depression; lamotrigine has long-term data. Long-term and suicide-specific outcomes remain largely untested. Cariprazine and lumateperone recently expanded acute-treatment options for bipolar depression, but maintenance and suicide-prevention evidence for the depressive pole remains almost nonexistent.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    }
+  ]
+}

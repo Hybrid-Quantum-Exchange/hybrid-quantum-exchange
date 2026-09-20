@@ -1,0 +1,18 @@
+{
+  "id": 127,
+  "domain": "cosmology_multiverse",
+  "title": "Cosmic Strings and Topological Defects",
+  "bottleneck": "Phase transitions in the early universe should have produced cosmic strings or other defects in many particle theories, yet CMB and pulsar-timing data show no sign of them. Bounds on string tension keep tightening, but the allowed window for light strings persists, and a detection would be a direct fossil of GUT-scale physics. Strings would source a stochastic gravitational-wave background with a distinctive spectrum, offering a detection channel independent of the CMB.",
+  "why_it_blocks": "Cosmic strings are one of few potential direct probes of energy scales 10 orders beyond colliders.",
+  "current_state": "NANOGrav's gravitational-wave background could hide a string contribution, but astrophysical supermassive-black-hole binaries are the favored explanation. Current pulsar-timing data constrain but do not exclude light strings, leaving a discovery window open.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

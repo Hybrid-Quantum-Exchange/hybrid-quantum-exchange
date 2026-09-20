@@ -1,0 +1,18 @@
+{
+  "id": 466,
+  "domain": "health_longevity",
+  "title": "Blood-brain barrier drug delivery for neurotherapeutics",
+  "bottleneck": "An estimated 98% of small-molecule drugs and nearly all large molecules cannot cross the blood-brain barrier, so many neurotherapeutics fail in trials not for lack of efficacy but for never reaching their target. Invasive methods (ultrasound disruption, intrathecal delivery) work but are impractical for chronic dosing; Trojan-horse and nanoparticle approaches remain poorly effective in humans.",
+  "why_it_blocks": "Every neurodegenerative and psychiatric drug program faces this wall. The barrier turns treatable-in-principle brain diseases into untreatable ones by blocking delivery of otherwise promising molecules.",
+  "current_state": "Focused ultrasound BBB opening is in clinical testing; engineered viral vectors (M13 phage 'postman') and transferrin-receptor shuttles are experimental. No general, safe, chronic systemic delivery platform exists. Receptor-mediated transcytosis shuttles using transferrin or insulin receptors show the most clinical traction, with several brain-shuttle antibodies in trials, but efficiency and off-target uptake remain limiting.",
+  "sources": [
+    {
+      "title": "The blood-brain barrier and neurodegenerative disease (Clinical Laboratory International)",
+      "url": "https://clinlabint.com/the-blood-brain-barrier-and-neurodegenerative-disease/"
+    },
+    {
+      "title": "Non-Invasive Drug Delivery across the Blood-Brain Barrier: A Prospective Analysis (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10674293/"
+    }
+  ]
+}

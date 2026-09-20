@@ -1,0 +1,18 @@
+{
+  "id": 34,
+  "domain": "fundamental_physics",
+  "title": "The strong CP problem: why QCD preserves CP",
+  "bottleneck": "Quantum chromodynamics naturally contains a CP-violating theta term that should generate a neutron electric dipole moment some ten orders of magnitude above current limits, yet measurements show theta is smaller than 10^-10. Nothing in the Standard Model explains why this parameter is essentially zero.",
+  "why_it_blocks": "An unexplained parameter tuned to one part in ten billion is among the most severe fine-tunings in physics and a standing invitation to new physics, most famously the axion.",
+  "current_state": "The Peccei-Quinn mechanism and its axion remain the leading solution and drive a global experimental program, but alternatives like massless up quarks or CP as a spontaneously broken symmetry are not fully excluded. Neutron electric dipole moment searches keep improving, and any nonzero signal would immediately falsify the simplest axion-free explanations.",
+  "sources": [
+    {
+      "title": "New hypothesis claims to solve 5 of the biggest problems in physics - ScienceAlert",
+      "url": "https://sciencealert.com/this-new-hypothesis-claims-to-have-solved-5-of-the-biggest-problems-in-physics/"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

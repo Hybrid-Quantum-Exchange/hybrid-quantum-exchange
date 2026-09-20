@@ -1,0 +1,18 @@
+{
+  "id": 166,
+  "domain": "energy",
+  "title": "Fusion balance-of-plant heat conversion",
+  "bottleneck": "Fusion blankets deliver heat at 300 to 700 degrees Celsius depending on coolant choice, and converting that heat to electricity efficiently requires power cycles matched to fusion's unique constraints: tritium-contaminated coolants, pulsed operation, and massive thermal inertia. Supercritical CO2 and advanced Rankine cycles promise higher efficiency but are unproven at fusion-relevant scale and temperatures. Every point of conversion efficiency lost multiplies the required fusion power.",
+  "why_it_blocks": "Fusion's economics are hostage to thermal efficiency. At 30 percent conversion a plant must produce far more fusion power, and survive far more neutron damage, than at 45 percent.",
+  "current_state": "Supercritical CO2 pilot plants are advancing for other applications. No fusion-specific power conversion system has been built or tested with tritium-bearing coolants.",
+  "sources": [
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    },
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    }
+  ]
+}

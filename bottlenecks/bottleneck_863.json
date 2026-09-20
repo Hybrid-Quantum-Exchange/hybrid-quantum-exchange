@@ -1,0 +1,18 @@
+{
+  "id": 863,
+  "domain": "xr_interface",
+  "title": "Field of view vs form factor tradeoff",
+  "bottleneck": "Human vision spans roughly 200 degrees, but VR headsets deliver 90-120 degrees and AR glasses far less, creating a 'looking through goggles' effect that breaks immersion. Wider FOV demands larger, heavier optics with more distortion and lower efficiency, directly fighting wearability. Every degree of FOV costs size, weight, and power.",
+  "why_it_blocks": "Narrow FOV is a constant reminder of the medium, limiting presence in VR and utility in AR. The optics to match human vision in a wearable form factor don't exist.",
+  "current_state": "Wide-FOV headsets exist as bulky enthusiast products; mainstream devices prioritize compactness. Pancake and holographic optics research aims to break the tradeoff. Peripheral vision is critical for balance and immersion, so the goggle effect constantly reminds users they are looking at screens.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "Laser Focus World: Waveguide design for AR",
+      "url": "https://www.laserfocusworld.com/optics/article/55365905/waveguide-design-for-ar-glasses-system-optimization"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 684,
+  "domain": "space",
+  "title": "Unknown human physiology in partial gravity",
+  "bottleneck": "Microgravity devastates the body — bone loss, muscle atrophy, vision changes, immune shifts — and Earth's 1 g is fine, but nobody knows where the threshold lies between them. The Moon's 1/6 g and Mars' 3/8 g have never hosted long-term human stays, and animal centrifuge data does not cleanly extrapolate. Countermeasures designed for zero-g may be overkill or insufficient at partial g, and we will not know until crews live there for months.",
+  "why_it_blocks": "If 3/8 g still causes serious deconditioning, Mars surface missions need artificial gravity or aggressive countermeasures that reshape habitat design; if it is sufficient, architectures simplify enormously. The uncertainty forces designing for the worst case.",
+  "current_state": "No human has spent more than about 3 days in partial gravity (Apollo). ISS research covers only 0 g; proposed variable-gravity research stations remain unfunded concepts.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "Designing Mars and Moon Habitats: When Home Is Life Support",
+      "url": "https://www.archyde.com/designing-mars-and-moon-habitats-when-home-is-life-support/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 183,
+  "domain": "energy",
+  "title": "Spent fuel recycling economics and proliferation",
+  "bottleneck": "Recycling spent fuel could extract remaining energy and shrink high-level waste, but reprocessing plants cost tens of billions, recovered fuel struggles to compete with mined uranium at current prices, and separation of plutonium raises proliferation concerns that have kept the US from commercial reprocessing for decades. France and others reprocess, but economics remain marginal without high uranium prices.",
+  "why_it_blocks": "The waste and resource arguments for nuclear's long-term sustainability depend on recycling that is uneconomic and politically fraught, leaving the once-through cycle, and its waste burden, as the de facto permanent plan.",
+  "current_state": "France, Russia, and Japan operate reprocessing. The US relies on once-through storage, with advanced recycling R and D ongoing but no commercial deployment planned.",
+  "sources": [
+    {
+      "title": "The Big Problems with Small Nukes",
+      "url": "https://www.columbiariverkeeper.org/2024/the-big-problems-with-small-nukes/"
+    },
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    }
+  ]
+}

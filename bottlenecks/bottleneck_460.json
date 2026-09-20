@@ -1,0 +1,18 @@
+{
+  "id": 460,
+  "domain": "health_longevity",
+  "title": "Telomere maintenance without increasing cancer risk",
+  "bottleneck": "Telomere shortening limits cell division and drives senescence, but activating telomerase to extend telomeres is intrinsically oncogenic: most cancers reactivate telomerase to become immortal. Transient or tissue-specific telomerase activation extended mouse healthspan in studies, yet the safe therapeutic window in humans is unknown.",
+  "why_it_blocks": "Telomere attrition is one of the few aging mechanisms with a clean molecular target, but the cancer tradeoff has frozen it as a therapy. Solving the safety problem would unlock a direct lever on cellular aging.",
+  "current_state": "Small-molecule telomerase activators (e.g., TA-65/cycloastragenol) are sold as supplements with weak evidence. Gene-therapy telomerase approaches exist only in animal studies; no clinical program has cleared the cancer-risk question. Transient telomerase mRNA delivery extended healthspan in mice without raising tumor incidence in short studies, but long-term cancer surveillance data in any mammal are entirely absent.",
+  "sources": [
+    {
+      "title": "Age reprogramming: Innovations and ethical considerations for prolonged longevity (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12035601/"
+    },
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    }
+  ]
+}

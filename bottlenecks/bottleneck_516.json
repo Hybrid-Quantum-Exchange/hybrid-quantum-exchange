@@ -1,0 +1,18 @@
+{
+  "id": 516,
+  "domain": "health_longevity",
+  "title": "Treatment-refractory anxiety disorders",
+  "bottleneck": "A substantial fraction of patients with generalized anxiety, panic, or social anxiety fail first-line SSRIs/SNRIs and CBT, yet refractory anxiety has no agreed definition, few dedicated trials, and almost no evidence-based second-line pharmacology. Adjunctive antipsychotics and anticonvulsants show inconsistent, underpowered results.",
+  "why_it_blocks": "Anxiety disorders are the most prevalent psychiatric conditions and a major suicide risk factor; leaving refractory cases without an evidence-based path abandons the largest treatment-resistant population in psychiatry.",
+  "current_state": "Guidelines recommend switching or augmenting largely by extrapolation. Novel approaches (mindfulness-based stress reduction, psychodynamic therapy, exercise) show modest effects; no breakthrough pharmacology is near approval. Novel mechanisms like orexin antagonists and neuroactive steroids are in early trials for anxiety, but the field still lacks even an agreed definition of treatment resistance.",
+  "sources": [
+    {
+      "title": "Treatment-refractory anxiety; definition, risk factors, and treatment challenges (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4518702/"
+    },
+    {
+      "title": "Treatment-resistant anxiety disorders: A literature review of drug therapy strategies (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25439852/"
+    }
+  ]
+}

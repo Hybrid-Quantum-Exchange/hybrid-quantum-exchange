@@ -1,0 +1,18 @@
+{
+  "id": 859,
+  "domain": "xr_interface",
+  "title": "MicroLED mass transfer for AR displays",
+  "bottleneck": "MicroLEDs offer the brightness and efficiency AR needs, but manufacturing requires transferring millions of micron-scale LEDs onto backplanes with near-perfect yield; a single dead pixel is visible inches from the eye. Mass-transfer processes (stamp, laser, fluidic) are slow and defect-prone at AR pixel densities, keeping microLED displays expensive and scarce.",
+  "why_it_blocks": "MicroLED is the display technology AR is waiting for, but it can't ship at scale until transfer yield is solved. The best AR display exists mostly in labs and flagship demos.",
+  "current_state": "Transfer yields are improving and small microLED displays ship in premium products, but cost remains prohibitive for mass-market AR glasses. At AR pixel densities a single dead microLED is visible inches from the eye, so transfer-yield requirements are far stricter than for televisions.",
+  "sources": [
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    },
+    {
+      "title": "EE Times: AR brightness requirements",
+      "url": "https://www.eetimes.com/how-bright-is-bright-enough-for-ar-in-the-real-world/"
+    }
+  ]
+}

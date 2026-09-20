@@ -1,0 +1,18 @@
+{
+  "id": 288,
+  "domain": "compute_semiconductors",
+  "title": "ReRAM crossbar sneak-path and selector limits",
+  "bottleneck": "In dense ReRAM crossbars, current sneaks through unselected cells, corrupting reads and wasting power; fixing it requires a selector device at every cell, but selectors that are fast, enduring, low-leakage, and CMOS-compatible at scale don't exist in production form. Without good selectors, crossbars must stay small or accept heavy read margins.",
+  "why_it_blocks": "Sneak paths cap crossbar density and size, which caps the efficiency and capacity of ReRAM-based in-memory computing and storage-class memory. The selector is the unglamorous component gating an entire technology class.",
+  "current_state": "Ovonic threshold switches and other selector candidates show progress in labs and limited products. A production-grade, high-endurance selector at advanced nodes is still missing. Without production-grade selectors, crossbars must stay small or use wasteful biasing schemes, capping both density and energy efficiency at once.",
+  "sources": [
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    },
+    {
+      "title": "MindRemix: Neuromorphic brain-inspired revolution",
+      "url": "https://www.mindremix.com/2025/12/neuromorphic-computing-brain-inspired.html"
+    }
+  ]
+}

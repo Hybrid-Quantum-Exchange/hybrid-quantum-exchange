@@ -1,0 +1,18 @@
+{
+  "id": 73,
+  "domain": "fundamental_physics",
+  "title": "Origin of the nanohertz gravitational-wave background",
+  "bottleneck": "Pulsar timing arrays have detected a nanohertz-frequency stochastic gravitational-wave background, a correlated hum in the arrival times of millisecond pulsars. The leading explanation is a population of inspiraling supermassive black hole binaries, but cosmological sources such as cosmic strings, first-order phase transitions, or inflationary relics fit the data nearly as well.",
+  "why_it_blocks": "Identifying the source determines what the signal teaches us: astrophysics of galaxy mergers and black hole growth, or new physics from the early universe at energy scales far beyond any collider. The two interpretations imply completely different research programs.",
+  "current_state": "Recent spectral analyses show the signal is consistent with binary black holes but cannot exclude cosmological contributions, and hints of anisotropy are not yet conclusive. Longer timing baselines and the Square Kilometre Array should sharpen the spectrum enough to separate astrophysical from primordial components.",
+  "sources": [
+    {
+      "title": "Nanohertz gravitational-wave background",
+      "url": "https://arxiv.org/html/2510.22713"
+    },
+    {
+      "title": "Pulsar timing array gravitational-wave background",
+      "url": "https://arxiv.org/html/2404.14508v1"
+    }
+  ]
+}

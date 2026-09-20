@@ -1,0 +1,18 @@
+{
+  "id": 702,
+  "domain": "space",
+  "title": "Molten regolith electrolysis energy cost for oxygen",
+  "bottleneck": "Molten regolith electrolysis could extract oxygen and metals directly from lunar soil by melting it above 1,600 C and passing current through it — no imported reagents needed. But melting rock is enormously energy-intensive, electrodes corrode in the molten bath, and containing 1,600 C liquid in a lunar plant that must run autonomously for years is a materials and reliability nightmare. The energy per kilogram of oxygen may exceed what a base can afford.",
+  "why_it_blocks": "Oxygen is the largest-mass propellant component; if the most reagent-free extraction method is too power-hungry, ISRU oxygen stays dependent on scarcer water ice or imported chemistry.",
+  "current_state": "Lab-scale demonstrations prove the chemistry; pilot-plant energy economics and electrode lifetime remain unproven. No lunar demonstration exists.",
+  "sources": [
+    {
+      "title": "Lunar Soil Yields Oxygen and Water: Breakthrough in Space Resource Utilization",
+      "url": "https://www.archyde.com/lunar-soil-yields-oxygen-and-water-breakthrough-in-space-resource-utilization/"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

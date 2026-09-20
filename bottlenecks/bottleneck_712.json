@@ -1,0 +1,18 @@
+{
+  "id": 712,
+  "domain": "space",
+  "title": "Phobos and Deimos as ISRU staging targets",
+  "bottleneck": "Mars' moons sit at the top of Mars' gravity well with suspected water-rich interiors — ideal refueling stations — but we do not actually know what they are made of: captured asteroids or impact ejecta, water-rich or dry, rubble piles or solid. Their microgravity makes landing, anchoring, and excavation entirely different from lunar operations, and no mission has ever touched either moon. Resource characterization needs dedicated prospecting that has never been proposed.",
+  "why_it_blocks": "If the moons hold accessible water, Mars missions can refuel in orbit without landing a mining plant on Mars itself — transforming the architecture; if they are dry rock, the concept dies.",
+  "current_state": "No landings; remote sensing only. JAXA's MMX sample-return mission is the next data point; resource prospecting missions are unproposed.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

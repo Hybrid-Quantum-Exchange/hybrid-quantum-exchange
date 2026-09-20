@@ -1,0 +1,18 @@
+{
+  "id": 733,
+  "domain": "materials",
+  "title": "High-temperature superconducting cable for fusion magnets",
+  "bottleneck": "Fusion pilot plants need toroidal field magnets above 20 T that survive intense neutron flux, huge electromagnetic forces, and thermal cycling. REBCO-based cable-in-conduit conductors exist as prototypes, but no design has demonstrated decades-long reliability under fusion-relevant neutron irradiation, and joint resistances between cable segments remain too high for persistent-mode operation. Radiation damage to the superconductor itself is poorly characterized.",
+  "why_it_blocks": "Magnet performance sets the size and cost of a fusion plant: stronger fields shrink the machine. Cable and irradiation uncertainties force conservative designs, inflating costs and schedules for every magnetic confinement concept.",
+  "current_state": "SPARC and other private fusion efforts are procuring REBCO tape at scale, which is driving conductor cost down, but fusion-relevant irradiation testing of full cables is still sparse. The PNAS 2026 agenda flags practical conductors for fusion as a priority application of superconductor research.",
+  "sources": [
+    {
+      "title": "How Close Are We to Superconductors That Are Actually Practical?",
+      "url": "https://gizmodo.com/?p=2000814055"
+    },
+    {
+      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
+      "url": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 725,
+  "domain": "space",
+  "title": "Space traffic management as global infrastructure",
+  "bottleneck": "Low Earth orbit is becoming critical infrastructure — communications, weather, navigation, defense — but it has no air-traffic-control equivalent: no global authority assigns orbital slots, no binding right-of-way rules, no real-time shared operational picture. The US is transitioning civil space traffic management to the Department of Commerce, the EU and others build parallel systems, and fragmentation risks incompatible regimes. Building a trusted, global, real-time coordination system across rival powers is as much a diplomatic problem as a technical one.",
+  "why_it_blocks": "Every other debris bottleneck — removal, tracking, avoidance — assumes someone can authoritatively coordinate; without space traffic management, orbit remains an unmanaged commons heading for the Kessler outcome.",
+  "current_state": "The US TraCSS system is rolling out; ESA's STM programs advance; UN COPUOS discusses long-term sustainability guidelines. No operational global STM authority exists.",
+  "sources": [
+    {
+      "title": "ESA Warns Orbital Debris Risk Is Accelerating as Satellite Traffic Surges",
+      "url": "https://tower-post.com/2026/09/15/esa-warns-orbital-debris-risk-is-accelerating-as-satellite-traffic-surges/"
+    },
+    {
+      "title": "Global Space Debris Removal Market Poised for Rapid Growth",
+      "url": "https://www.einpresswire.com/article/876135097/global-space-debris-removal-market-poised-for-rapid-growth-as-orbital-safety-becomes-a-strategic-priority"
+    }
+  ]
+}

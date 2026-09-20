@@ -1,0 +1,18 @@
+{
+  "id": 504,
+  "domain": "health_longevity",
+  "title": "Anorexia of aging and undernutrition in older adults",
+  "bottleneck": "Aging suppresses appetite through altered gut hormones, reduced taste and smell, poor dentition, and swallowing difficulties, producing protein-energy undernutrition that accelerates sarcopenia, frailty, and immune decline. Yet undernutrition in the elderly is under-screened, and appetite-stimulating interventions have weak evidence.",
+  "why_it_blocks": "Nutrition is the substrate for every other intervention: exercise cannot build muscle without protein, vaccines work poorly in the malnourished, and wounds do not heal. Ignoring anorexia of aging undermines geriatric care wholesale.",
+  "current_state": "Screening tools (MNA) exist but are inconsistently used. Protein supplementation helps when combined with resistance exercise; pharmacological appetite stimulants carry risks and limited benefit. Ghrelin mimetics and targeted amino-acid supplementation show small benefits, but no therapy restores youthful appetite regulation and undernutrition screening remains rare in primary care.",
+  "sources": [
+    {
+      "title": "Molecular constraints of sarcopenia in the ageing muscle (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12267276/"
+    },
+    {
+      "title": "Immunofitness in the elderly: The role of vaccination in promoting healthy aging (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12893699/"
+    }
+  ]
+}

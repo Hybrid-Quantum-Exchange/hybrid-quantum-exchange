@@ -1,0 +1,14 @@
+{
+  "id": 427,
+  "domain": "medicine_cures",
+  "title": "Cystic fibrosis remaining mutation classes",
+  "bottleneck": "CFTR modulators transformed CF for the roughly 90% with responsive mutations, but patients with nonsense and other rare mutations get little benefit, and modulators do not fully prevent lung decline or address established damage. Gene therapy for CF has failed repeatedly due to airway delivery barriers.",
+  "why_it_blocks": "A two-tier CF population has emerged: one thriving on modulators, one left behind by precision medicine.",
+  "current_state": "Nonsense readthrough agents, tRNA therapies, and inhaled gene editors are in development. Airway delivery of durable genetic correction remains unsolved, echoing the broader in vivo delivery bottleneck. Inhaled delivery of gene editors or tRNA therapies could bypass systemic toxicity issues, but the airway's defenses evolved to keep particles out. Cracking airway delivery would transform not just CF but respiratory genetic medicine broadly.",
+  "sources": [
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

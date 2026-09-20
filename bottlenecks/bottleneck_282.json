@@ -1,0 +1,18 @@
+{
+  "id": 282,
+  "domain": "compute_semiconductors",
+  "title": "Alternative lithography defectivity (nanoimprint, DSA)",
+  "bottleneck": "Nanoimprint lithography and directed self-assembly promise cheap patterning without EUV, but defectivity is the wall: template wear and particle contamination in imprint, and defect annihilation limits in DSA, keep defect densities far above HVM requirements. Overlay for imprint is mechanically challenging, and neither technique has a full ecosystem of resists, templates, and inspection.",
+  "why_it_blocks": "A viable EUV alternative would break ASML's cost monopoly and democratize advanced patterning; without one, the entire industry's cost curve depends on a single vendor's tools. Competition in lithography is effectively zero.",
+  "current_state": "Canon ships nanoimprint tools with improving defectivity, and DSA sees use in limited applications like contact-hole shrink. Neither is close to displacing EUV for leading-edge logic. Template lifetime in nanoimprint is measured in hundreds of wafers, far below the durability economics that photomasks enjoy.",
+  "sources": [
+    {
+      "title": "Aminext: High-NA EUV Lithography",
+      "url": "https://www.aminext.blog/en/post/high-na-euv-lithography-asml-explained-moores-law-1"
+    },
+    {
+      "title": "PR Newswire: EUV sub-nanometer chips",
+      "url": "https://markets.financialcontent.com/prnews.investoruprising/article/tokenring-2025-10-4-euv-lithography-paving-the-way-for-sub-nanometer-chips"
+    }
+  ]
+}

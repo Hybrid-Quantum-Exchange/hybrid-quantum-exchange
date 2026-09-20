@@ -1,0 +1,18 @@
+{
+  "id": 860,
+  "domain": "xr_interface",
+  "title": "All-day AR battery life",
+  "bottleneck": "AR glasses carry a fraction of a smartphone's battery yet must power displays, sensors, and spatial compute; current display glasses last 2-4 hours of active use. Bigger batteries add weight that makes glasses unwearable, and wireless tethering to a phone or puck defeats the standalone vision. Energy density of batteries improves only a few percent per year.",
+  "why_it_blocks": "Without all-day battery, AR glasses are an accessory for demos, not a platform for life. The phone replaced many devices because it lasted the day; AR can't follow until it does too.",
+  "current_state": "Display-less glasses reach 8+ hours by dropping the display; display models struggle past 3-4 hours. Battery breakthroughs remain the slowest-moving part of the stack. Battery energy density improves only a few percent per year, far slower than the growth in display and compute demands.",
+  "sources": [
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    },
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    }
+  ]
+}

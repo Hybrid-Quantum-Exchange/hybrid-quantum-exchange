@@ -1,0 +1,18 @@
+{
+  "id": 474,
+  "domain": "health_longevity",
+  "title": "Skin aging and impaired wound healing in the elderly",
+  "bottleneck": "Aged skin thins, loses collagen and elasticity, and heals slowly: chronic wounds (diabetic ulcers, pressure sores) in older adults cost health systems billions and frequently lead to amputation or sepsis. Senescent dermal fibroblasts impair repair, but topical or systemic senolytics for skin remain experimental.",
+  "why_it_blocks": "Chronic wounds are a direct, visible failure of aged regeneration and a major driver of elderly morbidity and hospitalization. Solving skin repair would validate geroscience approaches for other tissues.",
+  "current_state": "Care is debridement, dressings, and offloading; growth-factor therapies largely failed. Early studies of topical senolytics and platelet-rich approaches show promise but no approved regenerative therapy exists. Bioengineered skin substitutes and growth-factor dressings help close wounds but do not restore youthful repair programs; aged-fibroblast reprogramming for wound beds is entirely preclinical.",
+  "sources": [
+    {
+      "title": "What Is: Cellular Senescence (Scientific Frontline)",
+      "url": "https://www.sflorg.com/2026/03/wi03202601.html"
+    },
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    }
+  ]
+}

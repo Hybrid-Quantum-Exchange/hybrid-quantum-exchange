@@ -1,0 +1,18 @@
+{
+  "id": 126,
+  "domain": "cosmology_multiverse",
+  "title": "The Missing Baryons Census",
+  "bottleneck": "Only about half of the baryons predicted by BBN and the CMB are accounted for in stars, cold gas, and hot cluster gas; the rest are believed to hide in the warm-hot intergalactic medium (WHIM). Detections via fast-radio-burst dispersion and X-ray absorption are accumulating but remain sparse and model-dependent. The warm-hot intergalactic medium is too diffuse to image directly and too cool to emit strongly, making it observable only in absorption or stacking.",
+  "why_it_blocks": "An incomplete baryon census leaves galaxy formation's fuel supply and feedback energetics uncalibrated.",
+  "current_state": "FRB dispersion measures and stacked SZ signals are closing the gap; a complete census is expected this decade but not yet in hand. Next-generation X-ray missions like Athena should detect WHIM emission lines and complete the census.",
+  "sources": [
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

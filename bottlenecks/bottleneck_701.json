@@ -1,0 +1,18 @@
+{
+  "id": 701,
+  "domain": "space",
+  "title": "Mining water ice in permanently shadowed craters",
+  "bottleneck": "The richest lunar water deposits lie in craters that have not seen sunlight in billions of years — but we do not know the ice's form (pure slabs, grain coatings, or mixed with regolith), its depth distribution, or its concentration at any specific site. Excavation at -230 C in darkness, capturing volatiles without losing water to vacuum sublimation during handling, and doing it all robotically with no servicing are each unsolved. All current knowledge comes from orbital remote sensing; no one has touched PSR ice.",
+  "why_it_blocks": "Lunar propellant and life support hinge on this ice; if it is patchy, deep, or low-grade, the business case for lunar ISRU changes completely.",
+  "current_state": "Orbital data from LRO and LCROSS confirm hydrogen signatures; VIPER's cancellation removed the near-term ground-truth mission. No extraction demonstration exists.",
+  "sources": [
+    {
+      "title": "How to Mine the Moon: The ISRU Process",
+      "url": "https://medium.com/@hamzatanveerahmad47/how-to-mine-the-moon-the-isru-process-c5a558017320"
+    },
+    {
+      "title": "Lunar soil shows promise for in-situ oxygen and fuel production (Moon Daily)",
+      "url": "https://www.moondaily.com/reports/Lunar_soil_shows_promise_for_in_situ_oxygen_and_fuel_production_999.html"
+    }
+  ]
+}

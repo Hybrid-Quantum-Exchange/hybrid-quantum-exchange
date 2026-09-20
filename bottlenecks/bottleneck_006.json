@@ -1,0 +1,14 @@
+{
+  "id": 6,
+  "domain": "fundamental_physics",
+  "title": "Absence of supersymmetry at the LHC and the naturalness crisis",
+  "bottleneck": "Supersymmetry was expected to appear near the weak scale to stabilize the Higgs mass against quantum corrections, but LHC Runs 1 through 3 have found no superpartners, pushing their masses into the multi-TeV range. The surviving parameter space requires the very fine-tuning supersymmetry was invented to avoid.",
+  "why_it_blocks": "The hierarchy problem was the strongest phenomenological argument for new physics at colliders; its leading solution failing to materialize leaves the Standard Model's most puzzling feature unexplained and weakens the case for future colliders.",
+  "current_state": "Attention has shifted to split supersymmetry, high-scale supersymmetry, and non-supersymmetric solutions like composite Higgs or extra dimensions, while the LHC continues searching in compressed and long-lived signatures. Split-supersymmetry and high-scale variants keep the mathematical structure while abandoning naturalness as a guiding principle.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

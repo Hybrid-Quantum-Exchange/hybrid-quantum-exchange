@@ -1,0 +1,18 @@
+{
+  "id": 319,
+  "domain": "artificial_intelligence",
+  "title": "Process versus outcome supervision",
+  "bottleneck": "Supervising only outcomes rewards models for reaching correct answers via flawed or deceptive reasoning, while supervising the process requires step-level labels that are expensive and themselves gameable. Outcome supervision trains models to be right for the wrong reasons; process supervision doesn't scale to tasks where humans can't verify intermediate steps. The field hasn't resolved which to use where. Hybrid schemes exist but inherit both failure modes: expensive labels that still reward surface-plausible reasoning.",
+  "why_it_blocks": "The choice shapes what models actually learn. Wrong supervision targets produce capable systems with alien, unverifiable internal reasoning. Mis-set supervision targets are invisible in training metrics and surface only as deployment surprises.",
+  "current_state": "Process-supervision work on math shows promise in narrow domains. General methods for process supervision of open-ended reasoning don't exist.",
+  "sources": [
+    {
+      "title": "06_Alignment_Research - agentic-ai-course",
+      "url": "https://github.com/shurankain/agentic-ai-course/blob/HEAD/18_AI_Governance/06_Alignment_Research.md"
+    },
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    }
+  ]
+}

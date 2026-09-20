@@ -1,0 +1,18 @@
+{
+  "id": 792,
+  "domain": "climate_environment",
+  "title": "Direct air capture cost curve to $100 per tonne",
+  "bottleneck": "Direct air capture today costs on the order of $600-1,500 per tonne of CO2, roughly ten times the $100 target that would make it a plausible climate tool. Costs are dominated by energy, capital-intensive contactors, and sorbent replacement, and unlike solar panels, DAC plants are bespoke chemical facilities with limited learning-curve evidence. No credible, demonstrated pathway shows costs falling an order of magnitude within the needed timeframe.",
+  "why_it_blocks": "At current costs, removing even 1 gigatonne a year would cost around a trillion dollars annually — politically and economically impossible. The cost gap means DAC functions as an expensive offset for the wealthy rather than a scalable climate solution.",
+  "current_state": "Optimistic roadmaps assume $150 per tonne by 2050 through scale and learning, and the Texas Stratos plant aims at 500,000 tonnes a year. But as one analysis notes, even that optimistic cost implies $1.5 trillion a year for 10 gigatonnes, and real-world plants like Climeworks' Iceland facilities have underperformed their nameplate capture.",
+  "sources": [
+    {
+      "title": "MIT Study Reveals Major Challenges with Carbon Removal Technology Plans",
+      "url": "https://scienceblog.com/mit-study-reveals-major-challenges-with-carbon-removal-technology-plans/"
+    },
+    {
+      "title": "What is direct air capture, and how does it work?",
+      "url": "https://thinklandscape.globallandscapesforum.org/102395/what-is-direct-air-capture/"
+    }
+  ]
+}

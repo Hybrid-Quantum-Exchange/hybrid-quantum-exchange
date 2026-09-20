@@ -1,0 +1,18 @@
+{
+  "id": 971,
+  "domain": "coordination",
+  "title": "International Frontier AI Governance Coordination Gaps",
+  "bottleneck": "Frontier AI development is global and fast, but governance is fragmented across voluntary corporate commitments, national regulations, and weak international frameworks. Verification asymmetries, divergent state interests, and the central role of private developers make enforceable coordination elusive. Private developers control the frontier, states have divergent interests, and verification of compliance is nearly impossible across borders.",
+  "why_it_blocks": "Without coordination, safety standards race to the bottom as jurisdictions compete for AI investment. Treaties without verification have failed before, from chemical weapons to climate pledges.",
+  "current_state": "The Hiroshima Process reporting framework and various summits produced principles, not enforcement; binding international AI governance does not exist. Without binding agreements, governance remains declaratory while capabilities advance. Binding international AI governance remains the missing piece of the safety puzzle.",
+  "sources": [
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    },
+    {
+      "title": "AI Leaders Support Call to Slow Pace of Frontier Development (IAPP)",
+      "url": "https://iapp.org/news/a/ai-leaders-support-call-to-slow-pace-of-frontier-development-as-safety-concerns-grow"
+    }
+  ]
+}

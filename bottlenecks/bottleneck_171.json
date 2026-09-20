@@ -1,0 +1,18 @@
+{
+  "id": 171,
+  "domain": "energy",
+  "title": "Burning-plasma diagnostics",
+  "bottleneck": "Controlling a burning plasma requires measuring temperature, density, alpha-particle populations, and wall conditions inside a reactor where neutron fluxes destroy electronics and coatings blind optical windows. Diagnostic systems must survive years in this environment while delivering real-time data for control, a far harsher requirement than on today's research machines, where diagnostics are regularly replaced by hand. Neutron and gamma radiation also generate noise and false signals in detectors, degrading the measurements that control systems rely on.",
+  "why_it_blocks": "You cannot control what you cannot measure. Without survivable, real-time diagnostics, burning-plasma control strategies cannot be implemented, and the safety case cannot be made.",
+  "current_state": "Radiation-hardened diagnostics are in development for ITER. Lifetime testing under power-plant neutron fluences has not been performed. ITER's diagnostic program is the largest test of radiation-hardened instrumentation, but its neutron fluence stays well below power-plant levels.",
+  "sources": [
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    },
+    {
+      "title": "How lithium walls trap tritium in fusion reactors revealed",
+      "url": "https://phys.org/news/2025-07-lithium-walls-tritium-fusion-reactors.amp"
+    }
+  ]
+}

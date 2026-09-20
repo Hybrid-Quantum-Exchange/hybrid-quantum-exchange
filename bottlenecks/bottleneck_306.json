@@ -1,0 +1,18 @@
+{
+  "id": 306,
+  "domain": "artificial_intelligence",
+  "title": "Sim-to-real transfer in robotics",
+  "bottleneck": "Policies trained in simulation routinely fail on real hardware because simulators cannot capture the full complexity of contact physics, friction, sensor noise, and wear. The reality gap forces expensive real-world data collection for every new task and environment, which is why generalist robots remain demos rather than products. Domain randomization helps but does not close the gap for dexterous manipulation. Each new sensor, gripper, or object geometry demands fresh real data, so progress resets with every hardware change.",
+  "why_it_blocks": "Physical labor automation — the largest potential economic impact of AI — is gated on robots that work reliably outside the lab without per-task real-world retraining.",
+  "current_state": "Robotics foundation models improve generalization, but fine physical manipulation still needs task-specific real data.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "The Hidden Bottlenecks of Intelligence: Memory, Reasoning, and System Coherence in Modern AI",
+      "url": "https://medium.com/architectural-intelligence/the-hidden-bottlenecks-of-intelligence-memory-reasoning-and-system-coherence-in-modern-ai-76f4b99204a8"
+    }
+  ]
+}

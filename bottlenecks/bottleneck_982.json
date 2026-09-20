@@ -1,0 +1,18 @@
+{
+  "id": 982,
+  "domain": "coordination",
+  "title": "Pandemic Preparedness Governance Failures",
+  "bottleneck": "COVID-19 revealed fragmented surveillance, slow data sharing, and inequitable countermeasure distribution, yet global preparedness governance remains largely voluntary. Pathogen surveillance networks are underfunded, and the political incentives still reward hiding outbreaks over reporting them. Surveillance and response capacities built during COVID are already being defunded in many countries.",
+  "why_it_blocks": "The next pandemic will exploit the same coordination gaps, with predictable costs in lives and economic damage. The costs of unpreparedness dwarf the costs of preparedness, yet budgets say otherwise. Political attention spikes during crises and evaporates between them.",
+  "current_state": "A pandemic accord was negotiated but enforcement mechanisms remain weak; surveillance funding has not matched the rhetoric. Preparedness is a pure public good with no political constituency between crises.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

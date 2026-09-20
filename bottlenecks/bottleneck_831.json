@@ -1,0 +1,18 @@
+{
+  "id": 831,
+  "domain": "climate_environment",
+  "title": "Flood-resilient urban infrastructure retrofit",
+  "bottleneck": "Most cities' drainage, transit, and power systems were designed for historical rainfall statistics that no longer apply, yet retrofitting is blocked by cost, disruption, and the deep uncertainty of future rainfall intensity — engineers cannot design to a target that keeps moving. Green infrastructure helps with moderate events but fails in the extreme downpours that cause most damage. No city has yet demonstrated a retrofit strategy proven against the floods of the 2040s.",
+  "why_it_blocks": "Urban flooding already causes hundreds of billions in annual damages and the trend is sharply upward; critical infrastructure failures cascade into health, economic, and social crises. The retrofit gap means every year of delay locks in vulnerability for infrastructure with 50-year lifespans.",
+  "current_state": "Cities from Rotterdam to Shenzhen are piloting sponge-city designs and upgraded drainage, with measurable benefits for moderate storms. But the engineering standards, financing models, and political will for transformation at the needed scale are all still missing.",
+  "sources": [
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    },
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    }
+  ]
+}

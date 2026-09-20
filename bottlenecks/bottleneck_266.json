@@ -1,0 +1,18 @@
+{
+  "id": 266,
+  "domain": "compute_semiconductors",
+  "title": "Wafer-scale chip yield and fault tolerance",
+  "bottleneck": "Wafer-scale integration (entire wafer as one chip) offers massive bandwidth, but a single killer defect can scrap the whole wafer, and power delivery and cooling across 300mm of active silicon are extreme engineering challenges. Fault tolerance through redundant cores and links recovers yield but wastes area and complicates software. Only one company ships wafer-scale products, proving how hard it is.",
+  "why_it_blocks": "Wafer-scale is the most direct attack on the interconnect bottleneck, but its economics only work if defect tolerance is near-perfect. If yield can't be managed, the industry is stuck with reticle-limited dies and their packaging overheads.",
+  "current_state": "Cerebras ships wafer-scale AI chips with redundancy-based yield management in production. Broader adoption awaits proof that the economics work beyond a single vendor's niche.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "MDPI: 2.5D/3D chiplet thermal review",
+      "url": "https://www.mdpi.com/2673-4117/6/12/373"
+    }
+  ]
+}

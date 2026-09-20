@@ -1,0 +1,14 @@
+{
+  "id": 26,
+  "domain": "fundamental_physics",
+  "title": "Bell nonlocality: closing the superdeterminism loophole",
+  "bottleneck": "Loophole-free Bell tests have confirmed quantum nonlocality, but they all assume the experimenters' measurement choices are independent of the hidden variables, an assumption superdeterminism denies by positing cosmic-scale correlations. Superdeterminism cannot be ruled out by any Bell experiment by construction.",
+  "why_it_blocks": "If superdeterminism holds, the entire edifice of experimental science, which assumes freely chosen settings probe independent reality, would need rethinking; if it is empty, physicists need a principled reason to dismiss it.",
+  "current_state": "Recent proposals use light from distant quasars and cosmic microwave background photons to push any conspiratorial correlations to the early universe, but no experiment can close the loophole in principle. Cosmic Bell tests using quasar and CMB photons push any conspiracy to the early universe, though no experiment can rule superdeterminism out in principle.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

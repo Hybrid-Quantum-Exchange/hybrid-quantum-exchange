@@ -1,0 +1,18 @@
+{
+  "id": 193,
+  "domain": "energy",
+  "title": "Reactor load-following with high renewables",
+  "bottleneck": "As renewables dominate grids, nuclear plants are asked to load-follow, ramping output daily, but reactors were designed for steady baseload, and thermal cycling stresses fuel, vessels, and steam systems while xenon transients complicate control. French reactors load-follow routinely, proving it possible, but it increases maintenance, reduces capacity factors, and most reactor economics assume baseload operation.",
+  "why_it_blocks": "If nuclear cannot flex economically, it gets curtailed or priced out in renewable-heavy grids. The baseload business model erodes exactly where clean firm power is most needed.",
+  "current_state": "France demonstrates routine load-following. Most new designs claim flexibility, but economic models for flexible nuclear operation are unproven. Grid operators increasingly pay for flexibility, but whether those payments cover nuclear's added maintenance costs is unresolved.",
+  "sources": [
+    {
+      "title": "Small Modular Reactors: Executive Summary",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/01_executive_summary.md"
+    },
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    }
+  ]
+}

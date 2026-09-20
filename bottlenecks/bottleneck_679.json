@@ -1,0 +1,18 @@
+{
+  "id": 679,
+  "domain": "space",
+  "title": "Autonomous operation of in-space nuclear reactors",
+  "bottleneck": "A fission reactor on a deep-space mission or planetary surface must operate for years with no human nearby: autonomous startup, load-following, fault detection, and safe shutdown, all while radiation degrades its own sensors and electronics. Terrestrial reactors rely on operators, maintenance crews, and replacement parts; a space reactor gets none of these. Control software must handle scenarios no one can fully anticipate, because a reactor that needs a service call is a reactor that kills its mission.",
+  "why_it_blocks": "Every nuclear space application — nuclear electric, fission surface power, nuclear thermal — assumes the reactor runs itself; without proven autonomy, mission risk assessments cannot close and regulators will not approve.",
+  "current_state": "Kilopower's KRUSTY test demonstrated autonomous load-following on the ground in 2018; DRACO will test space operation. Multi-year autonomous reactor operation in space has never been demonstrated.",
+  "sources": [
+    {
+      "title": "Nuclear rockets could travel to Mars in half the time — but designing the reactors isn't easy (Space.com)",
+      "url": "https://www.space.com/nuclear-rockets-could-travel-to-mars-in-half-time-designing-power-reactors-not-easy?utm_term=06C12F4A-4C3E-4B0F-B54B-1AC0B0EFBBED&lrh=8f5e020b18adbea7b6e1717b33b2a2b943946ab0abca849b5c61867c301dd2e4&utm_campaign=58E4DE65-C57F-4CD3-9A5A-609994E2C5A9&utm_medium=email&utm_content=C4A56BE0-F6FF-4A99-93ED-843463C2C314&utm_source=SmartBrief"
+    },
+    {
+      "title": "NASA Bets on Nuclear Propulsion to Cut the Mars Trip in Half (WebProNews)",
+      "url": "https://www.webpronews.com/nasa-bets-on-nuclear-propulsion-to-cut-the-mars-trip-in-half-and-the-clock-is-ticking/"
+    }
+  ]
+}

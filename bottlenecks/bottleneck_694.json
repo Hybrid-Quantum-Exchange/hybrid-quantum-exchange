@@ -1,0 +1,18 @@
+{
+  "id": 694,
+  "domain": "space",
+  "title": "Excavating subsurface habitats in compacted regolith",
+  "bottleneck": "Burying habitats under meters of regolith is the best radiation and micrometeorite shielding available — but lunar regolith below the fluffy surface is compacted and laced with rocks, and shadowed regions are frozen concrete-hard at -230 C. Excavation equipment must be lightweight for launch, autonomous, and able to operate in abrasive dust that destroys seals and bearings; terrestrial mining machines are far too heavy. No one has dug a habitat-scale cavity on another world.",
+  "why_it_blocks": "Without subsurface construction, shielding mass must be launched from Earth at enormous cost; the buried-habitat concept is what makes long-term surface stays affordable.",
+  "current_state": "NASA and ESA study excavation rovers; autonomous machines using percussive drills to break concrete-hard regolith are in lab testing. No off-world excavation beyond shallow scoops has been done.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "How to Mine the Moon: The ISRU Process",
+      "url": "https://medium.com/@hamzatanveerahmad47/how-to-mine-the-moon-the-isru-process-c5a558017320"
+    }
+  ]
+}

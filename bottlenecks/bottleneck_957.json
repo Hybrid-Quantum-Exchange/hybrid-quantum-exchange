@@ -1,0 +1,18 @@
+{
+  "id": 957,
+  "domain": "coordination",
+  "title": "The Preliminary-Data Requirement Stifles Discovery",
+  "bottleneck": "Major funders expect discoveries to be substantially demonstrated before funding them, meaning grants often fund 'mopping-up operations' rather than genuine exploration. Researchers without prior results in a new direction cannot get support to pivot, locking them into established lines of work. Early-career researchers are hit hardest, since they have the least prior work to show and the most to gain from pivoting.",
+  "why_it_blocks": "This Catch-22 means the riskiest, most original ideas — which by definition lack preliminary data — are structurally excluded from funding.",
+  "current_state": "NIH and NSF requirements have eased only marginally; the expectation of feasibility evidence remains embedded in review culture. Some funders now allow 'idea-only' tracks, but these remain exceptions rather than the rule.",
+  "sources": [
+    {
+      "title": "'Science by Consensus' Impedes Scientific Creativity (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11126901/"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

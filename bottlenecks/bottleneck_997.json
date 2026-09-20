@@ -1,0 +1,18 @@
+{
+  "id": 997,
+  "domain": "coordination",
+  "title": "Citizen Science Integration Barriers",
+  "bottleneck": "Millions of volunteers could contribute observations, classification, and distributed computing, but professional science rarely integrates them beyond token projects. Data-quality skepticism, institutional inertia, and lack of funding for coordination infrastructure keep citizen science marginal. Professional researchers often distrust volunteer data, though validation studies frequently show it is reliable.",
+  "why_it_blocks": "Untapped distributed labor could accelerate data-heavy fields at near-zero marginal cost. Data-hungry fields like ecology and astronomy could scale enormously with volunteer labor. The marginal cost of an additional volunteer observer is near zero.",
+  "current_state": "Platforms like Zooniverse and iNaturalist prove the model; structural integration into funded research programs is rare. Funding the coordination layer — platforms, training, quality control — would unlock enormous volunteer capacity. The volunteer capacity waiting to be tapped is enormous.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

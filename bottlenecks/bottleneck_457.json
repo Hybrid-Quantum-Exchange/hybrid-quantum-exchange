@@ -1,0 +1,18 @@
+{
+  "id": 457,
+  "domain": "health_longevity",
+  "title": "Disentangling lifespan extension from true aging slowdown",
+  "bottleneck": "Most longevity findings measure lifespan, not aging rate: an intervention can extend life by curing one bottleneck disease (e.g., cancer in mice, cardiovascular disease in humans) without slowing aging itself. A 2025 cross-species analysis showed centenarians die of specific diseases, not of 'old age,' and celebrated hallmarks and epigenetic clocks may conflate aging with age-independent physiology.",
+  "why_it_blocks": "If the field cannot distinguish genuine aging modulation from disease-specific life extension, it will keep celebrating false positives and misdirecting billions toward interventions that do not slow aging at all.",
+  "current_state": "Aging rate indicators (ARIs like irisin and GPLD1) are being developed in mice to measure aging pace independent of pathology, but replication is mostly from single labs and human translation requires plasma-based markers not yet validated.",
+  "sources": [
+    {
+      "title": "New analysis reveals fundamental flaws in widely used measures of biological aging (News-Medical)",
+      "url": "https://www.news-medical.net/news/20251203/New-analysis-reveals-fundamental-flaws-in-widely-used-measures-of-biological-aging.aspx"
+    },
+    {
+      "title": "Aging rate indicators and the search for anti-aging drugs (Frontiers in Science)",
+      "url": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2026.1821393/full"
+    }
+  ]
+}

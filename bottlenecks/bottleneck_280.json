@@ -1,0 +1,18 @@
+{
+  "id": 280,
+  "domain": "compute_semiconductors",
+  "title": "Signal integrity at 224 Gbps SerDes and beyond",
+  "bottleneck": "Doubling SerDes rates to 224 Gbps per lane and beyond pushes channels to their physical limits: insertion loss, crosstalk, and jitter demand heroic equalization, forward error correction adds latency, and even premium PCB materials and connectors barely suffice. Power per bit rises even as data rates climb, and testing at these speeds needs exotic instrumentation.",
+  "why_it_blocks": "Every chip-to-chip and rack-scale link depends on SerDes; if signaling can't scale, system bandwidth stalls regardless of compute gains. The industry faces a future where links cost more power and latency than the computation they serve.",
+  "current_state": "224 Gbps SerDes is entering production with PAM4 and strong FEC; research targets 448 Gbps. Each generation extracts smaller gains at higher power and complexity.",
+  "sources": [
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

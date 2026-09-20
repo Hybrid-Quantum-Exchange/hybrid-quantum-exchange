@@ -1,0 +1,18 @@
+{
+  "id": 149,
+  "domain": "energy",
+  "title": "Lithium-6 enrichment supply chain for fusion",
+  "bottleneck": "Tritium breeding depends on lithium-6, which makes up only 7.5 percent of natural lithium and must be enriched to 30 to 90 percent for efficient breeding blankets. Commercial lithium-6 enrichment capacity barely exists outside legacy weapons programs, and building it involves mercury-based processes regulators dislike or unproven laser and plasma methods. A single gigawatt plant needs 50 to 100 tonnes of enriched lithium-6 inventory.",
+  "why_it_blocks": "Fusion could stall before it starts if the fuel precursor supply chain does not exist. Dozens of plants would need thousands of tonnes of enriched lithium-6, a market that today is essentially zero.",
+  "current_state": "A few startups are developing plasma centrifuge and laser enrichment for lithium-6, and fusion companies are signing early supply MOUs, but no commercial-scale lithium-6 enrichment plant is operating.",
+  "sources": [
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    },
+    {
+      "title": "Plasma 'breakthrough' could advance fusion reactor isotope enrichment",
+      "url": "https://interestingengineering.com/energy/plasma-breakthrough-could-advance-nuclear-fusion-reactor-isotope-enrichment"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 766,
+  "domain": "materials",
+  "title": "MXene oxidation stability",
+  "bottleneck": "MXenes offer exceptional conductivity and tunable surface chemistry, but they oxidize in water and air within days to weeks, degrading into titanium dioxide and losing their signature properties. Edge capping, storage in inert conditions, and compositional tweaks slow degradation but have not produced shelf-stable, processable MXene inks for real manufacturing environments. The instability is intrinsic to the exposed transition-metal surfaces that make MXenes useful.",
+  "why_it_blocks": "MXenes could upgrade batteries, supercapacitors, EMI shielding, and membranes, but a material that degrades on the shelf cannot enter supply chains. Oxidation forces expensive handling that wipes out the cost advantage over existing materials.",
+  "current_state": "Antioxidant additives and dry-storage protocols have extended usable lifetimes to months in the lab, and some compositions are markedly more stable. Yet no MXene product has survived the transition from careful lab handling to commodity manufacturing, and the stability problem still defines the field.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    }
+  ]
+}

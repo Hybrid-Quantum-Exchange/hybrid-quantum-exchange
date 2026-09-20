@@ -1,0 +1,18 @@
+{
+  "id": 835,
+  "domain": "climate_environment",
+  "title": "Coastal groundwater salinization management",
+  "bottleneck": "Sea-level rise pushes saltwater into coastal aquifers that supply drinking water to hundreds of millions, but the intrusion dynamics are poorly monitored: most coastal aquifers lack observation wells, pumping interacts with sea-level pressure in complex ways, and once salinized, aquifers can take centuries to flush. Managed aquifer recharge and extraction barriers work locally but have never been deployed at the scale of a major delta city.",
+  "why_it_blocks": "Groundwater is the invisible water supply for much of the coastal developing world; salinization is irreversible on human timescales and forces expensive desalination or abandonment. The monitoring gap means intrusion is usually discovered only when wells turn salty.",
+  "current_state": "Cities like Jakarta and Miami are modeling intrusion and testing barriers, and remote sensing is beginning to map vulnerable aquifers. But systematic monitoring networks and proven large-scale interventions do not yet exist.",
+  "sources": [
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    },
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    }
+  ]
+}

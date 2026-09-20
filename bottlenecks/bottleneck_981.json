@@ -1,0 +1,18 @@
+{
+  "id": 981,
+  "domain": "coordination",
+  "title": "Orbital Debris and Space Governance Gaps",
+  "bottleneck": "Low Earth orbit is filling with satellites and debris under a governance regime (the 1967 Outer Space Treaty) that assigns liability loosely and mandates no debris removal. Collision risk grows with each mega-constellation launch, and no binding traffic management or cleanup obligation exists. No state wants to pay for cleanup while others free-ride, the classic commons problem in orbit.",
+  "why_it_blocks": "An unmanaged orbital commons risks Kessler-syndrome cascades that could deny space access for generations. Once cascading collisions begin, no cleanup technology can restore safe orbits quickly.",
+  "current_state": "Voluntary guidelines and national licensing help marginally; active debris removal has no funded international program. A binding traffic-management treaty has been discussed for decades without progress. Without action, the orbital commons will keep degrading with each launch.",
+  "sources": [
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    },
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    }
+  ]
+}

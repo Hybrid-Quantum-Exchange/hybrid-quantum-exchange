@@ -1,0 +1,18 @@
+{
+  "id": 197,
+  "domain": "energy",
+  "title": "Decommissioning cost estimation and fund adequacy",
+  "bottleneck": "Decommissioning a reactor costs hundreds of millions to billions of dollars, funded over decades through ratepayer collections, but cost estimates are uncertain, early shutdowns strand underfunded trusts, and novel designs have no decommissioning experience to base estimates on. Shortfalls ultimately land on taxpayers or ratepayers. SMR vendors' decommissioning claims are entirely theoretical.",
+  "why_it_blocks": "Underfunded decommissioning is a slow-motion fiscal crisis. Every reactor built without a credible end-of-life plan creates a liability that outlives its electricity by generations. Cost estimates for dismantling novel designs are extrapolated from light-water experience, which may not apply to molten salt or graphite systems.",
+  "current_state": "US decommissioning funds are regulated and generally adequate for the current fleet. Advanced-reactor decommissioning costs are unestimated. Regulators require periodic fund adequacy reviews, but the reviews rely on the same uncertain estimates.",
+  "sources": [
+    {
+      "title": "Small Modular Reactors: Executive Summary",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/01_executive_summary.md"
+    },
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    }
+  ]
+}

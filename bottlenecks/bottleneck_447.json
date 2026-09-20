@@ -1,0 +1,14 @@
+{
+  "id": 447,
+  "domain": "medicine_cures",
+  "title": "Hearing loss: hair-cell regeneration",
+  "bottleneck": "Sensorineural hearing loss, affecting hundreds of millions, results from irreversible loss of cochlear hair cells, which mammals cannot regenerate; hearing aids amplify but do not restore natural hearing, and cochlear implants bypass rather than repair biology.",
+  "why_it_blocks": "Hearing loss isolates people socially and accelerates cognitive decline; a biological cure would outperform any device.",
+  "current_state": "Gene therapies restoring single-gene deafness are advancing: Otarmeni, a dual-AAV therapy for OTOF-related deafness, became the first of its kind FDA-approved, and hair-cell regeneration via supporting-cell reprogramming works in animals. Regenerating hair cells in adult humans remains unsolved. Supporting-cell reprogramming has regenerated hair cells in animal models, but translating this to adult humans faces delivery and safety hurdles. The dual-vector success of Otarmeni suggests gene therapy can reach the inner ear, opening the door to regenerative approaches.",
+  "sources": [
+    {
+      "title": "Otarmeni Approved by FDA as First Dual AAV Vector Gene Therapy for Rare Disease",
+      "url": "https://www.world-today-journal.com/otarmeni-approved-by-fda-as-first-dual-aav-vector-gene-therapy-for-rare-disease/"
+    }
+  ]
+}

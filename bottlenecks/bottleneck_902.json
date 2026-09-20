@@ -1,0 +1,18 @@
+{
+  "id": 902,
+  "domain": "xr_interface",
+  "title": "Display pixel density for retinal resolution",
+  "bottleneck": "Retinal resolution needs roughly 60 pixels per degree, implying 8K+ per eye for wide FOV, but such panels don't exist at headset sizes, and driving them needs GPU power far beyond mobile budgets. Foveated rendering eases the GPU side, but the panels themselves are the wall. Text readability suffers most.",
+  "why_it_blocks": "Without retinal resolution, VR can't match monitor clarity for reading and detail work, blocking productivity use. The screen-door effect persists because pixels are still too big.",
+  "current_state": "Panel densities are climbing (3000+ PPI microdisplays in development), but full-FOV retinal-resolution panels at shippable cost and power don't exist. Foveated rendering reduces GPU load but cannot conjure pixels the panel lacks, so text stays blurry outside the foveal region.",
+  "sources": [
+    {
+      "title": "Laser Focus World: Waveguide design for AR",
+      "url": "https://www.laserfocusworld.com/optics/article/55365905/waveguide-design-for-ar-glasses-system-optimization"
+    },
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    }
+  ]
+}

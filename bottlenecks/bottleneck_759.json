@@ -1,0 +1,18 @@
+{
+  "id": 759,
+  "domain": "materials",
+  "title": "Nanofabrication throughput for mechanical metamaterials",
+  "bottleneck": "Nanoarchitected mechanical metamaterials achieve extraordinary strength-to-weight ratios, but fabrication relies on two-photon lithography and electron-beam writing that produce only cubic millimeters per hour at costs exceeding $10,000 per cubic centimeter. Scaling to structural components needs square meters of material, a throughput gap of roughly six orders of magnitude. Faster methods like projection micro-stereolithography gain speed but lose the true 3D lattice architectures that give metamaterials their properties.",
+  "why_it_blocks": "Ultralight, ultra-strong lattices could transform aerospace, vehicles, and protective equipment, cutting fuel use and material consumption. The throughput wall confines them to laboratory samples and tiny high-value parts, so none of those system-level benefits materialize.",
+  "current_state": "Roll-to-roll nanoimprint and self-assembly via block copolymers show promise for larger areas, though mostly limited to 2.5D extrusions rather than true 3D lattices. Capital costs above $10 million per production line keep the technology out of reach for most manufacturers.",
+  "sources": [
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    },
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    }
+  ]
+}

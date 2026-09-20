@@ -1,0 +1,14 @@
+{
+  "id": 445,
+  "domain": "medicine_cures",
+  "title": "Preeclampsia prediction and treatment",
+  "bottleneck": "Preeclampsia complicates 5 to 8% of pregnancies and can kill mother and baby within days; its root cause, abnormal placental implantation and angiogenic imbalance, has no targeted treatment, and delivery of the placenta, meaning delivery of the baby, often premature, remains the only cure.",
+  "why_it_blocks": "A leading cause of maternal mortality worldwide is treated by ending the pregnancy it threatens.",
+  "current_state": "Angiogenic biomarker ratios now aid short-term prediction, and low-dose aspirin helps high-risk women. A disease-modifying therapy does not exist. The angiogenic imbalance at preeclampsia's root is increasingly understood, yet translating that knowledge into therapy has stalled. Because any treatment must be safe for both mother and fetus, drug development faces uniquely stringent barriers, and the field remains dependent on timely delivery.",
+  "sources": [
+    {
+      "title": "Galleri Test for Early Cancer Detection: Comprehensive Guide",
+      "url": "https://www.preventivemedicinedaily.com/healthy-living/screening/galleri-test-for-early-cancer-detection-comprehensive-guide/"
+    }
+  ]
+}

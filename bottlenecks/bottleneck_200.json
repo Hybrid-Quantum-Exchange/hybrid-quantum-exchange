@@ -1,0 +1,18 @@
+{
+  "id": 200,
+  "domain": "energy",
+  "title": "Deep borehole disposal demonstration",
+  "bottleneck": "Deep boreholes, 3 to 5 km holes in crystalline rock, could dispose of high-level waste more cheaply and with less political friction than mined repositories, but no country has demonstrated waste emplacement and sealing at full scale. Questions about canister retrieval, seal longevity over millennia, and thermal effects on deep rock remain open. The concept is attractive but entirely unproven as an engineered system.",
+  "why_it_blocks": "Boreholes could break the repository deadlock that paralyzes nuclear waste policy, but only with a full-scale demonstration that regulators and the public accept, which has not happened.",
+  "current_state": "DOE studied boreholes and private firms propose demonstrations. No waste has been emplaced in a deep borehole anywhere. Regulators have no licensing framework for borehole disposal, so even a successful demonstration would face years of rule-writing before commercial use.",
+  "sources": [
+    {
+      "title": "The Big Problems with Small Nukes",
+      "url": "https://www.columbiariverkeeper.org/2024/the-big-problems-with-small-nukes/"
+    },
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    }
+  ]
+}

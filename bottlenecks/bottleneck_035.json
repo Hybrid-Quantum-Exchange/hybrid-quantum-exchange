@@ -1,0 +1,18 @@
+{
+  "id": 35,
+  "domain": "fundamental_physics",
+  "title": "Detecting the QCD axion",
+  "bottleneck": "The axion, proposed to solve the strong CP problem, would interact so weakly that decades of haloscope, helioscope, and light-shining-through-wall experiments have found nothing across most of the plausible mass range. The allowed window spans many orders of magnitude in mass and coupling, so null results barely dent the theory.",
+  "why_it_blocks": "The axion is simultaneously the best solution to the strong CP problem and a leading dark matter candidate; confirming or excluding it would settle two major problems at once, but its elusiveness stalls both.",
+  "current_state": "ADMX and its successors are now probing the most favored micro-eV mass range with quantum-limited amplifiers, while new broadband and lumped-element searches attack higher masses; discovery could come any year or never.",
+  "sources": [
+    {
+      "title": "New hypothesis claims to solve 5 of the biggest problems in physics - ScienceAlert",
+      "url": "https://sciencealert.com/this-new-hypothesis-claims-to-have-solved-5-of-the-biggest-problems-in-physics/"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "domain": "materials",
+  "title": "Copper-carbon-nanotube composite conductors at scale",
+  "bottleneck": "Copper-carbon-nanotube composites have demonstrated conductivity beyond pure copper in laboratory samples, promising lighter, more efficient wiring for motors, grids, and aerospace. But translating nanoscale interface quality to kilometer-scale wire has stalled: nanotube alignment, copper infiltration, and interfacial resistance degrade badly outside the lab.",
+  "why_it_blocks": "Wiring is everywhere, and even single-digit percentage gains in conductivity compound into enormous energy savings across motors, transformers, and transmission. The physics works in a coupon; the manufacturing science to make a spool of it does not, so the grid keeps paying copper's resistive tax.",
+  "current_state": "Lab demonstrations of ultra-conductive composites continue to advance, yet continuous wire-drawing processes that preserve the nanoscale architecture remain experimental. No commercial conductor product with verified beyond-copper performance exists.",
+  "sources": [
+    {
+      "title": "Copper-carbon-nanotube ultra-conductive composite",
+      "url": "https://phys.org/news/2024-09-copper-carbon-nanotube-ultra-conductive.html"
+    },
+    {
+      "title": "Copper-carbon-nanotube composite conductor study",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0008622324005678"
+    }
+  ]
+}

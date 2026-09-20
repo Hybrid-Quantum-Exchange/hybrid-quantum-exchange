@@ -1,0 +1,18 @@
+{
+  "id": 339,
+  "domain": "artificial_intelligence",
+  "title": "Synthetic data and model collapse",
+  "bottleneck": "Training on AI-generated data risks model collapse — a degenerative process where models trained on their own outputs progressively lose the tails of the data distribution, becoming blander and less capable each generation. Filtering synthetic data for quality at web scale is itself unsolved, and the web is increasingly polluted with AI text, poisoning future training corpora. The field may be consuming its own seed corn.",
+  "why_it_blocks": "If synthetic data can't substitute for human data, the data wall is hard; if it contaminates the commons, even human data becomes unusable.",
+  "current_state": "Model collapse is demonstrated in controlled studies; whether it bites at frontier scale with careful filtering is actively debated and unresolved. Newer work shows the dynamics are nuanced: collapse is avoidable when synthetic data augments rather than replaces real data.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "AI models face collapse when trained on AI-generated data, study finds | DailyAI",
+      "url": "https://dailyai.com/2024/07/ai-models-face-collapse-when-trained-on-ai-generated-data-study-finds/"
+    }
+  ]
+}

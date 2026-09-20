@@ -1,0 +1,18 @@
+{
+  "id": 242,
+  "domain": "compute_semiconductors",
+  "title": "3D chip stacking thermal density limits",
+  "bottleneck": "Stacking logic dies vertically traps heat: middle and bottom dies must push watts through multiple silicon layers and bonding interfaces, with local hotspots exceeding 500 W/cm2 in advanced chiplet designs. Conventional air cooling tops out around 300 W for 2.5D stacks, forcing liquid or hybrid cooling for 3D stacks near 350 W and above. Thermal crosstalk between stacked dies also makes temperature fields unpredictable.",
+  "why_it_blocks": "Thermal density, not transistor density, now caps 3D integration: dies must be power-throttled to survive, erasing the performance gains stacking was meant to deliver. Data-center operators face a cooling-cost spiral as AI packages push past air-cooling limits.",
+  "current_state": "Microchannel liquid cooling, immersion, and advanced TIMs are deployed in flagship AI systems, and thermal-feasibility modeling frameworks are maturing. But 3D logic-on-logic stacks at high power remain thermally constrained in production.",
+  "sources": [
+    {
+      "title": "MDPI: 2.5D/3D chiplet thermal review",
+      "url": "https://www.mdpi.com/2673-4117/6/12/373"
+    },
+    {
+      "title": "Patsnap: Chiplet thermal management",
+      "url": "https://eureka.patsnap.com/report-analysis-of-chiplet-integration-thermal-management-for-semiconductors"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 234,
+  "domain": "compute_semiconductors",
+  "title": "Defect-free EUV mask blanks and pellicles",
+  "bottleneck": "EUV masks are reflective multilayer mirrors (40+ Mo/Si bilayers) where a single nanometer-scale defect can print on every die. Producing defect-free mask blanks at 2nm-class tolerances and protecting them with pellicles that transmit 13.5nm light without overheating remain unsolved manufacturing problems. High-NA's smaller depth of focus magnifies the impact of any mask imperfection.",
+  "why_it_blocks": "Masks are the master template for the world's most expensive chips; uncorrectable mask defects become systematic yield loss across entire wafer lots. Without reliable blanks and pellicles, high-NA EUV cannot move from pilot lines to dependable high-volume production.",
+  "current_state": "Pellicle materials with acceptable EUV transmission and thermal stability are emerging, and mask-shops have improved blank defect inspection. Still, defect-free blank supply is limited and expensive, and actinic inspection tools are scarce.",
+  "sources": [
+    {
+      "title": "Aminext: High-NA EUV Lithography",
+      "url": "https://www.aminext.blog/en/post/high-na-euv-lithography-asml-explained-moores-law-1"
+    },
+    {
+      "title": "Business News Today: Dry resist & high-NA EUV",
+      "url": "https://business-news-today.com/dry-resist-and-high-na-euv-is-this-the-breakthrough-that-can-finally-unlock-sub-2nm-chips/"
+    }
+  ]
+}

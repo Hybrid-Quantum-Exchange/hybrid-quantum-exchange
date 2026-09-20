@@ -1,0 +1,14 @@
+{
+  "id": 25,
+  "domain": "fundamental_physics",
+  "title": "Experimental tests of objective collapse models",
+  "bottleneck": "Objective collapse theories like GRW and continuous spontaneous localization add a physical collapse mechanism with tunable parameters for collapse rate and localization length, but the allowed parameter window has been squeezed from above by experiments and from below by the requirement that collapse actually solves the measurement problem. The remaining window is narrow and theoretically unmotivated.",
+  "why_it_blocks": "Collapse models are among the few interpretations of quantum mechanics that make distinct experimental predictions; if they are ruled out, the measurement problem is pushed toward interpretations with no empirical consequences.",
+  "current_state": "Matter-wave interferometry with large molecules, optomechanical resonators, and underground X-ray emission searches have excluded large regions of the CSL parameter space, but a viable window persists. Matter-wave interferometry with macromolecules keeps pushing the superposition mass frontier, steadily tightening the bounds on collapse parameters.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

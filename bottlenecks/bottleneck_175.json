@@ -1,0 +1,18 @@
+{
+  "id": 175,
+  "domain": "energy",
+  "title": "Spin-polarized fusion fuel scale-up",
+  "bottleneck": "Aligning the quantum spins of deuterium and tritium nuclei can increase fusion reaction rates, potentially cutting tritium consumption several-fold, but producing, transporting, and injecting spin-polarized fuel without depolarization is unsolved. Polarized pellets depolarize on contact with walls and magnetic field gradients, and no polarized fueling system has operated on a tokamak. The physics is attractive; the engineering is nearly untouched. Depolarization happens in milliseconds on contact with most surfaces, so the entire fueling path from production to plasma must be redesigned around spin preservation.",
+  "why_it_blocks": "Spin polarization could relax the tritium breeding requirement that gates the whole D-T economy, but only if the fuel survives the journey from production to plasma core.",
+  "current_state": "Modeling suggests large reductions in tritium needs with polarization. Experimental polarized-fuel injection into fusion plasmas has not been demonstrated.",
+  "sources": [
+    {
+      "title": "Princeton achieves 10x reduction in tritium needs for nuclear fusion",
+      "url": "https://interestingengineering.com/energy/nuclear-fusion-fuel-breakthrough"
+    },
+    {
+      "title": "How lithium walls trap tritium in fusion reactors revealed",
+      "url": "https://phys.org/news/2025-07-lithium-walls-tritium-fusion-reactors.amp"
+    }
+  ]
+}

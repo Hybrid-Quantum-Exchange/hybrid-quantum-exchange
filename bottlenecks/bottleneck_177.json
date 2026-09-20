@@ -1,0 +1,18 @@
+{
+  "id": 177,
+  "domain": "energy",
+  "title": "SMR spent fuel radiotoxicity per unit energy",
+  "bottleneck": "Several analyses project that small modular reactor spent fuel is more radiotoxic per unit of electricity than conventional reactor fuel, up to 50 percent higher after 10,000 years, because compact cores and higher enrichments change the actinide mix. SMR vendors' claims of reduced waste rest on volume, not radiotoxicity. Higher-burnup, higher-enrichment fuels also complicate storage, transport, and repository loading.",
+  "why_it_blocks": "If SMRs produce more hazardous waste per megawatt-hour, a core part of their public-acceptance and environmental case collapses, and repository planning must expand rather than shrink.",
+  "current_state": "Radiotoxicity projections come from modeling studies contested by vendors. No operating SMR has produced spent fuel to validate either side. Utilities and regulators have not settled on how to classify or price this waste stream, leaving long-term disposal planning in limbo.",
+  "sources": [
+    {
+      "title": "Small Modular Reactors: Executive Summary",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/01_executive_summary.md"
+    },
+    {
+      "title": "The Big Problems with Small Nukes",
+      "url": "https://www.columbiariverkeeper.org/2024/the-big-problems-with-small-nukes/"
+    }
+  ]
+}

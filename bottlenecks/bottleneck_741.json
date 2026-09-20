@@ -1,0 +1,18 @@
+{
+  "id": 741,
+  "domain": "materials",
+  "title": "Solid-state battery dendrite suppression",
+  "bottleneck": "Lithium dendrites pierce solid electrolytes and short-circuit solid-state cells, and a 2026 review found the failure is a cascade, not a single mechanism: grain boundaries with a thousand-fold lower ionic conductivity seed filaments, slow lithium self-diffusion causes voiding that concentrates current, and electronic leakage lets lithium plate inside the ceramic itself. No single fix addresses all pathways at once.",
+  "why_it_blocks": "Solid-state batteries promise higher energy density and safety than liquid-electrolyte cells, which underpin EVs and grid storage. Dendrite-driven shorting is the central obstacle to commercial viability, keeping the technology in pilot lines after decades of development.",
+  "current_state": "Recent work traces failure to the crystal level — a 2026 MIT study pinned dendrite origins to charged grain boundaries in LLZO, while Max Planck researchers showed internal stress fractures the ceramic. Dynamic crosslinked polymers that self-heal interfaces are a promising but unproven direction.",
+  "sources": [
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    },
+    {
+      "title": "Why Solid-State Batteries Fail: MIT Study",
+      "url": "https://casrai.org/news/solid-state-battery-dendrite-failure-grain-boundaries"
+    }
+  ]
+}

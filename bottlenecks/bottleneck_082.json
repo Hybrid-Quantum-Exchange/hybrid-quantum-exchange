@@ -1,0 +1,18 @@
+{
+  "id": 82,
+  "domain": "fundamental_physics",
+  "title": "Semiclassical gravity: consistency of quantum fields on curved spacetime",
+  "bottleneck": "Quantum field theory in curved spacetime predicts real effects like Hawking radiation, but coupling the quantum expectation value of stress-energy back to the Einstein equations is beset by renormalization ambiguities, runaway solutions, and questions about when the semiclassical approximation breaks down. There is no agreed criterion for its domain of validity.",
+  "why_it_blocks": "Semiclassical gravity is the workhorse behind black hole evaporation and inflationary perturbation theory; if it is inconsistent, two of the field's central predictions rest on shaky ground.",
+  "current_state": "The framework is widely used and its predictions trusted in regimes of low curvature, but the backreaction problem and the validity of the semiclassical Einstein equations remain technically open. Stochastic gravity extends the semiclassical picture with noise from quantum fluctuations, but its physical status is equally unsettled.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    },
+    {
+      "title": "open-physics-problems SOURCES.md - meta-aggregator of unsolved physics lists",
+      "url": "https://github.com/zozo123/open-physics-problems/blob/HEAD/SOURCES.md"
+    }
+  ]
+}

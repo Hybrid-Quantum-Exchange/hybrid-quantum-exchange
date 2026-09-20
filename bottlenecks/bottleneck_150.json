@@ -1,0 +1,18 @@
+{
+  "id": 150,
+  "domain": "energy",
+  "title": "Divertor heat exhaust at power-plant scale",
+  "bottleneck": "The divertor must exhaust helium ash and unburned fuel while surviving steady heat fluxes of 10 MW per square meter and transient bursts far higher, conditions no existing material handles indefinitely. Tungsten monoblocks are the reference design, but they crack under cyclic thermal stress and erode under plasma bombardment. Alternative concepts like liquid-metal divertors or detached-plasma operation reduce heat loads but are unproven at reactor scale.",
+  "why_it_blocks": "The divertor is the component most likely to fail first in a power plant. If it cannot survive years of operation, plant availability and maintenance costs make fusion electricity uncompetitive regardless of plasma performance.",
+  "current_state": "ITER's tungsten divertor is the largest test of the concept, and liquid-lithium divertor experiments on smaller tokamaks show promise. No divertor has yet faced power-plant-level heat flux combined with 14 MeV neutrons.",
+  "sources": [
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    },
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    }
+  ]
+}

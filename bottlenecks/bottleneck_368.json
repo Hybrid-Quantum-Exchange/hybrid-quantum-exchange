@@ -1,0 +1,14 @@
+{
+  "id": 368,
+  "domain": "medicine_cures",
+  "title": "Desmoplastic stroma blocking drug penetration",
+  "bottleneck": "Pancreatic and some other tumors surround themselves with dense fibrotic stroma, including cancer-associated fibroblasts, collagen, and high interstitial pressure, that physically blocks drugs and immune cells from reaching cancer cells. The stroma also actively signals to promote tumor growth and therapy resistance.",
+  "why_it_blocks": "Even potent drugs fail if they cannot reach their targets; the stromal fortress is a major reason pancreatic cancer resists nearly every systemic therapy.",
+  "current_state": "Stroma-modifying strategies, including enzymatic depletion of hyaluronan and fibroblast-targeted agents, have shown promise in models but mixed clinical results, sometimes accelerating disease. Selectively normalizing rather than destroying stroma is the current research direction. Researchers are also exploring whether the stroma can be reprogrammed from a tumor-promoting to a tumor-restraining state rather than destroyed outright. Clinical proof of this normalization strategy is still pending.",
+  "sources": [
+    {
+      "title": "Why some tumors resist immunotherapy: Blocking miR-25 may help turn cold cancers hot",
+      "url": "https://medicalxpress.com/news/2026-06-tumors-resist-immunotherapy-blocking-mir.html"
+    }
+  ]
+}

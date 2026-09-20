@@ -1,0 +1,14 @@
+{
+  "id": 369,
+  "domain": "medicine_cures",
+  "title": "Cancers of unknown primary",
+  "bottleneck": "In 3 to 5% of cancers, metastatic disease is found without an identifiable primary tumor despite extensive workup, leaving oncologists to treat empirically with broad chemotherapy regimens rather than site-specific targeted therapy.",
+  "why_it_blocks": "Modern oncology is organized around the primary site and its molecular drivers; without knowing the origin, patients miss targeted and immunotherapy options tied to specific cancer types.",
+  "current_state": "Gene-expression and methylation-based classifiers, plus tissue-of-origin prediction from circulating tumor DNA in multi-cancer blood tests, are improving primary-site identification. Empiric therapy remains standard for many such patients while these tools are validated. Accurate origin prediction matters because site-specific therapies and immunotherapy eligibility increasingly depend on tumor type. As molecular classifiers improve, treatment for these patients is gradually shifting from empiric chemotherapy toward guided therapy.",
+  "sources": [
+    {
+      "title": "The cancer blood test making waves, and what the numbers really show",
+      "url": "https://medicalxpress.com/news/2025-11-cancer-blood.html"
+    }
+  ]
+}

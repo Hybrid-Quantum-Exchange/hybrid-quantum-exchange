@@ -1,0 +1,18 @@
+{
+  "id": 869,
+  "domain": "xr_interface",
+  "title": "Gaze prediction for saccade-robust rendering",
+  "bottleneck": "During saccades the eye moves faster than any tracker-display pipeline can follow, so systems must predict where the gaze will land; prediction errors place the sharp region in the wrong spot, causing visible flicker. Saccadic suppression masks some error, but prediction models trained on limited data generalize poorly across users and tasks.",
+  "why_it_blocks": "Better gaze prediction would shrink foveal regions and multiply rendering savings, but unreliable prediction forces wasteful margins. The eye's speed keeps beating the pipeline.",
+  "current_state": "Software-only gaze prediction research shows feasibility with a few degrees of error, trading precision for accessibility. Production systems still rely on hardware tracking with conservative margins. Prediction models trained on limited gaze datasets generalize poorly across users, tasks, and headset fits.",
+  "sources": [
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

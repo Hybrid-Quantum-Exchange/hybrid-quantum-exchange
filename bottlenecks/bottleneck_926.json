@@ -1,0 +1,18 @@
+{
+  "id": 926,
+  "domain": "food_water_agriculture",
+  "title": "Regulatory fragmentation for gene-edited crops",
+  "bottleneck": "Gene-edited crops face wildly inconsistent regulation: EU courts subjected CRISPR plants to full GMO approval costing about $35M per trait, the US SECURE rule seesawed in federal court, and many developing countries lack frameworks entirely — while the science shows edits equivalent to conventional breeding. Developers must navigate contradictory regimes, and only the largest companies can afford multi-jurisdiction approval.",
+  "why_it_blocks": "Regulatory chaos delays or kills climate-resilient varieties. Beneficial traits sit in labs while farmers face the stresses they were bred to resist.",
+  "current_state": "The EU is legislating new genomic technique categories with contested edit limits; the US product-based approach faces legal challenges; global harmonization is distant. The EU is legislating new genomic technique categories with contested edit limits; global harmonization is distant.",
+  "sources": [
+    {
+      "title": "CRISPR crops are coming to Europe — why bolder would be better",
+      "url": "https://www.nature.com/articles/d41586-026-02848-z"
+    },
+    {
+      "title": "European court ruling raises hurdles for CRISPR crops",
+      "url": "https://www.science.org/content/article/european-court-ruling-raises-hurdles-crispr-crops?cookieSet=1"
+    }
+  ]
+}

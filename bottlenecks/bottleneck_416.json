@@ -1,0 +1,14 @@
+{
+  "id": 416,
+  "domain": "medicine_cures",
+  "title": "Multiple sclerosis remyelination and repair",
+  "bottleneck": "Disease-modifying therapies suppress MS relapses by dampening immunity, but none repairs damaged myelin or reverses accumulated disability; progressive MS, driven by compartmentalized inflammation and neurodegeneration behind an intact blood-brain barrier, has minimal treatment options.",
+  "why_it_blocks": "Patients accumulate irreversible disability over decades; anti-inflammatory drugs slow new damage but cannot restore lost function.",
+  "current_state": "Remyelination candidates have shown mixed results, and BTK inhibitors targeting compartmentalized inflammation are in late trials. Proven neurorepair remains elusive, and developers increasingly call for alternative modalities beyond immunosuppression. Progressive MS is particularly neglected because its compartmentalized inflammation sits behind an intact blood-brain barrier, unreachable by most drugs. BTK inhibitors that penetrate the central nervous system are among the most anticipated candidates, but repair of already-damaged myelin remains a separate unsolved problem.",
+  "sources": [
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

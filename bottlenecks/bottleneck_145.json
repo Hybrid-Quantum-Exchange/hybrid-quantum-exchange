@@ -1,0 +1,18 @@
+{
+  "id": 145,
+  "domain": "cosmology_multiverse",
+  "title": "Structure Formation in Cosmic Voids",
+  "bottleneck": "Cosmic voids occupy most of the universe's volume, yet galaxy formation inside them is poorly understood: void galaxies appear systematically different (bluer, less evolved), and tests of gravity in low-density environments are weak. Simulations struggle with void statistics, and modified-gravity theories predict distinctive void phenomena that have not been cleanly tested. Modified gravity theories like f(R) predict enhanced structure in voids, making void statistics a promising but underused test.",
+  "why_it_blocks": "Voids are the most under-dense laboratories for gravity and galaxy formation, and they are under-exploited.",
+  "current_state": "DESI's huge volume is enabling precision void statistics; void-based gravity tests are an active but immature program. DESI's void catalog, the largest ever assembled, is only beginning to be exploited for fundamental physics.",
+  "sources": [
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

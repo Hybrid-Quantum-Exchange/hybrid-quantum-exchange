@@ -1,0 +1,14 @@
+{
+  "id": 27,
+  "domain": "fundamental_physics",
+  "title": "Ontological status of the wavefunction: PBR theorem and its loopholes",
+  "bottleneck": "The Pusey-Barrett-Rudolph theorem shows the wavefunction cannot be mere ignorance about a deeper reality under plausible assumptions, suggesting it is physically real, but the theorem relies on preparation independence and other premises that critics contest. The debate over whether quantum states are ontic or epistemic continues unresolved.",
+  "why_it_blocks": "Whether the wavefunction is a real physical entity or a bookkeeping device determines what quantum mechanics says about reality itself, shaping every research program in quantum foundations.",
+  "current_state": "PBR shifted the consensus toward wavefunction realism, yet viable epistemic models exploiting its loopholes exist, and the question remains one of the most actively debated in foundations. The theorem assumes preparation independence for composite systems, and relaxing that assumption reopens the door to psi-epistemic models.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 440,
+  "domain": "medicine_cures",
+  "title": "ME/CFS mechanisms and treatment",
+  "bottleneck": "Myalgic encephalomyelitis/chronic fatigue syndrome disables millions with post-exertional malaise as its hallmark, yet has no diagnostic biomarker, no FDA-approved treatment, and a history of psychosomatic dismissal that starved it of research funding.",
+  "why_it_blocks": "Patients endure profound disability with essentially no medical options: one of medicine's starkest neglects, now echoed in Long COVID.",
+  "current_state": "Post-pandemic research funding has increased, with studies probing immune, metabolic, and vascular mechanisms. No disease-modifying therapy exists. The parallels with Long COVID have finally brought scientific attention and funding, with shared mechanisms under investigation. Yet decades of neglect mean the field is starting from a thin evidence base, and patients continue to wait for the first approved therapy. Diagnostic criteria based on post-exertional malaise are improving trial design, but validated biomarkers remain elusive.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

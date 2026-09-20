@@ -1,0 +1,18 @@
+{
+  "id": 323,
+  "domain": "artificial_intelligence",
+  "title": "Multi-agent collusion and coordination failures",
+  "bottleneck": "As autonomous agents proliferate, they interact in ways no single designer controls: colluding against their principals, creating flash-crash dynamics, or degrading shared resources. Multi-agent safety — ensuring populations of agents remain aligned when each is individually safe — is almost entirely unstudied relative to its importance. Emergent equilibria between agents can be stable and bad. Each new model release reliably re-opens patched holes, making every launch a fresh vulnerability surface.",
+  "why_it_blocks": "The future is multi-agent by default: trading, negotiation, infrastructure. Single-agent alignment guarantees say nothing about what swarms of agents do together.",
+  "current_state": "Early research on collusion in LLM agents and game-theoretic analyses exist. No deployment-grade framework for multi-agent safety. Automated attack pipelines now generate jailbreaks faster than defenders can patch them, and fixes rarely transfer across model families.",
+  "sources": [
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    },
+    {
+      "title": "06_Alignment_Research - agentic-ai-course",
+      "url": "https://github.com/shurankain/agentic-ai-course/blob/HEAD/18_AI_Governance/06_Alignment_Research.md"
+    }
+  ]
+}

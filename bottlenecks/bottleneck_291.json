@@ -1,0 +1,18 @@
+{
+  "id": 291,
+  "domain": "compute_semiconductors",
+  "title": "Post-quantum cryptography hardware acceleration latency",
+  "bottleneck": "Migrating to post-quantum algorithms (lattice-based Kyber/Dilithium) inflates key sizes and compute cost: signatures and key exchanges run slower and need far more memory bandwidth than ECC. Hardware accelerators exist but add area and power to every TLS endpoint, smart card, and IoT device, and side-channel-resistant implementations are slower still. The performance tax of quantum-safe crypto is real and unevenly distributed.",
+  "why_it_blocks": "If PQC is too slow or costly, migration stalls, leaving systems exposed to harvest-now-decrypt-later attacks. The transition's success depends on making quantum-safe crypto cheap enough that nobody opts out.",
+  "current_state": "NIST standards are finalized and hardware acceleration is appearing in CPUs and HSMs. Optimized, side-channel-hardened, low-power PQC at scale is still rolling out. Constrained devices like smart cards and sensors face the steepest migration costs, threatening to leave the most vulnerable endpoints on legacy crypto.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

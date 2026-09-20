@@ -1,0 +1,18 @@
+{
+  "id": 895,
+  "domain": "xr_interface",
+  "title": "fNIRS temporal resolution limits",
+  "bottleneck": "Functional near-infrared spectroscopy measures brain blood flow non-invasively, but hemodynamic responses lag neural activity by seconds, making fNIRS useless for real-time control. Spatial resolution is coarse, depth penetration limited to cortex surface, and hair blocks optical signals. It's a slow, shallow window into the brain.",
+  "why_it_blocks": "fNIRS's safety and portability would make it ideal for everyday BCIs, but its seconds-long lag rules out interactive use. Speed of blood is the fundamental limit.",
+  "current_state": "Wearable fNIRS headsets serve research on cognitive workload and are improving. Real-time BCI control via hemodynamics remains infeasible. Blood-flow responses peak seconds after neural activity, so any control loop built on fNIRS is inherently too slow for interaction. Hybrid EEG-fNIRS systems inherit the weaknesses of both, EEG noise and hemodynamic lag, with little synergy to show for it.",
+  "sources": [
+    {
+      "title": "ScienceTimes: Neural interface challenges",
+      "url": "https://www.sciencetimes.com/articles/61522/20260323/how-brain-computer-interfaces-use-neural-interface-technology-read-human-mind.htm"
+    },
+    {
+      "title": "anidsiam: BCI technology challenges",
+      "url": "https://github.com/anidsiam/anidsiam.github.io/blob/HEAD/content/blogs/bci.md"
+    }
+  ]
+}

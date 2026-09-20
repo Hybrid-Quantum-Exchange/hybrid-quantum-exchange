@@ -1,0 +1,18 @@
+{
+  "id": 687,
+  "domain": "space",
+  "title": "Scaling bioregenerative life support to full crew needs",
+  "bottleneck": "Algae and plant-based life support could regenerate oxygen, scrub CO2, and recycle water biologically — but systems that work in labs fail at scale. Biosphere 2, the largest closed ecological experiment, could not hold atmospheric composition steady for even two years despite active human intervention. Biological loops are nonlinear, prone to crashes, and hard to model; a crop disease or algal culture collapse in a Mars habitat would be life-threatening within days.",
+  "why_it_blocks": "True self-sufficiency needs biology, but biology is the least predictable subsystem; until closed ecologies run for years without rescue, bases stay dependent on Earth resupply for the most critical consumable — air.",
+  "current_state": "The ISS relies on physicochemical ECLSS; ESA's MELiSSA project develops closed-loop bioregenerative compartments in labs. Multi-year closed ecology at crew scale has never been achieved.",
+  "sources": [
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    },
+    {
+      "title": "Designing Mars and Moon Habitats: When Home Is Life Support",
+      "url": "https://www.archyde.com/designing-mars-and-moon-habitats-when-home-is-life-support/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 218,
+  "domain": "energy",
+  "title": "Transmission permitting timelines",
+  "bottleneck": "Permitting a major interstate transmission line in the US can take a decade or more, crossing federal, state, and local jurisdictions, with NEPA reviews adding 2 to 4 years. Any single state or agency can stall a multi-state line, and eminent-domain authority for merchant lines is contested. Developers cannot finance projects with unknowable timelines.",
+  "why_it_blocks": "Permitting is the silent killer of transmission. The engineering is routine, but the process makes build times unpredictable, so capital goes elsewhere. Tribal consultation, endangered species reviews, and historic preservation each add legitimate but time-consuming requirements.",
+  "current_state": "DOE streamlining programs and NEPA reforms aim to compress timelines. No major interstate line has yet demonstrated a fast-tracked path end to end. Categorical exclusions for upgrades within existing corridors help, but greenfield interstate lines see little benefit.",
+  "sources": [
+    {
+      "title": "Energy Transition: 2026 Hurdles Explained",
+      "url": "https://globalinsightwire.com/energy-transition-hurdles-2026-reality-check/"
+    },
+    {
+      "title": "Green Energy Gridlock: Transmission and PPA Delays Slow Renewables",
+      "url": "https://www.datainsightsmarket.com/news/article/green-energy-gridlock-transmission-ppa-delays-slow-renewables-19750"
+    }
+  ]
+}

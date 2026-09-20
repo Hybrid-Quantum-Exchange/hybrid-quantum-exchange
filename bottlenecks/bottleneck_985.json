@@ -1,0 +1,18 @@
+{
+  "id": 985,
+  "domain": "coordination",
+  "title": "Infrastructure and Commons Maintenance Funding",
+  "bottleneck": "Scientific software, datasets, reagents, and instruments — the commons all research depends on — are chronically underfunded because maintenance is unglamorous and unpublishable. Critical open-source scientific tools run on volunteer labor until they break. Grant systems reward novelty over maintenance, so infrastructure decays until a crisis forces attention.",
+  "why_it_blocks": "A rotting commons raises the cost of all science and creates single points of failure. When shared tools break, thousands of labs feel it simultaneously. The commons problem in science mirrors the tragedy of the commons everywhere.",
+  "current_state": "Sustainability programs (CZSI, Sloan) fund selected projects, but most scientific infrastructure has no durable funding model. Sustainable funding models for digital commons are an unsolved institutional design problem. Durable funding models for shared infrastructure are an unsolved design problem.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 353,
+  "domain": "artificial_intelligence",
+  "title": "Least-privilege tool access for AI agents",
+  "bottleneck": "Agents need credentials, APIs, and shell access to do useful work, but permission models are all-or-nothing: an agent with a tool typically gets the user's full privileges, with no standard for scoped, auditable, revocable delegation. There's no established framework for what an agent may touch, for how long, under whose authority — so every deployment is either crippled or over-privileged.",
+  "why_it_blocks": "Enterprises won't connect agents to real systems while a compromised or confused agent has the keys to everything. Enterprises will not connect agents to real systems while a compromised or confused agent holds the keys to everything.",
+  "current_state": "OAuth scopes and sandboxing are repurposed awkwardly; agent-specific authorization standards don't exist yet. OAuth scopes and sandboxing are repurposed awkwardly; agent-specific authorization standards do not exist yet.",
+  "sources": [
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    },
+    {
+      "title": "06_Alignment_Research - agentic-ai-course",
+      "url": "https://github.com/shurankain/agentic-ai-course/blob/HEAD/18_AI_Governance/06_Alignment_Research.md"
+    }
+  ]
+}

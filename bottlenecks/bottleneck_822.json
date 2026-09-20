@@ -1,0 +1,18 @@
+{
+  "id": 822,
+  "domain": "climate_environment",
+  "title": "Wildlife corridor fragmentation under climate shifts",
+  "bottleneck": "Species need to move poleward and upward as climates shift, but habitat fragmentation blocks migration routes — and corridor planning is stuck using historical species distributions that no longer predict where animals need to go. Climate-velocity models say where habitat will be, yet land acquisition and protection lag decades behind, and corridors cross jurisdictions with conflicting land uses. No framework plans connectivity for the climates of 2050 rather than the climates of 1950.",
+  "why_it_blocks": "Without movement corridors, range shifts fail and species adapted to narrow climate bands face extinction in place. The mismatch between static protected areas and moving climates could strand a large fraction of biodiversity.",
+  "current_state": "Climate-smart connectivity modeling is improving, and some jurisdictions now incorporate climate projections into land planning. But protected-area networks remain overwhelmingly static, and corridor implementation at the needed continental scale has barely begun.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    }
+  ]
+}

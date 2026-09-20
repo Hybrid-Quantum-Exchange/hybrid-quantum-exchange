@@ -1,0 +1,18 @@
+{
+  "id": 215,
+  "domain": "energy",
+  "title": "Battery recycling economics and second-life limits",
+  "bottleneck": "Millions of tonnes of lithium-ion batteries will retire this decade, but recycling recovers lithium at costs often above mined prices, and processes struggle with mixed chemistries and pack designs not built for disassembly. Second-life use in stationary storage is limited by degraded capacity, uncertain safety, and lack of standardized testing. Without economic recycling, material supply tightens and waste grows. Hazardous waste classification for damaged packs raises handling and transport costs throughout the reverse supply chain.",
+  "why_it_blocks": "The battery economy is currently linear. If recycling cannot pay for itself, supply constraints worsen and millions of tonnes of hazardous waste accumulate.",
+  "current_state": "Recycling plants are scaling with policy support. Lithium recovery economics remain marginal at current prices. Design-for-disassembly standards could improve future economics, but today's installed base was built without them.",
+  "sources": [
+    {
+      "title": "Rechargeable Batteries for Grid-Scale Energy Storage: Technologies, Performance, and Emerging Directions",
+      "url": "https://mdpi-res.com/d_attachment/batteries/batteries-12-00264/article_deploy/batteries-12-00264.pdf?version=1784562080"
+    },
+    {
+      "title": "Lithium Ion Batteries for Grid Energy Storage Sales Market Research Report 2034",
+      "url": "https://dataintelo.com/report/global-lithium-ion-batteries-for-grid-energy-storage-sales-market"
+    }
+  ]
+}

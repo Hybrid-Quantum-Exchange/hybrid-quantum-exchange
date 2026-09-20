@@ -1,0 +1,18 @@
+{
+  "id": 159,
+  "domain": "energy",
+  "title": "Inertial fusion target fabrication cost and precision",
+  "bottleneck": "Inertial fusion targets are precision-engineered capsules, layered deuterium-tritium ice inside high-density shells with nanometer surface tolerances, that must cost cents rather than thousands of dollars, since a plant consumes millions per year. Current targets are hand-assembled at national labs for hundreds of thousands of dollars each. Mass-manufacturing targets that survive injection into a reactor chamber at meters per second while remaining perfectly spherical is unsolved.",
+  "why_it_blocks": "Target cost is a hard economic floor for inertial fusion. Even with high gain, million-dollar targets make electricity impossibly expensive, and no credible mass-production path has been demonstrated.",
+  "current_state": "Lab target fabrication is exquisite but artisanal. Startups and labs are exploring injection molding and batch cryogenic layering, all at early stages.",
+  "sources": [
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    },
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    }
+  ]
+}

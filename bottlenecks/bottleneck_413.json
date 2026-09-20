@@ -1,0 +1,14 @@
+{
+  "id": 413,
+  "domain": "medicine_cures",
+  "title": "Long-term obesity treatment maintenance",
+  "bottleneck": "GLP-1 drugs produce substantial weight loss, but most patients regain weight when stopping, gastrointestinal side effects limit tolerability, and the drugs do not permanently correct the defended elevated body-weight setpoint. Long-term safety data beyond a few years are limited.",
+  "why_it_blocks": "Obesity drives diabetes, cardiovascular disease, and cancer; treatments requiring indefinite expensive therapy with rebound on cessation are management, not cure.",
+  "current_state": "Next-generation multi-agonists and oral formulations are improving efficacy and convenience. Durable weight maintenance after treatment withdrawal remains unsolved, and the biology of the defended setpoint is incompletely understood. Combination therapies and longer-acting formulations may improve the durability of weight loss, but the fundamental problem of the defended setpoint persists. Understanding the brain circuits that defend body weight could unlock truly curative approaches.",
+  "sources": [
+    {
+      "title": "Beta Cell Replacement: Overcoming Immune Rejection for Type 1 Diabetes",
+      "url": "https://lifestyle.houstonnewstoday.com/story/860462/beta-cell-replacement-overcoming-immune-rejection-for-type-1-diabetes/"
+    }
+  ]
+}

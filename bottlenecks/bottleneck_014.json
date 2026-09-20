@@ -1,0 +1,14 @@
+{
+  "id": 14,
+  "domain": "fundamental_physics",
+  "title": "Noncommutative spacetime at the Planck scale",
+  "bottleneck": "Several quantum gravity approaches suggest spacetime coordinates fail to commute at the Planck scale, implying a fundamental minimal length, but there is no unique noncommutative geometry and no consensus on how it modifies quantum field theory. Different star products and deformations give conflicting predictions for scattering and causality.",
+  "why_it_blocks": "A minimal length would regulate the divergences of quantum gravity, but without a canonical formulation the idea generates model-dependent noise rather than testable predictions.",
+  "current_state": "Noncommutative field theories are studied as effective models with applications to the quantum Hall effect, while their role as genuine Planck-scale physics remains speculative and experimentally untouched. Different choices of star product and deformation parameter give conflicting predictions for causality and scattering, so phenomenology remains model-dependent.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

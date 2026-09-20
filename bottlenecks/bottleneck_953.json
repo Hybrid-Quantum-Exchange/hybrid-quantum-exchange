@@ -1,0 +1,18 @@
+{
+  "id": 953,
+  "domain": "food_water_agriculture",
+  "title": "Orphan crops and crop diversity",
+  "bottleneck": "Research funding concentrates on a handful of staples while hundreds of nutritious, climate-adapted crops — millets, sorghum, pulses, indigenous vegetables — are 'orphans' with almost no breeding programs. These crops feed the poorest and tolerate the harshest conditions, but without improved varieties, seed systems, and markets, they can't scale to their potential. The neglect is self-reinforcing: no research, no yields, no adoption. The neglect is self-reinforcing: no research means no yields, which means no adoption and no funding. Breaking the cycle needs sustained funding these crops never receive.",
+  "why_it_blocks": "Dietary diversity and climate resilience both depend on crops the research system ignores. The staples-first strategy is a monoculture of effort.",
+  "current_state": "Initiatives like the African Orphan Crops Consortium sequence genomes; breeding and seed-system investment remains tiny.",
+  "sources": [
+    {
+      "title": "Understanding the Yield Gap: Exploring the Factors Behind Crop Productivity Differences",
+      "url": "https://www.shiftingshares.com/understanding-the-yield-gap-exploring-the-factors-behind-crop-productivity-differences-2/"
+    },
+    {
+      "title": "Distinguishing between yield advances and yield plateaus in historical crop production trends (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3905725/"
+    }
+  ]
+}

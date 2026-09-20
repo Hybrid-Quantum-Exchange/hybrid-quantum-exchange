@@ -1,0 +1,18 @@
+{
+  "id": 44,
+  "domain": "fundamental_physics",
+  "title": "The matter-antimatter asymmetry: which baryogenesis mechanism",
+  "bottleneck": "The observable universe contains essentially no primordial antimatter, yet the Standard Model's CP violation and out-of-equilibrium processes fall far short of generating the observed baryon-to-photon ratio of six parts in ten billion. Sakharov's conditions are understood, but no specific mechanism is confirmed.",
+  "why_it_blocks": "Our very existence as matter rather than radiation is unexplained; solving baryogenesis is required for any complete account of the early universe.",
+  "current_state": "Electroweak baryogenesis is squeezed by Higgs and electric-dipole-moment constraints, leptogenesis is elegant but untestable at its natural scale, and Affleck-Dine and other scenarios await any experimental handle. Sakharov's conditions are necessary but not sufficient; the Standard Model's CP violation falls short of the observed asymmetry by many orders of magnitude, so new sources of CP violation or out-of-equilibrium dynamics are mandatory.",
+  "sources": [
+    {
+      "title": "New hypothesis claims to solve 5 of the biggest problems in physics - ScienceAlert",
+      "url": "https://sciencealert.com/this-new-hypothesis-claims-to-have-solved-5-of-the-biggest-problems-in-physics/"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

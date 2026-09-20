@@ -1,0 +1,18 @@
+{
+  "id": 137,
+  "domain": "cosmology_multiverse",
+  "title": "Swampland Conjectures and de Sitter Space",
+  "bottleneck": "String theory's swampland conjectures suggest stable de Sitter vacua — like the one describing our accelerating universe — may be impossible in quantum gravity, in tension with observation. The conjectures are unproven, their precise statements keep shifting, and counterexamples are actively debated. If our universe's acceleration cannot be described in string theory, the theory's claim to be a theory of everything is undermined.",
+  "why_it_blocks": "If the conjectures hold, either string theory or our interpretation of cosmic acceleration is wrong; if they fail, a major research program collapses. The stakes are existential for the theory: our universe may be precisely what string theory forbids.",
+  "current_state": "The de Sitter conjecture is the most contested; neither proof nor decisive counterexample has emerged. The controversy has split the string community, with no resolution in sight.",
+  "sources": [
+    {
+      "title": "The Landscape and the Multiverse: What's the Problem? (Synthese)",
+      "url": "https://link.springer.com/article/10.1007/s11229-021-03137-0"
+    },
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    }
+  ]
+}

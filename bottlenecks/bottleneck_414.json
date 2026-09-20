@@ -1,0 +1,14 @@
+{
+  "id": 414,
+  "domain": "medicine_cures",
+  "title": "Systemic lupus erythematosus",
+  "bottleneck": "Lupus is a heterogeneous autoimmune disease with flares, organ-threatening nephritis, and no reliable biomarker to guide therapy; treatment still leans on broad immunosuppression with corticosteroids, and many patients cycle through drugs without achieving durable remission.",
+  "why_it_blocks": "Lupus strikes young women disproportionately and causes cumulative organ damage; trial-and-error immunosuppression is a poor substitute for targeted, curative therapy.",
+  "current_state": "CAR-T cell therapy has induced drug-free remission in small lupus case series, a striking signal, and new biologics are approved. Whether CAR-T or other approaches deliver lasting cures at scale is untested. The heterogeneity of lupus, with diverse autoantibodies and organ involvement, makes one-size-fits-all therapy impossible. Biomarker-driven trial designs and immune-reset strategies like CAR-T represent the field's best hopes for moving beyond chronic immunosuppression.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 434,
+  "domain": "medicine_cures",
+  "title": "Mechanism-based durable suppression of tinnitus",
+  "bottleneck": "Tinnitus afflicts a large fraction of adults, and for a minority it is severe enough to destroy sleep, concentration, and quality of life. Yet there is no approved drug and no intervention that durably silences the phantom sound for most sufferers, because the neural generators differ across patients: cochlear damage, central gain changes, and somatosensory interactions all contribute.",
+  "why_it_blocks": "Without a way to match treatment to mechanism, patients cycle through hearing aids, sound therapy, and cognitive behavioral therapy with modest average benefit. A mechanism-based cure would restore silence for millions currently told to learn to live with the ringing.",
+  "current_state": "Bimodal neuromodulation, pairing sound with tongue or vagus-nerve stimulation, has shown meaningful response rates in controlled trials, and the University of Minnesota's Sonic Lab is advancing the approach. But responders are a subset, and the underlying circuit pathology remains only partly mapped.",
+  "sources": [
+    {
+      "title": "Sonic Lab: advancing tinnitus treatment through bimodal neuromodulation",
+      "url": "https://med.umn.edu/ent/news/sonic-lab-advancing-tinnitus-treatment-through-bimodal-neuromodulation"
+    },
+    {
+      "title": "Tinnitus treatment literature record",
+      "url": "https://ouci.dntb.gov.ua/works/4V0KEYm9/"
+    }
+  ]
+}

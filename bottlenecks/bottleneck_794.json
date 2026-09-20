@@ -1,0 +1,18 @@
+{
+  "id": 794,
+  "domain": "climate_environment",
+  "title": "Geological CO2 storage permanence verification",
+  "bottleneck": "Injected CO2 must stay underground for millennia to count as removal, but verifying permanence is unsolved: monitoring wells sample tiny fractions of a plume, old abandoned wells can leak, and induced seismicity can open new pathways. Mineralization in basalt is fast and secure but geographically limited; saline aquifers are vast but rely on caprock integrity over geological timescales no institution can guarantee. Leakage accounting rules are still being written.",
+  "why_it_blocks": "Without credible permanence verification, stored CO2 is an accounting fiction — credits get sold for carbon that may return to the atmosphere. The uncertainty blocks both financing and public acceptance of the storage leg of every CDR pathway.",
+  "current_state": "Projects like Carbfix in Iceland demonstrate rapid basalt mineralization at small scale, and the US has permitted large saline-aquifer storage hubs. But long-term monitoring standards, liability rules, and leakage detection at the required sensitivity are still under development.",
+  "sources": [
+    {
+      "title": "Direct Air Capture (DAC) - Carbon Project Types",
+      "url": "https://abatable.com/blog/dac-unpacked-direct-air-capture-guide/"
+    },
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 493,
+  "domain": "health_longevity",
+  "title": "Health workforce surge capacity and burnout",
+  "bottleneck": "Pandemic response assumes a health workforce that can surge, but systems entered COVID-19 already short-staffed, and the aftermath brought mass burnout and exits. No country has a tested model for rapidly scaling trained clinical labor, and workforce protection (PPE, mental health, retention) remains an afterthought in preparedness plans.",
+  "why_it_blocks": "Ventilators and vaccines are useless without people to deploy them. Workforce collapse is the failure mode that turns a manageable outbreak into a system-wide breakdown.",
+  "current_state": "WHO leadership has called workforce protection central to the pandemic agreement, but binding commitments and financing are unresolved. Nursing and primary-care shortages persist globally. Task-shifting to community health workers expanded coverage during COVID-19, but retention collapsed afterward as emergency funding ended, showing surge models fail without permanent workforce investment.",
+  "sources": [
+    {
+      "title": "The UN Assembly will urge ratification of the WHO pandemic agreement (Democrata)",
+      "url": "https://www.democrata.es/en/health/the-un-assembly-will-urge-to-ratify-the-who-agreement-on-pandemics-to-strengthen-global-security/"
+    },
+    {
+      "title": "Global challenges in preparedness and response to epidemic infectious diseases (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8864962/"
+    }
+  ]
+}

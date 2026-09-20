@@ -1,0 +1,18 @@
+{
+  "id": 966,
+  "domain": "coordination",
+  "title": "Negative Results Stay Unpublished",
+  "bottleneck": "Null and negative findings are systematically harder to publish, creating a file-drawer problem that biases meta-analyses and sends multiple labs down the same dead ends. Journals favor striking positives, and researchers rationally withhold failed experiments. Meta-analyses that ignore the file drawer systematically overestimate effect sizes, misleading policy and follow-up research.",
+  "why_it_blocks": "Science cannot efficiently map what does not work, so effort is duplicated and effect sizes are inflated across fields. The published record becomes a highlight reel rather than an honest map of inquiry.",
+  "current_state": "Preprint servers and null-results journals absorb some of the flow, but prestige publishing still selects for positivity. Mandatory pre-registration of all studies, not just trials, would help but faces steep adoption barriers. Funders could fix much of this by requiring registration as a grant condition.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

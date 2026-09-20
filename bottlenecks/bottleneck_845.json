@@ -1,0 +1,18 @@
+{
+  "id": 845,
+  "domain": "climate_environment",
+  "title": "Methane super-emitter detection and mitigation",
+  "bottleneck": "Methane's short-term warming power makes stopping super-emitters the fastest climate lever, but detection is incomplete: satellites miss small or intermittent leaks, ground verification is sparse, and attribution to specific operators is contested. Even when leaks are found, repair lags because of unclear liability, remote locations, and perverse incentives in production contracts. Abandoned wells — millions globally — leak with no responsible party at all.",
+  "why_it_blocks": "Cutting methane is the single fastest way to slow near-term warming, and super-emitters are the low-hanging fruit. The detection-to-repair pipeline leaks at every stage, so a large fraction of the cheapest climate action available goes untaken.",
+  "current_state": "Satellite constellations now spot large plumes routinely, and regulations in the US and EU mandate monitoring and repair. But coverage of the long tail — small leaks, abandoned wells, developing-world infrastructure — remains minimal.",
+  "sources": [
+    {
+      "title": "Permafrost and wetlands may add more warming than climate models expect",
+      "url": "https://www.earth.com/climate/warming-induced-emissions-climate-models/"
+    },
+    {
+      "title": "Thawing permafrost is affecting climate, but it's unclear by how much",
+      "url": "https://phys.org/news/2024-10-permafrost-affecting-climate-unclear.html"
+    }
+  ]
+}

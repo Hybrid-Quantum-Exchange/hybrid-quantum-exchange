@@ -1,0 +1,18 @@
+{
+  "id": 990,
+  "domain": "coordination",
+  "title": "Philanthropic Coordination Failures",
+  "bottleneck": "Science philanthropies duplicate each other's programs, chase fashionable causes, and rarely coordinate on shared infrastructure or neglected areas. Without coordination mechanisms, philanthropic funding clusters where attention already is rather than where marginal impact is highest. Coordination mechanisms like pooled funds exist but attract only a minority of philanthropic capital.",
+  "why_it_blocks": "Uncoordinated philanthropy leaves high-impact gaps unfunded while overfunding visible winners. High-impact neglected areas stay neglected because no single funder wants to go first. Coordination failures among philanthropists mirror those among nations.",
+  "current_state": "Funder collaboratives and pooled funds are growing, but most philanthropic science spending remains siloed. Better information about funding gaps could improve allocation, but no trusted clearinghouse exists. Better coordination among funders would stretch every philanthropic dollar further.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

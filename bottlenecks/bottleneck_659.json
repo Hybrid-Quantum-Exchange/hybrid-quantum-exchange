@@ -1,0 +1,18 @@
+{
+  "id": 659,
+  "domain": "space",
+  "title": "Cryogenic propellant transfer and tank chill-down in microgravity",
+  "bottleneck": "Refueling in orbit means pumping cryogenic liquid into an empty, relatively warm tank; on contact the propellant flashes to vapor, and in microgravity a vapor film blankets the tank walls, insulating them and making chill-down slow and wasteful. Fluid slosh, ullage management, and the absence of settled gravity make metering and leak-free transfer fundamentally harder than on the ground, and each transfer event can boil off a meaningful fraction of the propellant moved.",
+  "why_it_blocks": "Artemis and Starship Mars plans require many tanker flights to fill a vehicle in orbit; if transfers lose too much propellant or prove unreliable, the entire multi-launch refueling model fails.",
+  "current_state": "SpaceX demonstrated intra-vehicle propellant transfer on Starship's third integrated flight in 2024, with an inter-vehicle demo planned. University research on spray-cooling and wall coatings aims to shorten chill-down. Routine operational refueling is not yet demonstrated.",
+  "sources": [
+    {
+      "title": "Why we need in-orbit refueling to return to the Moon (Astronomy)",
+      "url": "https://www.astronomy.com/space-exploration/why-we-need-in-orbit-refueling-to-return-to-the-moon/"
+    },
+    {
+      "title": "Orbital propellant depot (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Orbital_propellant_depot"
+    }
+  ]
+}

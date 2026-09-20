@@ -1,0 +1,18 @@
+{
+  "id": 90,
+  "domain": "cosmology_multiverse",
+  "title": "The Too-Big-to-Fail and Missing Satellites Problems",
+  "bottleneck": "LCDM predicts far more Milky Way satellite halos than observed luminous dwarfs, and the largest predicted subhalos appear 'too big to fail' at forming stars yet lack observed counterparts. Proposed fixes (reionization suppression, tidal stripping, warm dark matter cutoffs) each fit part of the data, and no consensus exists on which combination is correct. Reionization is expected to suppress star formation in the smallest halos, yet the predicted luminosity function still overshoots or undershoots depending on feedback assumptions.",
+  "why_it_blocks": "Unresolved, these problems keep the door open to fundamentally different dark matter, but without a decisive test the debate cycles instead of converging.",
+  "current_state": "DES and other surveys keep finding ultra-faint dwarfs, shrinking the missing-satellites gap; the too-big-to-fail problem persists mainly for field dwarfs. Rubin Observatory's census of Milky Way satellites should complete the faint-end inventory and sharpen the test considerably.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "Dark Matter, Dark Energy, and the Unanswered Questions of Cosmology (AnewZ)",
+      "url": "http://anewz.tv/ai-next/science-news/3679/dark-matter-dark-energy-and-the-unanswered-questions-of-cosmology/news"
+    }
+  ]
+}

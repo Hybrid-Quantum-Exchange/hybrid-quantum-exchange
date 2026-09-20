@@ -1,0 +1,18 @@
+{
+  "id": 340,
+  "domain": "artificial_intelligence",
+  "title": "Data provenance and licensing at scale",
+  "bottleneck": "Nobody can say, for a given frontier model, exactly which data it trained on — provenance tracking at trillion-token scale doesn't exist, and web-scale scraping ignores licenses, robots.txt, and consent. This makes copyright compliance unverifiable, bias auditing impossible, and removal of problematic data a matter of hope. The entire training pipeline is effectively undocumented. Most training corpora are assembled from scraped web text with no records of origin, consent, or license status.",
+  "why_it_blocks": "Regulated deployment requires knowing what's in the model. Without provenance, every model carries unknown legal and safety liabilities.",
+  "current_state": "Datasheets and opt-out registries are voluntary and incomplete; no major lab publishes full training provenance. Licensing deals cover only major publishers; the long tail of creators has no mechanism for consent or compensation.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "Many safety evaluations for AI models have significant limitations | TechCrunch",
+      "url": "https://bestofai.com/article/many-safety-evaluations-for-ai-models-have-significant-limitations-techcrunch"
+    }
+  ]
+}

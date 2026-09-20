@@ -1,0 +1,18 @@
+{
+  "id": 492,
+  "domain": "health_longevity",
+  "title": "Vaccine effectiveness evaluation across diverse populations",
+  "bottleneck": "Vaccine trials and real-world effectiveness studies concentrate in wealthy countries, leaving almost no data on how vaccines perform in low-income settings with different nutrition, co-infections, and age structures. Fragmented, underreported surveillance systems make it impossible to know whether a vaccine works equally well everywhere.",
+  "why_it_blocks": "Global vaccination strategy is built on effectiveness data from unrepresentative populations. If vaccines underperform where disease burden is highest, schedules and formulations are miscalibrated worldwide.",
+  "current_state": "Post-COVID analyses documented the evaluation gap explicitly. Standardized effectiveness surveillance in low-income settings remains rare, and immunosenescence further complicates extrapolation to elderly populations. Immunosenescence means elderly vaccine responses differ systematically from trial populations, yet age-stratified effectiveness data are rarely collected, leaving dosing for the oldest old essentially empirical.",
+  "sources": [
+    {
+      "title": "Global Gaps in COVID-19 Vaccine Rollout and Impact (ScienMag)",
+      "url": "https://scienmag.com/global-gaps-in-covid-19-vaccine-rollout-and-impact/"
+    },
+    {
+      "title": "Aging and vaccines: impact of immunosenescence and inflammaging in vaccine response (Frontiers in Aging)",
+      "url": "https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2026.1797166/pdf"
+    }
+  ]
+}

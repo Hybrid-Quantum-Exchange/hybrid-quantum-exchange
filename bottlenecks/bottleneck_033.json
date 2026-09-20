@@ -1,0 +1,14 @@
+{
+  "id": 33,
+  "domain": "fundamental_physics",
+  "title": "The Higgs hierarchy problem: why the weak scale is so light",
+  "bottleneck": "Quantum corrections should drag the Higgs mass up toward the Planck scale, yet it sits at 125 GeV, requiring cancellations precise to roughly one part in 10^34 between the bare mass and loop contributions. No symmetry of the Standard Model protects a fundamental scalar's mass the way chiral and gauge symmetries protect fermions and bosons.",
+  "why_it_blocks": "The hierarchy problem was the primary theoretical motivation for decades of beyond-Standard-Model physics; its persistence means the Standard Model's most basic mass scale is unexplained and possibly fine-tuned.",
+  "current_state": "Supersymmetry, composite Higgs, and extra dimensions have all been pushed to fine-tuned territory by LHC null results, reviving interest in anthropic, cosmological-relaxation, and 'unnatural' explanations. Cosmological relaxation and N-naturalness attempt dynamical explanations, while others accept fine-tuning as evidence for a multiverse.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

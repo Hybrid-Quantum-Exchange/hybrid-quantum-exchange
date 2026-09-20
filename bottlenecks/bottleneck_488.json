@@ -1,0 +1,18 @@
+{
+  "id": 488,
+  "domain": "health_longevity",
+  "title": "Cold-chain and last-mile vaccine logistics in low-resource settings",
+  "bottleneck": "Many vaccines require continuous refrigeration from factory to arm, but cold-chain infrastructure is absent across rural Africa and South Asia, and health-worker shortages compound the problem. Thermostable formulations exist for few vaccines, and redesigning biologics for heat stability is slow and expensive.",
+  "why_it_blocks": "The last mile is where vaccine equity dies: doses expire in warehouses while unvaccinated populations remain vulnerable, allowing variants to emerge and prolonging every pandemic.",
+  "current_state": "Solar-powered cold chain and controlled-temperature-chain pilots have expanded, but most novel vaccines (including mRNA) still need stringent cold storage. Thermostable platform research is underfunded relative to discovery. Microneedle patches and spray-dried thermostable formulations could bypass refrigeration entirely, but reformulating each vaccine is a multi-year regulatory undertaking with thin commercial incentive.",
+  "sources": [
+    {
+      "title": "Global Gaps in COVID-19 Vaccine Rollout and Impact (ScienMag)",
+      "url": "https://scienmag.com/global-gaps-in-covid-19-vaccine-rollout-and-impact/"
+    },
+    {
+      "title": "The UN Assembly will urge ratification of the WHO pandemic agreement (Democrata)",
+      "url": "https://www.democrata.es/en/health/the-un-assembly-will-urge-to-ratify-the-who-agreement-on-pandemics-to-strengthen-global-security/"
+    }
+  ]
+}

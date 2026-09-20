@@ -1,0 +1,18 @@
+{
+  "id": 524,
+  "domain": "health_longevity",
+  "title": "Evidence base for digital mental health therapeutics",
+  "bottleneck": "Thousands of mental health apps exist but almost none have rigorous efficacy data, and the few FDA-authorized digital therapeutics show high dropout and modest effects. Engagement, not just content, is the unsolved problem: the people who need these tools most use them least.",
+  "why_it_blocks": "Digital therapeutics are pitched as the answer to the access bottleneck, but without proven efficacy and engagement, they risk becoming a low-quality substitute that lets systems claim coverage without delivering care.",
+  "current_state": "A handful of prescription digital therapeutics are authorized (e.g., for depression, insomnia, substance use) with payer coverage lagging. Research focuses on adaptive, AI-personalized interventions, but validation standards are unsettled. Prescription digital therapeutics have cleared FDA authorization for several conditions, yet reimbursement and clinician workflows have not caught up, limiting real-world adoption.",
+  "sources": [
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    },
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 834,
+  "domain": "climate_environment",
+  "title": "Glacier melt water security for mountain regions",
+  "bottleneck": "Two billion people depend on glacier and snowmelt-fed rivers, but the trajectory from peak water — when melt is maximal — to long-term decline is poorly mapped for most ranges: glacier inventories are incomplete, groundwater buffering is unquantified, and downstream demand keeps growing. Adaptation planning needs decadal forecasts of river flows that current models cannot provide at basin scale. When the meltwater declines, there is no substitute source.",
+  "why_it_blocks": "Water insecurity in the Indus, Ganges, and Andean basins threatens food production and hydropower for hundreds of millions. The forecasting gap means reservoirs, crops, and treaties are planned against a hydrological past that no longer exists.",
+  "current_state": "Satellite gravimetry and improved glacier models are sharpening basin-scale projections, and some regions are building storage to buffer variability. But for most glacier-dependent basins, the peak-water timeline — the single most policy-relevant number — remains uncertain.",
+  "sources": [
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

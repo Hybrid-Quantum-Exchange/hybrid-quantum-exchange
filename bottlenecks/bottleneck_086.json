@@ -1,0 +1,18 @@
+{
+  "id": 86,
+  "domain": "cosmology_multiverse",
+  "title": "Direct Detection of Dark Matter Below the Neutrino Floor",
+  "bottleneck": "Decades of WIMP searches in underground detectors (XENONnT, LZ, PandaX) have found nothing, and sensitivity is approaching the 'neutrino floor' where solar and atmospheric neutrino backgrounds become irreducible. It is unknown whether dark matter interacts with ordinary matter at any cross-section reachable above this floor, or whether its coupling is so feeble that direct detection is impossible in principle with current technology. Reaching below the floor demands ton-scale directional detectors or novel targets like superfluid helium, none of which have demonstrated the required background rejection at scale.",
+  "why_it_blocks": "Without a direct detection, the particle identity of 27% of the universe's mass-energy stays a placeholder, freezing progress on particle physics beyond the Standard Model.",
+  "current_state": "XENONnT and LZ lead current limits near 10^-48 cm^2; directional detectors and annual-modulation studies are the main proposed routes past the neutrino floor, none yet demonstrated at scale. The community is split between building ever-larger xenon experiments and pivoting to axions or astrophysical probes, with no agreed roadmap past the floor.",
+  "sources": [
+    {
+      "title": "Dark Matter, Dark Energy, and the Unanswered Questions of Cosmology (AnewZ)",
+      "url": "http://anewz.tv/ai-next/science-news/3679/dark-matter-dark-energy-and-the-unanswered-questions-of-cosmology/news"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

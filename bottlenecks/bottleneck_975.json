@@ -1,0 +1,18 @@
+{
+  "id": 975,
+  "domain": "coordination",
+  "title": "Compute Access Equity for Academic Researchers",
+  "bottleneck": "Frontier AI research now requires compute at scales only a few companies possess, locking academic and public-interest researchers out of the experiments that matter. Public compute initiatives are orders of magnitude smaller than private training runs, creating a one-sided science of AI capabilities and safety. Safety research conducted without frontier access risks studying toy problems while real risks develop inside corporate labs.",
+  "why_it_blocks": "If only industry can study frontier systems, independent safety science and public oversight become impossible. Democratic oversight of AI becomes hollow when only industry understands the systems.",
+  "current_state": "The US NAIRR pilot and EU initiatives provide modest shared compute, far below frontier training scale. Public compute at even 1% of frontier scale would transform independent AI safety science.",
+  "sources": [
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    },
+    {
+      "title": "From Pacing the Frontier to Governing the Frontier (Access Partnership)",
+      "url": "https://accesspartnership.com/opinion/from-pacing-the-frontier-to-governing-the-frontier/"
+    }
+  ]
+}

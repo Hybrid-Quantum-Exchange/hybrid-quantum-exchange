@@ -1,0 +1,18 @@
+{
+  "id": 199,
+  "domain": "energy",
+  "title": "Lead-cooled fast reactor coolant chemistry",
+  "bottleneck": "Lead-cooled fast reactors promise passive safety and high temperatures, but liquid lead corrodes steels by dissolving alloying elements, and oxygen control, the key corrosion mitigation, must be maintained precisely in a radioactive, high-temperature loop. Lead also produces polonium-210, an intensely radioactive alpha emitter that complicates maintenance and accidents. Russia operates lead-bismuth naval reactors, but commercial-scale lead coolant experience is thin. Oxygen sensors that work reliably in liquid lead at 500 degrees Celsius are themselves a research problem, making chemistry control hard to verify.",
+  "why_it_blocks": "Coolant chemistry is the gating science for lead-cooled reactors. Without decades-validated corrosion control, the design cannot be licensed or financed.",
+  "current_state": "Russia's BREST program and European ALFRED pursue lead cooling. Long-term corrosion data under irradiation remains limited.",
+  "sources": [
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    },
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    }
+  ]
+}

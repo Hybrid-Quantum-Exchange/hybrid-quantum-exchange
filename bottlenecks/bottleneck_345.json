@@ -1,0 +1,18 @@
+{
+  "id": 345,
+  "domain": "artificial_intelligence",
+  "title": "Sparse and conditional compute routing",
+  "bottleneck": "Mixture-of-experts promises to scale parameters without scaling compute, but routing is brittle: expert collapse, load imbalance, and communication overhead eat the theoretical gains, and sparse models often underperform dense ones at equal active parameters on reasoning tasks. Training stability for giant MoEs remains an art, and inference still pays the memory cost of all experts.",
+  "why_it_blocks": "If conditional compute worked cleanly, models could be 10x larger at the same cost. Its unreliability leaves that efficiency on the table. If conditional compute worked cleanly, models could be 10x larger at the same cost; its unreliability leaves that efficiency on the table.",
+  "current_state": "Frontier labs ship MoE models successfully but with heavy engineering; routing research hasn't produced a clearly superior, stable scheme.",
+  "sources": [
+    {
+      "title": "LLM Inference Bottlenecks - apxml",
+      "url": "https://apxml.com/courses/llm-compression-acceleration/chapter-1-foundations-llm-efficiency-challenges/memory-compute-bottlenecks-inference"
+    },
+    {
+      "title": "From Web Backend to AI Infrastructure — Memory Optimization for LLM Inference",
+      "url": "https://medium.com/@hotakoma/from-web-backend-to-ai-infrastructure-2-2-memory-optimization-for-llm-inference-403e12ae7a42"
+    }
+  ]
+}

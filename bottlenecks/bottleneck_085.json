@@ -1,0 +1,18 @@
+{
+  "id": 85,
+  "domain": "fundamental_physics",
+  "title": "Chiral fermions on the lattice: the fermion doubling problem",
+  "bottleneck": "Discretizing spacetime for lattice field theory generically produces spurious 'doubler' fermion species, and defining a single chiral fermion, as the weak interaction requires, on the lattice took decades and remains technically intricate. A fully satisfactory non-perturbative definition of chiral gauge theories is still incomplete.",
+  "why_it_blocks": "The Standard Model is a chiral gauge theory; without a rigorous lattice definition, non-perturbative questions about the electroweak sector, including baryon-number violation, cannot be settled from first principles.",
+  "current_state": "Ginsparg-Wilson fermions and domain-wall formulations provide workable chiral symmetry on the lattice and are used in production simulations, but a complete construction of chiral gauge theories remains open. The overlap operator satisfies an exact lattice chiral symmetry, but extending it to fully chiral gauge theories with anomalies remains incomplete.",
+  "sources": [
+    {
+      "title": "open-physics-problems SOURCES.md - meta-aggregator of unsolved physics lists",
+      "url": "https://github.com/zozo123/open-physics-problems/blob/HEAD/SOURCES.md"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

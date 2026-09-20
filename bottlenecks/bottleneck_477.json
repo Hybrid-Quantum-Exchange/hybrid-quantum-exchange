@@ -1,0 +1,18 @@
+{
+  "id": 477,
+  "domain": "health_longevity",
+  "title": "Endocrine decline and hormonal aging",
+  "bottleneck": "Growth hormone, testosterone, estrogen, DHEA, and IGF-1 all fall with age, undermining muscle, bone, metabolism, and cognition. Yet hormone replacement has a checkered history: estrogen therapy's risks, testosterone's cardiovascular questions, and growth hormone's diabetes and cancer signals mean the risk-benefit of restoring youthful levels is unresolved.",
+  "why_it_blocks": "Hormones coordinate whole-body aging; if safe replacement protocols existed, they could treat multisystem decline at once. Instead, fear of past trial failures leaves a powerful lever unused.",
+  "current_state": "Testosterone is prescribed for symptomatic hypogonadism with cardiovascular monitoring; menopausal hormone therapy is used selectively. No protocol aims at systemic hormonal rejuvenation for aging itself. Selective hormone mimetics (SERMs, SARMs) aim to capture anabolic benefits without systemic risks, but long-term safety data in elderly populations are still missing.",
+  "sources": [
+    {
+      "title": "Sarcopenia and Muscle Aging: Updated Insights into Molecular Mechanisms and Translational Therapeutics (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12963776/"
+    },
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 718,
+  "domain": "space",
+  "title": "Tracking debris smaller than 10 centimeters",
+  "bottleneck": "Fragments under 10 cm are too small for routine radar and optical tracking yet carry enough kinetic energy at orbital velocities to destroy a satellite — and they are the most numerous debris class, growing with every collision and anti-satellite test. Operators fly blind through this population: conjunction warnings cover only tracked objects, so avoidance maneuvers cannot dodge what is not cataloged. Space-based sensors and better radar could help, but coverage, cost, and data-sharing barriers persist.",
+  "why_it_blocks": "You cannot avoid or remove what you cannot see; the untracked population is the dominant collision risk for mega-constellations and crewed stations.",
+  "current_state": "The US Space Surveillance Network tracks 30,000+ objects down to about 10 cm; LeoLabs and others add commercial radar. The sub-10-cm population, likely millions of objects, is estimated only statistically.",
+  "sources": [
+    {
+      "title": "Active Debris Removal Market Research Report",
+      "url": "https://growthmarketreports.com/report/active-debris-removal-market"
+    },
+    {
+      "title": "Global Space Debris Removal Market Poised for Rapid Growth",
+      "url": "https://www.einpresswire.com/article/876135097/global-space-debris-removal-market-poised-for-rapid-growth-as-orbital-safety-becomes-a-strategic-priority"
+    }
+  ]
+}

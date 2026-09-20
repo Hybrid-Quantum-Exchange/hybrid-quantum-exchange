@@ -1,0 +1,18 @@
+{
+  "id": 78,
+  "domain": "fundamental_physics",
+  "title": "Gravity-mediated entanglement as a tabletop quantum-gravity witness",
+  "bottleneck": "If two masses become entangled purely through their gravitational interaction, the gravitational field itself must be quantum, since classical fields cannot create entanglement. Tabletop proposals aim to test this with levitated nanoparticles or microscale oscillators in spatial superposition, potentially witnessing quantum gravity without Planck-scale energies.",
+  "why_it_blocks": "This is the most plausible near-term experimental route to quantum gravity. Success would prove gravity is not fundamentally classical; a null result under clean conditions would push physics toward semiclassical or collapse models.",
+  "current_state": "Theoretical analyses continue to refine what such experiments would actually prove, addressing loopholes from Casimir forces and decoherence, while experimental groups work toward the required coherence times and force sensitivities. No gravity-mediated entanglement has been observed yet.",
+  "sources": [
+    {
+      "title": "Gravity-mediated entanglement proposal",
+      "url": "https://arxiv.org/pdf/2406.14334"
+    },
+    {
+      "title": "Tabletop quantum-gravity witness",
+      "url": "https://arxiv.org/pdf/2410.19601v1"
+    }
+  ]
+}

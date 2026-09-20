@@ -1,0 +1,14 @@
+{
+  "id": 29,
+  "domain": "fundamental_physics",
+  "title": "Many-worlds: the probability and preferred-basis problems",
+  "bottleneck": "The many-worlds interpretation eliminates collapse by keeping all branches, but then must explain why observers experience probabilities matching the Born rule when every outcome occurs, and which decomposition of the wavefunction counts as 'worlds.' Proposed solutions remain controversial and interpretation-dependent.",
+  "why_it_blocks": "Many-worlds is the most popular interpretation among cosmologists and quantum computing researchers; if its probability problem is unsolvable, its claim to be the straightforward reading of quantum mechanics fails.",
+  "current_state": "Decision-theoretic derivations of the Born rule have prominent defenders and equally prominent critics, while decoherence-based accounts of branching are widely used but arguably presuppose what they explain. Some Everettians appeal to self-locating uncertainty before branching, but critics argue this smuggles probability in rather than deriving it, leaving the quantitative core of the theory unjustified.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

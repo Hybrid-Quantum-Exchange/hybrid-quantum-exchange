@@ -1,0 +1,18 @@
+{
+  "id": 32,
+  "domain": "fundamental_physics",
+  "title": "The arrow of time in quantum measurement",
+  "bottleneck": "The Schrödinger equation is time-reversible, yet measurement appears irreversible: once an outcome is recorded it cannot be un-recorded, and entropy increases. No agreed account derives this irreversibility from the reversible dynamics without importing it through assumptions about initial conditions or the observer.",
+  "why_it_blocks": "The tension between reversible microphysics and irreversible observation sits at the junction of quantum foundations and statistical mechanics; solving one side alone leaves the other mysterious.",
+  "current_state": "Most physicists attribute the arrow to the universe's low-entropy initial state plus decoherence, but why the initial state had such low entropy, the Past Hypothesis, is itself unexplained. Boltzmann's statistical account traces irreversibility to the low-entropy Past Hypothesis, which itself remains the deepest unexplained initial condition in all of known physics, dwarfing even the cosmological constant problem in severity.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    },
+    {
+      "title": "What are the unsolved problems in physics - Axtelnet",
+      "url": "http://axtelnet.com/archive-m-bechtler-27/what-are-the-unsolved-problems-in-physics"
+    }
+  ]
+}

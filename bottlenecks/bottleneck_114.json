@@ -1,0 +1,18 @@
+{
+  "id": 114,
+  "domain": "cosmology_multiverse",
+  "title": "Eternal Inflation and the Measure Problem",
+  "bottleneck": "Most inflationary potentials lead to eternal inflation, spawning infinite pocket universes — but probabilities over an infinite multiverse are undefined without a 'measure,' and every proposed measure gives different predictions or paradoxes (youngness, Boltzmann brains). There is no consensus on how to extract testable predictions from eternal inflation. Proposals like the scale-factor cutoff, causal patch, and watcher measures each suffer paradoxes or ambiguities that have resisted decades of effort.",
+  "why_it_blocks": "Without a measure, inflation's most generic prediction — a multiverse — yields no falsifiable numbers, straining its scientific status.",
+  "current_state": "The measure problem is as open as ever; it is widely considered the deepest obstacle to making multiverse cosmology predictive. Many cosmologists now treat the measure problem as a reason to doubt eternal inflation itself rather than a puzzle to solve.",
+  "sources": [
+    {
+      "title": "The Measure Problem in Eternal Inflation (arXiv:1801.05016)",
+      "url": "https://arxiv.org/pdf/1801.05016"
+    },
+    {
+      "title": "Beyond Falsifiability: Normal Science in a Multiverse (PhilArchive)",
+      "url": "https://philarchive.org/archive/CARBFN"
+    }
+  ]
+}

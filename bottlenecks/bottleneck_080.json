@@ -1,0 +1,14 @@
+{
+  "id": 80,
+  "domain": "fundamental_physics",
+  "title": "The Past Hypothesis: why the early universe had low entropy",
+  "bottleneck": "The second law of thermodynamics requires the universe to have started in an extraordinarily low-entropy state, with Penrose estimating the fine-tuning at one part in 10^10^123, yet no dynamical explanation for this initial condition exists. Inflation does not explain it; it assumes it.",
+  "why_it_blocks": "The arrow of time itself, and with it all of thermodynamics, chemistry, and biology, depends on this unexplained initial condition; it is arguably the largest fine-tuning problem in physics.",
+  "current_state": "Proposals range from eternal inflation's rare fluctuations to Penrose's conformal cyclic cosmology, but none derives the low-entropy beginning from established physics. Penrose's Weyl curvature hypothesis proposes the initial singularity was special in a geometric sense, but it remains a conjecture without a dynamical mechanism.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

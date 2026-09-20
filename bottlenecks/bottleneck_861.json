@@ -1,0 +1,18 @@
+{
+  "id": 861,
+  "domain": "xr_interface",
+  "title": "VR headset weight and facial pressure",
+  "bottleneck": "VR headsets place 500g+ on the face, concentrated on the forehead and cheekbones, causing pressure, heat buildup, and neck strain within an hour. Pancake lenses and better weight distribution help, but batteries, displays, and compute still need mass. Comfort, not resolution, is what ends most VR sessions.",
+  "why_it_blocks": "Discomfort caps session length more effectively than any software limit, blocking VR for work and productivity. A device people dread wearing can't become a computing platform.",
+  "current_state": "Flagship headsets are getting lighter with pancake optics and rear-battery balance, but sub-300g comfortable all-day VR remains aspirational. Comfort, more than resolution or content, is what typically ends a VR session, which caps the medium's ambitions for work and productivity. Neck strain from front-heavy designs compounds facial pressure, and counterweights add back the mass designers removed.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "InAirSpace: VR motion sickness",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-makes-me-feel-sick-understanding-and-overcoming-simulator-sickness"
+    }
+  ]
+}

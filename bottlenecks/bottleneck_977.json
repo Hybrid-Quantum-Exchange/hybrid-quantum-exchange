@@ -1,0 +1,18 @@
+{
+  "id": 977,
+  "domain": "coordination",
+  "title": "Patent Thickets Blocking Cumulative Innovation",
+  "bottleneck": "Dense overlapping patents in areas like semiconductors, biotech, and software force innovators to navigate licensing minefields, with patent assertion entities taxing productive firms. Defensive patenting consumes R&D budgets that could fund research, and thickets deter small entrants most. Small firms and university spinouts bear the highest costs, entrenching incumbents who can afford patent arsenals.",
+  "why_it_blocks": "When using an idea requires negotiating with dozens of rights-holders, cumulative innovation stalls. Innovation slows most where it is needed most: among new entrants with fresh ideas.",
+  "current_state": "Reform efforts (patent quality initiatives, anti-troll legislation) have had limited effect; thickets keep growing. Defensive patent pools and pledges help in narrow domains but do not fix the systemic problem. Targeted patent reform could unlock significant follow-on innovation.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

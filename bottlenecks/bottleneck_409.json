@@ -1,0 +1,14 @@
+{
+  "id": 409,
+  "domain": "medicine_cures",
+  "title": "Dengue antivirals",
+  "bottleneck": "Dengue infects roughly 400 million people yearly with no specific antiviral treatment; care is supportive, and severe dengue can kill within days. Antibody-dependent enhancement, where prior immunity worsens subsequent infections, complicates both vaccines and therapeutics.",
+  "why_it_blocks": "Climate change is expanding dengue's range into new populations with no immunity and no treatment options.",
+  "current_state": "Direct-acting antivirals are in early clinical trials, and newer vaccines are rolling out in endemic countries. No approved dengue antiviral exists. The antibody-dependent enhancement phenomenon means any intervention must be carefully validated across all four serotypes to avoid making subsequent infections worse. This safety requirement has slowed both vaccine and drug development for decades. Climate-driven range expansion is now forcing faster progress, with antiviral candidates finally reaching human trials.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

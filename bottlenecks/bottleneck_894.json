@@ -1,0 +1,18 @@
+{
+  "id": 894,
+  "domain": "xr_interface",
+  "title": "Dry-electrode EEG comfort and signal quality",
+  "bottleneck": "Consumer EEG needs dry electrodes (no gel), but dry contacts have high impedance, are sensitive to hair and motion, and cause discomfort over long wear. Signal quality trails wet electrodes significantly, and motion artifacts corrupt the already-weak signals. Comfortable, all-day, gel-free EEG with usable SNR doesn't exist.",
+  "why_it_blocks": "If EEG headsets are uncomfortable or unreliable, consumer neurotech (focus tracking, meditation, control) can't scale beyond novelties. The electrode-skin interface is the unglamorous blocker.",
+  "current_state": "Dry-electrode headsets ship for wellness and research with modest performance; novel materials (conductive textiles, microneedles) are in development. Gel-free, long-wear, high-SNR EEG remains aspirational. Hair, sweat, and motion create impedance changes that swamp the microvolt-scale signals consumer applications need. Conductive textiles and microneedle arrays are being explored, but comfort and signal quality remain in tension.",
+  "sources": [
+    {
+      "title": "ScienceTimes: Neural interface challenges",
+      "url": "https://www.sciencetimes.com/articles/61522/20260323/how-brain-computer-interfaces-use-neural-interface-technology-read-human-mind.htm"
+    },
+    {
+      "title": "anidsiam: BCI technology challenges",
+      "url": "https://github.com/anidsiam/anidsiam.github.io/blob/HEAD/content/blogs/bci.md"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 986,
+  "domain": "coordination",
+  "title": "Brain Drain from Academia to Industry",
+  "bottleneck": "Industry salaries and compute pull top researchers — especially in AI, biotech, and semiconductors — out of universities, hollowing out teaching, mentoring, and public-interest research. Academia cannot match compensation, and the outflow concentrates expertise inside a few firms. Universities lose mentors and public-interest researchers, weakening the pipeline that feeds industry itself.",
+  "why_it_blocks": "The public research base loses the very people needed to train the next generation and provide independent oversight. Public-interest research and independent safety evaluation suffer most from the outflow.",
+  "current_state": "Joint appointments and industry fellowships slow but do not reverse the flow; the compensation gap keeps widening. The long-term cost to the research ecosystem is diffuse and hard to measure, so it goes unaddressed.",
+  "sources": [
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    },
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 688,
+  "domain": "space",
+  "title": "Surviving the 14-day lunar night",
+  "bottleneck": "The lunar day-night cycle lasts about 29.5 Earth days, so a Moon base endures 14 straight days of darkness at -173 C with no solar power. Batteries at the required scale would weigh hundreds of tons; regenerative fuel cells lose energy in the round trip; beaming power from orbit or sunlit crater rims works only near the poles. Fission power solves it but brings its own unsolved deployment challenges. Every non-nuclear architecture must carry two weeks of energy storage — a mass penalty dominating base design.",
+  "why_it_blocks": "Power is survival — heat, air, and water recycling all stop without it; the lunar night is the single largest sizing driver for any Moon base power system.",
+  "current_state": "NASA studies favor fission surface power for this reason; battery and fuel-cell options exist only for short sorties. No base-scale night-survival power system has been built or tested.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

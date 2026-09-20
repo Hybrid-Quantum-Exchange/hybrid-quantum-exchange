@@ -1,0 +1,18 @@
+{
+  "id": 89,
+  "domain": "cosmology_multiverse",
+  "title": "Small-Scale Structure of Dark Matter Halos (Core-Cusp)",
+  "bottleneck": "Cold dark matter simulations predict steeply cusped halo centers, but dwarf galaxy rotation curves often show flat cores. It is unresolved whether the discrepancy comes from baryonic feedback physics, from dark matter self-interactions, or from a wrong dark matter model entirely (warm or fuzzy dark matter). Degeneracy between feedback recipes and particle properties makes clean tests hard. Stellar feedback prescriptions in simulations are tuned to reproduce observations, which risks circularity: the same feedback invoked to explain cores is calibrated on the galaxies being explained.",
+  "why_it_blocks": "This is the sharpest small-scale test of the cold dark matter paradigm, and its ambiguity stalls verdicts on what dark matter is.",
+  "current_state": "High-resolution HI kinematics and stellar-kinematic studies of ultra-faint dwarfs are the current battleground; self-interacting dark matter models fit some cores but face cluster-scale constraints. Next-generation kinematic surveys of ultra-faint dwarfs aim to break this degeneracy, but results are years away.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    }
+  ]
+}

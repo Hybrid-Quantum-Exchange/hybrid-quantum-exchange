@@ -1,0 +1,18 @@
+{
+  "id": 347,
+  "domain": "artificial_intelligence",
+  "title": "On-device inference for frontier-class models",
+  "bottleneck": "Running capable models on phones and laptops hits a three-way wall: limited VRAM forces destructive quantization for 70B+ models, memory bandwidth is far below datacenter GPUs, and battery and thermal limits cap sustained compute. Unified memory architectures help capacity but not speed. The result is that personal, private, always-available AI is stuck at small-model capability while frontier intelligence stays in the cloud.",
+  "why_it_blocks": "Privacy-sensitive, offline, and latency-critical applications can't use cloud models. The on-device gap keeps the most capable AI centralized. Cloud dependence also means latency, cost per query, and data leaving the device - barriers for the most sensitive uses.",
+  "current_state": "4-bit 70B-class models run on high-end consumer hardware at reduced speed; frontier-class on-device inference is not close.",
+  "sources": [
+    {
+      "title": "LLM inference Bottlenecks: Memory, CPU and I/O",
+      "url": "https://chierhu.medium.com/bottlenecks-memory-cpu-and-i-o-8463812ace94"
+    },
+    {
+      "title": "LLM Inference Bottlenecks - apxml",
+      "url": "https://apxml.com/courses/llm-compression-acceleration/chapter-1-foundations-llm-efficiency-challenges/memory-compute-bottlenecks-inference"
+    }
+  ]
+}

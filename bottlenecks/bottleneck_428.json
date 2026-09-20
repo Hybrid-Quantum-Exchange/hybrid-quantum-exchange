@@ -1,0 +1,14 @@
+{
+  "id": 428,
+  "domain": "medicine_cures",
+  "title": "Fragile X syndrome",
+  "bottleneck": "Fragile X, the most common inherited cause of intellectual disability, results from silencing of the FMR1 gene, yet decades of targeted trials with mGluR5 antagonists and GABA agonists have failed, partly because outcome measures in intellectual disability are insensitive and the developmental window may close early.",
+  "why_it_blocks": "A single-gene neurodevelopmental disorder affecting about 1 in 4,000 males has no disease-modifying treatment despite a well-understood mechanism.",
+  "current_state": "Gene reactivation strategies and new trial designs with better endpoints are in early stages, as the field absorbs lessons from failed CNS trials generally. No therapy has yet modified the disease course. Earlier intervention, potentially in infancy before developmental trajectories diverge, may be necessary, but raises difficult questions about trial design in very young children. Reactivating the silenced FMR1 gene remains the most direct but technically hardest approach.",
+  "sources": [
+    {
+      "title": "Technology Summary: AAV immunogenicity",
+      "url": "https://www.fda.gov/media/166264/download"
+    }
+  ]
+}

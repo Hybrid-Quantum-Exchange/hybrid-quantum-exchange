@@ -1,0 +1,18 @@
+{
+  "id": 301,
+  "domain": "artificial_intelligence",
+  "title": "Multi-step planning with error recovery",
+  "bottleneck": "Agents can generate plans but cannot robustly monitor execution, detect when a step went wrong, and replan — the core loop of real agency. A single failed tool call or misread observation typically derails the whole trajectory because models lack persistent world state and a principled way to verify intermediate results. Error compounds over long horizons until the plan is fiction.",
+  "why_it_blocks": "Autonomous deployment in software engineering, lab automation, and operations requires thousands of reliable sequential steps. Without recovery, every long task needs constant human babysitting.",
+  "current_state": "Frameworks add retry loops and self-reflection prompts, which help marginally. Research agents still produce wrong answers on the majority of hard multi-step problems, with errors compounding across steps. Most agentic benchmarks still measure single-shot success, leaving long-horizon reliability effectively unmeasured.",
+  "sources": [
+    {
+      "title": "DeepMind's research AI occasionally solves what humans can't and mostly gets everything else wrong",
+      "url": "https://the-decoder.com/deepminds-research-ai-occasionally-solves-what-humans-cant-and-mostly-gets-everything-else-wrong/"
+    },
+    {
+      "title": "The Hidden Bottlenecks of Intelligence: Memory, Reasoning, and System Coherence in Modern AI",
+      "url": "https://medium.com/architectural-intelligence/the-hidden-bottlenecks-of-intelligence-memory-reasoning-and-system-coherence-in-modern-ai-76f4b99204a8"
+    }
+  ]
+}

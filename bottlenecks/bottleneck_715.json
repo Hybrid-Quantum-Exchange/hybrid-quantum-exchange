@@ -1,0 +1,18 @@
+{
+  "id": 715,
+  "domain": "space",
+  "title": "Sintered regolith landing pads at scale",
+  "bottleneck": "Rocket landings blast regolith into high-velocity ejecta that sandblasts everything within kilometers — Apollo 12's visit to Surveyor 3 showed the damage. A permanent base needs a hardened landing pad, and sintering regolith with microwaves or solar concentrators is the leading approach — but uniformly sintering a pad tens of meters across, thick enough to survive repeated landings, with autonomous equipment, has never been done. Cracks from thermal cycling and uneven sintering could make the pad worse than raw regolith.",
+  "why_it_blocks": "Without pads, every landing degrades the base: dust contamination, equipment damage, and cratered terrain that eventually threatens landing safety itself.",
+  "current_state": "Small-scale microwave sintering demos on simulants; ESA studies continue. No sintered pad has been built off Earth.",
+  "sources": [
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    },
+    {
+      "title": "How to Mine the Moon: The ISRU Process",
+      "url": "https://medium.com/@hamzatanveerahmad47/how-to-mine-the-moon-the-isru-process-c5a558017320"
+    }
+  ]
+}

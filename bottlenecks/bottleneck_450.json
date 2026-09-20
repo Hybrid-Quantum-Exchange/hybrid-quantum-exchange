@@ -1,0 +1,14 @@
+{
+  "id": 450,
+  "domain": "medicine_cures",
+  "title": "Chronic traumatic encephalopathy (CTE) in vivo diagnosis and treatment",
+  "bottleneck": "CTE, the tauopathy linked to repetitive head impacts, can currently be diagnosed only at autopsy, so living athletes and veterans cannot know if they have it, and no treatment exists. Tau PET tracers validated for Alzheimer's do not reliably detect CTE's distinct tau pathology.",
+  "why_it_blocks": "Without in vivo diagnosis, prevention cannot be targeted, trials cannot enroll, and affected individuals face uncertainty without options.",
+  "current_state": "Candidate fluid biomarkers and CTE-specific PET tracers are in development. Antemortem diagnosis and any disease-modifying therapy remain unsolved, and the amyloid experience counsels that clearing tau may not equal clinical benefit. Repetitive head impacts are common in contact sports and military service, yet athletes cannot currently know their risk while alive. Prevention through rule changes and better protective equipment is progressing faster than diagnosis or treatment.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    }
+  ]
+}

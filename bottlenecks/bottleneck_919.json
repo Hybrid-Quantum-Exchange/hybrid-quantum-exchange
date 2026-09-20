@@ -1,0 +1,18 @@
+{
+  "id": 919,
+  "domain": "food_water_agriculture",
+  "title": "Soil microbiome engineering for crops",
+  "bottleneck": "The soil microbiome governs nutrient cycling, disease suppression, and stress tolerance, but it's a complex ecosystem of thousands of interacting species that resists simple engineering — inoculants that work in the lab routinely fail in the field because native microbes outcompete them. We can't yet predict which microbial consortia will establish, persist, and function in a given soil, making microbiome products unreliable. We cannot yet predict which microbial consortia will establish, persist, and function in a given soil.",
+  "why_it_blocks": "A working microbiome toolkit could replace much synthetic fertilizer and pesticide use; its unreliability keeps farmers dependent on chemical inputs.",
+  "current_state": "Commercial inoculants like rhizobia and mycorrhizae work for specific pairings; general engineered microbiomes remain a research frontier.",
+  "sources": [
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    },
+    {
+      "title": "Global Soil Degradation Is Cutting Crop Yields",
+      "url": "https://www.seedworld.com/europe/2026/08/05/global-soil-degradation-crop-yields/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 106,
+  "domain": "cosmology_multiverse",
+  "title": "CMB Large-Angle Anomalies (Cold Spot, Hemispherical Asymmetry)",
+  "bottleneck": "Planck confirmed WMAP's large-angle oddities: a hemispherical power asymmetry, an anomalously cold spot, and suppressed low-multipole power. Their statistical significance is debated because of look-elsewhere effects, and no physical model predicts all of them jointly, leaving them in limbo between cosmic fluke and new physics. Because the anomalies were found after looking at the data, their true significance is lower than naive estimates, fueling skepticism.",
+  "why_it_blocks": "If real, these anomalies violate statistical isotropy, a pillar of the standard model; if flukes, cosmology must accept unexplained coincidences in its premier dataset.",
+  "current_state": "No proposed model (textures, supervoids, anisotropic inflation) has gained traction; upcoming large-scale polarization data may sharpen or dissolve the anomalies. Polarization data at large angles, largely independent of temperature, offer the best hope of an independent test.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

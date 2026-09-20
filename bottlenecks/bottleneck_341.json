@@ -1,0 +1,18 @@
+{
+  "id": 341,
+  "domain": "artificial_intelligence",
+  "title": "Training compute and energy cost scaling",
+  "bottleneck": "Each frontier generation costs roughly an order of magnitude more than the last — training runs now exceed $100M — while performance gains per dollar shrink. Power is becoming the binding constraint: data centers need gigawatts that grids can't provision quickly, and the environmental cost of training is rising as a political issue. The economics of scaling are deteriorating even as the strategy continues.",
+  "why_it_blocks": "If each capability step costs 10x more for diminishing returns, AI progress becomes affordable only to a handful of actors — and eventually uneconomical for everyone. Rising costs also concentrate research in a few labs, narrowing who gets to push the frontier forward.",
+  "current_state": "Labs build dedicated power plants and chase efficiency; algorithmic gains partially offset costs, but the exponential cost curve hasn't bent.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "How FrontierScience Benchmarks and Lab Evaluations Reveal AI Model Strengths and Limitations for Real-World Scientific Discovery",
+      "url": "https://blockchain.news/ainews/how-frontierscience-benchmarks-and-lab-evaluations-reveal-ai-model-strengths-and-limitations-for-real-world-scientific-discovery"
+    }
+  ]
+}

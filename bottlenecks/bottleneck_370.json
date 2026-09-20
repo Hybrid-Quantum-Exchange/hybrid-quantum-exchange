@@ -1,0 +1,14 @@
+{
+  "id": 370,
+  "domain": "medicine_cures",
+  "title": "Pediatric and adolescent cancer drug development lag",
+  "bottleneck": "Most cancer drugs are developed for adult indications and only later, if ever, tested in children, even though pediatric cancers are biologically distinct diseases. Small patient populations, ethical constraints, and limited commercial incentives slow pediatric trials.",
+  "why_it_blocks": "Children with relapsed or refractory cancers have few options; the lag means they wait years for drugs already proven in adults, or never get access at all.",
+  "current_state": "Regulatory incentives and international consortia have increased pediatric trial activity, and some targeted agents are now approved for pediatric use. But the structural gap of adult-first development pipelines persists. Advocacy groups and regulators continue to push for earlier pediatric study requirements, and international trial networks are pooling scarce patients across countries. Progress is real but slow relative to adult oncology.",
+  "sources": [
+    {
+      "title": "Advances in Drug Development for Metastatic Cancer",
+      "url": "https://www.numberanalytics.com/blog/advances-drug-development-metastatic-cancer"
+    }
+  ]
+}

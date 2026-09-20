@@ -1,0 +1,18 @@
+{
+  "id": 297,
+  "domain": "artificial_intelligence",
+  "title": "Native causal reasoning in neural models",
+  "bottleneck": "Today's models excel at statistical correlation but cannot perform native interventional or counterfactual reasoning — asking what would happen if X changed, grounded in a structured model of cause and effect. Chain-of-thought can mimic causal language, yet models fail when causal structure differs from training correlations and cannot reliably distinguish confounders from true causes. No mainstream architecture has causal inference as a first-class primitive rather than an emergent accident.",
+  "why_it_blocks": "Medicine, policy, and engineering all require causal answers. A model that confuses correlation with causation gives confidently wrong recommendations in exactly the high-stakes settings where AI is most wanted.",
+  "current_state": "Researchers graft causal graphs and do-calculus prompts onto LLMs, and lab evaluations report only about 60% reliability on causal inference tasks. True causal world models remain an open research frontier.",
+  "sources": [
+    {
+      "title": "The Hidden Bottlenecks of Intelligence: Memory, Reasoning, and System Coherence in Modern AI",
+      "url": "https://medium.com/architectural-intelligence/the-hidden-bottlenecks-of-intelligence-memory-reasoning-and-system-coherence-in-modern-ai-76f4b99204a8"
+    },
+    {
+      "title": "How FrontierScience Benchmarks and Lab Evaluations Reveal AI Model Strengths and Limitations for Real-World Scientific Discovery",
+      "url": "https://blockchain.news/ainews/how-frontierscience-benchmarks-and-lab-evaluations-reveal-ai-model-strengths-and-limitations-for-real-world-scientific-discovery"
+    }
+  ]
+}

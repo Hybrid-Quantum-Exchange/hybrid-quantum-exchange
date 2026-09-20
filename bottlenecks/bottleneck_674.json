@@ -1,0 +1,18 @@
+{
+  "id": 674,
+  "domain": "space",
+  "title": "Nuclear pulse propulsion and the test-ban barrier",
+  "bottleneck": "Project Orion's nuclear pulse propulsion — detonating small nuclear charges behind a pusher plate — remains the only propulsion concept with credible test heritage that could move kiloton-scale payloads and reach a few percent of light speed. But the 1963 Partial Test Ban Treaty prohibits nuclear explosions in space, and no political path exists to amend or waive it for propulsion. The physics is credible; the legal and political barrier is absolute.",
+  "why_it_blocks": "Pulse propulsion could make interstellar precursor missions and massive solar-system infrastructure physically possible with 1960s technology; the treaty ban removes the highest-thrust option from the table regardless of engineering merit.",
+  "current_state": "No active program exists. Orion remains a studied concept from Freeman Dyson's work and later NASA studies; all modern effort goes to fission thermal/electric and fusion concepts that avoid detonations.",
+  "sources": [
+    {
+      "title": "An aerospace scientist unpacks the challenges of interstellar spaceflight (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/could-aliens-ever-visit-earth-an-aerospace-scientist-unpacks-the-challenges-of-interstellar-spaceflight/"
+    },
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    }
+  ]
+}

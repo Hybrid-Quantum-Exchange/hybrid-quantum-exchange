@@ -1,0 +1,14 @@
+{
+  "id": 37,
+  "domain": "fundamental_physics",
+  "title": "Neutrino mass ordering: normal or inverted hierarchy",
+  "bottleneck": "Oscillation data fix two mass-squared splittings but not their sign relative to the third state, leaving two possible orderings: normal, with the lightest state mostly electron-flavored, or inverted. Current global fits mildly favor normal ordering but cannot exclude inverted at high confidence.",
+  "why_it_blocks": "The ordering determines the expected rate of neutrinoless double-beta decay, the pattern of flavor symmetry models, and whether the lightest neutrino could be nearly massless, shaping the entire theoretical landscape.",
+  "current_state": "The JUNO reactor experiment and the long-baseline DUNE and Hyper-Kamiokande programs are designed to resolve the ordering within the coming decade through precision matter-effect measurements. JUNO's medium-baseline reactor measurement should determine the ordering independently of matter effects, complementing the long-baseline accelerator programs, within this decade.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

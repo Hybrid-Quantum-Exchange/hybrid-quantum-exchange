@@ -1,0 +1,18 @@
+{
+  "id": 837,
+  "domain": "climate_environment",
+  "title": "Wildfire smoke health impact quantification",
+  "bottleneck": "Wildfire smoke now regularly blankets continents, but its health toll is poorly quantified: epidemiological studies lag the new exposure regime, the toxicity of smoke from burning structures versus vegetation differs in unknown ways, and indoor infiltration means even shelter-in-place guidance is unreliable. No health system has protocols for months-long smoke seasons, and the cumulative effects of repeated exposures across years are unstudied.",
+  "why_it_blocks": "Smoke may already be reversing decades of air-quality gains, with mortality and morbidity costs in the tens of billions annually — yet it remains largely invisible in climate damage accounting. The evidence gap lets policymakers treat smoke as a nuisance rather than a public health emergency.",
+  "current_state": "Low-cost sensor networks are mapping exposure in unprecedented detail, and researchers are building the first chronic-exposure cohorts. But health-protective standards for wildfire smoke specifically — distinct from urban PM2.5 — do not yet exist.",
+  "sources": [
+    {
+      "title": "Thawing permafrost is affecting climate, but it's unclear by how much",
+      "url": "https://phys.org/news/2024-10-permafrost-affecting-climate-unclear.html"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

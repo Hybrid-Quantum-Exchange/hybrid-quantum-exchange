@@ -1,0 +1,18 @@
+{
+  "id": 344,
+  "domain": "artificial_intelligence",
+  "title": "Low-precision quantization without quality loss",
+  "bottleneck": "Pushing models below 4-bit precision — necessary for affordable deployment — degrades reasoning quality unpredictably: outliers in activations break naive quantization, and degradation concentrates in exactly the complex reasoning tasks users care about. Per-layer dynamic scaling and new formats help but add complexity, and aggressive quantization can silently lobotomize a model while headline benchmarks look fine. Calibration data for quantization rarely matches deployment distributions, so real-world degradation exceeds lab measurements.",
+  "why_it_blocks": "The gap between runs-on-available-hardware and still-smart is decided by quantization. Bad quantization wastes the entire training investment. Every serving dollar saved by quantization is paid in capability; the frontier of the tradeoff is unmapped territory.",
+  "current_state": "FP8 is now standard on H100/B200 GPUs with negligible loss; sub-4-bit remains a quality cliff for reasoning-heavy workloads.",
+  "sources": [
+    {
+      "title": "LLM inference Bottlenecks: Memory, CPU and I/O",
+      "url": "https://chierhu.medium.com/bottlenecks-memory-cpu-and-i-o-8463812ace94"
+    },
+    {
+      "title": "From Web Backend to AI Infrastructure — Memory Optimization for LLM Inference",
+      "url": "https://medium.com/@hotakoma/from-web-backend-to-ai-infrastructure-2-2-memory-optimization-for-llm-inference-403e12ae7a42"
+    }
+  ]
+}

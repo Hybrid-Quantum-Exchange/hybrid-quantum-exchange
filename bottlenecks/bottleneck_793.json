@@ -1,0 +1,18 @@
+{
+  "id": 793,
+  "domain": "climate_environment",
+  "title": "Clean-energy siting for direct air capture",
+  "bottleneck": "DAC only delivers net-negative emissions when powered by clean energy, yet it is enormously power-hungry — and suitable sites must combine clean electricity, geological CO2 storage, and favorable weather simultaneously. The MIT analysis found coal-powered DAC emits 1.2 tonnes of CO2 per tonne captured, a net-positive disaster. The overlap of cheap clean power, verified storage geology, and DAC-friendly climate exists in few places, constraining where plants can honestly operate.",
+  "why_it_blocks": "Siting constraints mean DAC cannot simply be built wherever capital is available; bad siting turns a climate solution into a climate problem. The limited set of viable locations caps realistic deployment far below what integrated assessment models assume.",
+  "current_state": "Iceland's geothermal-powered Climeworks plants show the concept works where conditions align, but they capture far less than designed. Most announced projects cluster in the US Gulf Coast and Iceland, leaving the technology geographically bottlenecked.",
+  "sources": [
+    {
+      "title": "MIT Study Reveals Major Challenges with Carbon Removal Technology Plans",
+      "url": "https://scienceblog.com/mit-study-reveals-major-challenges-with-carbon-removal-technology-plans/"
+    },
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    }
+  ]
+}

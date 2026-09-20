@@ -1,0 +1,18 @@
+{
+  "id": 889,
+  "domain": "xr_interface",
+  "title": "Etendue conservation limiting AR display field of view and eyebox",
+  "bottleneck": "Near-eye displays are bound by etendue conservation: the product of display area, emission angle, and numerical aperture is invariant through any passive optics. This forces a brutal three-way trade between field of view, eyebox size, and brightness, which is why AR glasses are dim, narrow, or bulky, and never all three at once.",
+  "why_it_blocks": "Breaking or sidestepping this limit is the precondition for AR glasses that look like glasses. Every consumer AR program is ultimately fighting etendue, and progress in waveguides and microdisplays only rebalances the same fixed budget.",
+  "current_state": "Holographic and polarization-based waveguides, laser beam scanning, and retinal projection each attack part of the trade space, but no approach has demonstrated a wide field of view, large eyebox, and daylight brightness in a glasses form factor simultaneously.",
+  "sources": [
+    {
+      "title": "Optics of XR: etendue invariance limit",
+      "url": "https://www.roadtovr.com/optics-of-xr-ar-displays-etendue-invariance-limit/"
+    },
+    {
+      "title": "AR optics: holographic waveguide etendue",
+      "url": "https://www.sid.org/sid-symposium-digest-2023/ar-optics-holographic-waveguide-etendue"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 142,
+  "domain": "cosmology_multiverse",
+  "title": "Pre-Big-Bang and Cyclic Cosmologies",
+  "bottleneck": "Bouncing and cyclic models (ekpyrotic, matter-bounce, conformal cyclic cosmology) claim to replace inflation, but each requires exotic matter, fine-tuned initial conditions, or unproven high-energy physics, and none reproduces the full suite of CMB observations as economically as inflation. Their distinctive predictions (e.g., non-Gaussian signatures, gravitational-wave spectra) are mostly untested. Ekpyrotic models predict negligible primordial gravitational waves, a sharp contrast with large-field inflation that future B-mode searches could test.",
+  "why_it_blocks": "The origin of the universe has credible-sounding alternatives to inflation that cannot be decisively tested. Their survival as unfalsified alternatives keeps the field honest but consumes theoretical effort.",
+  "current_state": "No cyclic or bounce model is favored by data; they survive as unfalsified alternatives rather than competitors. Until such discriminating tests mature, the alternatives remain viable but uncompelling to most cosmologists.",
+  "sources": [
+    {
+      "title": "The Measure Problem in Eternal Inflation (arXiv:1801.05016)",
+      "url": "https://arxiv.org/pdf/1801.05016"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

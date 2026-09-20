@@ -1,0 +1,18 @@
+{
+  "id": 205,
+  "domain": "energy",
+  "title": "Solid-state battery manufacturing barriers",
+  "bottleneck": "Solid-state batteries promise nonflammable, higher-energy-density storage, but manufacturing solid electrolytes without defects at scale has defeated years of effort. Ceramic electrolytes crack, sulfide electrolytes release toxic gas when exposed to moisture, and interface resistance between layers degrades performance. Pilot lines produce cells at costs orders of magnitude above conventional batteries.",
+  "why_it_blocks": "Solid-state remains perpetually five years away because the barrier is manufacturing physics, not chemistry. Lab cells work; factories cannot make them. Stack pressure requirements add mechanical complexity: cells must be clamped under precise loads for thousands of cycles without relaxing.",
+  "current_state": "Toyota, Samsung, and startups target late-2020s production. Meaningful grid-scale volumes are not expected before the early 2030s. Some automakers now hedge with semi-solid designs, tacitly admitting full solid-state timelines keep slipping.",
+  "sources": [
+    {
+      "title": "Rechargeable Batteries for Grid-Scale Energy Storage: Technologies, Performance, and Emerging Directions",
+      "url": "https://mdpi-res.com/d_attachment/batteries/batteries-12-00264/article_deploy/batteries-12-00264.pdf?version=1784562080"
+    },
+    {
+      "title": "Trend Scan AI Automated Report: Battery Storage and Grid-Scale Energy",
+      "url": "https://ezassi.com/wp-content/uploads/2026/06/Battery-Storage-and-Grid-Scale-Energy.pdf"
+    }
+  ]
+}

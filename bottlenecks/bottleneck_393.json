@@ -1,0 +1,18 @@
+{
+  "id": 393,
+  "domain": "medicine_cures",
+  "title": "Rapid point-of-care diagnostics for resistant infections",
+  "bottleneck": "Clinicians typically wait 24 to 72 hours for culture-based susceptibility results, forcing empiric broad-spectrum antibiotic use that drives resistance. WHO's 2025 diagnostics report identified critical gaps in tests that can rapidly detect priority pathogens and their resistance profiles at the bedside.",
+  "why_it_blocks": "Without fast diagnostics, stewardship is impossible: doctors cannot prescribe narrowly what they cannot identify quickly.",
+  "current_state": "Molecular panels and rapid phenotypic tests are improving, but cost, complexity, and limited pathogen coverage keep them out of most clinics worldwide, especially in low-resource settings. The WHO diagnostics report is meant to steer R&D toward the highest-impact tests, but translating guidance into funded products requires market incentives that barely exist for diagnostics. Low-cost, robust tests for low-resource settings are the greatest unmet need.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    },
+    {
+      "title": "Reports identify weakness in global pipeline for new antibiotics, diagnostics",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/reports-identify-weakness-global-pipeline-new-antibiotics-diagnostics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 877,
+  "domain": "xr_interface",
+  "title": "Olfactory display for XR",
+  "bottleneck": "Smell is tightly linked to memory and emotion, but no practical scent display exists for XR: chemical cartridges are bulky, scents linger and contaminate, switching between odors takes seconds to minutes, and synthesizing arbitrary smells from primaries is unsolved chemistry. Digital scent remains a perennial demo that never ships.",
+  "why_it_blocks": "Without smell, virtual environments miss a dimension that strongly drives presence and memory; training simulations (firefighting, medicine, cooking) lose critical cues. The chemical nature of olfaction resists digitization.",
+  "current_state": "Scent cartridges exist for niche VR and marketing installations with a handful of preloaded odors. General-purpose, fast-switching, compact olfactory displays are still research prototypes. Scent molecules linger in air and on surfaces, so rapid context switching between smells is physically impossible with chemical delivery.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "AndroidHeadlines: Haptic feedback tech",
+      "url": "https://www.androidheadlines.com/2026/06/haptic-feedback-technology-and-the-future-of-immersive-digital-interaction.html"
+    }
+  ]
+}

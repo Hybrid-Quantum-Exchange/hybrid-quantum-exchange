@@ -1,0 +1,18 @@
+{
+  "id": 377,
+  "domain": "medicine_cures",
+  "title": "Durable food-allergy tolerance without continual dosing",
+  "bottleneck": "Oral immunotherapy can raise the reaction threshold for peanut and other food allergies, but protection typically fades when daily dosing stops: desensitization is not tolerance. Patients remain tethered to maintenance doses indefinitely, with ongoing risk of severe reactions from missed doses or intercurrent illness.",
+  "why_it_blocks": "True durable tolerance would free patients, especially children, from the daily discipline and anxiety of maintenance therapy and from carrying emergency epinephrine everywhere. The gap between desensitization and lasting immune reprogramming is the central unsolved problem in allergy therapeutics.",
+  "current_state": "The FDA approval of peanut oral immunotherapy marked a milestone, and trials of epicutaneous patches, sublingual tablets, and adjunct biologics like omalizumab are underway. None has yet demonstrated sustained unresponsiveness years after treatment ends in a majority of patients.",
+  "sources": [
+    {
+      "title": "Food allergy oral immunotherapy review",
+      "url": "https://www.mdpi.com/2076-3417/15/9/4833"
+    },
+    {
+      "title": "FDA-approved oral immunotherapy for peanut allergy",
+      "url": "https://www.newswise.com/articles/new-fda-approved-oral-immunotherapy-marks-important-milestone-in-peanut-allergy-management"
+    }
+  ]
+}

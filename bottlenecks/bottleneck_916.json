@@ -1,0 +1,18 @@
+{
+  "id": 916,
+  "domain": "food_water_agriculture",
+  "title": "Peak phosphorus and fertilizer security",
+  "bottleneck": "Phosphorus has no substitute in agriculture and no synthetic pathway — it must be mined, and reserves are concentrated in a handful of countries, with Morocco holding most of the world's phosphate rock. Price spikes in 2008 and 2022 showed how quickly fertilizer access can collapse for poor farmers. Recycling phosphorus from waste streams at scale is technically possible but economically uncompetitive with mining.",
+  "why_it_blocks": "A phosphorus supply shock would cut yields globally with no alternative input to replace it — a single-point failure for the food system. A phosphorus supply shock would cut yields globally with no alternative input to replace it.",
+  "current_state": "Mining continues and recycling pilots handle a tiny fraction of flows. No strategic reserves or substitutes exist.",
+  "sources": [
+    {
+      "title": "Limiting Factors to Crop Yield",
+      "url": "https://pro-soil.com/limiting-factors-to-crop-yield/"
+    },
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    }
+  ]
+}

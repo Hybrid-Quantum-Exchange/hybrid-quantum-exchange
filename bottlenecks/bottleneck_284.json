@@ -1,0 +1,18 @@
+{
+  "id": 284,
+  "domain": "compute_semiconductors",
+  "title": "Critical-material supply constraints (gallium, germanium)",
+  "bottleneck": "Advanced semiconductors depend on gallium, germanium, and other materials dominated by single-country supply chains, and export controls have already restricted their flow. Germanium substrates underpin high-efficiency photonics and space solar; gallium is essential for GaN power and RF devices. Recycling and alternative sourcing can't quickly replace primary supply at required purity.",
+  "why_it_blocks": "Material embargoes can idle fabs and R&D lines regardless of technical readiness, turning geopolitics into a hard limit on compute advancement. Supply concentration makes the entire advanced-chip stack fragile to trade policy.",
+  "current_state": "Export licensing regimes are in effect, and companies are diversifying sourcing and stockpiling. New primary supply outside dominant producers will take years to develop. Building new refining capacity for these materials takes the better part of a decade, so today's supply concentration will persist through multiple product cycles.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    }
+  ]
+}

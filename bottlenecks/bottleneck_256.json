@@ -1,0 +1,18 @@
+{
+  "id": 256,
+  "domain": "compute_semiconductors",
+  "title": "Neuromorphic interconnect scaling to billion-neuron systems",
+  "bottleneck": "Spiking neural networks need massive, low-latency fan-out between neurons, but routing spikes across millions of neurons hits interconnect congestion, arbitration delays, and power walls. Current neuromorphic chips (millions of neurons) are far from brain scale (billions of neurons, trillions of synapses), and scaling the event-driven fabric multiplies complexity faster than neuron count. Heat and memory bottlenecks compound at scale.",
+  "why_it_blocks": "Neuromorphic computing's efficiency promise only matters at scales where it can run real workloads; without scalable interconnects, chips stay as research curiosities unable to tackle production AI tasks. The gap between demo-scale and brain-scale remains orders of magnitude.",
+  "current_state": "Intel Loihi 2, IBM NorthPole, and SpiNNaker demonstrate million-neuron-class systems with novel routing fabrics. Billion-neuron systems with acceptable power and latency have no demonstrated path yet.",
+  "sources": [
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    },
+    {
+      "title": "MindRemix: Neuromorphic brain-inspired revolution",
+      "url": "https://www.mindremix.com/2025/12/neuromorphic-computing-brain-inspired.html"
+    }
+  ]
+}

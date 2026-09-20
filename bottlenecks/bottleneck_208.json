@@ -1,0 +1,18 @@
+{
+  "id": 208,
+  "domain": "energy",
+  "title": "Green hydrogen round-trip efficiency for power",
+  "bottleneck": "Hydrogen can store energy for weeks or months, but the power-to-power round trip, electrolysis, compression, storage, then fuel cell or turbine, returns only 30 to 45 percent of the input electricity. Electrolyzers are expensive, hydrogen leaks through seals and embrittles steel, and salt-cavern storage exists only in favorable geology. The economics require extremely cheap surplus electricity. Hydrogen embrittlement of pipelines and storage vessels forces expensive material upgrades across any hydrogen transport network.",
+  "why_it_blocks": "Hydrogen's poor round-trip efficiency means it only makes sense for seasonal storage or as a chemical feedstock. As a general grid battery it wastes most of the energy it touches.",
+  "current_state": "Hydrogen hubs are funded in the US and EU. Power-to-power demonstrations exist but costs remain far above alternatives for sub-seasonal storage.",
+  "sources": [
+    {
+      "title": "Long Term Energy Storage Solutions For Grid Reliability",
+      "url": "https://electricityforum.com/td/energy-storage/long-term-energy-storage"
+    },
+    {
+      "title": "Trend Scan AI Automated Report: Battery Storage and Grid-Scale Energy",
+      "url": "https://ezassi.com/wp-content/uploads/2026/06/Battery-Storage-and-Grid-Scale-Energy.pdf"
+    }
+  ]
+}

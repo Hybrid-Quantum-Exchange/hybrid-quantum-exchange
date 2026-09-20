@@ -1,0 +1,18 @@
+{
+  "id": 190,
+  "domain": "energy",
+  "title": "Reactor pressure vessel embrittlement monitoring",
+  "bottleneck": "Extending existing reactors to 60 or 80 years, the cheapest source of clean firm power, depends on proving reactor pressure vessels have not embrittled beyond safe limits from decades of neutron bombardment. Surveillance capsules provide limited data points, and the most embrittled regions cannot be sampled directly. Uncertain embrittlement models could force early retirement of plants with decades of useful life. Thermal annealing could recover some toughness, but the technique is unproven on full-size vessels and regulators have not accepted it as a remedy.",
+  "why_it_blocks": "Life extension is nuclear's highest-value climate action per dollar, but it stands or falls on material evidence. Regulators cannot approve 80-year operation on extrapolation alone.",
+  "current_state": "Advanced non-destructive examination and embrittlement modeling are improving. Several plants have received 80-year licenses while others face data gaps.",
+  "sources": [
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    },
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    }
+  ]
+}

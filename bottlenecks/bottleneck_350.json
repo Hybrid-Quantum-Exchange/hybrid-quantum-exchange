@@ -1,0 +1,18 @@
+{
+  "id": 350,
+  "domain": "artificial_intelligence",
+  "title": "Hallucination in long-form factual generation",
+  "bottleneck": "Models generate fluent, confident falsehoods — fabricated citations, invented facts, plausible nonsense — because training optimizes for likely text, not truth. No architecture enforces consistency between a model's claims and reality; retrieval grounding helps but models still misread sources, and long-form generation compounds errors. Hallucination rates on open-ended factual tasks remain far above what's acceptable for professional use.",
+  "why_it_blocks": "Any application where truth matters — medicine, law, journalism, science — is blocked until outputs can be trusted without line-by-line human verification.",
+  "current_state": "RAG and citation requirements reduce but don't eliminate hallucinations; production postmortems trace most hallucinations to unstable context rather than the model alone. RAG and citation requirements reduce but don't eliminate hallucinations; production postmortems trace most of them to unstable context rather than the model alone.",
+  "sources": [
+    {
+      "title": "The Hidden Bottlenecks of Intelligence: Memory, Reasoning, and System Coherence in Modern AI",
+      "url": "https://medium.com/architectural-intelligence/the-hidden-bottlenecks-of-intelligence-memory-reasoning-and-system-coherence-in-modern-ai-76f4b99204a8"
+    },
+    {
+      "title": "The Real Bottlenecks in Production AI",
+      "url": "https://medium.com/@artiquare/the-real-bottlenecks-in-production-ai-3c4e5df5abf3"
+    }
+  ]
+}

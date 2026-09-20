@@ -1,0 +1,18 @@
+{
+  "id": 211,
+  "domain": "energy",
+  "title": "Thermal storage heat-to-power efficiency",
+  "bottleneck": "Thermal energy storage, molten salt, hot rocks, or phase-change materials, stores heat cheaply but converting it back to electricity runs at 35 to 45 percent efficiency with conventional steam cycles. Higher temperatures improve efficiency but demand exotic containment materials. As pure electricity storage it loses badly to batteries; its value lies in industrial heat or concentrated solar, where the heat is used directly. Carnot limits are unforgiving: even at 700 degrees Celsius, practical heat-to-power efficiency struggles to exceed 45 percent.",
+  "why_it_blocks": "Thermal storage's efficiency penalty confines it to niche roles. Without high-efficiency heat-to-power conversion it cannot compete as grid electricity storage.",
+  "current_state": "Molten-salt concentrated solar plants operate commercially. Novel solid-media and ultra-high-temperature concepts target industrial heat markets. Startups targeting ultra-high-temperature storage for industry sidestep the electricity-conversion problem entirely.",
+  "sources": [
+    {
+      "title": "Long Term Energy Storage Solutions For Grid Reliability",
+      "url": "https://electricityforum.com/td/energy-storage/long-term-energy-storage"
+    },
+    {
+      "title": "Trend Scan AI Automated Report: Battery Storage and Grid-Scale Energy",
+      "url": "https://ezassi.com/wp-content/uploads/2026/06/Battery-Storage-and-Grid-Scale-Energy.pdf"
+    }
+  ]
+}

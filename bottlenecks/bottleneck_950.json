@@ -1,0 +1,18 @@
+{
+  "id": 950,
+  "domain": "food_water_agriculture",
+  "title": "Aflatoxin contamination in staple grains",
+  "bottleneck": "Aflatoxin — a carcinogenic mold toxin — contaminates maize and groundnuts across the tropics, causing liver cancer and stunting in children, yet most affected countries lack testing infrastructure: contaminated grain is eaten because there's no alternative. Drying and hermetic storage prevent contamination, but adoption is low, and the health damage is chronic and invisible, so urgency is absent. Drying and hermetic storage prevent contamination, but adoption is low and the health damage is chronic and invisible.",
+  "why_it_blocks": "A staple food that poisons its consumers is a hidden public-health catastrophe — one of the largest preventable causes of liver cancer worldwide. A staple food that poisons its consumers is a hidden public-health catastrophe - one of the largest preventable liver-cancer causes worldwide.",
+  "current_state": "Biocontrol with atoxigenic Aspergillus strains works where deployed; most smallholder grain is never tested.",
+  "sources": [
+    {
+      "title": "FAO Save Food: Post-harvest losses brochure",
+      "url": "https://www.fao.org/fileadmin/user_upload/ags/publications/brochure_phl_low.pdf"
+    },
+    {
+      "title": "Aflatoxin Contamination of Maize, Groundnut, and Sorghum Grown in Burkina Faso, Mali, and Niger and Aflatoxin Exposure Assessment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9611981/"
+    }
+  ]
+}

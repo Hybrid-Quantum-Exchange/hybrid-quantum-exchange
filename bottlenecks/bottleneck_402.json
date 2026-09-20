@@ -1,0 +1,14 @@
+{
+  "id": 402,
+  "domain": "medicine_cures",
+  "title": "Universal coronavirus vaccine",
+  "bottleneck": "SARS-CoV-2 keeps evolving immune-evasive variants, and immunity from vaccines or infection wanes within months; current vaccines reduce severe disease but do not durably block infection or transmission. A pan-coronavirus vaccine targeting conserved regions could preempt future variants and novel coronaviruses.",
+  "why_it_blocks": "COVID-19 demonstrated the cost of strain-chasing; without broader vaccines, each new variant or spillover restarts the cycle.",
+  "current_state": "Mosaic nanoparticle and conserved-epitope candidates are in early trials. None has yet shown broad, durable protection against diverse coronaviruses. A pan-coronavirus vaccine would also serve as insurance against future spillovers from animal reservoirs, the likely source of the next pandemic. Current candidates target conserved spike regions and internal proteins, but none has yet shown broad, durable protection in people, and correlates of protection against diverse coronaviruses are undefined.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

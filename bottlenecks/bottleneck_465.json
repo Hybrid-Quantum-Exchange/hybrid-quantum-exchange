@@ -1,0 +1,18 @@
+{
+  "id": 465,
+  "domain": "health_longevity",
+  "title": "Alpha-synuclein clearance in Parkinson's disease",
+  "bottleneck": "Anti-alpha-synuclein antibodies (prasinezumab, cinpanemab) and active vaccines cleared their protein target yet failed to slow Parkinson's progression, mirroring the amyloid story. Peripheral alpha-synuclein levels do not reliably reflect brain pathology, and trials lacked validated central biomarkers and agreed clinical endpoints, so it is unclear whether the target, the timing, or the trial design failed.",
+  "why_it_blocks": "Parkinson's has no disease-modifying therapy; patients get only symptomatic dopamine replacement. If the field cannot learn why synuclein clearance failed, it risks repeating a decade of amyloid-style futility.",
+  "current_state": "Prasinezumab development continues in exploratory modes after PASADENA missed endpoints; cinpanemab was discontinued. The field is shifting toward earlier intervention, patient stratification by synuclein-seed assays, and combination approaches. Seed-amplification assays can now detect misfolded synuclein in spinal fluid years before diagnosis, offering a path to earlier, biomarker-enriched trials that earlier antibody programs lacked.",
+  "sources": [
+    {
+      "title": "A Proposed Roadmap for Parkinson's Disease Proof of Concept Clinical Trials Investigating Compounds Targeting Alpha-Synuclein (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6398545/"
+    },
+    {
+      "title": "Alpha-Synuclein Levels Unnecessary for Parkinson's Pathology (Bioengineer.org)",
+      "url": "https://bioengineer.org/alpha-synuclein-levels-unnecessary-for-parkinsons-pathology/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 24,
+  "domain": "fundamental_physics",
+  "title": "Quantum-to-classical transition and the preferred basis",
+  "bottleneck": "Nothing in the bare quantum formalism picks out the familiar classical properties, position and momentum, as the ones that become definite in macroscopic objects rather than bizarre superpositions. Decoherence theory appeals to the environment selecting a 'pointer basis,' but this selection depends on how the system-environment split is drawn.",
+  "why_it_blocks": "Without a principled account of why the world looks classical, quantum mechanics cannot explain its own limit, leaving the emergence of everyday reality an unsolved problem rather than a derived result.",
+  "current_state": "Environment-induced superselection is the standard story and is experimentally well supported, yet the circularity worry, that classicality is assumed in choosing the split, remains philosophically and technically alive. Quantum Darwinism shows how redundant environmental records select classical information, but critics note the framework assumes the system-environment split it claims to explain.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

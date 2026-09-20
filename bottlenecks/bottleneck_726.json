@@ -1,0 +1,18 @@
+{
+  "id": 726,
+  "domain": "materials",
+  "title": "Ambient-pressure room-temperature superconductor",
+  "bottleneck": "No material has been independently confirmed to superconduct at room temperature and ambient pressure. High-Tc hydrides such as lanthanum decahydride reach transition temperatures near 250 K only under roughly 150-200 GPa in diamond anvil cells, about 1.5 million atmospheres, making them laboratory curiosities rather than usable technologies. Ambient-pressure claims, most famously LK-99 in 2023, collapsed under replication attempts, with anomalous signals traced to a copper sulfide impurity phase.",
+  "why_it_blocks": "Loss-free power transmission, compact fusion magnets, cheaper MRI machines, and efficient motors all depend on superconductors that work without cryogenic cooling or crushing pressure. Without an ambient superconductor, these applications stay confined to expensive liquid-nitrogen or liquid-helium regimes, and grid-scale resistive losses of roughly 5-8 percent of electricity persist.",
+  "current_state": "As of 2026 the search is active but unclosed: a PNAS perspective by 16 researchers concluded no fundamental law rules out ambient-temperature superconductivity and set a systematic research agenda. Hydrides remain stuck at megabar pressures, and the SuperC consortium aims to find a room-temperature candidate by 2033 using quantum geometry and machine learning.",
+  "sources": [
+    {
+      "title": "Room-temperature superconductor",
+      "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor"
+    },
+    {
+      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
+      "url": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html"
+    }
+  ]
+}

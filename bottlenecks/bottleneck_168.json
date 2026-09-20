@@ -1,0 +1,18 @@
+{
+  "id": 168,
+  "domain": "energy",
+  "title": "Fusion-relevant neutron source gap",
+  "bottleneck": "Materials qualification for fusion needs a high-flux 14 MeV neutron source to test how walls, blankets, and steels degrade over a plant lifetime, and none exists. Fission test reactors produce the wrong neutron spectrum, and ion beams only damage surface layers. Without this data, every lifetime claim for fusion materials is extrapolation. Every year without such a facility delays qualification of the walls, blankets, and steels that power-plant designs depend on.",
+  "why_it_blocks": "This is a meta-bottleneck: it blocks the solution to the materials bottleneck, since engineers cannot qualify first walls or blankets without the test facility that does not yet exist.",
+  "current_state": "IFMIF-DONES in Spain is under construction to provide fusion-spectrum neutrons, with first irradiation years away. The US has proposed but not funded a comparable facility.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    }
+  ]
+}

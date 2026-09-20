@@ -1,0 +1,18 @@
+{
+  "id": 743,
+  "domain": "materials",
+  "title": "LLZO grain-boundary charge trapping",
+  "bottleneck": "In lithium lanthanum zirconium oxide, the leading oxide solid electrolyte, grain boundaries accumulate localized electrical charge imbalances that both impede lithium-ion flow and let electrons leak into defect-rich zones. A 2026 MIT/TUM/Antwerp study in Nature Nanotechnology identified these charged boundaries as the crystal-level origin of dendrite nucleation. Engineering boundaries that are ion-transparent yet electron-blocking at scale is unsolved.",
+  "why_it_blocks": "LLZO is attractive because it is stable against lithium metal, unlike sulfides. But if its grain boundaries seed every dendrite, the material cannot deliver the long cycle life that justifies solid-state batteries in the first place.",
+  "current_state": "Researchers are exploring grain-boundary doping, single-crystal electrolytes, and thin-film deposition to bypass the problem, but scalable polycrystalline LLZO with benign boundaries does not yet exist. The finding reframes the problem from bulk conductivity to interface electrostatics.",
+  "sources": [
+    {
+      "title": "Why Solid-State Batteries Fail: MIT Study",
+      "url": "https://casrai.org/news/solid-state-battery-dendrite-failure-grain-boundaries"
+    },
+    {
+      "title": "A Microscopic View of Dendrites: Why Solid-State Batteries Still Fall Short",
+      "url": "https://www.newswise.com/articles/a-microscopic-view-of-dendrites-why-solid-state-batteries-still-fall-short"
+    }
+  ]
+}

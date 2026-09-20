@@ -1,0 +1,18 @@
+{
+  "id": 274,
+  "domain": "compute_semiconductors",
+  "title": "DNA data storage write throughput",
+  "bottleneck": "DNA stores data at extraordinary density with millennia-long stability, but writing (synthesis) is slow, expensive, and error-prone: current throughput is bytes-to-kilobytes per second at dollars per megabyte, many orders of magnitude from archival-storage economics. Random access requires PCR-based addressing schemes that don't scale cleanly, and read latency is hours.",
+  "why_it_blocks": "Global data growth will outrun conventional archival media on cost and footprint; DNA could be the ultimate cold-storage medium, but only if write speed and cost improve by 6+ orders of magnitude. Without that, it stays a demo technology.",
+  "current_state": "Enzymatic synthesis and nanopore sequencing are driving costs down, with megabyte-scale demos achieved. Throughput and cost are still far from tape competitiveness. Random access remains slow because addressing specific strands needs sequencing-adjacent biochemistry rather than electronic row decoders.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

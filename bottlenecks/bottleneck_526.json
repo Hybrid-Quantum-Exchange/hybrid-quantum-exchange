@@ -1,0 +1,18 @@
+{
+  "id": 526,
+  "domain": "health_longevity",
+  "title": "Bipolar mixed and agitated dysphoric states",
+  "bottleneck": "Mixed states, combining depressive and manic features with agitation, carry the highest suicide risk in bipolar disorder and respond poorly to standard treatments: antidepressants can worsen agitation, and the evidence for mood stabilizers in mixed presentations is thin. Diagnostic recognition itself is inconsistent.",
+  "why_it_blocks": "The most lethal presentation of bipolar disorder is also the least treatable and least studied. Mixed states concentrate suicide risk precisely where the pharmacology is weakest.",
+  "current_state": "Atypical antipsychotics are the mainstay for acute mixed episodes based on limited data. ECT is used in refractory cases. Dedicated trials for mixed features remain rare. Mixed features are now a DSM specifier rather than a separate episode type, yet treatment trials still enroll predominantly pure presentations, leaving the highest-risk group understudied.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Addressing the Challenges of Treating Schizophrenia and Bipolar Disorder (AHDB)",
+      "url": "https://www.ahdbonline.com/articles/2009-addressing-the-challenges-of-treating-schizophrenia-and-bipolar-disorder"
+    }
+  ]
+}

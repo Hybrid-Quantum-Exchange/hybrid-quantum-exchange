@@ -1,0 +1,18 @@
+{
+  "id": 257,
+  "domain": "compute_semiconductors",
+  "title": "Spiking neural network training algorithms",
+  "bottleneck": "Spiking neurons communicate with discrete, non-differentiable events, so standard backpropagation doesn't apply directly. Surrogate-gradient methods, spike-timing-dependent plasticity, and conversion from ANNs all produce accuracy gaps on large models, and training is slow and unstable compared to deep learning. There is no universally effective, scalable training recipe for deep spiking networks.",
+  "why_it_blocks": "Without competitive training, neuromorphic hardware has nothing worth running: accuracy deficits keep SNNs off production workloads regardless of chip efficiency. The software gap, not just the hardware gap, blocks brain-inspired computing from relevance.",
+  "current_state": "Surrogate gradients and ANN-to-SNN conversion now reach near-ANN accuracy on medium benchmarks, and frameworks are maturing. Large-scale models (LLM-class) trained as native SNNs remain out of reach. Hybrid approaches combining surrogate gradients with local plasticity rules show promise but add complexity without closing the accuracy gap.",
+  "sources": [
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    },
+    {
+      "title": "Educba: Neuromorphic Computing",
+      "url": "https://www.educba.com/neuromorphic-computing/"
+    }
+  ]
+}

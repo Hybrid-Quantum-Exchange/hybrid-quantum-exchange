@@ -1,0 +1,14 @@
+{
+  "id": 74,
+  "domain": "fundamental_physics",
+  "title": "The Big Bang singularity and cosmic initial conditions",
+  "bottleneck": "Classical cosmology breaks down at the Big Bang singularity, where densities diverge and the equations stop making sense, leaving the universe's initial conditions unexplained. Whether quantum cosmology replaces the singularity with a bounce, a tunneling event, or something else is unknown.",
+  "why_it_blocks": "The singularity is the boundary of all physical explanation in the standard picture; whatever resolves it determines whether the universe had a beginning at all.",
+  "current_state": "Loop quantum cosmology predicts a Big Bounce, the Hartle-Hawking proposal offers a no-boundary beginning, and string gas cosmology suggests a Hagedorn phase, with no observational way to choose. Quantum bounce models must explain how a contracting universe avoids the chaotic mixmaster behavior that generically precedes singularities. The Hartle-Hawking no-boundary proposal derives initial conditions from a Euclidean path integral, but its measure and predictions remain disputed.",
+  "sources": [
+    {
+      "title": "What are the unsolved problems in physics - Axtelnet",
+      "url": "http://axtelnet.com/archive-m-bechtler-27/what-are-the-unsolved-problems-in-physics"
+    }
+  ]
+}

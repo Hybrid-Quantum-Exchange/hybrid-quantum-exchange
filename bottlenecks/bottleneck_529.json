@@ -1,0 +1,18 @@
+{
+  "id": 529,
+  "domain": "health_longevity",
+  "title": "Antipsychotic adherence and relapse prevention in schizophrenia",
+  "bottleneck": "Non-adherence drives most schizophrenia relapses, hospitalizations, and functional decline, yet it is treated as a patient compliance problem rather than a systems design problem. Long-acting injectables reduce relapse but are underused due to cost, logistics, and patient and clinician resistance.",
+  "why_it_blocks": "Relapse in schizophrenia is often preventable, and each psychotic episode may worsen long-term prognosis. The gap between available prevention and actual prevention is one of psychiatry's largest avoidable harms.",
+  "current_state": "Long-acting injectable antipsychotics are recommended earlier in guidelines but still prescribed late. Digital adherence monitoring and shared decision-making models aim to close the gap with mixed uptake. Long-acting injectables cut relapse roughly in half versus oral drugs in mirror-image studies, yet they remain a last resort in practice rather than the early option guidelines suggest.",
+  "sources": [
+    {
+      "title": "Addressing the Challenges of Treating Schizophrenia and Bipolar Disorder (AHDB)",
+      "url": "https://www.ahdbonline.com/articles/2009-addressing-the-challenges-of-treating-schizophrenia-and-bipolar-disorder"
+    },
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    }
+  ]
+}

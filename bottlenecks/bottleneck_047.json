@@ -1,0 +1,14 @@
+{
+  "id": 47,
+  "domain": "fundamental_physics",
+  "title": "Proton decay: the missing signature of grand unification",
+  "bottleneck": "Most grand unified theories predict protons decay with lifetimes not far above current limits, yet Super-Kamiokande has watched 50 kilotonnes of water for decades without seeing one, pushing partial lifetimes beyond 10^34 years. Each null result excludes the simplest GUT models without confirming any alternative.",
+  "why_it_blocks": "Proton decay is the defining low-energy prediction of grand unification; its continued absence either falsifies the framework's minimal versions or pushes unification beyond testability.",
+  "current_state": "Hyper-Kamiokande will extend sensitivity by an order of magnitude, decisively testing many remaining non-supersymmetric GUTs, while supersymmetric models predict lifetimes just beyond even that reach. Supersymmetric grand unified theories typically predict lifetimes within Hyper-Kamiokande's reach, making the next decade decisive for the whole framework, while non-supersymmetric models face combined proton-decay and coupling constraints.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 972,
+  "domain": "coordination",
+  "title": "Verification Asymmetries in AI Safety Commitments",
+  "bottleneck": "AI labs' safety commitments are largely self-reported, and independent evaluators lack the access needed to verify training practices, incident handling, or safeguard effectiveness. The Future of Life Institute's 2025 AI Safety Index gave no leading company above a C+ overall, with existential safety planning scoring worst. Companies control what evaluators see, and competitive pressure rewards minimal disclosure.",
+  "why_it_blocks": "Unverifiable commitments are indistinguishable from marketing, so the public cannot tell which labs are actually safe. Trust without verification leaves the public unable to distinguish genuine safety from theater.",
+  "current_state": "Embedded third-party evaluator proposals (Amodei's 2026 plan, endorsed by rival CEOs) are the leading fix, but none is yet operational with real access. Making evaluator access a licensing condition is the proposed remedy, but no government has imposed it.",
+  "sources": [
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    },
+    {
+      "title": "From Pacing the Frontier to Governing the Frontier (Access Partnership)",
+      "url": "https://accesspartnership.com/opinion/from-pacing-the-frontier-to-governing-the-frontier/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 99,
+  "domain": "cosmology_multiverse",
+  "title": "Phantom Dark Energy and the w < -1 Crossing",
+  "bottleneck": "DESI's preferred evolving-dark-energy fits cross the 'phantom divide' (w < -1), which violates the null energy condition and implies instabilities or exotic physics in simple scalar-field models. It is unknown whether phantom behavior is real, a mirage of the CPL parameterization, or evidence for something stranger like interacting dark sectors. Single-field models that cross w = -1 typically develop gradient instabilities or ghosts, forcing baroque constructions like multi-field or non-minimal couplings.",
+  "why_it_blocks": "Phantom energy, if real, ends the universe in a Big Rip and breaks standard field-theory model-building.",
+  "current_state": "Non-parametric reconstructions of w(z) from DESI data show the crossing robustly across parameterizations, but supernova sample dependence keeps the significance debated. Whether the phantom crossing survives DESI's final data release will determine if theorists must take these exotic constructions seriously.",
+  "sources": [
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

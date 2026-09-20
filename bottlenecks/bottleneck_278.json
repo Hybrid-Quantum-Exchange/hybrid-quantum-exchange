@@ -1,0 +1,18 @@
+{
+  "id": 278,
+  "domain": "compute_semiconductors",
+  "title": "Reconfigurable fabric overhead vs hard ASICs",
+  "bottleneck": "FPGAs and embedded reconfigurable fabrics offer flexibility, but programmability costs roughly 10x area and 3x power versus fixed ASICs, and routing congestion caps achievable clock speeds. Coarse-grained reconfigurable arrays (CGRAs) narrow the gap but still trail ASICs and lack mature compilers. The flexibility-efficiency tradeoff keeps reconfigurable logic out of the most demanding workloads.",
+  "why_it_blocks": "Workload diversity (AI models change monthly) argues for reconfigurable hardware, but the overhead means fixed accelerators win on efficiency wherever volumes justify them. Closing the gap would let hardware keep pace with algorithmic churn.",
+  "current_state": "Modern FPGAs with AI engines and emerging CGRA startups are narrowing the overhead. Compiler maturity for CGRAs and the fundamental area/power tax remain open problems. Place-and-route for reconfigurable fabrics remains far less automated than ASIC flows, adding engineering cost.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    }
+  ]
+}

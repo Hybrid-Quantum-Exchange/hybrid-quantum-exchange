@@ -1,0 +1,18 @@
+{
+  "id": 244,
+  "domain": "compute_semiconductors",
+  "title": "Through-silicon via (TSV) density and yield",
+  "bottleneck": "Vertical connections through thinned silicon enable 3D stacking, but TSVs have hard limits: aspect ratios cap how thin wafers can be drilled and filled, keep-out zones waste silicon area, and thermo-mechanical stress from copper TSVs cracks nearby transistors. Filling millions of deep vias without voids at high throughput is a yield challenge, and TSV capacitance adds signal and power penalties.",
+  "why_it_blocks": "TSV density sets how much bandwidth can move between stacked dies; insufficient density forces architects to keep data movement shallow, limiting 3D stacking to memory-on-logic rather than true logic-on-logic integration. Yield loss from TSV defects compounds across every stacked layer.",
+  "current_state": "TSVs are in volume production for HBM memory stacks and image sensors, with aspect ratios and pitches improving incrementally. Logic-on-logic TSV stacks remain rare outside flagship products due to cost and thermal constraints.",
+  "sources": [
+    {
+      "title": "MDPI: 2.5D/3D chiplet thermal review",
+      "url": "https://www.mdpi.com/2673-4117/6/12/373"
+    },
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    }
+  ]
+}

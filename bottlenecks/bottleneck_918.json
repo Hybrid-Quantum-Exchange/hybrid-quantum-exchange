@@ -1,0 +1,18 @@
+{
+  "id": 918,
+  "domain": "food_water_agriculture",
+  "title": "Rebuilding soil organic carbon at scale",
+  "bottleneck": "Decades of intensive tillage have depleted soil organic carbon across the world's croplands, and rebuilding it is slow — carbon accrues over decades while farmers need returns in seasons. Measurement is expensive and uncertain, which stalls carbon markets that might pay for rebuilding; additionality and permanence disputes plague every soil-carbon credit scheme. The biology is also saturating: soils approach carbon equilibrium, limiting total gains. Measurement is expensive and uncertain, which stalls the carbon markets that might pay farmers for rebuilding.",
+  "why_it_blocks": "Soil carbon underpins water retention, nutrient cycling, and yield resilience. Without rebuilding it, degraded soils can't sustain intensification.",
+  "current_state": "Regenerative practices show carbon gains in trials; scaled, verified, paid-for soil carbon remains elusive. Soils also approach carbon equilibrium, limiting total gains no matter the practice.",
+  "sources": [
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    },
+    {
+      "title": "Global Soil Degradation Is Cutting Crop Yields",
+      "url": "https://www.seedworld.com/europe/2026/08/05/global-soil-degradation-crop-yields/"
+    }
+  ]
+}

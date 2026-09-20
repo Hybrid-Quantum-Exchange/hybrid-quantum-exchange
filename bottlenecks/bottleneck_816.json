@@ -1,0 +1,18 @@
+{
+  "id": 816,
+  "domain": "climate_environment",
+  "title": "Pollinator decline driver attribution",
+  "bottleneck": "Wild pollinators are declining globally, threatening a third of crop production, but the relative roles of pesticides, habitat loss, parasites, and climate shifts remain unquantified in most regions — and the drivers interact synergistically in ways single-factor studies miss. Managed honeybees mask wild pollinator losses in agricultural statistics, and long-term monitoring exists for almost nowhere in the tropics where pollination dependence is highest. Without attribution, interventions are guesswork.",
+  "why_it_blocks": "Pollination services are worth hundreds of billions annually; getting the diagnosis wrong wastes the response. If pesticides are the main driver, regulation works; if it is habitat fragmentation, landscape restoration is needed — and we largely do not know which.",
+  "current_state": "The EU's pesticide restrictions and habitat schemes are large natural experiments, but rigorous driver attribution studies remain rare. Pollinator monitoring networks are expanding but still cover a small fraction of agricultural landscapes.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 843,
+  "domain": "climate_environment",
+  "title": "Climate-driven migration data and governance",
+  "bottleneck": "Climate displacement is already happening — tens of millions displaced by disasters yearly — yet it is barely measured: no legal category of climate refugee exists, internal displacement goes uncounted in most countries, and slow-onset movement from sea-level rise and desertification is invisible to statistics. Without data and legal frameworks, there is no planned, rights-based response; displacement defaults to crisis and exploitation.",
+  "why_it_blocks": "Unmanaged climate migration risks humanitarian disasters and political destabilization on a scale that dwarfs current refugee flows. The data and governance vacuum guarantees the response will be reactive, unjust, and inadequate.",
+  "current_state": "The Platform on Disaster Displacement and some regional frameworks are building norms, and satellite plus mobile data are improving displacement tracking. But binding international protection for climate-displaced people does not exist and is not on the negotiating agenda.",
+  "sources": [
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    },
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    }
+  ]
+}

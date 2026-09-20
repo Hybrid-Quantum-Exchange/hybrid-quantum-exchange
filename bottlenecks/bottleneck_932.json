@@ -1,0 +1,18 @@
+{
+  "id": 932,
+  "domain": "food_water_agriculture",
+  "title": "Brine management and disposal",
+  "bottleneck": "Desalination produces about 1.5x more brine than freshwater — 142 million cubic meters daily — and this super-salty, chemical-laden waste is mostly dumped back into the sea, where it sinks and smothers marine life. Regulations are tightening, inland plants have nowhere to put it, and zero-liquid-discharge is technically possible but roughly doubles costs. Brine is desalination's waste crisis, growing with every new plant. Most brine is ocean-discharged with diffuser mitigation, but regulations are tightening and inland plants have nowhere to put it.",
+  "why_it_blocks": "Scaling desalination without solving brine trades water scarcity for marine ecological collapse — an unacceptable bargain at planetary scale. Scaling desalination without solving brine trades water scarcity for marine ecological collapse.",
+  "current_state": "Most brine is ocean-discharged with diffuser mitigation; brine valorization through mineral extraction is pilot-scale.",
+  "sources": [
+    {
+      "title": "Why Desalinating Water is Hard — and Why We Might Need To Anyway",
+      "url": "https://www.discovermagazine.com/why-desalinating-water-is-hard-and-why-we-might-need-to-anyway-40123"
+    },
+    {
+      "title": "Seawater and Brackish Water Desalination Market (2026-2033)",
+      "url": "https://www.futuremarketreport.com/industry-report/seawater-and-brackish-water-desalination-market"
+    }
+  ]
+}

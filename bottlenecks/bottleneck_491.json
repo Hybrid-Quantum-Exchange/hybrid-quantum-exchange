@@ -1,0 +1,18 @@
+{
+  "id": 491,
+  "domain": "health_longevity",
+  "title": "End-to-end R&D architecture for epidemic countermeasures",
+  "bottleneck": "Epidemic R&D is a fragmentary, supply-driven pipeline geared to market opportunities rather than public health need: one-off partnerships develop countermeasures for whichever pathogen attracts attention, then dissolve. There is no standing, publicly directed portfolio covering development, registration, manufacturing, and equitable deployment.",
+  "why_it_blocks": "Without an end-to-end architecture, each outbreak restarts the same scramble, and countermeasures for diseases of low-income populations never get developed at all. Preparedness stays performative.",
+  "current_state": "CEPI and similar bodies fund prototype vaccines for priority pathogens, but the WHO pandemic agreement's financing and coordination mechanisms remain unratified. The R&D ecosystem still relies primarily on private-sector incentives. The 100 Days Mission sets a concrete target for countermeasures within 100 days of a threat, but without pre-negotiated manufacturing and liability frameworks, rapid development still stalls at deployment.",
+  "sources": [
+    {
+      "title": "Global challenges in preparedness and response to epidemic infectious diseases (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8864962/"
+    },
+    {
+      "title": "The UN Assembly will urge ratification of the WHO pandemic agreement (Democrata)",
+      "url": "https://www.democrata.es/en/health/the-un-assembly-will-urge-to-ratify-the-who-agreement-on-pandemics-to-strengthen-global-security/"
+    }
+  ]
+}

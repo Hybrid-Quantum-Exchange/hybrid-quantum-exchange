@@ -1,0 +1,18 @@
+{
+  "id": 868,
+  "domain": "xr_interface",
+  "title": "Foveated rendering eye-to-photon latency budget",
+  "bottleneck": "Foveated rendering saves GPU power by rendering sharply only where the eye looks, but the high-detail region must follow saccades (up to 300 deg/sec) with total eye-to-photon latency under ~50-70ms or artifacts become visible. Eye-tracker delay, rendering, and display pipelines all consume the budget, forcing larger foveal regions that erase the savings.",
+  "why_it_blocks": "Without tight latency, foveated rendering's power savings vanish, and VR headsets can't reach the resolutions and battery life they need. Latency is the tax on the most important rendering optimization in XR.",
+  "current_state": "NVIDIA's foundational research set the ~50ms tolerability threshold; modern headsets implement foveated rendering with conservative region sizes. Saccade-robust low-latency pipelines remain an active optimization target. Widening the foveal region to hide latency erases the GPU savings that motivated foveated rendering in the first place.",
+  "sources": [
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

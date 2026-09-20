@@ -1,0 +1,18 @@
+{
+  "id": 784,
+  "domain": "materials",
+  "title": "Photonic crystal manufacturing precision",
+  "bottleneck": "Photonic crystals control light through periodic structures with features smaller than the wavelength, but useful devices need billions of identical features with nanometer precision over centimeter areas. Lithography can do it slowly and expensively; self-assembly does it cheaply but with defects that ruin the photonic bandgap. No method yet delivers the precision-throughput-cost combination that real optical chips and sensors need.",
+  "why_it_blocks": "Photonic crystals could shrink optical components by orders of magnitude for communications, sensing, and computing. The manufacturing gap means most applications use simpler diffractive or thin-film optics instead, leaving performance on the table.",
+  "current_state": "Nanoimprint lithography has brought some photonic-crystal sensors to market by accepting limited areas and simpler patterns. Full 3D photonic crystals with complete bandgaps at optical frequencies remain essentially unmanufacturable outside research labs.",
+  "sources": [
+    {
+      "title": "Nanoarchitected Mechanical Metamaterials for Enhanced Surface Roughness Control",
+      "url": "https://eureka.patsnap.com/report-nanoarchitected-mechanical-metamaterials-for-enhanced-surface-roughness-control"
+    },
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 139,
+  "domain": "cosmology_multiverse",
+  "title": "AdS/CFT for Cosmological (de Sitter) Spacetimes",
+  "bottleneck": "The holographic duality is precisely formulated only for anti-de Sitter space, while our universe appears asymptotically de Sitter — and no rigorous dS/CFT dictionary exists. Proposed versions suffer from non-unitarity, ill-defined boundaries, or lack of concrete examples. The spacelike boundary of de Sitter space and the observer-dependence of horizons obstruct a straightforward holographic dictionary.",
+  "why_it_blocks": "The most successful idea in quantum gravity cannot yet describe the universe we live in. Solving it would unify holography with the cosmology we actually observe.",
+  "current_state": "Research continues on static-patch holography and related proposals, but none is established; the gap is widely acknowledged. Without dS holography, the holographic principle cannot claim relevance to real cosmology. No consensus alternative to holography has emerged for de Sitter quantum gravity.",
+  "sources": [
+    {
+      "title": "The Landscape and the Multiverse: What's the Problem? (Synthese)",
+      "url": "https://link.springer.com/article/10.1007/s11229-021-03137-0"
+    },
+    {
+      "title": "On the Impossibility of Precise Verification of Models of Quantum Gravity (arXiv:2309.07203)",
+      "url": "https://arxiv.org/abs/2309.07203?context=hep-th"
+    }
+  ]
+}

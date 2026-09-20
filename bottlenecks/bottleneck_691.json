@@ -1,0 +1,18 @@
+{
+  "id": 691,
+  "domain": "space",
+  "title": "Solar particle event storm shelters",
+  "bottleneck": "Solar particle events can deliver a lethal radiation dose in hours, so every deep-space habitat needs a storm shelter — but effective shielding needs tens of grams per square centimeter of mass around the crew, which is tons of material to launch or source locally. Designs cluster water, food, and waste around a small shelter, yet crews may need to shelter for days during a big event in cramped quarters. Forecasting gives hours of warning at best, and a shelter that cannot be reached in time is useless.",
+  "why_it_blocks": "A single large solar storm during a Mars transit could end the mission or kill the crew; the shelter is the last line of defense, and its mass competes directly with science payload.",
+  "current_state": "Orion and Starship concepts include shelter designs; ISS crews shelter in well-shielded modules during events. A purpose-built deep-space storm shelter has never been tested with crew.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "Biomaterials for organically generated habitats beyond Earth (Science Advances)",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adp4985"
+    }
+  ]
+}

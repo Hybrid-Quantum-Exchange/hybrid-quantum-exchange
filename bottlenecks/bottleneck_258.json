@@ -1,0 +1,18 @@
+{
+  "id": 258,
+  "domain": "compute_semiconductors",
+  "title": "Memristor device variability and endurance",
+  "bottleneck": "Memristors promise analog synaptic storage, but filament formation is stochastic: resistance states vary device-to-device and drift over time, and repeated switching degrades endurance far below DRAM/SRAM levels. Programming precision is limited by noise, and sneak-path currents in crossbars corrupt reads. Compensating in software costs back much of the efficiency gain.",
+  "why_it_blocks": "Analog AI accelerators live or die on device consistency; variability forces overprovisioning, calibration overhead, and accuracy loss that erase the energy advantage. Until memristors behave deterministically at scale, analog in-memory AI stays in the lab.",
+  "current_state": "Materials engineering (interface-type switching, 2D materials) and selector devices are improving uniformity, with some commercial ReRAM in embedded use. High-precision, high-endurance analog arrays for large models are still developmental. Selector-free architectures have been proposed, but they trade away the density that motivated the crossbar in the first place.",
+  "sources": [
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    },
+    {
+      "title": "MindRemix: Neuromorphic brain-inspired revolution",
+      "url": "https://www.mindremix.com/2025/12/neuromorphic-computing-brain-inspired.html"
+    }
+  ]
+}

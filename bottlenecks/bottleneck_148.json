@@ -1,0 +1,18 @@
+{
+  "id": 148,
+  "domain": "energy",
+  "title": "Tritium extraction and inventory management from blankets",
+  "bottleneck": "Even if blankets breed tritium, the gas must be extracted continuously from hot lithium-lead or ceramic pebbles, purified, and recycled back to the plasma with minimal losses. Tritium permeates through hot metals, escapes through seals, and decays at 5.5 percent per year, so inventory accounting must be exact across a plant holding kilograms of a radioactive, mobile isotope. Extraction systems proven at laboratory scale have not been demonstrated under reactor conditions with neutron damage and thermal cycling.",
+  "why_it_blocks": "A fuel cycle that leaks tritium fails twice over: it cannot sustain the breeding ratio needed for self-sufficiency, and regulators will not license a plant that cannot account for every gram of a radioactive isotope.",
+  "current_state": "Tritium processing test facilities exist in the US and Japan, and new plasma-based separation methods have shown lab-scale isotope separation. Full fuel-cycle demonstration awaits a burning-plasma device.",
+  "sources": [
+    {
+      "title": "Plasma 'breakthrough' could advance fusion reactor isotope enrichment",
+      "url": "https://interestingengineering.com/energy/plasma-breakthrough-could-advance-nuclear-fusion-reactor-isotope-enrichment"
+    },
+    {
+      "title": "How lithium walls trap tritium in fusion reactors revealed",
+      "url": "https://phys.org/news/2025-07-lithium-walls-tritium-fusion-reactors.amp"
+    }
+  ]
+}

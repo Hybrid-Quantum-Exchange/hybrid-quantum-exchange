@@ -1,0 +1,18 @@
+{
+  "id": 335,
+  "domain": "artificial_intelligence",
+  "title": "Red-teaming standardization",
+  "bottleneck": "Red-teaming — adversarially probing models for failures — has no agreed standards: no common methodology, no coverage metrics, no way to compare results across labs or know when testing is enough. It's expensive, labor-intensive, and its findings don't generalize; a model red-teamed for one deployment surprises in the next. Regulators can't set requirements around a practice nobody can define.",
+  "why_it_blocks": "Without standards, red-teaming is theater — impressive reports that don't compose into any assurance about deployment safety. Regulators cannot set requirements around a practice nobody can define, leaving governance without teeth.",
+  "current_state": "Labs run internal red teams and publish summaries; the Ada Lovelace Institute found the practice non-exhaustive, manipulable, and unstandardized. The Ada Lovelace Institute found the practice non-exhaustive, manipulable, and unstandardized - yet deployment decisions rely on it.",
+  "sources": [
+    {
+      "title": "Many safety evaluations for AI models have significant limitations | TechCrunch",
+      "url": "https://bestofai.com/article/many-safety-evaluations-for-ai-models-have-significant-limitations-techcrunch"
+    },
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    }
+  ]
+}

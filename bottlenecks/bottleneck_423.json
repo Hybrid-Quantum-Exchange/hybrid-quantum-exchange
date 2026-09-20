@@ -1,0 +1,14 @@
+{
+  "id": 423,
+  "domain": "medicine_cures",
+  "title": "Duchenne muscular dystrophy",
+  "bottleneck": "Duchenne, caused by dystrophin-gene mutations, progressively destroys muscle in childhood, and the gene is too large for AAV's roughly 4.7 kb cargo limit, forcing use of truncated micro-dystrophin of uncertain long-term benefit. Systemic AAV delivery at muscle-treating doses has caused severe liver toxicity and deaths.",
+  "why_it_blocks": "A fatal childhood disease with a known single-gene cause should be solvable; instead delivery limits and safety failures have stalled the field.",
+  "current_state": "Elevidys micro-dystrophin gene therapy faced trial holds and shipping suspensions after patient deaths in 2025; exon-skipping drugs offer modest benefit. A safe, durable, full-function therapy does not exist. Exon-skipping drugs offer modest benefit for subsets of mutations, but they require lifelong repeated dosing. The field is searching for safer delivery strategies that can provide durable dystrophin restoration without the toxicity seen at high systemic doses.",
+  "sources": [
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

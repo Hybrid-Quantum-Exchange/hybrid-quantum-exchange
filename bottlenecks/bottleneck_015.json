@@ -1,0 +1,14 @@
+{
+  "id": 15,
+  "domain": "fundamental_physics",
+  "title": "The falsifiability gap in quantum gravity research",
+  "bottleneck": "The leading quantum gravity programs, string theory and loop quantum gravity, make no confirmed experimental predictions distinguishable from existing physics, and their characteristic energy scale sits sixteen orders of magnitude beyond colliders. Decades of theoretical work have produced mathematical richness but no empirical anchor.",
+  "why_it_blocks": "Physics advances through confrontation with experiment; a research program that cannot be tested cannot be confirmed, corrected, or abandoned, freezing progress on the deepest questions regardless of theoretical effort.",
+  "current_state": "The community increasingly pursues indirect probes, cosmological imprints, tabletop tests of gravitational decoherence, and analogue systems, but no consensus pathway to a decisive quantum gravity experiment exists. Indirect probes through cosmology, gravitational-wave echoes, and tabletop decoherence tests are pursued, but no consensus pathway to a decisive experiment exists.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 36,
+  "domain": "fundamental_physics",
+  "title": "The absolute mass scale of neutrinos",
+  "bottleneck": "Oscillation experiments measure only differences of squared neutrino masses, leaving the absolute scale unknown anywhere below about 0.8 eV from tritium beta-decay endpoint measurements. Cosmology constrains the sum of masses but with model-dependent assumptions about dark energy and the early universe.",
+  "why_it_blocks": "Neutrino mass is the only confirmed beyond-Standard-Model physics in particle physics; pinning its absolute scale determines the energy scale of the new physics that generates it, from eV-scale mechanisms to grand-unified seesaws.",
+  "current_state": "KATRIN is pushing the tritium endpoint limit toward 0.2 eV sensitivity, while next-generation cosmological surveys aim to detect the summed mass through its imprint on large-scale structure. Project 8 aims to measure the tritium endpoint with cyclotron radiation spectroscopy, potentially reaching sensitivities that cosmology cannot match.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

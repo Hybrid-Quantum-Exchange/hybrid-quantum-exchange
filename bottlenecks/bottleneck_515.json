@@ -1,0 +1,18 @@
+{
+  "id": 515,
+  "domain": "health_longevity",
+  "title": "Long-term evidence for mood stabilizers",
+  "bottleneck": "Lithium, valproate, and other mood stabilizers are prescribed for years or decades, yet almost no randomized trials test long-term prophylactic efficacy with modern standards; lithium's anti-suicidal signal comes from observational and small-trial data, and its renal and thyroid risks accumulate over exactly the timescales that matter.",
+  "why_it_blocks": "Bipolar disorder is a lifelong illness managed with lifelong drugs whose lifelong evidence base barely exists. Patients and clinicians are flying on short-term data for a long-term disease.",
+  "current_state": "Lithium remains first-line in guidelines based on the best available (imperfect) evidence. Long-term comparative effectiveness research is scarce because such trials are expensive and commercially unattractive. Pragmatic registry trials and decades-long cohort studies are the only feasible design for lifelong drugs, but funders rarely support them, leaving guidelines to rest on aging evidence.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Addressing the Challenges of Treating Schizophrenia and Bipolar Disorder (AHDB)",
+      "url": "https://www.ahdbonline.com/articles/2009-addressing-the-challenges-of-treating-schizophrenia-and-bipolar-disorder"
+    }
+  ]
+}

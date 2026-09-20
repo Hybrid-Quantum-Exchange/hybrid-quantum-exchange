@@ -1,0 +1,18 @@
+{
+  "id": 922,
+  "domain": "food_water_agriculture",
+  "title": "Drought tolerance in staple crops",
+  "bottleneck": "Drought is the single largest cause of yield loss worldwide, yet breeding for drought tolerance has delivered only incremental gains because tolerance is polygenic, environment-specific, and usually trades off against yield in good years — farmers won't plant a variety that underperforms when rains are normal. Genetics hasn't kept pace with a shifting climate that makes droughts more frequent where food insecurity is highest.",
+  "why_it_blocks": "Each severe drought in a food-insecure region is a famine risk. Without tolerant varieties, climate change directly translates into hunger.",
+  "current_state": "Drought-tolerant maize and other varieties show modest gains in trials; no breakthrough variety transforms rainfed agriculture. Drought-tolerant maize and other varieties show modest gains in trials; no breakthrough transforms rainfed agriculture.",
+  "sources": [
+    {
+      "title": "The uncomfortable truth: modern high-yield crops aren't built for climate shocks",
+      "url": "https://medium.com/@vg7412640/heres-the-uncomfortable-truth-modern-high-yield-crops-aren-t-built-like-a-stew-you-can-adjust-on-6fc767910446"
+    },
+    {
+      "title": "Understanding the Yield Gap: Exploring the Factors Behind Crop Productivity Differences",
+      "url": "https://www.shiftingshares.com/understanding-the-yield-gap-exploring-the-factors-behind-crop-productivity-differences-2/"
+    }
+  ]
+}

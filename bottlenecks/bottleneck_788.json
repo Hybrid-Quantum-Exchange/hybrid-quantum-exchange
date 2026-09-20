@@ -1,0 +1,18 @@
+{
+  "id": 788,
+  "domain": "materials",
+  "title": "E-waste rare element recovery economics",
+  "bottleneck": "Printed circuit boards contain gold, palladium, and rare earths at concentrations above many ores, but recovering them economically is unsolved: shredding mixes everything into low-grade streams, manual disassembly is too costly in high-wage countries, and hydrometallurgical recovery of trace elements from complex mixtures is chemical-intensive. Most e-waste is still smelted for copper and gold while the rest is lost.",
+  "why_it_blocks": "Demand for electronics metals keeps growing while ore grades decline; urban mining could supply a large fraction. Without economic recovery, critical elements dissipate into landfills and slag, forcing ever more destructive primary mining.",
+  "current_state": "Automated disassembly with robotics and AI sorting is improving, and dedicated e-waste refineries recover an expanding element list. But collection rates remain low — most e-waste never reaches a recycler — and the economics still depend on gold and copper subsidizing the rest.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    }
+  ]
+}

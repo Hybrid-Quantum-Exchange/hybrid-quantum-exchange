@@ -1,0 +1,18 @@
+{
+  "id": 163,
+  "domain": "energy",
+  "title": "Fusion exhaust processing and isotope separation",
+  "bottleneck": "A fusion reactor burns only a few percent of its tritium per pass, producing a large exhaust stream of unburned deuterium-tritium mixed with helium ash that must be separated and recycled within hours. Cryogenic distillation and palladium membranes work at small scale but are slow, energy-intensive, and vulnerable to tritium inventory holdup. Faster separation directly reduces the plant's required tritium inventory. Tritium-compatible pumps, valves, and sensors must also survive years of radiation exposure without leaking, a materials challenge in its own right.",
+  "why_it_blocks": "The fuel cycle's speed sets the plant's tritium inventory. Slow processing means kilograms of tritium sitting in pipes instead of burning, multiplying safety, cost, and breeding requirements.",
+  "current_state": "New plasma-centrifuge approaches have demonstrated lab-scale hydrogen and lithium isotope separation. Integrated exhaust processing at reactor throughput remains unproven.",
+  "sources": [
+    {
+      "title": "Plasma 'breakthrough' could advance fusion reactor isotope enrichment",
+      "url": "https://interestingengineering.com/energy/plasma-breakthrough-could-advance-nuclear-fusion-reactor-isotope-enrichment"
+    },
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    }
+  ]
+}

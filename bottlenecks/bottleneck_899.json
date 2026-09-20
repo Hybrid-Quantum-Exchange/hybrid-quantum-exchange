@@ -1,0 +1,18 @@
+{
+  "id": 899,
+  "domain": "xr_interface",
+  "title": "XR text entry speed",
+  "bottleneck": "Typing in XR is far slower than a physical keyboard: virtual keyboards lack tactile feedback, voice dictation needs correction, and novel methods (chorded, gaze-typing) have steep learning curves. Productivity tasks stall when text entry runs at a fraction of keyboard speed. No XR text method approaches 60+ wpm comfortably.",
+  "why_it_blocks": "Text is the backbone of knowledge work; slow entry keeps XR out of offices. Until typing in XR is fast and effortless, headsets can't replace laptops.",
+  "current_state": "Floating keyboards, swipe typing, and wrist-EMG typing research show progress, but comfortable high-speed XR text entry remains unsolved. Without tactile feedback every keypress needs visual confirmation, slowing entry further and increasing error rates. Chorded and gaze-based methods demand weeks of practice, a learning curve most users will not climb for a secondary device.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    }
+  ]
+}

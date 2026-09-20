@@ -1,0 +1,18 @@
+{
+  "id": 771,
+  "domain": "materials",
+  "title": "Thermoelectric figure of merit above 3",
+  "bottleneck": "Thermoelectric efficiency is governed by zT, and despite decades of nanostructuring, values remain stuck near 1-2 for practical materials because raising electrical conductivity also raises thermal conductivity — the fundamental trade-off. Lab reports of higher zT often rely on measurement artifacts or unstable compositions that do not survive device integration. No material has demonstrated zT above 3 in a stable, manufacturable device.",
+  "why_it_blocks": "Waste heat is one of the largest untapped energy sources: industry and vehicles reject most input energy as heat. Without high-zT materials, thermoelectric recovery stays confined to niche applications like deep-space probes instead of cutting global fuel use.",
+  "current_state": "Skutterudites and half-Heusler alloys have reached module-level zT near 1.5 with improving stability, and automotive waste-heat prototypes exist. But the economics only work at much higher efficiency, which no known material system credibly promises.",
+  "sources": [
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    }
+  ]
+}

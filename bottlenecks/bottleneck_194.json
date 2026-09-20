@@ -1,0 +1,18 @@
+{
+  "id": 194,
+  "domain": "energy",
+  "title": "Emergency planning zone reform for small reactors",
+  "bottleneck": "Current emergency planning rules were written for gigawatt plants and can require evacuation planning over 10-mile zones, absurd for a microreactor with a fraction of the source term, yet legally required until regulators grant exemptions. The NRC has proposed scalable, dose-based EPZ rules, but implementation is slow and contested. EPZ requirements can single-handedly kill otherwise viable siting. Until rules change, developers must either seek case-by-case exemptions, a slow and uncertain process, or overbuild emergency planning they do not need.",
+  "why_it_blocks": "Regulatory overhead scaled for large plants makes small reactors uneconomic. If a 10 MW microreactor needs the same emergency planning as a 1 GW plant, its cost advantage vanishes.",
+  "current_state": "The NRC issued guidance allowing smaller EPZs with justification. Risk-informed, dose-based EPZ rulemaking is progressing but incomplete.",
+  "sources": [
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    },
+    {
+      "title": "The Big Problems with Small Nukes",
+      "url": "https://www.columbiariverkeeper.org/2024/the-big-problems-with-small-nukes/"
+    }
+  ]
+}

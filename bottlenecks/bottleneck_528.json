@@ -1,0 +1,18 @@
+{
+  "id": 528,
+  "domain": "health_longevity",
+  "title": "Neuromodulation for refractory mood disorders",
+  "bottleneck": "ECT is the most effective treatment for refractory depression but carries stigma, cognitive side effects, and access barriers; TMS is better tolerated but less potent; DBS and vagus nerve stimulation remain experimental with inconsistent targeting. The field lacks a principled map of which circuits to stimulate for which patient.",
+  "why_it_blocks": "Neuromodulation is the fallback when all drugs fail, yet it remains crude, stigmatized, and scarce. A circuit-level understanding could make it precise, but the mapping science is a decade behind the hardware.",
+  "current_state": "ECT and TMS are established with defined indications; accelerated TMS protocols show promise. DBS for depression failed pivotal trials but continues in research with personalized targeting approaches. Personalized TMS targeting based on individual functional connectivity maps is entering trials and may improve response rates over the current one-size-fits-all coil placement.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    }
+  ]
+}

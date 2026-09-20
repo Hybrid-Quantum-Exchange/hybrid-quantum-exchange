@@ -1,0 +1,18 @@
+{
+  "id": 811,
+  "domain": "climate_environment",
+  "title": "Mangrove restoration at ecologically meaningful scale",
+  "bottleneck": "Mangroves protect coasts, nurture fisheries, and bury carbon, but restoration efforts plant the wrong species in the wrong tidal zones so often that global success rates are dismal — many projects report survival below 30 percent. Monoculture plantings of convenient species replace diverse forests with fragile ones, and restored sites are frequently re-cleared for aquaculture. The science of hydrological restoration that actually works is known but rarely applied.",
+  "why_it_blocks": "Coastal communities face rising seas and storm surge with mangroves as their cheapest defense; failed restoration wastes the narrow window to rebuild it. Every failed planting also burns political capital for conservation.",
+  "current_state": "Evidence-based guidelines emphasizing natural hydrological restoration over mass planting are gaining traction, and community-led projects show far higher survival. But funding still rewards hectares planted — an input metric — rather than functioning forest, perpetuating the failure mode.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

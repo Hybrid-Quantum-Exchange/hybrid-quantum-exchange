@@ -1,0 +1,14 @@
+{
+  "id": 401,
+  "domain": "medicine_cures",
+  "title": "Universal influenza vaccine",
+  "bottleneck": "Seasonal flu vaccines must be reformulated yearly based on predictions, with effectiveness often 40 to 60%, because influenza's surface proteins mutate rapidly. A universal vaccine targeting conserved regions such as the hemagglutinin stalk or internal proteins has been a goal for decades without success.",
+  "why_it_blocks": "Influenza causes up to 650,000 respiratory deaths yearly and carries pandemic risk; strain-matched vaccines leave populations vulnerable to mismatches and novel strains.",
+  "current_state": "mRNA platforms and stalk-targeting candidates are in clinical trials, with some showing broad responses. No universal flu vaccine has yet demonstrated durable, broad protection in humans, and innovation incentives for vaccines face the same shortfalls seen in antibacterials. The mRNA platform proven during COVID-19 has reinvigorated the effort, enabling rapid testing of novel antigen designs. Whether conserved-epitope vaccines can overcome influenza's immune evasion in humans is the central unanswered question.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

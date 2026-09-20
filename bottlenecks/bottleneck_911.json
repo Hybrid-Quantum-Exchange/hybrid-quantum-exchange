@@ -1,0 +1,18 @@
+{
+  "id": 911,
+  "domain": "food_water_agriculture",
+  "title": "Biophysical yield ceilings for staple cereals",
+  "bottleneck": "Yields of wheat, rice, and maize are plateauing in major producing regions — California rice yields haven't risen since 1990 — suggesting crops are approaching biophysical ceilings set by photosynthetic efficiency, water, and nutrient limits. Historical gains were linear, never exponential, and multiple regions show discontinuous breaks to slower growth. We don't know how far current genetics are from the theoretical maximum, or whether breeding alone can push past it.",
+  "why_it_blocks": "Feeding 10 billion people requires roughly 50% more food. If staple yields can't rise much further, the shortfall must come from new land — at catastrophic ecological cost.",
+  "current_state": "The Nature Communications yield-plateau analysis found no support for exponential yield projections, yet most food-security models still assume them.",
+  "sources": [
+    {
+      "title": "Distinguishing between yield advances and yield plateaus in historical crop production trends",
+      "url": "https://www.nature.com/articles/ncomms3918?error=cookies_not_supported&code=91675317-1c1b-4105-a673-bda45130950b"
+    },
+    {
+      "title": "Distinguishing between yield advances and yield plateaus in historical crop production trends (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3905725/"
+    }
+  ]
+}

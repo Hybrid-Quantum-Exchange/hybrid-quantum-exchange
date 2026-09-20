@@ -1,0 +1,18 @@
+{
+  "id": 742,
+  "domain": "materials",
+  "title": "Sulfide solid electrolyte moisture stability",
+  "bottleneck": "Sulfide solid electrolytes such as LGPS offer the highest ionic conductivities, but they react with ambient moisture to release toxic hydrogen sulfide gas. This forces all manufacturing into ultra-dry rooms, inflating capital costs, and makes cells vulnerable to any seal failure in service. No sulfide composition has achieved both top-tier conductivity and practical air stability.",
+  "why_it_blocks": "Sulfides are the leading electrolyte choice for commercial solid-state batteries because of their conductivity and softness, which eases manufacturing. Moisture sensitivity is a major reason solid-state lines cost far more than conventional gigafactories, delaying mass-market EVs.",
+  "current_state": "Coatings, halide doping, and oxysulfide compositions have improved stability incrementally, but dry-room requirements remain. Oxide electrolytes avoid the H2S problem yet bring their own brittleness and interface issues, so the field is split with no clear winner.",
+  "sources": [
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    },
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    }
+  ]
+}

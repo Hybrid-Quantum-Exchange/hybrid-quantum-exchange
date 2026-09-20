@@ -1,0 +1,14 @@
+{
+  "id": 417,
+  "domain": "medicine_cures",
+  "title": "Inflammatory bowel disease durable mucosal healing",
+  "bottleneck": "Biologics and JAK inhibitors control Crohn's disease and ulcerative colitis in many patients, but sustained deep remission with mucosal healing is achieved in a minority, loss of response is common, and surgery rates remain substantial over a lifetime.",
+  "why_it_blocks": "IBD begins in young adulthood; decades of relapsing disease, immunosuppression, and surgeries impose enormous cumulative burden.",
+  "current_state": "New mechanisms including anti-IL-23 agents and S1P modulators expand options, and microbiome-modulating agents, a non-traditional category tracked in antibacterial pipeline analyses, are in trials. Durable, drug-free remission is not yet achievable. The gut microbiome's role in IBD is increasingly clear, yet translating that insight into reliable therapies has proven difficult. Fecal transplant and defined bacterial consortia show variable results, and durable remission without ongoing therapy remains out of reach.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    }
+  ]
+}

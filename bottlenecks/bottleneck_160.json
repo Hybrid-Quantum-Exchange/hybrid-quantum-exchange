@@ -1,0 +1,18 @@
+{
+  "id": 160,
+  "domain": "energy",
+  "title": "Spherical tokamak center-column shielding",
+  "bottleneck": "Compact spherical tokamaks promise cheaper fusion through high-field magnets close to the plasma, but the central column, carrying the toroidal field coils through the middle of the machine, sits in the fiercest neutron flux with almost no room for shielding. Copper center columns overheat and activate; superconducting center columns need shielding that does not fit. The center column may need replacement every year or two, requiring full machine disassembly.",
+  "why_it_blocks": "The compactness that makes spherical tokamaks economically attractive is exactly what makes their most vulnerable component nearly unshieldable. If the center column cannot survive, the cost advantage evaporates.",
+  "current_state": "Private spherical-tokamak programs are advancing high-field designs and testing center-column concepts, but no compact device has yet operated with D-T neutrons to validate lifetime estimates.",
+  "sources": [
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    },
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 716,
+  "domain": "space",
+  "title": "Capturing tumbling, uncooperative debris",
+  "bottleneck": "Dead satellites tumble unpredictably, with uncertain mass distribution and no grapple fixtures; a chaser must approach to meters, match the tumble, and capture without contact that could shatter both vehicles into thousands of new fragments. All orbital captures to date involved cooperative, controlled targets. ClearSpace-1's planned capture will be the first attempt on an uncooperative object, requiring autonomous vision-based navigation and robotic arms with fault tolerance no mission has proven.",
+  "why_it_blocks": "The highest-risk debris is exactly the uncontrolled kind; if capture only works on cooperative targets, active removal cannot touch the objects that threaten Kessler cascades.",
+  "current_state": "ESA's ClearSpace-1 targets a 2029 launch; Astroscale has demonstrated rendezvous tech, including inspection of a tumbling upper stage. No capture-and-deorbit of uncooperative debris yet.",
+  "sources": [
+    {
+      "title": "ESA purchases world-first debris removal mission from start-up",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_purchases_world-first_debris_removal_mission_from_start-up"
+    },
+    {
+      "title": "ESA Warns Orbital Debris Risk Is Accelerating as Satellite Traffic Surges",
+      "url": "https://tower-post.com/2026/09/15/esa-warns-orbital-debris-risk-is-accelerating-as-satellite-traffic-surges/"
+    }
+  ]
+}

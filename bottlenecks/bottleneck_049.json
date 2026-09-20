@@ -1,0 +1,14 @@
+{
+  "id": 49,
+  "domain": "fundamental_physics",
+  "title": "The missing magnetic monopoles",
+  "bottleneck": "Grand unified theories and Dirac's quantization argument predict magnetic monopoles with masses around the GUT scale, and cosmic inflation was partly invented to dilute them, yet none has ever been detected. The Parker bound from galactic magnetic fields and direct searches leave essentially no room for a cosmological population.",
+  "why_it_blocks": "Monopoles are among the most robust predictions of unification; their absence either demands inflation did its diluting job perfectly or signals that the underlying theories are wrong.",
+  "current_state": "MoEDAL at the LHC and cosmic-ray observatories continue searches for light or trapped monopoles, but the GUT-scale monopole remains a prediction without a plausible detection path. Inflation was partly invented to dilute primordial monopoles, so their absence is consistent with cosmology but leaves the particle prediction untested.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

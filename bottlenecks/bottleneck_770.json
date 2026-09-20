@@ -1,0 +1,18 @@
+{
+  "id": 770,
+  "domain": "materials",
+  "title": "Ceramic matrix composite environmental barrier coatings",
+  "bottleneck": "Ceramic matrix composites let jet engines run hotter and more efficiently, but in the combustion environment water vapor volatilizes the protective silica scale, causing rapid recession of silicon carbide composites. Environmental barrier coatings exist but crack under thermal cycling, and a coating breach leads to swift substrate degradation. Coating lifetimes still fall short of engine overhaul intervals.",
+  "why_it_blocks": "Each 100 C of turbine temperature rise buys significant fuel savings and emissions cuts across aviation. Without durable barrier coatings, CMCs cannot be trusted in the hottest stages, forcing engines to run cooler and dirtier than the materials allow.",
+  "current_state": "Rare-earth silicate coatings have extended CMC life in test engines, and limited CMC components now fly in commercial engines. But full hot-section adoption waits on coatings proven over tens of thousands of hours in real combustion atmospheres.",
+  "sources": [
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    }
+  ]
+}

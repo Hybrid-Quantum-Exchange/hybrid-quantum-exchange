@@ -1,0 +1,18 @@
+{
+  "id": 809,
+  "domain": "climate_environment",
+  "title": "Permafrost carbon feedback quantification",
+  "bottleneck": "Permafrost holds ~1,500 billion tonnes of carbon — twice the atmosphere's — and thaw could release 5-15 percent of it by 2100, yet the feedback's magnitude is deeply uncertain: bottom-up and top-down estimates disagree on whether the far north is currently a net source or sink, abrupt thaw (thermokarst) can double local emissions but is barely in models, and sunlight-driven photomineralization of thaw carbon in waterways adds ~14 percent that no model includes. Most IPCC-class models still omit or underplay the feedback.",
+  "why_it_blocks": "An uncounted feedback means carbon budgets are overstated: one 2026 study estimated natural systems could amplify warming 20-30 percent beyond modeled projections. Every year the feedback stays unquantified, mitigation targets rest on a potentially false baseline.",
+  "current_state": "The Permafrost Carbon Network is synthesizing abrupt-thaw literature, and new models couple permafrost modules to carbon-cycle ensembles. But the Arctic's remoteness keeps observations sparse, and uncertainty ranges remain as wide as the estimates themselves.",
+  "sources": [
+    {
+      "title": "Permafrost and wetlands may add more warming than climate models expect",
+      "url": "https://www.earth.com/climate/warming-induced-emissions-climate-models/"
+    },
+    {
+      "title": "Climate Models Underestimate CO2 Emissions from Permafrost by 14 Percent, Study Finds",
+      "url": "https://e360.yale.edu/digest/climate-models-underestimate-co2-emissions-from-permafrost-by-14-percent-study-finds"
+    }
+  ]
+}

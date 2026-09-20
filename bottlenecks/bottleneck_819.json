@@ -1,0 +1,18 @@
+{
+  "id": 819,
+  "domain": "climate_environment",
+  "title": "Ocean acidification adaptation in shellfisheries",
+  "bottleneck": "Ocean pH has dropped 0.1 units and shell-forming organisms struggle to calcify, yet the aquaculture industry — worth tens of billions and a key protein source — has few adaptive tools: selective breeding for acid tolerance is slow, hatchery water treatment works only at small scale, and wild stocks cannot be treated at all. The physiological tipping points for most commercial species are unmapped, and acidification interacts with warming and deoxygenation in unstudied combinations.",
+  "why_it_blocks": "Shellfisheries support coastal economies worldwide, particularly in the developing world; acidification-driven collapses would remove affordable protein with no substitute. The adaptation gap leaves the industry exposed to chemistry it cannot control.",
+  "current_state": "Pacific Northwest hatcheries pioneered real-time carbonate monitoring and selective breeding after devastating larval die-offs, a model being copied elsewhere. But these are local fixes; the open-ocean and wild-capture problem has no solution in sight.",
+  "sources": [
+    {
+      "title": "Without tackling climate change, coral restoration efforts are insufficient",
+      "url": "https://www.earth.com/climate/without-tackling-climate-change-coral-restoration-efforts-are-insufficient/"
+    },
+    {
+      "title": "Coral reef science must adapt for a chance to outpace climate change, say experts",
+      "url": "https://phys.org/news/2026-03-coral-reef-science-chance-outpace.html"
+    }
+  ]
+}

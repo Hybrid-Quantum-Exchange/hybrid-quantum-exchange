@@ -1,0 +1,18 @@
+{
+  "id": 527,
+  "domain": "health_longevity",
+  "title": "Antidepressant-associated mania risk in bipolar disorder",
+  "bottleneck": "Antidepressants can trigger manic or mixed episodes in bipolar patients, but the magnitude of risk, which agents are safest, and how to identify vulnerable patients remain contested after decades of use. Guidelines advise avoidance in mixed states, yet antidepressants remain widely prescribed to bipolar patients in practice.",
+  "why_it_blocks": "The most commonly prescribed psychiatric drugs carry a poorly quantified destabilization risk in a common misdiagnosed population (bipolar depression often presents as unipolar), creating iatrogenic harm at scale.",
+  "current_state": "Practice has shifted toward mood-stabilizer or atypical-antipsychotic-first strategies for bipolar depression, with antidepressants reserved for select cases with safeguards. Predictive markers of switch risk do not exist. Genetic and clinical predictors of antidepressant-induced switching are an active research target, but current practice still relies on careful history-taking rather than any test.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    }
+  ]
+}

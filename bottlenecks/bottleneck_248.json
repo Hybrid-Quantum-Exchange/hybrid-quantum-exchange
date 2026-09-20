@@ -1,0 +1,18 @@
+{
+  "id": 248,
+  "domain": "compute_semiconductors",
+  "title": "SRAM bit-cell scaling stagnation",
+  "bottleneck": "SRAM bit cells have stopped shrinking at the pace of logic, so on-chip caches now dominate die area and cost on leading-edge chips. Six-transistor cells are limited by stability margins and leakage, and alternative cells (gain cells, 3D-stacked SRAM) add process complexity. Architects must choose between smaller caches that starve accelerators or larger caches that bloat die size.",
+  "why_it_blocks": "SRAM area inflation raises the cost of every advanced chip and caps the on-chip memory that mitigates the memory wall. Without denser SRAM, AI accelerators can't keep growing context windows and model sizes without exploding die cost.",
+  "current_state": "High-density SRAM variants and 3D-stacked cache (e.g., stacked L3 in server CPUs) are shipping, buying incremental density. Fundamental bit-cell scaling remains stalled, with no disruptive replacement in production.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 489,
+  "domain": "health_longevity",
+  "title": "Age-related vestibular decline and fall prevention",
+  "bottleneck": "With age, the vestibular organs lose hair cells and neurons, degrading the sense of head motion that stabilizes gaze and posture. This presbyvestibulopathy contributes heavily to falls, the leading cause of injury death in older adults, yet there is no therapy that restores vestibular function; rehabilitation only partly compensates.",
+  "why_it_blocks": "Falls cascade into fractures, hospitalization, loss of independence, and mortality. A mechanistic understanding that yielded prevention or restoration would cut one of aging's largest sources of disability, but the field still cannot reliably predict who will fall or reverse the decline.",
+  "current_state": "Research maps the neural and sensory-integration changes with age, and vestibular rehabilitation shows benefit for some patients, but causal links between specific vestibular deficits and fall events remain inconsistent across studies. Prospective trials of targeted interventions are still needed.",
+  "sources": [
+    {
+      "title": "Perspectives on aging vestibular function",
+      "url": "https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2015.00269"
+    },
+    {
+      "title": "Fall risk assessment and vestibular rehabilitation in the elderly",
+      "url": "https://link.springer.com/article/10.1186/s43163-022-00277-z"
+    }
+  ]
+}

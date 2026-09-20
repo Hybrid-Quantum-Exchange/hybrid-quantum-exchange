@@ -1,0 +1,14 @@
+{
+  "id": 390,
+  "domain": "medicine_cures",
+  "title": "Shared protein-misfolding mechanisms across neurodegenerations",
+  "bottleneck": "Alzheimer's, Parkinson's, ALS, and prion diseases all involve proteins that misfold, aggregate, and spread between cells in prion-like fashion, yet each disease's aggregates have distinct structures and strains, and therapies against one misfolded protein have not translated to others.",
+  "why_it_blocks": "A common anti-aggregation or anti-spread strategy could address multiple diseases at once, but strain diversity and the physiological roles of these proteins complicate any universal approach.",
+  "current_state": "Anti-aggregation small molecules, antibodies against pathological conformations, and spread-blocking strategies are in development across diseases. Clinical validation of the prion-like spread hypothesis in humans is still pending. Understanding why some misfolded proteins spread aggressively while others remain contained could reveal choke points common to many diseases. Structural biology of patient-derived fibrils is beginning to map strain differences at atomic resolution.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    }
+  ]
+}

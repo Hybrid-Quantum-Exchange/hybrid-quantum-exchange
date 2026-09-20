@@ -1,0 +1,18 @@
+{
+  "id": 935,
+  "domain": "food_water_agriculture",
+  "title": "Irrigation efficiency and the rebound effect",
+  "bottleneck": "Flood irrigation wastes about 35% of water to evaporation and runoff, and drip systems can cut use dramatically — but efficiency gains often don't save water at basin scale. Farmers use saved water to expand irrigated area or switch to thirstier crops, and much wasted water was recharging aquifers anyway. Real savings require caps on withdrawals, not just efficient hardware, which is politically toxic.",
+  "why_it_blocks": "Without real savings, irrigation modernization spends billions without denting depletion — the core water crisis continues behind a veneer of efficiency.",
+  "current_state": "Drip adoption grows but favors large farmers; analyses of the High Plains question whether efficiency gains produce real basin-scale savings. Drip adoption grows but favors large farmers; analyses question whether efficiency gains produce real basin-scale savings.",
+  "sources": [
+    {
+      "title": "Groundwater depletion and sustainability of irrigation in the US High Plains and Central Valley",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3386121/"
+    },
+    {
+      "title": "In Agriculture Groundwater Is Tapped By Agriculture: 7 Issues",
+      "url": "https://farmonaut.com/blogs/in-agriculture-groundwater-is-tapped-by-agriculture-7-issues"
+    }
+  ]
+}

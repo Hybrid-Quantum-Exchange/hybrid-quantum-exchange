@@ -1,0 +1,18 @@
+{
+  "id": 293,
+  "domain": "compute_semiconductors",
+  "title": "Glass-core substrate adoption and warpage control",
+  "bottleneck": "Glass-core substrates promise finer wiring, better dimensional stability, and lower loss than organic substrates for chiplet packages, but glass is brittle, through-glass vias are hard to metallize reliably, and warpage control during assembly is unsolved at panel scale. Handling and singulation of large glass panels need new equipment across the supply chain.",
+  "why_it_blocks": "Without better substrates, chiplet packages can't keep shrinking pitch or growing in size, bottlenecking the density roadmap. Glass could unlock the next packaging generation, but only if the manufacturing ecosystem retools.",
+  "current_state": "Intel, Samsung, and glass suppliers are investing heavily with pilot lines targeting late-2020s production. High-volume, high-yield glass substrate manufacturing is not yet demonstrated. Through-glass vias are difficult to metallize without voids, and glass brittleness demands new handling equipment across the entire supply chain.",
+  "sources": [
+    {
+      "title": "MDPI: 2.5D/3D chiplet thermal review",
+      "url": "https://www.mdpi.com/2673-4117/6/12/373"
+    },
+    {
+      "title": "Patsnap: UCIe chiplet thermal design",
+      "url": "https://eureka.patsnap.com/report-thermal-design-for-2-5d-3d-ucie-chiplet-interconnect"
+    }
+  ]
+}

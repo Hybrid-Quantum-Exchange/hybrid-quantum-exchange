@@ -1,0 +1,18 @@
+{
+  "id": 974,
+  "domain": "coordination",
+  "title": "Antitrust Barriers to AI Safety Coordination",
+  "bottleneck": "Frontier labs cannot legally coordinate on slowing capability races or standardizing safety practices without risking antitrust liability, even when coordination would serve public safety. Amodei's pacing proposal explicitly required a narrow government waiver for safety conversations — a waiver that does not exist. Safety-motivated coordination among labs looks legally identical to collusion, chilling even benign cooperation.",
+  "why_it_blocks": "Competition law, designed for price-fixing, inadvertently blocks the safety coordination it was never meant to prevent. Even informal safety discussions among labs carry legal risk under current law.",
+  "current_state": "No antitrust safe harbor for AI safety coordination has been enacted in the US or EU; the legal barrier stands. A legislative safe harbor would be straightforward to draft but has no political champion.",
+  "sources": [
+    {
+      "title": "AI Leaders Support Call to Slow Pace of Frontier Development (IAPP)",
+      "url": "https://iapp.org/news/a/ai-leaders-support-call-to-slow-pace-of-frontier-development-as-safety-concerns-grow"
+    },
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    }
+  ]
+}

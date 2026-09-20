@@ -1,0 +1,18 @@
+{
+  "id": 884,
+  "domain": "xr_interface",
+  "title": "Privacy of always-on XR cameras",
+  "bottleneck": "Useful AR needs always-on cameras mapping surroundings and watching hands, but that means continuous recording of bystanders, homes, and workplaces. On-device processing helps, yet raw sensor data is a breach waiting to happen, and bystanders can't consent. No technical framework guarantees camera data never leaves the device or is misused.",
+  "why_it_blocks": "Privacy fears could trigger regulation or social rejection that kills face-worn cameras regardless of technical merit. The most capable AR is also the most surveillant.",
+  "current_state": "Vendors promise on-device processing and indicator LEDs, but these are policies, not proofs. Verifiable privacy architectures for XR sensing don't exist. Indicator lights and on-device processing promises are policies, not cryptographic guarantees, and bystanders cannot verify them. Raw camera feeds are the most sensitive data a wearable can collect, yet users have no way to audit what the device actually retains.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    }
+  ]
+}

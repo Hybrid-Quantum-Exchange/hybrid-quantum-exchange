@@ -1,0 +1,18 @@
+{
+  "id": 736,
+  "domain": "materials",
+  "title": "Topological superconductor verification",
+  "bottleneck": "No material has been conclusively proven to host the topological superconducting state needed for fault-tolerant Majorana-based qubits. Signatures such as zero-bias conductance peaks have repeatedly turned out to be explainable by trivial Andreev bound states, and at least one landmark claim was retracted after data processing issues surfaced. The community still lacks a decisive, agreed-upon experimental fingerprint.",
+  "why_it_blocks": "Topological qubits promise hardware-level error protection that could collapse the overhead of quantum error correction by orders of magnitude. Without a verified platform, the field keeps building ever-larger arrays of conventional qubits to compensate, inflating cost and complexity.",
+  "current_state": "Candidate platforms — semiconductor-superconductor nanowires, iron-based heterostructures — continue to be refined, but every claimed Majorana signature faces the same ambiguity. Mechanism-guided materials search, such as the SuperC consortium's quantum-geometry approach, may eventually identify cleaner topological candidates.",
+  "sources": [
+    {
+      "title": "New superconductors identified, unlocking process that could yield thousands more",
+      "url": "https://phys.org/news/2026-06-superconductors-yield-thousands.html"
+    },
+    {
+      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
+      "url": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html"
+    }
+  ]
+}

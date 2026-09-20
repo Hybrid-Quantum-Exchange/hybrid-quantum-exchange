@@ -1,0 +1,18 @@
+{
+  "id": 204,
+  "domain": "energy",
+  "title": "Sodium-ion battery manufacturing scale-up",
+  "bottleneck": "Sodium-ion batteries use abundant materials and promise lower costs and better safety than lithium-ion, but energy density is lower and manufacturing exists only at pilot scale. The gigafactories, supply chains, and field data that made lithium-ion cheap do not exist for sodium-ion. Early cells show promise for stationary storage where weight matters less, but bankability requires years of operational data.",
+  "why_it_blocks": "Sodium-ion could diversify storage away from lithium constraints, but only if manufacturing scales before lithium supply crunches arrive, a race against time with no guaranteed winner.",
+  "current_state": "Chinese manufacturers are building sodium-ion capacity and early grid pilots are operating. Western manufacturing and long-term performance data are limited. Field data from early deployments will take years to accumulate, during which lithium-ion keeps improving and widening its cost lead.",
+  "sources": [
+    {
+      "title": "Rechargeable Batteries for Grid-Scale Energy Storage: Technologies, Performance, and Emerging Directions",
+      "url": "https://mdpi-res.com/d_attachment/batteries/batteries-12-00264/article_deploy/batteries-12-00264.pdf?version=1784562080"
+    },
+    {
+      "title": "Trend Scan AI Automated Report: Battery Storage and Grid-Scale Energy",
+      "url": "https://ezassi.com/wp-content/uploads/2026/06/Battery-Storage-and-Grid-Scale-Energy.pdf"
+    }
+  ]
+}

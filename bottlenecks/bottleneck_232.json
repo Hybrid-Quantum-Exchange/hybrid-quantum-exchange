@@ -1,0 +1,18 @@
+{
+  "id": 232,
+  "domain": "compute_semiconductors",
+  "title": "Stochastic patterning defects in EUV photoresists",
+  "bottleneck": "At sub-10nm feature sizes, EUV exposure involves so few photons per feature that random photon shot noise and secondary-electron blur cause stochastic failures: missing contacts, bridged lines, and pattern collapse. Metal-oxide and dry resists improve resolution but demand higher dose, which slows throughput and raises tool operating cost. There is an unresolved three-way tradeoff between resolution, line-edge roughness, and sensitivity (the RLS triangle) that no resist chemistry has yet broken.",
+  "why_it_blocks": "Stochastic defects set the true floor on printable feature size regardless of optics: even perfect lenses fail if the resist cannot resolve features deterministically. This caps usable density gains at every node and forces designers to waste area on redundancy and relaxed design rules.",
+  "current_state": "Chemically amplified and metal-oxide resists are in pilot use with high-NA development lines, and dry-resist processes show promise for 1.4nm targets. Yet defectivity at commercial throughputs remains above acceptable levels, and precursor chemistries face supply-chain and export-control risks.",
+  "sources": [
+    {
+      "title": "Business News Today: Dry resist & high-NA EUV",
+      "url": "https://business-news-today.com/dry-resist-and-high-na-euv-is-this-the-breakthrough-that-can-finally-unlock-sub-2nm-chips/"
+    },
+    {
+      "title": "PR Newswire: EUV sub-nanometer chips",
+      "url": "https://markets.financialcontent.com/prnews.investoruprising/article/tokenring-2025-10-4-euv-lithography-paving-the-way-for-sub-nanometer-chips"
+    }
+  ]
+}

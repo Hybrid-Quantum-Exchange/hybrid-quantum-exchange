@@ -1,0 +1,14 @@
+{
+  "id": 372,
+  "domain": "medicine_cures",
+  "title": "Predictive biomarkers for immunotherapy response",
+  "bottleneck": "No reliable biomarker predicts who will benefit from checkpoint inhibitors: PD-L1 staining, tumor mutational burden, and microsatellite instability each identify only subsets of responders, and many biomarker-negative patients respond while biomarker-positive patients do not.",
+  "why_it_blocks": "Without prediction, patients endure costly, toxic therapies with low odds of benefit, and trials enroll broad populations that dilute signals of efficacy.",
+  "current_state": "Composite signatures combining genomic, transcriptomic, and microenvironment features are improving prediction, and dynamic on-treatment markers show promise. Research into microenvironment regulators such as the miR-25 pathway may yield new predictive markers, but a single robust test remains elusive. Liquid-biopsy-based dynamic markers that track immune activation during treatment may prove more predictive than any baseline test. Integrating these into routine care will require prospective validation.",
+  "sources": [
+    {
+      "title": "Why some tumors resist immunotherapy: Blocking miR-25 may help turn cold cancers hot",
+      "url": "https://medicalxpress.com/news/2026-06-tumors-resist-immunotherapy-blocking-mir.html"
+    }
+  ]
+}

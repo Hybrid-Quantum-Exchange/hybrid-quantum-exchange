@@ -1,0 +1,18 @@
+{
+  "id": 856,
+  "domain": "xr_interface",
+  "title": "Waveguide manufacturing yield and cost",
+  "bottleneck": "High-performance reflective waveguides are assembled from dozens of individually bonded and polished glass elements, making them slow, failure-prone, and far too expensive for consumer pricing. Diffractive waveguides can be mass-replicated but suffer efficiency and artifact problems. Glass substrate processing is a precision craft, not a semiconductor flow.",
+  "why_it_blocks": "Optics cost is the largest BOM line in AR glasses (over half in some teardowns); without manufacturable waveguides, AR glasses can't reach mass-market prices. The display stack economics block the entire category.",
+  "current_state": "Replication techniques (nanoimprint, injection molding) are improving diffractive waveguide throughput, and polymer substrates cut cost at the expense of field of view. Yields at consumer quality remain poor. Replication methods like nanoimprint improve throughput but introduce their own defect modes, keeping consumer-grade yields elusive.",
+  "sources": [
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    },
+    {
+      "title": "Laser Focus World: Waveguide design for AR",
+      "url": "https://www.laserfocusworld.com/optics/article/55365905/waveguide-design-for-ar-glasses-system-optimization"
+    }
+  ]
+}

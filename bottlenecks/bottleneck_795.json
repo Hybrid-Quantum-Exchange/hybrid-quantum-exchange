@@ -1,0 +1,18 @@
+{
+  "id": 795,
+  "domain": "climate_environment",
+  "title": "Ocean alkalinity enhancement ecological safety",
+  "bottleneck": "Adding alkaline minerals to the ocean to boost CO2 uptake works in principle, but the ecological consequences of large-scale alkalinity shifts are poorly understood: changes in pH and trace-metal release could harm plankton, larvae, and reef systems in ways models cannot yet predict. Field trials are tiny, and there is no agreed framework for what level of ecosystem perturbation is acceptable. The ocean's carbon chemistry response also varies regionally in unmapped ways.",
+  "why_it_blocks": "The ocean is the largest potential carbon sink, and alkalinity enhancement could theoretically remove gigatonnes. Without ecological safety data, scaling it risks trading the climate crisis for a marine ecosystem crisis — and regulators will not permit what scientists cannot bound.",
+  "current_state": "Small field trials are underway with careful monitoring, and a 2026 Joule study compared direct ocean capture with DAC, noting DOC's natural advantage in dissolved carbon concentration. But the research remains at the pilot stage with no path yet to responsible large-scale deployment.",
+  "sources": [
+    {
+      "title": "Before carbon capture can clean atmosphere at scale, one bottleneck may decide whether it succeeds",
+      "url": "https://techxplore.com/news/2026-05-carbon-capture-atmosphere-scale-bottleneck.html"
+    },
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    }
+  ]
+}

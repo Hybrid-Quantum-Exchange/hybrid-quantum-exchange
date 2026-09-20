@@ -1,0 +1,18 @@
+{
+  "id": 768,
+  "domain": "materials",
+  "title": "High-entropy alloy predictive design",
+  "bottleneck": "High-entropy alloys mix five or more elements in near-equal proportions, creating a compositional space of millions of candidates with potentially exceptional strength, toughness, and corrosion resistance. But phase stability in these complex mixtures is poorly predicted: unwanted brittle intermetallics precipitate unexpectedly, and CALPHAD databases are sparse for multi-principal-element systems. Alloy development remains Edisonian trial and error.",
+  "why_it_blocks": "These alloys could outperform superalloys in turbines, reactors, and extreme environments, raising efficiency everywhere heat matters. Without predictive design, each alloy costs years of empirical testing, so only a tiny fraction of the space gets explored and adoption stalls.",
+  "current_state": "Machine learning trained on growing experimental datasets is beginning to predict single-phase stability, and the SuperC consortium's ML-plus-physics pipeline shows how such searches can work. But validated, deployable high-entropy alloys in safety-critical service are still rare.",
+  "sources": [
+    {
+      "title": "New superconductors identified, unlocking process that could yield thousands more",
+      "url": "https://phys.org/news/2026-06-superconductors-yield-thousands.html"
+    },
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    }
+  ]
+}

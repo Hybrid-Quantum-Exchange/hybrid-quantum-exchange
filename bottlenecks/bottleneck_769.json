@@ -1,0 +1,18 @@
+{
+  "id": 769,
+  "domain": "materials",
+  "title": "Bulk metallic glass casting scale-up",
+  "bottleneck": "Metallic glasses combine metal strength with plastic-like formability, but they must be cooled faster than a critical rate to avoid crystallization, which limits castable thickness to millimeters for most compositions. Finding glass-forming alloys with low critical cooling rates is slow, and the best glass formers rely on expensive elements like zirconium, palladium, or beryllium. Structural-scale bulk metallic glass parts do not exist.",
+  "why_it_blocks": "Bulk metallic glasses could make tougher, more corrosion-resistant structural components with near-net-shape casting that eliminates machining. The size limit confines them to small parts — phone cases, sporting goods, medical devices — while large structures stay with conventional alloys.",
+  "current_state": "New iron- and copper-based glass formers have pushed critical casting thickness into the centimeter range in the lab. But the combination of large size, low cost, and toughness in one alloy remains elusive, and commercial uptake stays niche.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    }
+  ]
+}

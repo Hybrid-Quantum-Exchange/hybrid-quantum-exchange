@@ -1,0 +1,18 @@
+{
+  "id": 113,
+  "domain": "cosmology_multiverse",
+  "title": "The Trans-Planckian Problem",
+  "bottleneck": "Inflation stretches quantum fluctuations from sub-Planckian scales to observable ones, meaning CMB predictions depend on physics at energies where quantum gravity should dominate but is unknown. Proposed resolutions (modified dispersion, bouncing pre-histories) are speculative, and the standard calculation simply assumes unknown physics decouples. Some argue that unknown Planck-scale physics naturally decouples, making the problem moot, but this is an assumption rather than a result.",
+  "why_it_blocks": "This is cosmology's quiet foundational gamble: its best-tested early-universe theory rests on an unjustified extrapolation across the Planck scale.",
+  "current_state": "The problem is acknowledged but unresolved; it motivates searches for trans-Planckian signatures in non-Gaussianity, none found so far. The debate matters because it determines whether inflationary predictions are robust or rest on uncontrolled extrapolation.",
+  "sources": [
+    {
+      "title": "The Measure Problem in Eternal Inflation (arXiv:1801.05016)",
+      "url": "https://arxiv.org/pdf/1801.05016"
+    },
+    {
+      "title": "On the Impossibility of Precise Verification of Models of Quantum Gravity (arXiv:2309.07203)",
+      "url": "https://arxiv.org/abs/2309.07203?context=hep-th"
+    }
+  ]
+}

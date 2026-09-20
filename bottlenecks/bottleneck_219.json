@@ -1,0 +1,18 @@
+{
+  "id": 219,
+  "domain": "energy",
+  "title": "Grid-forming inverters for low-inertia grids",
+  "bottleneck": "As synchronous generators retire, grids lose the physical inertia that stabilizes frequency, and today's grid-following inverters cannot replace it. Grid-forming inverters can synthesize inertia and stabilize weak grids, but standards, models, and field experience are immature, and most installed inverters lack the capability. System operators are learning to run low-inertia grids in real time.",
+  "why_it_blocks": "Inertia is the grid's shock absorber. Without grid-forming controls deployed at scale, high-renewable grids face instability risks that could cause cascading blackouts. Misconfigured grid-forming inverters can fight each other, creating oscillations that are harder to diagnose than conventional faults.",
+  "current_state": "Grid-forming battery plants are operating in Australia and Hawaii. Standards such as IEEE 2800 are evolving and large-scale deployment is just beginning. Retrofitting grid-forming capability onto existing inverters is often impossible, so the transition depends on new installations.",
+  "sources": [
+    {
+      "title": "The Interconnection Bottleneck: How Renewable Approval Backlogs Are Repricing the Energy-to-Data Center Equation",
+      "url": "https://www.globaldatacenterhub.com/p/the-interconnection-bottleneck-how"
+    },
+    {
+      "title": "The 750-MW Warning: How Outdated Interconnection Rules Are Strangling the Grid's Hybrid Future",
+      "url": "https://www.linkedin.com/pulse/750-mw-warning-how-outdated-interconnection-rules-strangling-mike-l-3rayc"
+    }
+  ]
+}

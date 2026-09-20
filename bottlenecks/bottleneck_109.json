@@ -1,0 +1,18 @@
+{
+  "id": 109,
+  "domain": "cosmology_multiverse",
+  "title": "The Lithium Problem in Big Bang Nucleosynthesis",
+  "bottleneck": "Standard BBN predicts about three times more lithium-7 than observed in old metal-poor halo stars, a discrepancy persisting for decades. Stellar depletion, nuclear-rate uncertainties, and new physics (decaying particles, varying constants) have all been proposed, but none resolves the gap without creating tension elsewhere. The predicted lithium abundance depends sensitively on nuclear reaction rates that are hard to measure at BBN energies.",
+  "why_it_blocks": "Lithium is the one BBN element that fails, and its resolution touches stellar astrophysics, nuclear physics, and possibly beyond-Standard-Model cosmology.",
+  "current_state": "Recent stellar modeling suggests more depletion than thought, but a factor-of-two gap remains; the problem is unsolved. New underground accelerator measurements of key cross-sections are narrowing the nuclear physics uncertainties, leaving stellar depletion as the prime suspect.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 222,
+  "domain": "energy",
+  "title": "Distribution grid hosting capacity limits",
+  "bottleneck": "Rooftop solar, EVs, and heat pumps are overloading distribution feeders designed for one-way power flow, causing voltage violations, transformer overloads, and protection misoperation. Utilities lack real-time visibility into most distribution circuits, and hosting-capacity analyses are static snapshots. Upgrading every constrained feeder is prohibitively expensive. Bidirectional power flow can also confuse legacy protection schemes, causing nuisance tripping or, worse, failure to trip during faults.",
+  "why_it_blocks": "The energy transition happens on distribution circuits. If feeders cannot host electrification, adoption stalls regardless of wholesale market design or generation adequacy.",
+  "current_state": "Advanced inverters, dynamic hosting capacity, and targeted upgrades are being deployed. Comprehensive distribution modernization lags far behind need. Some utilities now require smart inverters with voltage regulation as a condition of interconnection, shifting costs to customers.",
+  "sources": [
+    {
+      "title": "Green Energy Gridlock: Transmission and PPA Delays Slow Renewables",
+      "url": "https://www.datainsightsmarket.com/news/article/green-energy-gridlock-transmission-ppa-delays-slow-renewables-19750"
+    },
+    {
+      "title": "The 750-MW Warning: How Outdated Interconnection Rules Are Strangling the Grid's Hybrid Future",
+      "url": "https://www.linkedin.com/pulse/750-mw-warning-how-outdated-interconnection-rules-strangling-mike-l-3rayc"
+    }
+  ]
+}

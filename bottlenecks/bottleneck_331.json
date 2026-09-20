@@ -1,0 +1,18 @@
+{
+  "id": 331,
+  "domain": "artificial_intelligence",
+  "title": "Benchmark contamination",
+  "bottleneck": "Benchmark questions leak into training corpora at web scale, so high scores may reflect memorization rather than capability — and nobody can reliably detect the leakage. Models train on data that includes test sets, posted solutions, and near-duplicates; decontamination via n-gram filtering misses paraphrases. The result is an evaluation ecosystem where measured progress may be partly illusory. Once test items leak into training data, scores measure memorization - and contamination is effectively undetectable at web scale.",
+  "why_it_blocks": "If benchmarks measure recall of leaked answers, then the entire narrative of AI progress — and the deployment decisions based on it — rests on inflated numbers.",
+  "current_state": "LiveCodeBench and similar post-cutoff benchmarks fight contamination with fresh problems, but the arms race favors the leakers; most legacy benchmarks are likely contaminated.",
+  "sources": [
+    {
+      "title": "Security experts uncover major flaws in hundreds of AI benchmarks",
+      "url": "https://www.digit.fyi/flaws-in-ai-benchmarks/"
+    },
+    {
+      "title": "Study Reveals AI's Struggles with Logical Reasoning & Adaptability",
+      "url": "https://www.geeky-gadgets.com/ai-reasoning-limitations/?ref=aileap&utm_source=aileap&utm_medium=referral"
+    }
+  ]
+}

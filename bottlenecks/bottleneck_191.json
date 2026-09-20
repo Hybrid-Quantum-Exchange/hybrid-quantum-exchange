@@ -1,0 +1,18 @@
+{
+  "id": 191,
+  "domain": "energy",
+  "title": "Digital twin validation for reactor licensing",
+  "bottleneck": "Developers increasingly rely on high-fidelity simulations, digital twins, to demonstrate safety instead of full-scale testing, but regulators have not fully accepted simulation in place of physical test data for novel designs. Validating multiphysics codes for molten salt chemistry, fast-reactor transients, or HTGR dust requires experimental benchmarks that are expensive and slow to produce. A safety case built on unvalidated codes will not be licensed.",
+  "why_it_blocks": "Simulation is the only affordable path to licensing novel reactors, but without regulatory acceptance of validated models, developers face the impossible cost of full-scale prototype testing for every design.",
+  "current_state": "The NRC is developing guidance on simulation-based licensing. Validation databases are being built but remain incomplete for non-LWR designs. International benchmark exercises are slowly building confidence, but each novel design still needs its own validation campaign.",
+  "sources": [
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    },
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 93,
+  "domain": "cosmology_multiverse",
+  "title": "Ultralight (Fuzzy) Dark Matter Constraints",
+  "bottleneck": "Ultralight axion-like particles (10^-22 eV) would suppress small-scale structure via quantum pressure, but Lyman-alpha forest data and dwarf galaxy counts already squeeze the simplest fuzzy-dark-matter models. Mixed models (fuzzy plus cold components) evade limits but lose predictive sharpness, and laboratory probes of such light fields are extremely weak. Even if fuzzy dark matter is subdominant, its distinctive interference patterns and soliton cores could be detectable in stellar streams and lensing.",
+  "why_it_blocks": "Fuzzy dark matter is one of few models with distinctive, testable small-scale predictions, yet current data neither confirms nor cleanly kills it.",
+  "current_state": "DESI's Lyman-alpha forest measurements are tightening small-scale power constraints; pulsar timing arrays may eventually probe ultralight fields via oscillating gravitational potentials. High-resolution Lyman-alpha forest data from DESI DR2 is expected to push limits further, possibly closing the simplest models entirely.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

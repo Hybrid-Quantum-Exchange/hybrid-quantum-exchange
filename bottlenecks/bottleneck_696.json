@@ -1,0 +1,18 @@
+{
+  "id": 696,
+  "domain": "space",
+  "title": "Crew behavioral health on multi-year isolated missions",
+  "bottleneck": "A Mars mission confines 4-6 people in a small habitat for roughly 1,000 days with up to 20-minute communication delays — no real-time conversation with Earth, no evacuation, no privacy. Analog missions (HI-SEAS, Mars500, Concordia) show conflicts, depression, and performance dips emerging unpredictably, and selection cannot fully screen for it. Countermeasures like virtual reality and structured schedules are untested at mission scale, and a serious psychiatric crisis mid-transit has no good resolution.",
+  "why_it_blocks": "Hardware gets the attention, but crew dysfunction can end a mission as surely as an engine failure; it is the least modelable risk in the architecture.",
+  "current_state": "NASA's Human Research Program studies isolation in analogs, including year-long CHAPEA Mars simulations. No actual multi-year deep-space crew isolation has occurred.",
+  "sources": [
+    {
+      "title": "Designing Mars and Moon Habitats: When Home Is Life Support",
+      "url": "https://www.archyde.com/designing-mars-and-moon-habitats-when-home-is-life-support/"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

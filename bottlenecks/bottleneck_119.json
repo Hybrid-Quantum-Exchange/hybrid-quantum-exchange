@@ -1,0 +1,18 @@
+{
+  "id": 119,
+  "domain": "cosmology_multiverse",
+  "title": "First Stars and the End of the Dark Ages",
+  "bottleneck": "The properties of Population III stars — masses, formation efficiency, feedback — are inferred only indirectly, and the timeline of reionization they drove is uncertain at the ~100 Myr level. Simulations disagree on whether the first stars were predominantly hundreds of solar masses or tens, changing reionization history entirely. The escape fraction of ionizing photons from early galaxies — the key reionization parameter — is essentially unmeasured at high redshift.",
+  "why_it_blocks": "Reionization is the last major phase transition of the universe and its sources remain unidentified.",
+  "current_state": "JWST is finding candidate Pop III signatures and z>6 galaxies; 21-cm experiments aim to map reionization directly but are not yet detecting. JWST measurements of Lyman-continuum leakage in analog galaxies are beginning to constrain this critical unknown.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

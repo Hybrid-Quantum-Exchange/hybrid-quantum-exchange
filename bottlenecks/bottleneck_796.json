@@ -1,0 +1,18 @@
+{
+  "id": 796,
+  "domain": "climate_environment",
+  "title": "Direct ocean capture energy and materials",
+  "bottleneck": "Extracting dissolved CO2 directly from seawater exploits the ocean's 30 percent share of anthropogenic emissions, but processing millions of cubic meters of water demands huge pumping energy, and the electrochemical or pH-swing processes foul rapidly in real seawater. Membranes scale, electrodes corrode, and the concentrated CO2 stream still needs transport and storage. The technology is far less developed than DAC with even less cost data.",
+  "why_it_blocks": "DOC could bypass DAC's air-moving energy penalty, offering a potentially cheaper removal route. But without solving fouling, materials durability, and energy integration, it stays a lab concept while the ocean keeps acidifying.",
+  "current_state": "A 2026 Joule comparative study put DOC on the research map alongside DAC, and several startups have built small prototypes. Still, no DOC system has operated continuously at meaningful scale in open-ocean conditions.",
+  "sources": [
+    {
+      "title": "Before carbon capture can clean atmosphere at scale, one bottleneck may decide whether it succeeds",
+      "url": "https://techxplore.com/news/2026-05-carbon-capture-atmosphere-scale-bottleneck.html"
+    },
+    {
+      "title": "Direct Air Capture (DAC) - Carbon Project Types",
+      "url": "https://abatable.com/blog/dac-unpacked-direct-air-capture-guide/"
+    }
+  ]
+}

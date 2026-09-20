@@ -1,0 +1,18 @@
+{
+  "id": 202,
+  "domain": "energy",
+  "title": "Lithium-ion duration and degradation limits",
+  "bottleneck": "Lithium-ion dominates grid storage but degrades 1.5 to 3 percent per year under cycling, and stacking enough batteries for 8-plus hour duration drives capital costs above alternatives. Calendar aging, thermal management complexity, and fire risk all scale with system size. Lithium-ion is excellent for 2 to 4 hour applications and structurally unsuited for longer durations. Augmenting aging battery systems with new cells creates mismatch problems that further erode economics over a 20-year project life.",
+  "why_it_blocks": "Misapplying lithium-ion to long-duration needs wastes capital. The industry's default technology cannot economically serve the fastest-growing segment of storage demand.",
+  "current_state": "LFP grid batteries now claim more than 10,000 cycles with costs near 75 to 85 dollars per kWh. Durations beyond 4 hours remain uneconomic versus long-duration alternatives.",
+  "sources": [
+    {
+      "title": "Rechargeable Batteries for Grid-Scale Energy Storage: Technologies, Performance, and Emerging Directions",
+      "url": "https://mdpi-res.com/d_attachment/batteries/batteries-12-00264/article_deploy/batteries-12-00264.pdf?version=1784562080"
+    },
+    {
+      "title": "The growing need for long-duration energy storage in the US",
+      "url": "https://www.solarpowerworldonline.com/2026/02/the-growing-need-for-long-duration-energy-storage-in-the-us/"
+    }
+  ]
+}

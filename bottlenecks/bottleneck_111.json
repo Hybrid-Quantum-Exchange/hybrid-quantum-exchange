@@ -1,0 +1,18 @@
+{
+  "id": 111,
+  "domain": "cosmology_multiverse",
+  "title": "Identifying the Inflationary Potential",
+  "bottleneck": "Inflation fits the data beautifully, yet hundreds of potentials reproduce the observed spectral index and tensor limits; Planck's constraints rule out the simplest monomial models but leave a vast viable landscape. There is no known observation short of primordial B-modes that could pick out the true potential. The Lyth bound ties observable gravitational waves to super-Planckian field excursions, which effective field theory struggles to control.",
+  "why_it_blocks": "Without the potential, inflation remains a paradigm without a theory, disconnected from particle physics.",
+  "current_state": "Planck 2018 plus BICEP/Keck set r < 0.036; next-generation CMB-S4 targets r ~ 0.001, which would kill or confirm large-field models. A non-detection of B-modes down to r ~ 0.001 would eliminate the entire large-field class, a major culling of the model space.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "Dark Matter, Dark Energy, and the Unanswered Questions of Cosmology (AnewZ)",
+      "url": "http://anewz.tv/ai-next/science-news/3679/dark-matter-dark-energy-and-the-unanswered-questions-of-cosmology/news"
+    }
+  ]
+}

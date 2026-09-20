@@ -1,0 +1,18 @@
+{
+  "id": 660,
+  "domain": "space",
+  "title": "Hall-effect thruster channel-wall erosion at high power",
+  "bottleneck": "Hall thrusters accelerate ions with crossed electric and magnetic fields, but the same plasma bombards the discharge channel walls, sputtering material away. At higher voltages the erosion rate climbs sharply; once the wall wears through, the magnetic circuit is exposed and the thruster fails. NASA's 50-kW-class nested Hall thruster program states the technology cannot currently be used on deep-space missions because of lifetime issues, with erosion the main failure mechanism.",
+  "why_it_blocks": "Efficient electric propulsion enables cargo pre-positioning and fast deep-space transits; without thrusters surviving tens of thousands of hours, long missions must carry excessive redundancy or accept degraded performance.",
+  "current_state": "Magnetically shielded designs reshape the field so plasma potential near the walls stays high, dramatically reducing erosion. A 50-kW-class shielded thruster is in fabrication and testing; long-life validation is ongoing.",
+  "sources": [
+    {
+      "title": "Development of a Long-Life 50-kW Class Nested Hall Thruster (NASA)",
+      "url": "https://www.nasa.gov/?p=61502"
+    },
+    {
+      "title": "Hall Thrusters — JPL Space Technology book chapter (PDF)",
+      "url": "http://descanso.jpl.nasa.gov/SciTechBook/series1/Goebel_07_Chap7_Hall.pdf"
+    }
+  ]
+}

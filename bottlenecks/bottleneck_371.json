@@ -1,0 +1,14 @@
+{
+  "id": 371,
+  "domain": "medicine_cures",
+  "title": "Undruggable oncogenic transcription factors",
+  "bottleneck": "Many of cancer's most powerful drivers, including MYC and mutant p53, are transcription factors or signaling proteins lacking the deep binding pockets that conventional small-molecule drugs require. They were long classified as undruggable despite sitting atop oncogenic programs across many tumor types.",
+  "why_it_blocks": "Drugging these drivers would unlock treatments for cancers with few options, including MYC-driven and p53-mutant tumors that resist most existing therapies.",
+  "current_state": "New modalities, including targeted protein degraders, molecular glues, and covalent inhibitors such as KRAS G12C drugs, are cracking previously undruggable targets. MYC and mutant p53 remain largely unconquered. Each newly drugged target validates the degrader approach and attracts investment into the next one, creating a virtuous cycle. Still, transcription factors with no ligandable surface remain the hardest frontier in cancer drug discovery.",
+  "sources": [
+    {
+      "title": "Cancer cells are better able to resist treatments when they have an abnormal number of chromosomes",
+      "url": "https://medicalxpress.com/news/2026-05-cancer-cells-resist-treatments-abnormal.html"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 225,
+  "domain": "energy",
+  "title": "Wildfire risk and grid hardening costs",
+  "bottleneck": "Utility-ignited wildfires have caused catastrophic losses, forcing utilities into expensive hardening: undergrounding lines at more than 3 million dollars per mile, covered conductors, and public-safety shutoffs that anger customers. California utilities alone plan tens of billions in wildfire spending, recovered through rates. Hardening reduces but does not eliminate ignition risk. Public-safety power shutoffs during fire weather impose their own economic costs, from spoiled food to idle businesses, concentrated on vulnerable communities.",
+  "why_it_blocks": "Wildfire liability is reshaping utility finance. Hardening costs flow to ratepayers, raising electricity prices and eroding the affordability case for electrification.",
+  "current_state": "Undergrounding and covered-conductor programs are underway. Ignition risk persists and cost-recovery battles continue. Insurers are repricing wildfire-exposed utility risk, adding financial pressure beyond the engineering costs.",
+  "sources": [
+    {
+      "title": "Energy Transition: 2026 Hurdles Explained",
+      "url": "https://globalinsightwire.com/energy-transition-hurdles-2026-reality-check/"
+    },
+    {
+      "title": "Green Energy Gridlock: Transmission and PPA Delays Slow Renewables",
+      "url": "https://www.datainsightsmarket.com/news/article/green-energy-gridlock-transmission-ppa-delays-slow-renewables-19750"
+    }
+  ]
+}

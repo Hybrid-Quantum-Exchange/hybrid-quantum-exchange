@@ -1,0 +1,18 @@
+{
+  "id": 189,
+  "domain": "energy",
+  "title": "Depleted uranium tails stockpile utilization",
+  "bottleneck": "Enrichment produces vast stockpiles of depleted uranium tails, over 1.7 million tonnes globally, stored as uranium hexafluoride that is chemically hazardous and an environmental liability. Tails could be re-enriched or used in fast reactors and fusion blankets, but doing so economically requires enrichment overcapacity or new reactor types that do not yet exist at scale. Deconversion to stable oxide is slow and expensive.",
+  "why_it_blocks": "Tails are nuclear energy's largest-volume waste stream by mass. Without a use pathway they remain a perpetual storage cost and a public-relations liability for the whole fuel cycle.",
+  "current_state": "Some tails are re-enriched when uranium prices justify it, and laser-enrichment approaches aim to exploit them. Large-scale productive use awaits fast-reactor deployment. Deconversion of hexafluoride to stable oxide for long-term storage is itself slow and expensive, running billions of dollars globally.",
+  "sources": [
+    {
+      "title": "ASP Isotopes MOU to supply HALEU for small modular reactors",
+      "url": "https://whig.marketminute.com/article/gnwcq-2023-9-28-asp-isotopes-inc-enters-into-memorandum-of-understanding-with-a-small-modular-reactor-company-to-supply-high-assay-low-enriched-uranium-haleu"
+    },
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 170,
+  "domain": "energy",
+  "title": "Liquid-metal blanket corrosion",
+  "bottleneck": "Lead-lithium eutectic blankets promise tritium breeding and neutron multiplication in one fluid, but hot lead-lithium corrodes structural steels, dissolving nickel and chromium and depositing them in cold legs until pipes clog. Corrosion accelerates under flowing conditions and neutron irradiation, and protective coatings or controlled chemistry have not been proven for multi-year operation. Magnetohydrodynamic drag in the strong magnetic field further complicates flow.",
+  "why_it_blocks": "Corrosion sets the blanket lifetime. If lead-lithium eats through structures in two years instead of ten, replacement costs and downtime destroy the economics that make liquid blankets attractive.",
+  "current_state": "Corrosion loops have tested lead-lithium with steels for thousands of hours. Long-term data under combined flow, magnetic field, and irradiation is missing. Test loops cannot yet replicate the combined effects of flowing metal, strong magnetic fields, and fusion-spectrum irradiation simultaneously.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 875,
+  "domain": "xr_interface",
+  "title": "Mid-air ultrasound haptic resolution",
+  "bottleneck": "Ultrasonic phased arrays can project touchable pressure points in mid-air, but focal spots are centimeter-scale, force is weak, and arrays are bulky and power-hungry. Rendering complex shapes or multiple distinct contacts is beyond current arrays, and the sensation feels like faint air puffs rather than solid contact.",
+  "why_it_blocks": "Mid-air haptics could enable touchless interaction with holograms, but current resolution and strength make it a novelty. The gap between 'feeling something' and 'feeling an object' is vast.",
+  "current_state": "Commercial ultrasonic haptic panels exist for automotive and kiosk demos. Finer resolution, stronger force, and compact arrays remain research goals. The sensation resembles faint air pressure rather than solid contact, so users cannot judge shape, weight, or texture from it. Increasing array power to strengthen the sensation quickly hits safety and thermal limits for skin exposure.",
+  "sources": [
+    {
+      "title": "AndroidHeadlines: Haptic feedback tech",
+      "url": "https://www.androidheadlines.com/2026/06/haptic-feedback-technology-and-the-future-of-immersive-digital-interaction.html"
+    },
+    {
+      "title": "USC: Haptic technology for VR",
+      "url": "https://today.usc.edu/new-usc-haptic-technology-adds-the-sense-of-touch-to-virtual-reality/"
+    }
+  ]
+}

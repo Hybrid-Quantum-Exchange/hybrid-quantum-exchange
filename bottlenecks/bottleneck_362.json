@@ -1,0 +1,14 @@
+{
+  "id": 362,
+  "domain": "medicine_cures",
+  "title": "Cancer stem cells and tumor initiation",
+  "bottleneck": "A subpopulation of tumor cells with stem-like properties, including self-renewal, quiescence, and therapy resistance, is thought to drive tumor initiation, metastasis, and relapse after treatment. These cells resist chemotherapy and radiation partly through dormancy and enhanced repair, yet their identity and markers vary between and within tumors.",
+  "why_it_blocks": "If therapies kill only the bulk tumor while sparing stem-like cells, relapse is inevitable. Eradicating the tumor-initiating compartment is arguably necessary for durable cures.",
+  "current_state": "Candidate stem-cell markers and niche-disrupting strategies are under investigation, but no approved therapy selectively eliminates cancer stem cells, and the model's universality is still debated among cancer biologists. Research on how migrating tumor cells acquire stemness and immune evasion continues to reveal potential targets.",
+  "sources": [
+    {
+      "title": "Cancer Metastasis: Overcoming Therapeutic Challenges and Unlocking Opportunities",
+      "url": "https://scienmag.com/cancer-metastasis-overcoming-therapeutic-challenges-and-unlocking-opportunities/"
+    }
+  ]
+}

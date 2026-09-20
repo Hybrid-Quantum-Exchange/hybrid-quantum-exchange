@@ -1,0 +1,18 @@
+{
+  "id": 349,
+  "domain": "artificial_intelligence",
+  "title": "Multilingual equity and low-resource language gaps",
+  "bottleneck": "Frontier models perform dramatically worse in low-resource languages — the languages spoken by most of humanity — because training data is overwhelmingly English and a handful of others. Tokenizers fragment non-English text into many more tokens, raising cost and latency, and safety tuning barely covers these languages, leaving speakers with worse, more expensive, less safe AI. The gap isn't closing proportionally with scale. Safety tuning and alignment data barely cover these languages, leaving speakers with worse, more expensive, less safe AI.",
+  "why_it_blocks": "AI that works only for wealthy English speakers concentrates its benefits and exports its harms. Global deployment without language equity is a form of exclusion.",
+  "current_state": "Multilingual benchmarks show persistent gaps; targeted data collection helps, but the long tail of thousands of languages is untouched.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    }
+  ]
+}

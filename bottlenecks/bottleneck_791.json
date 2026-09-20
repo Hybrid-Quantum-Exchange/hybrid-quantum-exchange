@@ -1,0 +1,18 @@
+{
+  "id": 791,
+  "domain": "climate_environment",
+  "title": "Direct air capture sorbent regeneration energy",
+  "bottleneck": "Separating CO2 from air at 420 ppm demands moving enormous air volumes and then releasing the captured CO2 from sorbents, a regeneration step that in liquid-solvent systems requires heating to around 900 C, typically by burning natural gas. The thermodynamic minimum energy is fixed by physics, and real systems run several times above it, so regeneration dominates both cost and the technology's own emissions. Low-temperature solid sorbents ease heating needs but raise fan energy and replacement costs.",
+  "why_it_blocks": "Regeneration energy is what makes direct air capture expensive and potentially counterproductive: powered by fossil energy, a DAC plant can emit more than it captures. Until regeneration gets radically cheaper and cleaner, DAC cannot scale to the gigatonne levels climate models assume.",
+  "current_state": "The DOE's Carbon Negative Shot targets $100 per net tonne at gigatonne scale, and solid-sorbent designs keep improving, but current DAC credits trade near $1,500 per tonne and the largest plant captures only 4,000 tonnes a year. An MIT analysis warns DAC could demand over 40 percent of today's global electricity at large scale.",
+  "sources": [
+    {
+      "title": "Direct Air Capture (DAC) - Carbon Project Types",
+      "url": "https://abatable.com/blog/dac-unpacked-direct-air-capture-guide/"
+    },
+    {
+      "title": "MIT Study Reveals Major Challenges with Carbon Removal Technology Plans",
+      "url": "https://scienceblog.com/mit-study-reveals-major-challenges-with-carbon-removal-technology-plans/"
+    }
+  ]
+}

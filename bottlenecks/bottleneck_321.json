@@ -1,0 +1,18 @@
+{
+  "id": 321,
+  "domain": "artificial_intelligence",
+  "title": "Prompt injection as an architectural flaw",
+  "bottleneck": "LLMs cannot reliably distinguish instructions from data — a prompt injection buried in a webpage, document, or tool output is processed as if the user said it. This isn't a patchable bug but a consequence of the architecture: everything is text in one context window. Indirect prompt injection turns every tool an agent can read into an attack vector, and no defense based on delimiters or instruction hierarchies has proven robust.",
+  "why_it_blocks": "Agents that browse, read email, or use tools cannot be deployed safely while any third-party content can hijack them. The entire agentic use case rests on solving this.",
+  "current_state": "A 2026 risk review found adversarial vulnerabilities like prompt injection endemic to the LLM architectural foundation. Defenses help marginally; none are robust.",
+  "sources": [
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    },
+    {
+      "title": "AIAlignment - llm-wiki-agent",
+      "url": "https://github.com/wxj-1019/llm-wiki-agent/blob/HEAD/wiki/concepts/AIAlignment.md"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 124,
+  "domain": "cosmology_multiverse",
+  "title": "Time Variation of Fundamental Constants",
+  "bottleneck": "Quasar absorption spectra have yielded disputed claims that the fine-structure constant varied across cosmic time and space (a spatial dipole). Laboratory atomic clocks bound present-day drift exquisitely, but the astrophysical claims persist at the edge of systematics, and no theory robustly predicts the observed pattern. A confirmed spatial dipole in alpha would violate the Einstein equivalence principle and point to new scalar fields.",
+  "why_it_blocks": "Confirmed variation would overturn the assumption of immutable laws underlying all of cosmology. A varying constant would also undermine the distance ladder and stellar models that assume fixed microphysics.",
+  "current_state": "ESPRESSO and ELT-class spectrographs aim for decisive measurements; current results remain contested. The debate hinges on subtle wavelength calibration systematics in high-resolution spectrographs.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

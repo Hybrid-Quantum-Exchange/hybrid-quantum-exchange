@@ -1,0 +1,18 @@
+{
+  "id": 325,
+  "domain": "artificial_intelligence",
+  "title": "Formal verification of neural network behavior",
+  "bottleneck": "Formal verification — mathematical proof that a system satisfies a specification — works for small networks but faces exponential blowup at frontier scale; verifying even modest properties of a billion-parameter model is computationally infeasible. Neural networks are also the wrong shape for verification: their behavior is defined by millions of uninterpretable weights, not logic amenable to proof. The gap between verification theory and deployed models is enormous.",
+  "why_it_blocks": "High-assurance domains like aviation, medicine, and critical infrastructure require guarantees, not test scores. Without verification, AI stays out of the settings where reliability matters most.",
+  "current_state": "Verification tools handle networks with thousands of neurons. Frontier models have trillions of parameters — verification is not on a credible scaling path.",
+  "sources": [
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    },
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    }
+  ]
+}

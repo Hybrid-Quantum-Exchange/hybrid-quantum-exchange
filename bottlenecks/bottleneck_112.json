@@ -1,0 +1,18 @@
+{
+  "id": 112,
+  "domain": "cosmology_multiverse",
+  "title": "Reheating Physics After Inflation",
+  "bottleneck": "The epoch connecting inflation's end to the hot Big Bang — reheating — is almost entirely unconstrained: its temperature could be anywhere from MeV to 10^15 GeV, and its dynamics (parametric resonance, inflaton couplings) are model-dependent. Reheating uncertainties propagate into predictions for N_eff, dark matter production, and gravitational-wave backgrounds. If reheating is prolonged, it alters the mapping between CMB scales and inflationary e-folds, shifting inferred model parameters.",
+  "why_it_blocks": "Every inflationary prediction carries a hidden reheating asterisk, limiting how precisely cosmology can test the early universe.",
+  "current_state": "Only indirect bounds exist (BBN requires reheating above ~MeV); no probe of the reheating era is currently feasible. Constraints from the effective number of relativistic species and primordial black hole bounds provide only weak, indirect limits.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "The Measure Problem in Eternal Inflation (arXiv:1801.05016)",
+      "url": "https://arxiv.org/pdf/1801.05016"
+    }
+  ]
+}

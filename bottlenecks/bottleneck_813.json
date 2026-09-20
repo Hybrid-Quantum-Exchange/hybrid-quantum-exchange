@@ -1,0 +1,18 @@
+{
+  "id": 813,
+  "domain": "climate_environment",
+  "title": "Kelp forest recovery from urchin barrens",
+  "bottleneck": "Marine heatwaves and predator loss have flipped vast kelp forests into urchin barrens — grazed wastelands that persist for decades because urchins survive starvation and prevent kelp recruitment. Removing urchins at scale is labor-intensive and the urchin fishery economics rarely work; reseeding kelp fails when barrens persist. Whether lost forests can recover under continued warming, or the shift is permanent, is unknown.",
+  "why_it_blocks": "Kelp forests rival tropical forests in productivity and support major fisheries; their collapse removes coastal protection and carbon cycling along temperate shores. The barren state may be an alternate stable state — effectively irreversible without intervention nobody knows how to do at scale.",
+  "current_state": "Urchin culling programs and kelp reseeding show local successes, and sea otter recovery demonstrates predator restoration works where it happens. But heatwave-driven collapses from California to Tasmania keep outpacing recovery efforts.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Without tackling climate change, coral restoration efforts are insufficient",
+      "url": "https://www.earth.com/climate/without-tackling-climate-change-coral-restoration-efforts-are-insufficient/"
+    }
+  ]
+}

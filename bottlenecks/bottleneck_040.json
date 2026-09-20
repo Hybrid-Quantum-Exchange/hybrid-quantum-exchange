@@ -1,0 +1,14 @@
+{
+  "id": 40,
+  "domain": "fundamental_physics",
+  "title": "Sterile neutrinos and the reactor antineutrino anomaly",
+  "bottleneck": "Reactor experiments measured about 6 percent fewer antineutrinos than flux calculations predicted, hinting at oscillation into a sterile fourth neutrino, but refined flux models and new short-baseline measurements have weakened the case without fully explaining the deficit. The anomaly sits in limbo between new physics and nuclear-physics systematics.",
+  "why_it_blocks": "A confirmed sterile neutrino would be the first new fundamental fermion in decades and would reshape neutrino cosmology; leaving the anomaly unresolved contaminates precision oscillation measurements that assume only three flavors.",
+  "current_state": "STEREO, PROSPECT, and DANSS find no oscillation signal, favoring revised flux predictions, but the original deficit and the gallium anomaly keep a weakened sterile hypothesis alive. The gallium anomaly from radioactive-source calibrations keeps a separate sterile hint alive even as the reactor evidence fades.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

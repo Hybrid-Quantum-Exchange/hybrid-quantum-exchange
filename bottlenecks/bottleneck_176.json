@@ -1,0 +1,18 @@
+{
+  "id": 176,
+  "domain": "energy",
+  "title": "HALEU fuel supply for advanced reactors",
+  "bottleneck": "Most advanced reactor designs need high-assay low-enriched uranium, HALEU at 5 to 20 percent U-235, yet no commercial HALEU supply exists. The only significant production is in Russia, and Western enrichment capacity is years from operation. The US has funded demonstration-scale enrichment, but output is measured in hundreds of kilograms against future demand of tonnes per reactor per year. Reactor startups cannot order fuel that does not exist.",
+  "why_it_blocks": "HALEU is a single-point failure for the entire advanced reactor pipeline. Dozens of designs, billions in investment, and national deployment timelines all assume a fuel supply chain that has not been built.",
+  "current_state": "The US DOE is standing up HALEU production and funding private enrichers, with the IRA investing 700 million dollars in a domestic supply chain. Commercial-scale Western HALEU remains several years away.",
+  "sources": [
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    },
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    }
+  ]
+}

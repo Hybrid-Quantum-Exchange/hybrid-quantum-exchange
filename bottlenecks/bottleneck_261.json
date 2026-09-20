@@ -1,0 +1,18 @@
+{
+  "id": 261,
+  "domain": "compute_semiconductors",
+  "title": "Chip-scale power delivery for kilowatt packages",
+  "bottleneck": "AI packages now exceed a kilowatt, demanding enormous current at ~1V with tight regulation; resistive losses in delivery networks waste power as heat before it reaches transistors. Vertical power delivery, on-package voltage regulators, and high-current connectors add cost and complexity, and transient response to bursty AI workloads causes voltage droop. Power delivery, not logic, increasingly sets package limits.",
+  "why_it_blocks": "Every watt lost in delivery is a watt stolen from compute and added to cooling load; at kilowatt scale, delivery inefficiency directly caps achievable AI throughput per rack. Data-center power provisioning becomes the binding constraint on AI scaling.",
+  "current_state": "Backside power delivery, integrated voltage regulators, and 48V-to-point-of-load architectures are rolling out in flagship products. Delivering clean multi-kiloamp power at sub-1V with high efficiency remains an active engineering frontier.",
+  "sources": [
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    },
+    {
+      "title": "Patsnap: Chiplet thermal management",
+      "url": "https://eureka.patsnap.com/report-analysis-of-chiplet-integration-thermal-management-for-semiconductors"
+    }
+  ]
+}

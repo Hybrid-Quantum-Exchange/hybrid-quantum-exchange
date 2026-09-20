@@ -1,0 +1,14 @@
+{
+  "id": 400,
+  "domain": "medicine_cures",
+  "title": "Biofilm infections on medical implants",
+  "bottleneck": "Bacteria on prosthetic joints, heart valves, and catheters form biofilms, structured communities encased in protective matrix that are up to 1,000-fold more antibiotic-tolerant than free-floating cells and evade immune clearance. Cure usually requires surgical removal of the device.",
+  "why_it_blocks": "Millions of implants are placed yearly; biofilm infection turns a life-improving device into a nidus of untreatable infection, often requiring morbid revision surgery.",
+  "current_state": "Anti-biofilm coatings, dispersal agents, and phage combinations are in research, but no therapy reliably eradicates established biofilm without device removal. Prevention through better implant materials and perioperative protocols helps, but cannot eliminate risk. A therapy that eradicates biofilm without removing the device would spare patients major repeat surgeries, prolonged intravenous antibiotics, and lasting disability.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    }
+  ]
+}

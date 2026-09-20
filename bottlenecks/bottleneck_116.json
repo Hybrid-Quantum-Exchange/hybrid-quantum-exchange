@@ -1,0 +1,18 @@
+{
+  "id": 116,
+  "domain": "cosmology_multiverse",
+  "title": "Cosmic Topology: The Shape of Space",
+  "bottleneck": "General relativity fixes local curvature but not global topology; the universe could be finite with a non-trivial topology, producing matched circle pairs in the CMB. Searches in WMAP and Planck data found nothing, but only topologies smaller than the observable universe are testable, and larger ones are unconstrained in principle. A finite universe would have profound implications for inflation, which typically predicts superhorizon flatness, not compactness.",
+  "why_it_blocks": "A detected topology would reveal boundary conditions of the universe that no dynamical theory currently predicts. Topology is one of the few cosmic properties that dynamics alone can never explain, since Einstein's equations are local.",
+  "current_state": "Planck ruled out topologies with fundamental domains below the last-scattering surface; larger topologies remain permanently beyond reach. Searches continue in Planck polarization data, though the simplest detectable topologies are already excluded.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

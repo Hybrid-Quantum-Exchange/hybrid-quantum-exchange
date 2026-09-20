@@ -1,0 +1,18 @@
+{
+  "id": 709,
+  "domain": "space",
+  "title": "Helium-3 extraction economics",
+  "bottleneck": "Lunar regolith holds helium-3 at parts-per-billion levels from solar-wind implantation; recovering kilograms requires heating millions of tons of regolith to about 700 C to release trapped gases, then separating He-3 from far more abundant He-4. The energy cost is staggering, the machinery would be the largest industrial operation ever attempted off Earth, and there is no fusion reactor to buy the product. It is a supply chain for a demand that does not exist, each side waiting for the other.",
+  "why_it_blocks": "Helium-3 is routinely cited as the Moon's killer resource; if extraction is uneconomic, the lunar mining business case rests on water alone.",
+  "current_state": "No extraction has ever been attempted; estimates remain paper studies. All serious ISRU planning targets water and oxygen.",
+  "sources": [
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    },
+    {
+      "title": "Lunar soil shows promise for in-situ oxygen and fuel production (Moon Daily)",
+      "url": "https://www.moondaily.com/reports/Lunar_soil_shows_promise_for_in_situ_oxygen_and_fuel_production_999.html"
+    }
+  ]
+}

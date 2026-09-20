@@ -1,0 +1,18 @@
+{
+  "id": 307,
+  "domain": "artificial_intelligence",
+  "title": "Sample efficiency of reinforcement learning",
+  "bottleneck": "RL agents still need orders of magnitude more experience than humans to learn a task — millions of episodes for what a person grasps in minutes. RLHF inherits this: aligning a model to nuanced human preferences requires enormous volumes of human feedback, and the feedback itself is noisy and inconsistent. No method achieves human-like few-shot skill acquisition in complex environments. Preference data also suffers from labeler disagreement and sycophancy, compounding the sample-cost problem.",
+  "why_it_blocks": "Every new capability costs a fortune in environment interactions or human labeler hours, making RL-based improvement slow and expensive to scale. Expensive feedback loops slow every capability iteration, not just alignment efforts.",
+  "current_state": "Offline RL, model-based RL, and preference learning reduce but don't eliminate the gap. Human sample efficiency remains unmatched.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "AI Alignment: 9 Problems Researchers Still Haven't Solved",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/ai-alignment-9-problems-researchers-still-havent-solved"
+    }
+  ]
+}

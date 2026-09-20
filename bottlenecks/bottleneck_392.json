@@ -1,0 +1,18 @@
+{
+  "id": 392,
+  "domain": "medicine_cures",
+  "title": "Carbapenem-resistant Gram-negative infections",
+  "bottleneck": "Carbapenem-resistant Acinetobacter baumannii and Enterobacterales top WHO's critical-priority pathogen list; they cause bloodstream and ventilator-associated infections with mortality often exceeding 40%, and treatment options are limited to toxic or partially effective last-resort agents.",
+  "why_it_blocks": "Gram-negative bacteria's double membrane makes drug discovery intrinsically hard; resistance to last-resort carbapenems removes the final safety net for common hospital infections.",
+  "current_state": "New beta-lactam and beta-lactamase inhibitor combinations have helped, but only a handful of pipeline agents target critical Gram-negatives, and resistance to each new agent emerges within years of introduction. Infection-control measures in hospitals can slow spread but cannot substitute for effective drugs. Each new agent buys only a few years before resistance emerges, making the innovation treadmill brutally short, and the pipeline behind them is nearly empty.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    },
+    {
+      "title": "Reports identify weakness in global pipeline for new antibiotics, diagnostics",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/reports-identify-weakness-global-pipeline-new-antibiotics-diagnostics"
+    }
+  ]
+}

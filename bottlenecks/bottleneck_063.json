@@ -1,0 +1,14 @@
+{
+  "id": 63,
+  "domain": "fundamental_physics",
+  "title": "Dark energy: cosmological constant or dynamical field",
+  "bottleneck": "Cosmic acceleration is consistent with a pure cosmological constant, but also with dynamical quintessence fields, modified gravity, or observational systematics, and current data cannot decisively distinguish them. The equation-of-state parameter w sits near minus one with errors too large to reveal evolution.",
+  "why_it_blocks": "The fate of the universe, Big Freeze versus Big Rip versus something stranger, hinges on what dark energy is; without distinguishing the options, cosmology cannot predict its own future.",
+  "current_state": "DESI's baryon acoustic oscillation measurements hint at evolving dark energy at modest significance, but the signal is contested and a cosmological constant remains consistent with the data. If DESI's hint of evolving dark energy holds up, it would rule out a pure cosmological constant and demand new fundamental physics.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

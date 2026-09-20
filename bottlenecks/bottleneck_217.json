@@ -1,0 +1,18 @@
+{
+  "id": 217,
+  "domain": "energy",
+  "title": "Transmission build pace versus need",
+  "bottleneck": "The US needs an estimated 5,000 to 7,000 GW-miles of new transmission by 2035 but builds roughly 1,000 GW-miles per decade, an order of magnitude short. Major lines take 7 to 12 years from planning to energization, and investment has not kept pace with renewable interconnection demand. Network upgrade costs in constrained regions have risen tenfold since 2018.",
+  "why_it_blocks": "Generation without transmission is stranded. The pace gap means renewable-rich regions cannot deliver power to load centers, forcing curtailment and fossil backup regardless of how cheap solar and wind become. Cost allocation fights between states that host lines and states that use the power add years of litigation to major projects.",
+  "current_state": "FERC Order 1920 mandates long-term regional transmission planning. Actual line construction remains far below modeled needs.",
+  "sources": [
+    {
+      "title": "Interconnection Queue Crisis and Transmission Constraints analysis",
+      "url": "https://github.com/himanshu-cloudsufi/stdf-agents/blob/HEAD/archive/chat_exports/jagannath_srikanth/2025-12-15_13-20-01_386108.md"
+    },
+    {
+      "title": "Green Energy Gridlock: Transmission and PPA Delays Slow Renewables",
+      "url": "https://www.datainsightsmarket.com/news/article/green-energy-gridlock-transmission-ppa-delays-slow-renewables-19750"
+    }
+  ]
+}

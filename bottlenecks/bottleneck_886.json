@@ -1,0 +1,18 @@
+{
+  "id": 886,
+  "domain": "xr_interface",
+  "title": "Video passthrough latency, fidelity, and distortion in AR headsets",
+  "bottleneck": "Video see-through headsets reconstruct the world from cameras, but the pipeline adds latency, geometric distortion, limited dynamic range, and resolution loss versus natural vision. Even tens of milliseconds of photon-to-photon delay and subtle warping break hand-eye coordination and cause discomfort, and no shipping headset matches the naked eye.",
+  "why_it_blocks": "Passthrough quality is the ceiling on mixed reality's core promise: blending virtual content with the real world. Until the reconstruction is perceptually transparent, professional and all-day use cases stay out of reach, and the device remains a compromise rather than a replacement for clear optics.",
+  "current_state": "Flagship headsets keep improving sensor arrays and reprojection algorithms, but teardowns document persistent artifacts: motion blur, low-light noise, and distortion at frame edges. The gap between passthrough and reality is narrowing incrementally, not closing.",
+  "sources": [
+    {
+      "title": "Vision Pro teardown: passthrough versus reality",
+      "url": "https://www.roadtovr.com/apple-vision-pro-teardown-passthrough-vs-reality/"
+    },
+    {
+      "title": "Quest 3 passthrough artifacts and limitations",
+      "url": "https://www.roadtovr.com/meta-quest-3-passthrough-artifacts-limitations-mr/"
+    }
+  ]
+}

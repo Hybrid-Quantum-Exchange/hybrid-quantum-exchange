@@ -1,0 +1,18 @@
+{
+  "id": 133,
+  "domain": "cosmology_multiverse",
+  "title": "Dark Energy Clustering and Sound Speed",
+  "bottleneck": "Dynamical dark energy could cluster on large scales if its sound speed differs from light speed, altering structure growth — but current data cannot distinguish a smooth cosmological constant from a clustering scalar field. The sound speed is effectively a free function, unconstrained by any observation. A detection of dark energy clustering would be as revolutionary as the acceleration discovery itself, implying new gravitational physics.",
+  "why_it_blocks": "Clustering dark energy would blur the line between dark energy and modified gravity beyond recovery.",
+  "current_state": "No planned survey has a clear path to measuring dark energy sound speed; it remains a theoretical parameter without an experimental program. No funded experiment is designed to measure it; the parameter remains in the realm of theory.",
+  "sources": [
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

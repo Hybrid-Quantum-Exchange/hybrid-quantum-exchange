@@ -1,0 +1,18 @@
+{
+  "id": 348,
+  "domain": "artificial_intelligence",
+  "title": "Interconnect and communication latency in training",
+  "bottleneck": "As training scales across tens of thousands of GPUs, communication — not computation — dominates: gradient synchronization and expert-parallel traffic saturate even the fastest interconnects, leaving expensive GPUs idle waiting for data. Scaling laws assume perfect parallelism, but real clusters achieve a fraction of theoretical FLOPS, and each doubling of cluster size buys less than double the effective compute.",
+  "why_it_blocks": "The largest training runs are increasingly interconnect-limited, meaning money spent on GPUs is partly wasted on waiting — a tax on the entire scaling strategy.",
+  "current_state": "New interconnect generations and parallelism strategies push the ceiling; hardware analyses flag interconnect latency as a first-order bottleneck alongside memory. New interconnect generations and parallelism strategies push the ceiling, but hardware analyses flag communication latency as a first-order bottleneck.",
+  "sources": [
+    {
+      "title": "AI inference hardware memo: Challenges and Research Directions for LLM Inference Hardware",
+      "url": "https://github.com/hczhu/stock-research/blob/HEAD/memos/2026-06-07-ai-inference-hardware-semi-investment-memo.md"
+    },
+    {
+      "title": "LLM inference Bottlenecks: Memory, CPU and I/O",
+      "url": "https://chierhu.medium.com/bottlenecks-memory-cpu-and-i-o-8463812ace94"
+    }
+  ]
+}

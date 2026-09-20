@@ -1,0 +1,18 @@
+{
+  "id": 763,
+  "domain": "materials",
+  "title": "Programmable mechanical metamaterial reconfiguration",
+  "bottleneck": "Mechanical metamaterials with tunable stiffness or shape exist as lab demonstrators using embedded actuators, shape-memory elements, or pneumatic networks, but reconfiguration is slow, energy-intensive, and unreliable over many cycles. No architecture yet switches between meaningfully different mechanical states — say, stiff load-bearing to soft energy-absorbing — quickly, reversibly, and at structural scale. Control complexity grows with every added degree of freedom.",
+  "why_it_blocks": "Programmable matter would let one structure serve as many: adaptive armor, morphing wings, reconfigurable implants. Without fast, reliable reconfiguration, these remain single-state curiosities rather than the transformative platform the field promises.",
+  "current_state": "4D-printed and magneto-active metamaterials show multi-state behavior in small samples, but cycle fatigue and actuation energy remain poor. The gap between a bending lab sample and a load-bearing adaptive structure is still wide open.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    }
+  ]
+}

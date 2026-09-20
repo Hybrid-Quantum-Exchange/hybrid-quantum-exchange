@@ -1,0 +1,14 @@
+{
+  "id": 55,
+  "domain": "fundamental_physics",
+  "title": "Early thermalization in heavy-ion collisions",
+  "bottleneck": "Quark-gluon plasma created in heavy-ion collisions appears to thermalize and flow as a near-perfect fluid within about one femtometer over the speed of light, far faster than perturbative scattering estimates allow. The mechanism driving this ultrafast equilibration of a strongly coupled, far-from-equilibrium system is not understood.",
+  "why_it_blocks": "Heavy-ion collisions recreate the microsecond-old universe; if we cannot explain how the plasma thermalizes, our picture of the earliest moments after the Big Bang is incomplete.",
+  "current_state": "Holographic models, plasma instabilities, and strong-coupling dynamics each explain aspects of the fast thermalization, but no single framework derives the observed timescale from QCD first principles. Weak-coupling plasma instabilities can isotropize the system quickly, but whether they fully thermalize it on the observed timescale is debated. Holographic models of strongly coupled plasmas naturally give fast thermalization, though their connection to real QCD remains qualitative.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

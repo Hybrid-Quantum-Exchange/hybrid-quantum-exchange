@@ -1,0 +1,18 @@
+{
+  "id": 703,
+  "domain": "space",
+  "title": "Hydrogen reduction of ilmenite for lunar oxygen",
+  "bottleneck": "Reacting hydrogen with ilmenite — iron-titanium oxide common in lunar mare soils — releases water, which is electrolyzed into oxygen while the hydrogen is recycled: a closed loop needing only startup hydrogen. But the reaction needs about 1,000 C, ilmenite must first be concentrated from bulk regolith, the hydrogen recycle loop leaks, and reactor materials must survive years of hot hydrogen. Yields per ton of regolith are modest, so throughput must be huge.",
+  "why_it_blocks": "This is the leading 'dry' oxygen process that does not need polar ice; if it cannot scale, oxygen production is geographically locked to the poles.",
+  "current_state": "Lab and pilot reactors demonstrate the chemistry; industry and agency studies continue. No lunar demonstration; beneficiation and long-duration operation remain unsolved.",
+  "sources": [
+    {
+      "title": "Lunar Soil Yields Oxygen and Water: Breakthrough in Space Resource Utilization",
+      "url": "https://www.archyde.com/lunar-soil-yields-oxygen-and-water-breakthrough-in-space-resource-utilization/"
+    },
+    {
+      "title": "Lunar soil shows promise for in-situ oxygen and fuel production (Moon Daily)",
+      "url": "https://www.moondaily.com/reports/Lunar_soil_shows_promise_for_in_situ_oxygen_and_fuel_production_999.html"
+    }
+  ]
+}

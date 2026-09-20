@@ -1,0 +1,18 @@
+{
+  "id": 105,
+  "domain": "cosmology_multiverse",
+  "title": "The S8 Weak-Lensing Tension",
+  "bottleneck": "Weak-lensing surveys (KiDS, DES, HSC) infer slightly less matter clustering (S8) than Planck CMB extrapolations predict — a 2-3 sigma discrepancy in structure growth. Baryonic feedback modeling, intrinsic alignments, and photometric redshift errors are all plausible culprits, and analyses disagree on whether the tension survives improved modeling. Baryonic feedback from active galactic nuclei can suppress small-scale power in ways degenerate with lower S8, and hydrodynamical simulations disagree on the magnitude.",
+  "why_it_blocks": "A real S8 tension would signal modified gravity or decaying dark matter; a systematic one would expose shaky foundations under precision lensing cosmology.",
+  "current_state": "DES Year 3 and KiDS-1000 analyses reduced but did not erase the tension; Euclid's first lensing data will be the decisive test. Cross-correlation of lensing with thermal Sunyaev-Zel'dovich data aims to pin down feedback empirically.",
+  "sources": [
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

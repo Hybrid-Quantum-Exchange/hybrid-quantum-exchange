@@ -1,0 +1,18 @@
+{
+  "id": 754,
+  "domain": "materials",
+  "title": "Fast-charging lithium plating on graphite",
+  "bottleneck": "Charging graphite anodes fast drives lithium to plate as metal on the surface instead of intercalating, especially in the cold, and plated lithium grows dendrites and becomes dead capacity. The plating threshold depends on local state of charge, temperature, and electrode heterogeneity in ways battery management systems cannot fully observe or predict. No anode material yet combines graphite's cost and cycle life with true 10-minute-charge tolerance.",
+  "why_it_blocks": "Slow charging is a leading reason consumers hesitate on EVs, and fleet operators lose money to dwell time. Plating-limited charging keeps the 10-minute charge — parity with refueling — out of reach for affordable cells.",
+  "current_state": "Laser-patterned electrodes, advanced charging protocols, and silicon blends have trimmed charge times toward 15-20 minutes in premium cells. But physics-based, real-time plating detection and prevention in mass-market packs remains unsolved.",
+  "sources": [
+    {
+      "title": "Why solid-state batteries short circuit from lithium dendrites",
+      "url": "https://interestingengineering.com/energy/solid-state-batteries-short-circuit-lithium-study"
+    },
+    {
+      "title": "Why Solid-State Batteries Fail: MIT Study",
+      "url": "https://casrai.org/news/solid-state-battery-dendrite-failure-grain-boundaries"
+    }
+  ]
+}

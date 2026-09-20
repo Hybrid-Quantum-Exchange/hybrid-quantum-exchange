@@ -1,0 +1,18 @@
+{
+  "id": 849,
+  "domain": "climate_environment",
+  "title": "Green infrastructure cooling performance standards",
+  "bottleneck": "Cities are planting trees and building green roofs to fight heat, but there are no performance standards: cooling depends on species, irrigation, soil, and placement in ways no code captures, and vegetation that is not maintained dies precisely during the heatwaves it was planted for. Developers get credit for green features regardless of whether they cool anyone. Without measurable standards, green infrastructure is decoration rather than adaptation.",
+  "why_it_blocks": "Urban heat kills more people than any other weather hazard, and cities keep approving developments whose cooling claims are unverifiable. The standards gap means money flows to greenwashing instead of effective cooling.",
+  "current_state": "Research is quantifying species-level cooling performance and irrigation needs, and some cities now require maintenance plans. But enforceable, outcome-based cooling standards for urban greening do not exist anywhere.",
+  "sources": [
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    },
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse"
+    }
+  ]
+}

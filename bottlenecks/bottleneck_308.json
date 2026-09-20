@@ -1,0 +1,18 @@
+{
+  "id": 308,
+  "domain": "artificial_intelligence",
+  "title": "Continual learning without catastrophic forgetting",
+  "bottleneck": "Neural networks trained on new data overwrite old knowledge — catastrophic forgetting — which is why models are retrained from scratch instead of updated incrementally. Self-improving agents face a worse version: as they learn new skills they can overwrite safety-critical behaviors. No method matches the human ability to learn continuously while preserving prior competence. Retraining from scratch wastes enormous compute and discards exactly the behaviors engineers want to preserve.",
+  "why_it_blocks": "A world that changes daily needs models that update daily. Full retraining is too slow and expensive, so deployed models go stale between releases.",
+  "current_state": "Elastic weight consolidation, rehearsal, and adapter methods mitigate forgetting in narrow settings. General continual learning at frontier scale is unsolved. At frontier scale the problem is worse, since no rehearsal buffer can hold enough of the original distribution.",
+  "sources": [
+    {
+      "title": "AIAlignment - llm-wiki-agent",
+      "url": "https://github.com/wxj-1019/llm-wiki-agent/blob/HEAD/wiki/concepts/AIAlignment.md"
+    },
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 388,
+  "domain": "medicine_cures",
+  "title": "Neurodegeneration clinical trial design",
+  "bottleneck": "Neurodegeneration trials run for 18 months or longer, cost hundreds of millions of dollars, and rely on slow-moving cognitive endpoints that are noisy and insensitive to early change. Failed trials often cannot distinguish a bad drug from a bad trial: wrong stage, wrong dose, wrong endpoint, or wrong patients.",
+  "why_it_blocks": "Each failed Phase 3 trial burns years and capital; with a near-total failure rate in Alzheimer's, the trial paradigm itself is part of the bottleneck.",
+  "current_state": "The field is moving toward biomarker-enriched enrollment, blood-based endpoints, and platform trials. The Cochrane review's call for alternative modalities reflects a broader reckoning with trial design, not just targets. Adaptive and platform trial designs borrowed from oncology could accelerate learning, but they require biomarkers the field is still validating.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    },
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

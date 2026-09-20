@@ -1,0 +1,18 @@
+{
+  "id": 908,
+  "domain": "xr_interface",
+  "title": "Interoperable XR content standards gaps",
+  "bottleneck": "OpenXR standardizes device access, but content portability lags: avatars, spatial anchors, physics behaviors, and commerce don't move between platforms. Competing ecosystems (Meta, Apple, others) fragment the metaverse into walled gardens, and webXR is underpowered. Developers must rebuild for each platform.",
+  "why_it_blocks": "Fragmentation raises costs, shrinks audiences, and stalls the network effects XR needs. Without interoperability, there's no metaverse, only competing apps.",
+  "current_state": "OpenXR adoption is broad for runtimes, and glTF helps 3D assets, but higher-level standards (avatars, identity, economies) remain contested or absent. Each platform locks avatars, anchors, and economies inside its walls, so users cannot carry identity or content between worlds. Developers must rebuild avatars, economies, and social graphs per platform, multiplying costs and fragmenting audiences.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "AndroidHeadlines: Haptic feedback tech",
+      "url": "https://www.androidheadlines.com/2026/06/haptic-feedback-technology-and-the-future-of-immersive-digital-interaction.html"
+    }
+  ]
+}

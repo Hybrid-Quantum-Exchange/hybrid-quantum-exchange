@@ -1,0 +1,18 @@
+{
+  "id": 518,
+  "domain": "health_longevity",
+  "title": "Durability of rapid-acting PTSD interventions",
+  "bottleneck": "Ketamine reduces PTSD symptoms within hours and MDMA-assisted therapy shows large effects, but ketamine's benefits fade within days without repeated dosing, and MDMA's long-term durability, optimal dosing, and dependence risks are unestablished. The field has rapid onset without a maintenance science.",
+  "why_it_blocks": "A treatment that works for a week is a rescue, not a recovery. Without durability data, rapid-acting therapies cannot displace chronic management or justify their cost and risk.",
+  "current_state": "Ketamine is used off-label for PTSD with empirical repeat-dosing schedules. MDMA-assisted therapy trials show months-long follow-up benefits, but confirmatory and long-term safety data are pending. Maintenance protocols combining ketamine with psychotherapy or digital aftercare are being tested, but payers rarely cover the repeated sessions that durability seems to require.",
+  "sources": [
+    {
+      "title": "Investigational drugs in PTSD (PubMed abstract, Neuropsychopharmacology review)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41792251/"
+    },
+    {
+      "title": "Predicting and Managing Treatment Non-Response in PTSD (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7748158/"
+    }
+  ]
+}

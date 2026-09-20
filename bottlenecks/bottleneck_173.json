@@ -1,0 +1,18 @@
+{
+  "id": 173,
+  "domain": "energy",
+  "title": "First-wall replacement economics",
+  "bottleneck": "Even with the best materials, fusion first walls and blankets will need periodic replacement due to neutron damage, and each replacement means months of shutdown, remote-handling operations, and disposal of activated components. Economic models assume replacement every 5 to 10 years, but if damage forces 2-year cycles, the levelized cost of fusion electricity roughly doubles. Activated waste volumes from frequent replacement also strain disposal pathways. Remote replacement operations themselves take months, during which the plant earns no revenue while maintenance crews and hot-cell facilities bill continuously.",
+  "why_it_blocks": "Wall lifetime is the single largest uncertainty in fusion cost projections. Plasma physics gets the headlines, but replacement economics determine whether fusion power is affordable.",
+  "current_state": "Lifetime estimates rest on unvalidated extrapolations from fission-reactor and ion-beam data. Real replacement intervals will not be known until D-T power plants operate.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    }
+  ]
+}

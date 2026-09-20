@@ -1,0 +1,14 @@
+{
+  "id": 429,
+  "domain": "medicine_cures",
+  "title": "Prion disease therapeutics",
+  "bottleneck": "Prion diseases, including Creutzfeldt-Jakob disease and fatal familial insomnia, progress from diagnosis to death in months, driven by self-propagating misfolded prion protein. No therapy slows progression; antisense approaches that lower prion protein are only now entering human trials.",
+  "why_it_blocks": "Prion diseases are uniformly fatal and the extreme case of the protein-misfolding problem underlying Alzheimer's and Parkinson's; a prion therapy would validate anti-spread strategies broadly.",
+  "current_state": "Prion-protein-lowering antisense oligonucleotides are in early clinical testing. Diagnosis usually comes too late for intervention, compounding the challenge, and the amyloid experience shows clearing aggregates may not suffice. Because prion diseases progress so rapidly, trials face the brutal challenge of intervening in time. Success would not only save patients but validate the broader hypothesis that halting protein-spread can treat neurodegeneration.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    }
+  ]
+}

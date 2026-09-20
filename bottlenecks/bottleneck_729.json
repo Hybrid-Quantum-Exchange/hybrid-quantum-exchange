@@ -1,0 +1,18 @@
+{
+  "id": 729,
+  "domain": "materials",
+  "title": "Grain-boundary weak links in REBCO tape conductors",
+  "bottleneck": "Rare-earth barium copper oxide coated conductors carry enormous current in their crystalline grains, but grain boundaries between misaligned crystals act as weak links that throttle supercurrent. Industrial REBCO tape relies on painstaking biaxial texture — aligning grains within a few degrees over kilometer lengths — to suppress this effect, and even small misalignments create resistive bottlenecks. Improving texture cheaply at scale remains unsolved.",
+  "why_it_blocks": "REBCO tape is the leading candidate for fusion magnets, high-field MRI, and wind turbine generators. Weak-link losses cap the usable current density, forcing wider, costlier tape and oversized magnets that undermine the economics of these machines.",
+  "current_state": "Manufacturers have commercialized kilometer-scale REBCO tape with strong texture, but yields and cost remain the constraint: tape runs roughly $100-200 per kiloamp-meter. Research continues into artificial pinning centers and cheaper deposition, with the 2026 PNAS agenda flagging conductor performance as a key practical target.",
+  "sources": [
+    {
+      "title": "Room-temperature superconductor",
+      "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor"
+    },
+    {
+      "title": "How Close Are We to Superconductors That Are Actually Practical?",
+      "url": "https://gizmodo.com/?p=2000814055"
+    }
+  ]
+}

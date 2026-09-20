@@ -1,0 +1,18 @@
+{
+  "id": 698,
+  "domain": "space",
+  "title": "Nitrogen scarcity for habitat atmospheres and farming",
+  "bottleneck": "Earth-like habitat air is 78 percent nitrogen — an inert buffer gas that also feeds agriculture — but the Moon has almost no nitrogen, and Mars' atmosphere, while 2.7 percent nitrogen, is vanishingly thin, requiring processing of enormous gas volumes. Without local nitrogen, every habitat must import its entire atmospheric buffer and every farm its fertilizer nitrogen from Earth. Extracting nitrogen from regolith or thin air at base scale, at acceptable power cost, is unsolved.",
+  "why_it_blocks": "Nitrogen is the forgotten consumable: it is most of the air mass and a non-negotiable fertilizer input, yet ISRU roadmaps focus on water and oxygen, leaving the nitrogen gap unaddressed.",
+  "current_state": "No nitrogen-extraction ISRU process has been demonstrated; Mars atmosphere processing studies target CO2, not nitrogen separation at scale. All current habitats import nitrogen.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "NASA lunar architecture resources (Lunar and Planetary Institute)",
+      "url": "http://lpi.usra.edu/lunar/strategies/NASALunarArchitecture/nasa_resources.pdf"
+    }
+  ]
+}

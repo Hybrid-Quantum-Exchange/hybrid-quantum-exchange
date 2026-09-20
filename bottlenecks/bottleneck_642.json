@@ -1,0 +1,18 @@
+{
+  "id": 642,
+  "domain": "neuroscience",
+  "title": "Neural mechanisms and prediction of placebo and nocebo effects",
+  "bottleneck": "Placebo and nocebo effects can rival drugs in magnitude for pain, depression, and Parkinson's disease, yet their neural mechanisms remain fragmented across multiple neurotransmitter systems and distributed brain networks. Imaging findings are small and heterogeneous, and no reliable biomarker predicts who will respond.",
+  "why_it_blocks": "These effects are among the largest uncontrolled variables in medicine: they inflate clinical trial sizes, confound drug approvals, and represent a therapeutic mechanism that cannot be deliberately deployed. Understanding them could turn an experimental nuisance into a clinical tool.",
+  "current_state": "Systematic reviews continue to map the neurochemistry of expectancy and conditioning effects, with dopamine and opioid pathways implicated but no unified model. Predictive biomarkers remain elusive, and trial designs still treat placebo response as noise to be averaged away.",
+  "sources": [
+    {
+      "title": "Placebo and nocebo neural mechanisms",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9372488/"
+    },
+    {
+      "title": "Placebo effects neurobiology review",
+      "url": "http://pmc.ncbi.nlm.nih.gov/articles/PMC9789123/"
+    }
+  ]
+}

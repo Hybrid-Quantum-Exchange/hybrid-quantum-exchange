@@ -1,0 +1,14 @@
+{
+  "id": 363,
+  "domain": "medicine_cures",
+  "title": "Intratumor heterogeneity and biopsy sampling error",
+  "bottleneck": "A single tumor contains genetically and phenotypically diverse subclones, so a needle biopsy samples only a fraction of the disease and can miss the clone that will drive resistance or metastasis. Spatial and temporal heterogeneity means the tumor profiled at diagnosis may differ substantially from the tumor being treated months later.",
+  "why_it_blocks": "Precision oncology depends on knowing the tumor's actionable alterations; sampling error leads to mistargeted therapy and missed resistance mechanisms.",
+  "current_state": "Multi-region sequencing, liquid biopsies sampling circulating tumor DNA from all sites, and single-cell profiling are improving the picture, but clinical decisions still rest on limited samples. Tumor heterogeneity is cited as a core mechanism of targeted-therapy resistance in metastatic cancer. Single-cell and spatial profiling are beginning to reveal how subclones are organized within tumors, but translating that detail into bedside treatment decisions is still early.",
+  "sources": [
+    {
+      "title": "Advances in Drug Development for Metastatic Cancer",
+      "url": "https://www.numberanalytics.com/blog/advances-drug-development-metastatic-cancer"
+    }
+  ]
+}

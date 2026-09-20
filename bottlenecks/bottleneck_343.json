@@ -1,0 +1,18 @@
+{
+  "id": 343,
+  "domain": "artificial_intelligence",
+  "title": "Long-context attention's quadratic cost",
+  "bottleneck": "Standard attention scales quadratically with sequence length — doubling context quadruples compute — which makes million-token contexts astronomically expensive even before memory limits bite. Linear-attention alternatives exist but consistently underperform full attention on the hardest reasoning tasks, forcing a choice between affordable context and capable reasoning that nobody has resolved. This forces painful tradeoffs: shorter contexts, weaker models, or bills that scale superlinearly with every added token.",
+  "why_it_blocks": "The most valuable applications need both long context and strong reasoning; the quadratic tax makes that combination the most expensive workload in AI.",
+  "current_state": "Hybrid architectures and sparse attention narrow the gap; no linear alternative matches full attention on frontier reasoning benchmarks. KV-cache compression and eviction policies cut memory, but the underlying quadratic compute cost persists.",
+  "sources": [
+    {
+      "title": "LLM inference Bottlenecks: Memory, CPU and I/O",
+      "url": "https://chierhu.medium.com/bottlenecks-memory-cpu-and-i-o-8463812ace94"
+    },
+    {
+      "title": "Efficient Inference for Large Vision-Language Models: Bottlenecks, Techniques, and Prospects",
+      "url": "https://arxiv.org/pdf/2604.05546"
+    }
+  ]
+}

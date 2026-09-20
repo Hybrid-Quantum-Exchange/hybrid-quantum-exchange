@@ -1,0 +1,18 @@
+{
+  "id": 657,
+  "domain": "space",
+  "title": "HALEU fuel mass penalty in nuclear thermal rocket cores",
+  "bottleneck": "Modern NTP designs must use high-assay low-enriched uranium (HALEU) instead of the highly enriched uranium of the NERVA era, to satisfy non-proliferation rules. HALEU carries less fissile material per kilogram, so the reactor needs more fuel loaded to reach criticality, making the engine heavier and eroding the mass advantage NTP is supposed to deliver. Researchers are hunting for materials and core geometries that use fuel more efficiently, but no design has closed the performance gap to the old HEU cores.",
+  "why_it_blocks": "If the reactor grows too heavy, NTP's specific-impulse advantage is consumed by dry mass, and the Mars-trip-time savings that justify the program disappear.",
+  "current_state": "DRACO is designed around HALEU, with Lockheed Martin and BWXT iterating fuel and reactor designs. General Atomics announced encouraging fuel test results in 2025, but system-level mass and performance remain unvalidated in flight.",
+  "sources": [
+    {
+      "title": "Nuclear rockets could travel to Mars in half the time — but designing the reactors isn't easy (Space.com)",
+      "url": "https://www.space.com/nuclear-rockets-could-travel-to-mars-in-half-time-designing-power-reactors-not-easy?utm_term=06C12F4A-4C3E-4B0F-B54B-1AC0B0EFBBED&lrh=8f5e020b18adbea7b6e1717b33b2a2b943946ab0abca849b5c61867c301dd2e4&utm_campaign=58E4DE65-C57F-4CD3-9A5A-609994E2C5A9&utm_medium=email&utm_content=C4A56BE0-F6FF-4A99-93ED-843463C2C314&utm_source=SmartBrief"
+    },
+    {
+      "title": "NASA Bets on Nuclear Propulsion to Cut the Mars Trip in Half (WebProNews)",
+      "url": "https://www.webpronews.com/nasa-bets-on-nuclear-propulsion-to-cut-the-mars-trip-in-half-and-the-clock-is-ticking/"
+    }
+  ]
+}

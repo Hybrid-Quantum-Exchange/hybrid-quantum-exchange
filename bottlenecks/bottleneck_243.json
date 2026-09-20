@@ -1,0 +1,18 @@
+{
+  "id": 243,
+  "domain": "compute_semiconductors",
+  "title": "Thermal interface materials for extreme heat flux",
+  "bottleneck": "Heat must cross from silicon to heat spreaders through thermal interface materials (TIMs), but current TIMs (0.1-0.5 K·cm2/W) can't handle the 500 W/cm2 hotspots of advanced chiplet packages. Materials that are thermally excellent (solders, liquid metals) suffer pump-out, corrosion, or mechanical stress under thermal cycling, while compliant polymers insulate too well. No TIM simultaneously delivers high conductivity, compliance, and decades-long reliability.",
+  "why_it_blocks": "The TIM is the narrowest thermal choke point in the package; its resistance directly sets junction temperatures and throttling points. Without better TIMs, chiplet roadmaps must either underclock or adopt exotic cooling, both of which raise total cost of ownership.",
+  "current_state": "Liquid-metal, sintered-silver, and carbon-based TIMs show lab performance well above conventional greases, and some ship in high-end products. Long-term reliability data under server thermal cycling is still thin.",
+  "sources": [
+    {
+      "title": "Patsnap: Chiplet thermal management",
+      "url": "https://eureka.patsnap.com/report-analysis-of-chiplet-integration-thermal-management-for-semiconductors"
+    },
+    {
+      "title": "MDPI: 2.5D/3D chiplet thermal review",
+      "url": "https://www.mdpi.com/2673-4117/6/12/373"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 520,
+  "domain": "health_longevity",
+  "title": "Mental health specialist shortage and access delays",
+  "bottleneck": "Most mental health care happens in primary care, where complex or refractory cases exceed clinician expertise, while psychiatrists are scarce and concentrated in cities. Patients who fail first-line treatment face months-long waits for the specialists equipped to manage them, during which illness progresses.",
+  "why_it_blocks": "Effective treatments exist for many patients, but the delivery bottleneck means they arrive late or never. Access, not pharmacology, is the binding constraint for a large share of poor outcomes.",
+  "current_state": "Collaborative-care models embed psychiatry in primary care with modest success. Telepsychiatry expanded access geographically but not the absolute supply of expertise; waitlists remain long. The collaborative-care model, embedding psychiatric consultation in primary care, is the best-validated access solution, yet reimbursement rules still favor fragmented fee-for-service care.",
+  "sources": [
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    },
+    {
+      "title": "Untreatable Mental Illness: Challenges, Management, and Hope (NeuroLaunch)",
+      "url": "https://neurolaunch.com/untreatable-mental-illness/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 752,
+  "domain": "materials",
+  "title": "Battery black-mass recycling recovery rates",
+  "bottleneck": "Recycling spent batteries into battery-grade nickel, cobalt, and lithium remains inefficient: pyrometallurgy loses lithium to slag, hydrometallurgy is chemical- and water-intensive, and direct recycling that preserves cathode crystal structure works only on pristine, single-chemistry feedstocks. Mixed, degraded real-world packs defeat the cleanest processes, and economics still favor mining when metal prices dip.",
+  "why_it_blocks": "Without high-recovery recycling, the battery transition locks in ever-growing mining demand and its environmental toll. A circular supply chain is also the main hedge against the cobalt, nickel, and lithium price spikes that threaten EV affordability.",
+  "current_state": "Hydrometallurgical plants are scaling in China, Europe, and North America with recovery rates above 90 percent for nickel and cobalt, though lithium recovery lags. Direct recycling remains pre-commercial, and collection logistics for end-of-life packs are still patchy.",
+  "sources": [
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    },
+    {
+      "title": "Why solid-state batteries short circuit from lithium dendrites",
+      "url": "https://interestingengineering.com/energy/solid-state-batteries-short-circuit-lithium-study"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 70,
+  "domain": "fundamental_physics",
+  "title": "The cosmic coincidence problem: why dark energy dominates now",
+  "bottleneck": "Matter and dark energy densities evolve completely differently with cosmic expansion, yet they are comparable precisely during the era when observers exist to notice. A pure cosmological constant offers no reason for this timing, making our epoch appear fine-tuned.",
+  "why_it_blocks": "The coincidence suggests dark energy is dynamical or tied to the matter sector in an unknown way; without understanding it, the observed acceleration looks like an accident rather than physics.",
+  "current_state": "Tracker quintessence models and interacting dark energy can soften the coincidence, but they introduce their own tunings, and anthropic explanations remain untestable. Some tracker models make dark energy follow the dominant component for most of cosmic history, softening but not eliminating the coincidence. Interacting dark energy models couple the dark sector to matter, but the coupling itself must then be tuned to avoid fifth-force constraints.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

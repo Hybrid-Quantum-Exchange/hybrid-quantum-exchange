@@ -1,0 +1,14 @@
+{
+  "id": 399,
+  "domain": "medicine_cures",
+  "title": "Sepsis early diagnosis and treatment",
+  "bottleneck": "Sepsis kills an estimated 11 million people yearly, yet diagnosis still relies on clinical judgment plus slow cultures; every hour of delayed antibiotics increases mortality. No rapid, definitive bedside test distinguishes sepsis from non-infectious inflammation.",
+  "why_it_blocks": "Sepsis is a leading cause of hospital death worldwide; the inability to recognize it early and precisely is a diagnostic failure with massive mortality.",
+  "current_state": "Biomarker panels, machine-learning early-warning systems, and rapid molecular diagnostics are improving recognition. Immunomodulatory therapies have repeatedly failed in trials, leaving antibiotics and supportive care as the mainstays, and diagnostic gaps persist. Because sepsis is a dysregulated host response rather than a single pathogen, future therapies may need to modulate immunity rather than just kill microbes. Decades of failed immunomodulator trials show how difficult that modulation is to get right.",
+  "sources": [
+    {
+      "title": "Reports identify weakness in global pipeline for new antibiotics, diagnostics",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/reports-identify-weakness-global-pipeline-new-antibiotics-diagnostics"
+    }
+  ]
+}

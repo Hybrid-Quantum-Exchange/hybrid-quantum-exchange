@@ -1,0 +1,18 @@
+{
+  "id": 355,
+  "domain": "artificial_intelligence",
+  "title": "The reproducibility crisis in ML research",
+  "bottleneck": "A large fraction of published ML results can't be reproduced: code unreleased, hyperparameters unreported, evaluation protocols inconsistent — the Gemini Ultra MMLU controversy showed apples-to-oranges comparisons from mixed CoT@32 versus 5-shot protocols — and only about 16% of safety benchmarks use proper statistical methods. The field advances on claims that may not survive re-examination. Reproducibility checklists and artifact evaluations exist but are weakly enforced by venues and rarely checked.",
+  "why_it_blocks": "Science that can't be verified isn't science. Irreproducible results waste researcher-years and let weak methods masquerade as progress.",
+  "current_state": "Reproducibility checklists and artifact evaluations exist but are weakly enforced; incentives still reward novel claims over verified ones. Reward structures still favor publishing novel claims, so researchers invest little in verifying others' results.",
+  "sources": [
+    {
+      "title": "Security experts uncover major flaws in hundreds of AI benchmarks",
+      "url": "https://www.digit.fyi/flaws-in-ai-benchmarks/"
+    },
+    {
+      "title": "LLM Benchmarks - llm-benchmarks wiki",
+      "url": "https://github.com/axoviq-ai/synthadoc/blob/HEAD/synthadoc/demos/ai-research/wiki/llm-benchmarks.md"
+    }
+  ]
+}

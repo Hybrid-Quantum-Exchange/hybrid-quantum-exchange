@@ -1,0 +1,14 @@
+{
+  "id": 30,
+  "domain": "fundamental_physics",
+  "title": "Gravity-induced wavefunction collapse: testing Penrose's proposal",
+  "bottleneck": "Roger Penrose proposed that superpositions of different spacetime geometries are unstable and collapse on a timescale set by their gravitational self-energy, tying the measurement problem to quantum gravity. The predicted collapse times for achievable masses are far longer than environmental decoherence times, making the effect extremely hard to isolate.",
+  "why_it_blocks": "This is one of the only proposals linking the measurement problem to quantum gravity with a quantitative prediction; testing it would probe both problems at once, while failure to test it leaves the link speculative.",
+  "current_state": "Related Diósi-Penrose models are constrained by underground experiments searching for anomalous X-ray emission from spontaneous collapse, progressively narrowing but not closing the viable parameter space. The Diosi-Penrose model predicts anomalous heating and X-ray emission that underground detectors constrain, steadily shrinking the viable collapse parameters.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

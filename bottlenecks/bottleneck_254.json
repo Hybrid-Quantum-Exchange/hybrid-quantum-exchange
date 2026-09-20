@@ -1,0 +1,18 @@
+{
+  "id": 254,
+  "domain": "compute_semiconductors",
+  "title": "Optical nonlinearity for all-optical computing",
+  "bottleneck": "Linear optics can do matrix multiplication, but neural networks need nonlinear activation functions, which require materials with strong optical nonlinearity at low power. Silicon's two-photon absorption causes loss at the intensities needed, and highly nonlinear materials are hard to integrate with low loss. Most photonic processors still convert back to electronics for nonlinearity, surrendering speed and efficiency.",
+  "why_it_blocks": "Without efficient on-chip nonlinearity, photonic computing stays a linear accelerator bolted onto electronic control, unable to realize the full speed-of-light, low-energy promise. Cascadable all-optical logic remains out of reach.",
+  "current_state": "Research explores 2D materials, epsilon-near-zero materials, and resonant enhancement to boost nonlinearity at low power. Practical, integrable, low-loss nonlinear elements for computing are still a lab pursuit. Most published results still rely on off-chip lasers and electronics, which masks the true system-level efficiency.",
+  "sources": [
+    {
+      "title": "OptoMind review: Scalable photonic computing",
+      "url": "https://github.com/ycc-pku/optomind-review/blob/HEAD/artifacts/e2e/03-scalable-photonic-computing/publication/latex/manuscript.normalized.md"
+    },
+    {
+      "title": "TomorrowDesk: Silicon Photonics challenges",
+      "url": "https://tomorrowdesk.com/future/silicon-photonic"
+    }
+  ]
+}

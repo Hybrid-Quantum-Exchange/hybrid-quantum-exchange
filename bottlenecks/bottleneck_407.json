@@ -1,0 +1,14 @@
+{
+  "id": 407,
+  "domain": "medicine_cures",
+  "title": "Clostridioides difficile recurrence",
+  "bottleneck": "C. difficile infection recurs in 20 to 30% of patients after initial treatment, and in over 40% after a first recurrence, because antibiotics that treat it also devastate the protective gut microbiota. Recurrent disease causes severe colitis and significant mortality in the elderly.",
+  "why_it_blocks": "It is the paradigmatic disease of microbiome disruption, a direct consequence of antibiotic use, and standard antibiotics perpetuate the cycle.",
+  "current_state": "Fecal microbiota transplantation and approved live biotherapeutic products, a non-traditional approach of the kind WHO's pipeline analysis tracks, have transformed recurrent C. diff care, but standardized, scalable, safe products and prevention strategies are still maturing. Narrow-spectrum antibiotics and microbiome-sparing approaches could prevent C. difficile in the first place, but they face the same broken development economics as other antibacterials. Prevention through stewardship remains the most cost-effective lever.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 102,
+  "domain": "cosmology_multiverse",
+  "title": "Origin Mechanism of Dynamical Dark Energy",
+  "bottleneck": "If dark energy evolves, some microphysical mechanism must drive it — a rolling scalar, a phase transition, or modified gravity — but none is singled out by data or theory. Unlike inflation, there is no established 'slow-roll' style framework for late-time acceleration, and model space is effectively infinite. String-inspired models like axion quintessence face tight constraints from the swampland distance conjecture, which disfavors the required trans-Planckian field ranges.",
+  "why_it_blocks": "Without a mechanism, evolving dark energy is curve-fitting, not physics, and cannot be connected to particle theory.",
+  "current_state": "Model-building is active but data-starved; the swampland conjectures from string theory constrain some scalar models, though those conjectures are themselves unproven. The field awaits either a compelling top-down construction or an observational signature, such as dark energy clustering, that picks a direction.",
+  "sources": [
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    },
+    {
+      "title": "The Landscape and the Multiverse: What's the Problem? (Synthese)",
+      "url": "https://link.springer.com/article/10.1007/s11229-021-03137-0"
+    }
+  ]
+}

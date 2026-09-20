@@ -1,0 +1,18 @@
+{
+  "id": 852,
+  "domain": "xr_interface",
+  "title": "Varifocal display latency and mechanical reliability",
+  "bottleneck": "Varifocal displays must shift focus in sync with the eye's gaze within tens of milliseconds, requiring fast eye tracking plus moving optics or switchable liquid-crystal lens stacks. Mechanical actuators wear out and add bulk; LC stacks offer discrete focal planes with switching artifacts. Any lag between gaze and focus reintroduces the very conflict varifocal aims to fix.",
+  "why_it_blocks": "Without a fast, reliable, compact varifocal mechanism, the vergence-accommodation conflict has no shippable solution, and VR comfort stays capped. The industry has working demos but no productizable path.",
+  "current_state": "Half Dome 3 demonstrated a 6-layer LC lens stack with 64 focal planes; startups continue development. Durability, cost, and latency at consumer scale are unresolved. Liquid-crystal lens stacks switch between discrete focal planes, and the stepping itself can be perceptible during fast gaze changes.",
+  "sources": [
+    {
+      "title": "Wikipedia: Vergence-accommodation conflict",
+      "url": "https://en.wikipedia.org/wiki/Vergence%E2%80%93accommodation_conflict"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

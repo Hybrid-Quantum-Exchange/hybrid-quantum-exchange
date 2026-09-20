@@ -1,0 +1,18 @@
+{
+  "id": 996,
+  "domain": "coordination",
+  "title": "Standards Coordination for New Technologies",
+  "bottleneck": "Emerging technologies need shared standards (AI safety benchmarks, biotech screening, quantum-safe cryptography migration), but standards processes are slow, captured by incumbents, or fragmented across jurisdictions. Without coordination, incompatible regimes raise costs and leave safety gaps. Incumbents often capture standards processes to raise rivals' costs, turning coordination into moat-building.",
+  "why_it_blocks": "Missing standards delay deployment of beneficial technologies and fragment governance of risky ones. Fragmented standards raise compliance costs and leave safety gaps at the seams.",
+  "current_state": "NIST's post-quantum cryptography standards show coordination can work; AI evaluation standards remain nascent and contested. Open, fast, international standards processes are the goal, but examples of success are the exception. Getting standards right early prevents costly fragmentation later, for all across all jurisdictions and technology generations.",
+  "sources": [
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    },
+    {
+      "title": "From Pacing the Frontier to Governing the Frontier (Access Partnership)",
+      "url": "https://accesspartnership.com/opinion/from-pacing-the-frontier-to-governing-the-frontier/"
+    }
+  ]
+}

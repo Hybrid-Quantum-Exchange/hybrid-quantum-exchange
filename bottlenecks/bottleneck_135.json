@@ -1,0 +1,18 @@
+{
+  "id": 135,
+  "domain": "cosmology_multiverse",
+  "title": "The String Landscape Vacuum Selection Problem",
+  "bottleneck": "String theory appears to admit ~10^500 vacua with different low-energy physics, and no dynamical principle is known that selects ours. Anthropic selection is the default answer, but it is scientifically thin, and the competing 'swampland' program tries to rule vacua out rather than pick one — with conjectures that remain unproven. The sheer number of vacua makes statistical predictions the only game in town, but defining the right statistical ensemble is itself unsolved.",
+  "why_it_blocks": "Without a selection principle, string theory predicts everything and therefore nothing testable about our universe's parameters.",
+  "current_state": "The landscape's size is estimated, not derived; no selection mechanism has survived scrutiny, and the field is split on whether one is needed. Critics argue the landscape program has produced no confirmed prediction in two decades of effort.",
+  "sources": [
+    {
+      "title": "The Landscape and the Multiverse: What's the Problem? (Synthese)",
+      "url": "https://link.springer.com/article/10.1007/s11229-021-03137-0"
+    },
+    {
+      "title": "Beyond Falsifiability: Normal Science in a Multiverse (PhilArchive)",
+      "url": "https://philarchive.org/archive/CARBFN"
+    }
+  ]
+}

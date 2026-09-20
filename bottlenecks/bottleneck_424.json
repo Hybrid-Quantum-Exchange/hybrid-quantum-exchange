@@ -1,0 +1,14 @@
+{
+  "id": 424,
+  "domain": "medicine_cures",
+  "title": "Sickle cell gene therapy access and durability",
+  "bottleneck": "CRISPR-based Casgevy and lentiviral Lyfgenia can functionally cure sickle cell disease, but each treatment costs millions, requires myeloablative conditioning with infertility and malignancy risks, and is available at only a handful of centers, inaccessible to most of the millions affected, largely in sub-Saharan Africa.",
+  "why_it_blocks": "A cure that cannot reach the population bearing the disease burden is a scientific success and a delivery failure.",
+  "current_state": "Uptake has been limited even in wealthy countries, with approved gene therapies seeing little use; in vivo editing that avoids conditioning and manufacturing bottlenecks is the hoped-for next step. Long-term durability data are still maturing. In vivo editing approaches that avoid myeloablative conditioning could dramatically expand access, particularly in sub-Saharan Africa where the disease burden is highest. Until then, the gap between curative science and reachable cure will persist.",
+  "sources": [
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

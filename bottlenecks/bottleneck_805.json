@@ -1,0 +1,18 @@
+{
+  "id": 805,
+  "domain": "climate_environment",
+  "title": "CO2 utilization scale limits",
+  "bottleneck": "Converting captured CO2 into fuels, chemicals, and building materials is appealing, but the scale mismatch is brutal: global CO2 emissions are ~40 gigatonnes a year while all plausible utilization markets combined absorb a few gigatonnes, and fuels re-release the CO2 when burned. Utilization also needs cheap clean hydrogen and energy, competing for the same scarce resources as direct decarbonization. Only mineralization in concrete offers truly permanent storage, at limited scale.",
+  "why_it_blocks": "Utilization is often marketed as making capture pay for itself, diverting investment from permanent storage. If policymakers count utilized CO2 as removed, they double-count emissions cuts that never happened.",
+  "current_state": "CO2-cured concrete and e-fuels plants are operating commercially at modest scale, proving the chemistry works. But utilization remains a small, mostly non-permanent outlet — a complement to storage, not a substitute, and the distinction is still blurred in policy.",
+  "sources": [
+    {
+      "title": "DOE Explains...Direct Air Capture",
+      "url": "https://www.energy.gov/science/doe-explainsdirect-air-capture"
+    },
+    {
+      "title": "Direct Air Capture (DAC) - Carbon Project Types",
+      "url": "https://abatable.com/blog/dac-unpacked-direct-air-capture-guide/"
+    }
+  ]
+}

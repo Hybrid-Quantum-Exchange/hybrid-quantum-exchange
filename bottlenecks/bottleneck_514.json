@@ -1,0 +1,18 @@
+{
+  "id": 514,
+  "domain": "health_longevity",
+  "title": "Clozapine underuse in treatment-resistant schizophrenia",
+  "bottleneck": "Clozapine is the only drug with proven efficacy in treatment-resistant schizophrenia and probable anti-suicidal benefit, yet it is dramatically underused because of mandatory blood monitoring for agranulocytosis, metabolic side effects, and clinician reluctance. Patients typically endure years of failed trials before it is offered, if ever.",
+  "why_it_blocks": "The best available treatment for the hardest cases sits on the shelf while patients cycle through drugs known to be ineffective for them. This is a delivery and risk-tolerance failure, not a science failure.",
+  "current_state": "Clozapine remains underprescribed worldwide; point-of-care blood monitoring and relaxed protocols in some countries aim to lower barriers. No safer equally effective alternative has emerged. Point-of-care neutrophil testing could replace centralized lab monitoring, yet regulatory inertia keeps the burdensome monitoring requirements in place in most countries.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    }
+  ]
+}

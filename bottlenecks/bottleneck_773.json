@@ -1,0 +1,18 @@
+{
+  "id": 773,
+  "domain": "materials",
+  "title": "Indium-free transparent conductors",
+  "bottleneck": "Touchscreens, solar cells, and displays depend on indium tin oxide, but indium is scarce, brittle, and price-volatile. Alternatives — silver nanowires, graphene, conductive polymers, doped zinc oxide — each fail on at least one axis: nanowires haze and corrode, polymers lack conductivity, and zinc oxide cannot match ITO's combination of transparency, conductivity, and process compatibility. No drop-in replacement has taken meaningful market share.",
+  "why_it_blocks": "Indium supply risk threatens the cost trajectory of displays and thin-film solar, and ITO's brittleness blocks flexible electronics. Without a true replacement, the transparent conductor remains a single-point-of-failure material for the entire optoelectronics industry.",
+  "current_state": "Silver nanowire films serve in some flexible touch sensors, and the industry keeps ITO viable through thinner coatings and recycling. But a universal, indium-free, flexible transparent conductor is still a materials goal, not a product.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    },
+    {
+      "title": "Nanoarchitected Mechanical Metamaterials for Enhanced Surface Roughness Control",
+      "url": "https://eureka.patsnap.com/report-nanoarchitected-mechanical-metamaterials-for-enhanced-surface-roughness-control"
+    }
+  ]
+}

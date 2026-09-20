@@ -1,0 +1,18 @@
+{
+  "id": 665,
+  "domain": "space",
+  "title": "Beam collimation and target tracking for beamed propulsion",
+  "bottleneck": "A laser array pushing a light sail must keep a gigawatt beam collimated on a meter-scale target across millions of kilometers, requiring phased arrays of thousands of lasers, adaptive optics, and pointing stability far beyond current systems. Beam divergence spreads energy with distance, atmospheric distortion corrupts ground-based beams, and the sail must be tracked continuously during a minutes-long acceleration sprint. Beamed propulsion also offers no mechanism for deceleration at the destination.",
+  "why_it_blocks": "Even with a perfect sail, the beamer is the other half of the system; without it, interstellar sail missions cannot be launched, and probes would flash through target systems in days with no way to slow down.",
+  "current_state": "Breakthrough Starshot and NASA NIAC studies keep the concept alive; high-power laser arrays and coherent beam combining advance for other uses, but nothing near interstellar-launch scale has been built or tested.",
+  "sources": [
+    {
+      "title": "Beamed Propulsion: The Future of Interstellar Travel",
+      "url": "https://www.numberanalytics.com/blog/beamed-propulsion-future-interstellar-travel"
+    },
+    {
+      "title": "We might soon have the technology to reach other star systems (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/we-might-soon-have-the-technology-to-reach-other-star-systems/"
+    }
+  ]
+}

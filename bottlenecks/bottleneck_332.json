@@ -1,0 +1,18 @@
+{
+  "id": 332,
+  "domain": "artificial_intelligence",
+  "title": "Benchmark saturation and ceiling effects",
+  "bottleneck": "Frontier models now score near 100% on benchmarks like GSM8K and MMLU that once defined progress, yet saturated scores tell us nothing about real-world competence — the tests are too easy to discriminate between systems. Each saturated benchmark must be replaced, but harder benchmarks are expensive to build and saturate in turn, creating a treadmill where measurement lags capability by years.",
+  "why_it_blocks": "Without discriminating evaluations, labs can't tell whether a new model is genuinely better or just differently tuned, and buyers can't compare systems. When benchmarks saturate, labs optimize for the last saturated point while genuine capability gaps go unmeasured.",
+  "current_state": "The field churns through benchmarks from MMLU to GPQA to FrontierMath; each lasts a year or two before saturation. No stable measurement regime exists.",
+  "sources": [
+    {
+      "title": "Security experts uncover major flaws in hundreds of AI benchmarks",
+      "url": "https://www.digit.fyi/flaws-in-ai-benchmarks/"
+    },
+    {
+      "title": "Open Mathematical Problems as an AI Reasoning Benchmark",
+      "url": "https://www.ulam.ai/research/open-math.pdf"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 383,
+  "domain": "medicine_cures",
+  "title": "Frontotemporal dementia",
+  "bottleneck": "Frontotemporal dementia, the leading cause of dementia under age 60, has no approved disease-modifying treatment and no symptomatic drugs of proven benefit. Its pathology is heterogeneous, involving tau, TDP-43, and FUS, and genetic forms involve progranulin, C9orf72, and MAPT mutations with distinct mechanisms.",
+  "why_it_blocks": "FTD devastates behavior, language, and executive function in mid-life, striking people in their productive years, yet attracts a fraction of Alzheimer's research funding.",
+  "current_state": "Progranulin-raising therapies, tau and TDP-43 approaches, and antisense strategies for genetic FTD are in early trials. The field lags Alzheimer's by a decade or more, and the amyloid experience counsels humility about single-pathology strategies. Patient registries and natural-history studies are finally giving trial designers the data needed to run efficient studies. Still, FTD drug development remains years behind Alzheimer's in maturity.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    }
+  ]
+}

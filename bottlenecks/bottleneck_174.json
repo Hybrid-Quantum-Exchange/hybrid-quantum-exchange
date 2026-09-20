@@ -1,0 +1,18 @@
+{
+  "id": 174,
+  "domain": "energy",
+  "title": "Continuous fueling for steady-state operation",
+  "bottleneck": "A steady-state fusion plant must inject frozen deuterium-tritium pellets continuously for months without interruption, at rates of tens per second, with each pellet surviving acceleration and penetrating to the plasma core. Pellet injectors exist but have never run for the durations a power plant needs, and a single fueling interruption can collapse the plasma. Tritium handling in the pellet fabrication loop adds complexity.",
+  "why_it_blocks": "Fueling reliability is plant reliability. An injector that fails weekly turns a baseload plant into an intermittent one, undermining the core value proposition of fusion.",
+  "current_state": "High-speed pellet injectors operate on current tokamaks for hours-long campaigns. Months-long continuous operation with tritium pellets is untested. Continuous fueling systems must also handle tritium safely for months at a time, adding containment and accountability requirements to an already demanding mechanism.",
+  "sources": [
+    {
+      "title": "Princeton achieves 10x reduction in tritium needs for nuclear fusion",
+      "url": "https://interestingengineering.com/energy/nuclear-fusion-fuel-breakthrough"
+    },
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    }
+  ]
+}

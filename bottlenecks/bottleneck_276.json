@@ -1,0 +1,18 @@
+{
+  "id": 276,
+  "domain": "compute_semiconductors",
+  "title": "Datacenter cooling and heat-rejection limits",
+  "bottleneck": "AI data centers now reject tens of megawatts of heat per building, and local grids, water supplies, and ambient conditions cap how much can be removed. Air cooling is exhausted at rack densities above ~30-50 kW; liquid cooling needs water and plumbing retrofits, while dry climates face water-use restrictions. Heat rejection, not floor space, increasingly limits data-center capacity.",
+  "why_it_blocks": "Compute demand can keep growing on paper, but every megawatt of AI needs a megawatt of cooling plus grid capacity. Permitting, water, and power-delivery constraints are already delaying AI buildouts, making heat rejection a first-order limit on AI scaling.",
+  "current_state": "Direct-to-chip liquid cooling and immersion are deploying in new AI data centers, and operators are siting builds near power and water. Grid interconnection queues and local resource limits remain binding.",
+  "sources": [
+    {
+      "title": "Patsnap: Chiplet thermal management",
+      "url": "https://eureka.patsnap.com/report-analysis-of-chiplet-integration-thermal-management-for-semiconductors"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

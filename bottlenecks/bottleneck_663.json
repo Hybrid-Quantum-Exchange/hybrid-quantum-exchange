@@ -1,0 +1,18 @@
+{
+  "id": 663,
+  "domain": "space",
+  "title": "Compact fusion drive for spacecraft",
+  "bottleneck": "A fusion rocket, such as the Direct Fusion Drive concept burning deuterium and helium-3, could deliver both high thrust and high efficiency, enabling months-long Mars trips and credible interstellar precursor missions. But no fusion reactor produces net energy on Earth, let alone one compact, lightweight, vacuum-rated, and reliable enough to fly. The gap includes confining plasma in a space-rated device, rejecting enormous waste heat through radiators, and surviving neutron damage over long burns.",
+  "why_it_blocks": "Chemical and even fission propulsion impose hard delta-v limits; fusion is the first technology that could make the outer solar system routinely accessible and cut interplanetary travel to practical timescales.",
+  "current_state": "Government fusion roadmaps put demonstration reactors decades away, and none address spacecraft integration. Concepts remain paper studies and small lab experiments; no space-rated fusion prototype exists.",
+  "sources": [
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    },
+    {
+      "title": "We might soon have the technology to reach other star systems (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/we-might-soon-have-the-technology-to-reach-other-star-systems/"
+    }
+  ]
+}

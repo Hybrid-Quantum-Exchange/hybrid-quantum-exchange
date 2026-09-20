@@ -1,0 +1,14 @@
+{
+  "id": 31,
+  "domain": "fundamental_physics",
+  "title": "Delayed-choice and quantum eraser: what they say about reality",
+  "bottleneck": "Delayed-choice quantum eraser experiments show interference patterns depending on measurements made after the photon has passed the slits, tempting retrocausal readings, yet standard quantum mechanics explains the results without backward causation through entanglement correlations. There is no consensus on what these experiments reveal about time and causality.",
+  "why_it_blocks": "These are the most widely misinterpreted experiments in physics, and the lack of an agreed foundational moral lets confusion propagate into popular science and even into research-level discussions of quantum causality.",
+  "current_state": "The consensus among specialists is that no retrocausation occurs and the results follow from standard entanglement, but minority retrocausal and superdeterministic readings persist in the literature. The interference pattern only appears after correlating with the distant measurement, so no signal travels backward in time in any operational sense.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

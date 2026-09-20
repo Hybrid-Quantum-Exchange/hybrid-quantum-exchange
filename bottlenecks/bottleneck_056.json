@@ -1,0 +1,18 @@
+{
+  "id": 56,
+  "domain": "fundamental_physics",
+  "title": "Hadronic vacuum polarization: lattice versus data-driven tension",
+  "bottleneck": "The Fermilab muon g-2 experiment's final 2025 result agrees with Standard Model predictions that use lattice QCD for the hadronic vacuum polarization, but the traditional data-driven determination from electron-positron annihilation data disagrees with the lattice value at several sigma. Both methods claim maturity, yet they cannot both be right.",
+  "why_it_blocks": "The hadronic vacuum polarization dominates the theory uncertainty in the muon's magnetic moment; until the two methods agree, the most precise test of the Standard Model rests on a disputed calculation.",
+  "current_state": "The 2025 final Fermilab measurement at 127 parts per billion matches the lattice-based prediction within about one sigma, but the collaboration notes the lattice versus data-driven tension must be clarified for a firm comparison.",
+  "sources": [
+    {
+      "title": "Final Report on the Measurement of the Positive Muon Anomalous Magnetic Moment at Fermilab - arXiv",
+      "url": "https://arxiv.org/html/2606.17323"
+    },
+    {
+      "title": "Long-running physics experiment dashes hope of new particles and forces - Science",
+      "url": "https://www.science.org/content/article/long-running-physics-experiment-dashes-hope-new-particles-and-forces?cookieSet=1"
+    }
+  ]
+}

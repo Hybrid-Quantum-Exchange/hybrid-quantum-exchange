@@ -1,0 +1,14 @@
+{
+  "id": 23,
+  "domain": "fundamental_physics",
+  "title": "The quantum measurement problem: what collapses the wavefunction",
+  "bottleneck": "Quantum mechanics describes systems evolving smoothly in superposition, yet measurements yield single definite outcomes, and the theory provides no dynamical account of when or how the transition occurs. The boundary between the quantum system and the classical measuring apparatus is drawn by hand, not derived.",
+  "why_it_blocks": "Every application of quantum theory, from particle physics to quantum computing, invokes measurement; an unexplained primitive at the heart of the theory leaves its interpretation, and possibly its completeness, open.",
+  "current_state": "Decoherence explains why interference disappears in practice but not why one outcome occurs; collapse models, many-worlds, and QBism compete with no experimental way to distinguish most of them. Spontaneous-collapse models, many-worlds branching, and QBist personalism all reproduce the statistics while disagreeing completely on what a measurement is.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

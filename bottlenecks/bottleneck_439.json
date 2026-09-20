@@ -1,0 +1,14 @@
+{
+  "id": 439,
+  "domain": "medicine_cures",
+  "title": "Long COVID and post-viral syndromes",
+  "bottleneck": "Millions suffer persistent symptoms after SARS-CoV-2 infection, including fatigue, cognitive impairment, and dysautonomia, with no validated biomarker, no agreed case definition for trials, and mechanisms such as viral persistence, autoimmunity, and endothelial dysfunction still contested.",
+  "why_it_blocks": "A mass-disabling condition with contested biology leaves patients without proven treatments and often without medical validation.",
+  "current_state": "Large trials are testing antivirals, immunomodulators, and rehabilitation strategies. No therapy has yet shown consistent benefit for Long COVID. The lack of a biomarker means trials struggle to enroll homogeneous populations, and the contested mechanisms make target selection difficult. Patient-led research has pushed the field forward, but funding remains disproportionate to the burden. Until the biology is clarified, treatments will remain empirical and often disappointing.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

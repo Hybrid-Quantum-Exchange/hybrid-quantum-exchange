@@ -1,0 +1,18 @@
+{
+  "id": 132,
+  "domain": "cosmology_multiverse",
+  "title": "Non-Gaussianity of Primordial Fluctuations",
+  "bottleneck": "Single-field slow-roll inflation predicts nearly Gaussian primordial fluctuations, and Planck bounds (f_NL ~ O(1)) confirm this — but many alternatives (multi-field, non-standard kinetic terms) predict detectable non-Gaussianity that has not appeared. The limits are now systematics-dominated, and it is unclear how much further they can be pushed with the CMB alone. Scale-dependent halo bias in galaxy surveys provides a new route to f_NL that is independent of CMB systematics.",
+  "why_it_blocks": "A non-Gaussian detection would rule out the simplest inflation models outright; continued nulls constrain but cannot confirm them.",
+  "current_state": "Large-scale structure (DESI, SPHEREx) offers a new f_NL window via scale-dependent bias, potentially reaching sigma(f_NL) ~ 1. Reaching sigma(f_NL) ~ 1 would test broad classes of multi-field models decisively.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

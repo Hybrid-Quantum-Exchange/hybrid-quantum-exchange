@@ -1,0 +1,14 @@
+{
+  "id": 431,
+  "domain": "medicine_cures",
+  "title": "Solid-organ transplant rejection and organ shortage",
+  "bottleneck": "Transplant recipients face lifelong immunosuppression with infection, malignancy, and kidney-toxicity risks, yet chronic rejection still claims most grafts within 10 to 15 years. Meanwhile over 100,000 people wait for organs in the US alone, and thousands die waiting each year.",
+  "why_it_blocks": "The immune system's refusal to tolerate foreign tissue is the fundamental barrier; solving tolerance would eliminate both rejection and the need for toxic drugs.",
+  "current_state": "Xenotransplantation with gene-edited pig organs has seen first human cases, and tolerance-induction protocols show early promise. Durable immune tolerance without immunosuppression is not yet achieved, and the innovation ecosystem for such complex therapies remains fragile. Mixed chimerism and other tolerance protocols have produced isolated successes, but none is yet reliable or scalable. Xenotransplantation could solve the organ shortage, yet rejection of pig organs presents its own immunological puzzles.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

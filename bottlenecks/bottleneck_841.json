@@ -1,0 +1,18 @@
+{
+  "id": 841,
+  "domain": "climate_environment",
+  "title": "Atmospheric water harvesting efficiency",
+  "bottleneck": "Pulling water from air could serve arid regions, but thermodynamics is unforgiving: at low humidity the energy cost per liter is enormous, sorbent-based systems cycle slowly, and passive radiative designs produce only liters per day per square meter. No technology yet delivers household-scale water in arid climates at an energy cost competitive with trucking water in. Fouling and sorbent degradation in dusty real-world air further cut yields.",
+  "why_it_blocks": "Two billion people face water stress, and atmospheric harvesting is one of few options for off-grid arid communities. The efficiency gap keeps it a gadget-scale curiosity rather than a water-security tool.",
+  "current_state": "Metal-organic-framework harvesters demonstrated grams-per-day yields in desert trials, and successive designs keep improving. But the leap to the hundreds of liters per day a household needs, at affordable energy, remains far off.",
+  "sources": [
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    },
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    }
+  ]
+}

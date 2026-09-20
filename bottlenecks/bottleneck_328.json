@@ -1,0 +1,18 @@
+{
+  "id": 328,
+  "domain": "artificial_intelligence",
+  "title": "Differential privacy at frontier scale",
+  "bottleneck": "Differential privacy offers the gold standard for privacy guarantees, but applying it to frontier-model training destroys utility or explodes cost: the noise required scales badly, and DP-SGD at billion-parameter scale is enormously expensive while degrading the long tail of knowledge that makes models useful. Nobody has trained a frontier-capable model with meaningful DP guarantees. Paraphrasing and translation reliably strip watermarks, and open-weight models can simply disable the scheme.",
+  "why_it_blocks": "Without scalable DP, the choice is between capable models trained on sensitive data with leakage risk, and private models too weak to use. Without reliable provenance, regulation and liability for AI-generated content have no technical anchor.",
+  "current_state": "DP works for small models and narrow tasks. Frontier-scale DP training remains an unsolved engineering and research problem.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "Many safety evaluations for AI models have significant limitations | TechCrunch",
+      "url": "https://bestofai.com/article/many-safety-evaluations-for-ai-models-have-significant-limitations-techcrunch"
+    }
+  ]
+}

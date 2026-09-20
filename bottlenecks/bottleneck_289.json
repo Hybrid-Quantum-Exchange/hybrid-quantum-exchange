@@ -1,0 +1,18 @@
+{
+  "id": 289,
+  "domain": "compute_semiconductors",
+  "title": "Edge-AI chip efficiency vs model-accuracy tradeoff",
+  "bottleneck": "Edge devices need milliwatt inference, but aggressive quantization, pruning, and tiny models sacrifice the accuracy and generality of frontier models. On-device learning is nearly absent, so edge models go stale, and heterogeneous edge SoCs lack the memory bandwidth for emerging workloads like on-device agents. The efficiency-accuracy Pareto frontier improves slowly.",
+  "why_it_blocks": "If edge AI can't run capable models efficiently, intelligence stays cloud-tethered, with latency, privacy, and connectivity costs that block applications from robotics to rural healthcare. The edge remains a second-class citizen of the AI era.",
+  "current_state": "NPUs in phones and MCUs now run impressive quantized models, and techniques like speculative decoding help. But the gap between edge-capable and frontier models keeps widening. On-device training is essentially absent, so edge models go stale while cloud models keep improving, widening the capability gap.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    }
+  ]
+}

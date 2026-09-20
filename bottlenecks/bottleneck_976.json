@@ -1,0 +1,18 @@
+{
+  "id": 976,
+  "domain": "coordination",
+  "title": "Global Public Goods R&D Underprovision",
+  "bottleneck": "Research with diffuse global benefits — tropical disease, climate adaptation, pandemic preparedness — is underfunded because no single nation captures the returns. Market incentives point R&D toward rich-country problems, and international funding mechanisms are small relative to the need. Philanthropic and multilateral funding fills only a fraction of the gap, and priorities shift with donor fashions.",
+  "why_it_blocks": "Diseases and climate damages concentrated in poor countries get a fraction of the research their burden warrants. The result is a research agenda set by wealthy markets, not by human need.",
+  "current_state": "CEPI, the Green Climate Fund, and advance market commitments help at the margins; the structural underprovision persists. Binding international research commitments, analogous to climate finance, have never materialized for health R&D.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

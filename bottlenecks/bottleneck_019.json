@@ -1,0 +1,18 @@
+{
+  "id": 19,
+  "domain": "fundamental_physics",
+  "title": "Black hole remnants and the information storage problem",
+  "bottleneck": "One proposed resolution of the information paradox is that evaporation halts at the Planck scale, leaving stable remnants that store the fallen information, but remnants would need to encode arbitrarily large entropy in Planck-sized objects. This implies an infinite tower of remnant species, which would be copiously produced in ordinary processes and has never been observed.",
+  "why_it_blocks": "Remnants are the most conservative escape from information loss, yet their infinite-species problem may be worse than the paradox they solve, blocking this entire class of resolutions.",
+  "current_state": "Most researchers consider remnants disfavored because of the species problem, though refined versions with limited remnant types are still explored; attention has largely moved to island and replica-wormhole mechanisms.",
+  "sources": [
+    {
+      "title": "Black Hole Information Paradox - kb-physics open questions",
+      "url": "https://github.com/thibautbaissac/kb-physics/blob/HEAD/kb/open-questions/black-hole-information-paradox.md"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

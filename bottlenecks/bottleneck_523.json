@@ -1,0 +1,18 @@
+{
+  "id": 523,
+  "domain": "health_longevity",
+  "title": "Cognitive remediation for schizophrenia",
+  "bottleneck": "Cognitive deficits in schizophrenia resist medication, and cognitive remediation therapy (structured brain-training plus rehabilitation) produces only modest, variable gains that often fail to generalize to real-world functioning. The field lacks agreement on which cognitive domains to target and how to make gains stick.",
+  "why_it_blocks": "Cognition determines whether patients can work and live independently; without an effective remediation science, functional recovery stays out of reach even when psychosis is controlled.",
+  "current_state": "Cognitive remediation is recommended in some guidelines with small-to-moderate effect sizes. Combination with aerobic exercise and pharmacological augmentation is under investigation. Pairing remediation with aerobic exercise or noninvasive brain stimulation may boost transfer to daily functioning, though large confirmatory trials are still needed. Without such evidence, payers have little reason to fund remediation programs at the scale the disability burden demands.",
+  "sources": [
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    },
+    {
+      "title": "Addressing the Challenges of Treating Schizophrenia and Bipolar Disorder (AHDB)",
+      "url": "https://www.ahdbonline.com/articles/2009-addressing-the-challenges-of-treating-schizophrenia-and-bipolar-disorder"
+    }
+  ]
+}

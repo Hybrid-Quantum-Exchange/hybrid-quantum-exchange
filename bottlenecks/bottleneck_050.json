@@ -1,0 +1,14 @@
+{
+  "id": 50,
+  "domain": "fundamental_physics",
+  "title": "The proton spin crisis: where the spin comes from",
+  "bottleneck": "The European Muon Collaboration found that quark spins account for only about a third of the proton's total spin, and decades of polarized scattering have still not fully apportioned the remainder among gluon spin and orbital angular momentum. The decomposition itself is gauge-dependent, so even the question is partly ill-posed.",
+  "why_it_blocks": "The proton is the most common massive particle in the universe; not understanding how its most basic quantum number is built from its constituents is a foundational embarrassment for QCD.",
+  "current_state": "RHIC spin measurements show gluons carry a significant but still incomplete share, and the future Electron-Ion Collider is designed to map the orbital contributions and finally close the spin budget. The Electron-Ion Collider, now under construction, is designed to finally map gluon spin and orbital angular momentum contributions precisely.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

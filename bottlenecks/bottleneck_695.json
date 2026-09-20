@@ -1,0 +1,18 @@
+{
+  "id": 695,
+  "domain": "space",
+  "title": "Artificial gravity via rotating spacecraft structures",
+  "bottleneck": "Long-duration microgravity damages the body, and the cleanest fix is spinning the spacecraft — but no crewed vehicle has ever flown a rotating section. The engineering is brutal: rotating joints for power and fluid transfer, Coriolis effects causing nausea below certain radii, structural loads from a massive spinning ring, despun docking interfaces, and the mass penalty of the structure itself. Tethers are lighter but bring dynamics and safety issues of their own. The required radius, spin rate, and gravity level for health are all unknown.",
+  "why_it_blocks": "If artificial gravity proves necessary for Mars missions, every transit habitat must be redesigned around rotation; it is a fork in the road for the entire human spaceflight architecture.",
+  "current_state": "Only small-scale tether demos have flown; rotating module concepts remain unfunded. No crewed rotating habitat has ever operated.",
+  "sources": [
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

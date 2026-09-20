@@ -1,0 +1,18 @@
+{
+  "id": 458,
+  "domain": "health_longevity",
+  "title": "Mitochondrial quality control and mitophagy decline in aging",
+  "bottleneck": "Mitochondrial dysfunction is a core hallmark of aging, but the failure point is quality control: aged cells accumulate damaged mitochondria because mitophagy (selective clearance) declines. Boosting mitophagy pharmacologically (urolithin A, NAD+ precursors) shows modest effects, yet the upstream signals that tell a cell to clear failing mitochondria remain poorly mapped.",
+  "why_it_blocks": "Failing mitochondria drive energy deficits, oxidative damage, and inflammation across muscle, brain, and heart. Without restoring quality control, every tissue ages under a growing energy and toxicity burden.",
+  "current_state": "Urolithin A is in human trials for muscle endurance with mixed results. Mitophagy inducers remain preclinical or supplement-grade; no therapy restores youthful mitochondrial turnover in humans. Mitochondrial transplantation and engineered mitophagy activators are being explored, but delivering them selectively to failing mitochondria inside living tissue remains an unsolved targeting problem.",
+  "sources": [
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    },
+    {
+      "title": "Bottlenecks in aging research (Lifespan.io researcher survey)",
+      "url": "https://www.lifespan.io/wp-content/uploads/2018/07/Lifespan.io_Event_kit_Bottlenecks_in_research.pdf"
+    }
+  ]
+}

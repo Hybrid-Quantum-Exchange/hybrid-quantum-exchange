@@ -1,0 +1,18 @@
+{
+  "id": 179,
+  "domain": "energy",
+  "title": "Nuclear supply chain atrophy",
+  "bottleneck": "Three decades of minimal new build have hollowed out the Western nuclear supply chain: heavy forging capacity for reactor vessels, specialized valve and pump manufacturers, and nuclear-grade instrumentation suppliers have shrunk or vanished. Rebuilding fabrication capacity requires multi-year capital investment that suppliers will only make against firm orders, which developers will only place once suppliers exist. First projects pay the full cost of supply-chain resurrection. Without domestic forging capacity, projects depend on a small number of foreign suppliers, adding geopolitical risk to already fragile schedules.",
+  "why_it_blocks": "This chicken-and-egg dilemma inflates first-of-a-kind costs and stretches schedules, killing projects before they demonstrate the economics that would justify the supply chain.",
+  "current_state": "A few large forgings have been ordered for current projects. Broad commercial-scale fabrication capacity will only emerge after sustained order books materialize.",
+  "sources": [
+    {
+      "title": "Small Modular Reactors: Executive Summary",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/01_executive_summary.md"
+    },
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    }
+  ]
+}

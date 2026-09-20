@@ -1,0 +1,18 @@
+{
+  "id": 108,
+  "domain": "cosmology_multiverse",
+  "title": "JWST Over-Massive Early Galaxies",
+  "bottleneck": "JWST found surprisingly massive, luminous galaxies at redshifts 10-14, earlier than standard galaxy formation expected, straining LambdaCDM's timeline for assembling stellar mass. Explanations range from bursty star formation and top-heavy IMFs to genuinely faster structure growth, with spectroscopic confirmations still catching up to photometric candidates. Some candidates turned out to be lower-redshift interlopers or active galactic nuclei, but a population of genuinely early massive systems persists.",
+  "why_it_blocks": "If the abundance holds, either galaxy formation physics or the underlying cosmology needs revision at early times.",
+  "current_state": "Spectroscopy has confirmed several z>10 galaxies but revised some masses downward; the tension is easing yet not resolved. Deeper spectroscopy and wider JWST surveys will determine whether galaxy formation models need modest tweaks or major revision.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

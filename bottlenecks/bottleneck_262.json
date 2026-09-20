@@ -1,0 +1,18 @@
+{
+  "id": 262,
+  "domain": "compute_semiconductors",
+  "title": "Co-packaged optics reliability and serviceability",
+  "bottleneck": "Co-packaged optics places lasers and photonic engines next to hot switch ASICs, exposing them to thermal cycling, vibration, and dust in data centers. Lasers age and fail, but replacing a co-packaged optical engine means servicing or scrapping the whole package, unlike pluggable modules that hot-swap. Reliability data for CPO in harsh field conditions is thin.",
+  "why_it_blocks": "If CPO can't match pluggable reliability and serviceability, operators won't adopt it despite bandwidth and efficiency gains, and the copper-interconnect energy wall stands. The industry risks a standoff where the needed technology exists but is undeployable.",
+  "current_state": "CPO products are entering early deployment with major switch vendors, and reliability testing programs are underway. Field-proven multi-year lifetimes at scale are not yet established.",
+  "sources": [
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    },
+    {
+      "title": "TomorrowDesk: Silicon Photonics challenges",
+      "url": "https://tomorrowdesk.com/future/silicon-photonic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 88,
+  "domain": "cosmology_multiverse",
+  "title": "Axion Haloscope Coverage of the QCD Axion Window",
+  "bottleneck": "The QCD axion is an elegant dark matter candidate, but its mass could lie anywhere across many orders of magnitude, and resonant haloscopes like ADMX scan only narrow frequency bands slowly. It is unknown whether the axion mass sits in a reachable band at all, and broadband techniques (dielectric haloscopes, helioscopes) remain unproven at the sensitivity needed for the classic axion window. Scanning the full plausible mass range at DFSZ sensitivity would take centuries at current scan speeds, making multiplexed or broadband resonators an urgent technical need.",
+  "why_it_blocks": "A missed mass window means the leading alternative to WIMPs could evade detection indefinitely despite being real.",
+  "current_state": "ADMX has probed parts of the micro-eV range; MADMAX and IAXO are planned to extend coverage, but full coverage of the plausible window is decades away at current scan rates. International efforts are coordinating but underfunded relative to the task; a definitive axion search remains a multi-decade program.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    }
+  ]
+}

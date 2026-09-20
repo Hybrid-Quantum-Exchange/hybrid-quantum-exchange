@@ -1,0 +1,18 @@
+{
+  "id": 671,
+  "domain": "space",
+  "title": "Superconducting magnets for high-power plasma thrusters",
+  "bottleneck": "Advanced plasma thrusters like VASIMR promise variable thrust and high efficiency at power levels where conventional electric propulsion cannot compete — but only with strong, lightweight magnetic nozzles. Superconducting magnets would deliver the field strength without prohibitive power draw, yet space-rated superconductors must survive launch vibration, operate for years, and be cooled in vacuum without heavy cryocoolers. Quench protection — a magnet suddenly going resistive — in an autonomous deep-space engine is unsolved.",
+  "why_it_blocks": "Without high-field magnets, plasma thrusters stay capped at low power and cannot deliver the fast Mars transits or heavy cargo hauls that justify their development cost.",
+  "current_state": "VASIMR's VX-200 demonstrated ~200 kW operation with conventional magnets in ground tests; Ad Astra continues development. No superconducting plasma thruster has flown.",
+  "sources": [
+    {
+      "title": "Ion thrusters: Why revolutionary?",
+      "url": "https://medium.com/@irmak.zelal.cengiz2/ion-thrusters-why-revolutionary-fdec437dcd42"
+    },
+    {
+      "title": "We might soon have the technology to reach other star systems (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/we-might-soon-have-the-technology-to-reach-other-star-systems/"
+    }
+  ]
+}

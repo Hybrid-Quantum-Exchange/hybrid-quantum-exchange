@@ -1,0 +1,18 @@
+{
+  "id": 231,
+  "domain": "compute_semiconductors",
+  "title": "Sub-2nm high-NA EUV scanner throughput and uptime",
+  "bottleneck": "High-NA EUV scanners (ASML EXE, 0.55 NA) can print sub-2nm features in a single exposure, but their throughput, uptime, and cost are unsolved at production scale. Each tool costs over $350 million, draws roughly 1,400 kW, and needs months of calibration by hundreds of engineers before stable high-volume manufacturing. Reduced depth of focus forces thinner resists and near-perfect overlay, shrinking the process window so much that line yield at 2nm-class nodes remains fragile.",
+  "why_it_blocks": "Sub-2nm logic is the backbone of next-generation AI accelerators and edge AI; if high-NA EUV cannot deliver reliable wafers-per-hour at acceptable defect rates, the entire industry roadmap stalls with no Plan B, since extreme multi-patterning with older tools is economically infeasible.",
+  "current_state": "First high-NA systems were delivered to Intel, TSMC, and Samsung in 2024-2025 for process development, with high-volume manufacturing targeted for 2026-2027. ASML has confirmed Hyper-NA (0.75 NA) feasibility for 2030s nodes, but the ecosystem of resists, pellicles, and metrology is still maturing.",
+  "sources": [
+    {
+      "title": "Aminext: High-NA EUV Lithography",
+      "url": "https://www.aminext.blog/en/post/high-na-euv-lithography-asml-explained-moores-law-1"
+    },
+    {
+      "title": "MarketMinute: Printing the 2nm era",
+      "url": "https://bakersfield.marketminute.com/article/tokenring-2026-1-26-printing-the-2nm-era-asmls-350-million-high-na-euv-machines-hit-the-production-floor"
+    }
+  ]
+}

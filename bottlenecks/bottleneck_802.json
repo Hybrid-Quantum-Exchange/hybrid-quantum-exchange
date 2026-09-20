@@ -1,0 +1,18 @@
+{
+  "id": 802,
+  "domain": "climate_environment",
+  "title": "Soil carbon sequestration verification at scale",
+  "bottleneck": "Paying farmers to store carbon in soil requires measuring changes of a few tenths of a percent against huge, heterogeneous background stocks — a signal near the detection limit of affordable sampling. Models fill the gap but are poorly validated across soil types and climates, and stored carbon can be re-released by a single tillage event or drought. Additionality is equally murky: many credited practices were already spreading.",
+  "why_it_blocks": "Agricultural soils could theoretically sequester gigatonnes while improving fertility, making this the most co-beneficial CDR pathway. Unverifiable claims risk turning soil carbon into a greenwashing machine that pays for business as usual.",
+  "current_state": "Remote sensing, spectroscopy, and better biogeochemical models are improving MRV, and several large programs now pay for modeled outcomes. But per-field verification cheap enough for smallholders — where most of the potential lies — does not yet exist.",
+  "sources": [
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    },
+    {
+      "title": "Direct Air Capture (DAC) - Carbon Project Types",
+      "url": "https://abatable.com/blog/dac-unpacked-direct-air-capture-guide/"
+    }
+  ]
+}

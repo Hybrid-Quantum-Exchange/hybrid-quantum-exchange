@@ -1,0 +1,14 @@
+{
+  "id": 46,
+  "domain": "fundamental_physics",
+  "title": "Testability of thermal leptogenesis",
+  "bottleneck": "Thermal leptogenesis elegantly generates the baryon asymmetry from CP-violating decays of heavy right-handed neutrinos, but its natural mass scale near 10^9 GeV is forever beyond experimental reach. Low-scale variants exist but sacrifice the minimality and predictive power that made the idea attractive.",
+  "why_it_blocks": "The leading theoretical explanation of the matter-antimatter asymmetry may be permanently untestable, which would leave cosmology's central particle-physics question answered only in principle.",
+  "current_state": "Resonant and ARS leptogenesis at the GeV-TeV scale are being probed by beam-dump and collider searches for heavy neutral leptons, offering the only near-term experimental handles. Searches for heavy neutral leptons at beam dumps and colliders probe the GeV-scale variants, though connecting any discovery to the baryon asymmetry would be indirect and model-dependent, leaving the cosmological connection difficult to establish.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

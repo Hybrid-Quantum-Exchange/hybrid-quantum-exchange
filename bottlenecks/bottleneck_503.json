@@ -1,0 +1,18 @@
+{
+  "id": 503,
+  "domain": "health_longevity",
+  "title": "Diagnostics gap for priority pathogens",
+  "bottleneck": "WHO's 2025 analysis found critical gaps in diagnostics for priority bacterial pathogens: tests to rapidly identify resistant infections and guide therapy are unavailable or unaffordable where resistance is worst. Without point-of-care diagnostics, clinicians prescribe empirically, accelerating resistance and mistreating patients.",
+  "why_it_blocks": "Diagnostics are the steering wheel for both stewardship and surveillance; without them, antibiotic use is blind and resistance tracking is guesswork. The pipeline fixation on drugs while ignoring diagnostics guarantees misuse of whatever drugs arrive.",
+  "current_state": "WHO released paired 2025 reports on antibacterial and diagnostic pipelines, both warning of shortfalls. Rapid molecular tests exist for a few pathogens but have not reached low-resource settings at scale. Multiplex point-of-care panels that identify pathogens and resistance genes in one test exist as prototypes, but cost and cold-chain needs block deployment where resistance is worst.",
+  "sources": [
+    {
+      "title": "WHO Warns of Weak Antibacterial Pipeline and Diagnostic Gaps (Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/health/3650844-who-warns-of-weak-antibiotic-pipeline-and-critical-diagnostic-gaps-in-amr-fight"
+    },
+    {
+      "title": "WHO Warns Of Weak Antibacterial Pipeline And Diagnostic Gaps (BW Healthcare World)",
+      "url": "https://www.bwhealthcareworld.com/article/who-warns-of-weak-antibacterial-pipeline-and-diagnostic-gaps-amid-rising-antimicrobial-resistance-574077"
+    }
+  ]
+}

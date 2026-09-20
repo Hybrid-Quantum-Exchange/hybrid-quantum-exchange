@@ -1,0 +1,14 @@
+{
+  "id": 380,
+  "domain": "medicine_cures",
+  "title": "Disease-modifying Parkinson's disease therapy",
+  "bottleneck": "Levodopa and related drugs replace lost dopamine and control symptoms, but no therapy slows or stops the underlying loss of dopaminergic neurons or the spread of alpha-synuclein pathology. After years of treatment, motor fluctuations and dyskinesias emerge while degeneration continues.",
+  "why_it_blocks": "Parkinson's affects over 10 million people worldwide and its prevalence is rising with aging populations; symptomatic treatment without disease modification means inevitable decline.",
+  "current_state": "Alpha-synuclein antibodies, LRRK2 inhibitors, GLP-1 agonists, and cell-replacement approaches are in trials. None has yet demonstrated convincing disease modification in humans, and the field is debating alternative modalities much as Alzheimer's researchers are. Because Parkinson's progresses slowly, disease-modification trials require long follow-up and sensitive progression biomarkers, both of which remain underdeveloped, slowing the entire pipeline.",
+  "sources": [
+    {
+      "title": "Review Finds Anti-Amyloid Drugs Have No Clinical Benefit, Sparking Fierce Debate",
+      "url": "https://www.iflscience.com/alzheimers-drugs-that-target-amyloid-plaques-have-no-meaningful-effects-says-major-review-sparking-fierce-debate-from-scientists-83225"
+    }
+  ]
+}

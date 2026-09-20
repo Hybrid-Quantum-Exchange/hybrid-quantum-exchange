@@ -1,0 +1,18 @@
+{
+  "id": 322,
+  "domain": "artificial_intelligence",
+  "title": "Jailbreak and adversarial robustness",
+  "bottleneck": "Despite massive investment, aligned models remain jailbreakable via encoding tricks, multi-turn manipulation, and novel attack strategies — each patch is followed by new bypasses. Adversarial robustness in deep learning has resisted decades of effort in vision and now in language; the attack surface of an open-ended conversational model may be fundamentally uncloseable. Formal guarantees of robustness don't exist for frontier models.",
+  "why_it_blocks": "Safety training that can be bypassed with a clever prompt provides no real guarantee, especially as models gain tool access where a jailbreak becomes a cyberattack. Until instruction hierarchy is architectural rather than conventional, every agent with tools remains an injection target.",
+  "current_state": "Automated red-teaming finds new jailbreaks continuously and defenses are reactive. No deployed model is robust against a determined adversary.",
+  "sources": [
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    },
+    {
+      "title": "AIAlignment - llm-wiki-agent",
+      "url": "https://github.com/wxj-1019/llm-wiki-agent/blob/HEAD/wiki/concepts/AIAlignment.md"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 779,
+  "domain": "materials",
+  "title": "Radiation-tolerant structural alloys for advanced reactors",
+  "bottleneck": "Fast-neutron fluxes in advanced reactors cause void swelling, embrittlement, and creep that can ruin structural steels within years. Oxide-dispersion-strengthened steels and high-entropy alloys show better tolerance in ion-irradiation tests, but ion beams do not fully replicate neutron damage, and real fast-neutron test reactors are scarce and oversubscribed. Qualifying any new alloy takes a decade of irradiation campaigns.",
+  "why_it_blocks": "Advanced reactors promise safer, cheaper nuclear power, but their business cases assume components last the plant lifetime. Without qualified radiation-tolerant materials, designers must derate performance or accept costly replacements, eroding the economic case.",
+  "current_state": "Ferritic-martensitic steels are the near-term reference, with ODS variants in qualification pipelines. New test reactors coming online this decade should accelerate data collection, but no advanced-reactor structural alloy is fully qualified yet.",
+  "sources": [
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    },
+    {
+      "title": "New superconductors identified, unlocking process that could yield thousands more",
+      "url": "https://phys.org/news/2026-06-superconductors-yield-thousands.html"
+    }
+  ]
+}

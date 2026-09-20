@@ -1,0 +1,18 @@
+{
+  "id": 454,
+  "domain": "health_longevity",
+  "title": "Thymic regeneration and reversal of thymic involution",
+  "bottleneck": "The thymus, the organ that generates naive T cells, is among the first to degenerate with age, leaving older adults with a memory-heavy immune repertoire that cannot recognize novel pathogens or vaccine antigens. Strategies like growth hormone plus DHEA regrew thymic tissue in a small 2019 trial, but the effect was modest, uncontrolled at scale, and no safe, durable regeneration protocol exists.",
+  "why_it_blocks": "Thymic involution is arguably the root driver of immunosenescence, underlying poor vaccine responses, infection susceptibility, and cancer immune escape in the elderly. Reversing it would rejuvenate adaptive immunity wholesale rather than patching individual diseases.",
+  "current_state": "Thymus regrowth has been demonstrated in small human studies and extensively in mice (FOXN1, KGF, IL-7 approaches), but no therapy is approved. Thymic function is now considered a central, underexploited target in immune-aging research.",
+  "sources": [
+    {
+      "title": "Thymus function may hold the key to understanding immune aging (Medical Xpress)",
+      "url": "https://medicalxpress.com/news/2026-03-thymus-function-key-immune-aging.html"
+    },
+    {
+      "title": "Immunofitness in the elderly: The role of vaccination in promoting healthy aging (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12893699/"
+    }
+  ]
+}

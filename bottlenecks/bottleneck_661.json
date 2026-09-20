@@ -1,0 +1,18 @@
+{
+  "id": 661,
+  "domain": "space",
+  "title": "Gridded ion thruster accelerator grid erosion lifetime",
+  "bottleneck": "In gridded ion thrusters, electrostatic grids accelerate xenon ions to exhaust velocities up to 100 km/s — but stray ions also bombard the grids, eroding them until efficiency degrades and the engine fails. JPL's NSTAR work traced accelerated wear to nonuniform ion-current density peaked on the thruster centerline (peak-to-average 2:1, peak-to-edge over 10:1). Smoothing the plasma profile halved peak erosion and doubled thruster life, yet erosion remains the fundamental lifetime ceiling.",
+  "why_it_blocks": "Ion thrusters are the workhorse for deep-space science missions; designers must plan around a hard wear-out limit, constraining burn duration, trajectory options, and redundancy mass.",
+  "current_state": "NASA demonstrated 48,000+ hours (5.5 years) continuous operation on the NEXT thruster. Xenon replaced corrosive mercury and caesium propellants, and grid materials and magnetic shaping keep improving, but no grid lasts indefinitely.",
+  "sources": [
+    {
+      "title": "Gridded ion thruster (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Gridded_ion_thruster"
+    },
+    {
+      "title": "Ion thrusters: Why revolutionary?",
+      "url": "https://medium.com/@irmak.zelal.cengiz2/ion-thrusters-why-revolutionary-fdec437dcd42"
+    }
+  ]
+}

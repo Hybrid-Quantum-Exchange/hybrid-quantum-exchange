@@ -1,0 +1,18 @@
+{
+  "id": 991,
+  "domain": "coordination",
+  "title": "Prize Design Misaligned with Breakthroughs",
+  "bottleneck": "Science prizes mostly reward past achievements of established figures rather than inducing future breakthroughs, and inducement prizes are rare and often badly designed (unclear criteria, insufficient purses, winner-take-all dynamics). The economics of prizes as innovation incentives is underdeveloped relative to their potential. Most prizes celebrate past winners who least need the money, rather than steering effort toward unsolved problems.",
+  "why_it_blocks": "Well-designed prizes could steer effort toward neglected bottlenecks at low cost, but current prize practice mostly celebrates the already-funded. Redirecting even a fraction of prize money toward inducement could unlock outsized progress.",
+  "current_state": "XPRIZE-style inducement prizes show the model can work, yet they remain a tiny fraction of research incentives. Large, well-designed inducement prizes for specific bottlenecks remain rare experiments.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

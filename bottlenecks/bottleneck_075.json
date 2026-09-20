@@ -1,0 +1,14 @@
+{
+  "id": 75,
+  "domain": "fundamental_physics",
+  "title": "Alternatives to inflation for the horizon problem",
+  "bottleneck": "The cosmic microwave background is uniform across regions that were never in causal contact, and inflation solves this by postulating an early exponential expansion, but the solution is not unique. Bouncing cosmologies, varying-speed-of-light models, and other alternatives can address the horizon problem without an inflaton.",
+  "why_it_blocks": "If inflation is not the unique solution, its impressive explanatory successes do not confirm it; cosmology needs a way to discriminate among mechanisms that all fit current data.",
+  "current_state": "Alternatives remain viable but underdeveloped compared to inflation, and distinguishing them requires primordial gravitational waves or non-Gaussianity measurements beyond current sensitivity. Matter-bounce scenarios generate scale-invariant spectra from a contracting phase, though producing the observed amplitude without fine-tuning is difficult. Varying-speed-of-light models solve the horizon problem but lack a compelling microphysical basis, limiting their acceptance.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 251,
+  "domain": "compute_semiconductors",
+  "title": "Silicon photonics packaging and fiber coupling",
+  "bottleneck": "Getting light on and off a photonic chip demands sub-micron alignment between fibers and grating or edge couplers, with active alignment that is slow and expensive. Unlike electronic packaging, there are no mature high-volume standards for photonic assembly and wafer-level test, so packaging can dominate total chip cost. Thermal drift further misaligns couplings in the field.",
+  "why_it_blocks": "Packaging cost and complexity keep silicon photonics confined to high-margin transceivers instead of spreading into compute interconnects and sensors. Until photonic packaging approaches electronic-packaging economics, optical I/O can't go mainstream.",
+  "current_state": "Co-packaged optics programs and automated passive-alignment techniques are advancing, with pilot production lines demonstrating progress. Wafer-scale photonic testing and low-cost assembly remain immature relative to CMOS packaging. Passive alignment techniques promise lower cost, but they demand component tolerances that today's photonic fabs struggle to hold.",
+  "sources": [
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    },
+    {
+      "title": "TomorrowDesk: Silicon Photonics challenges",
+      "url": "https://tomorrowdesk.com/future/silicon-photonic"
+    }
+  ]
+}

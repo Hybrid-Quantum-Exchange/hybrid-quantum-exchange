@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "domain": "fundamental_physics",
+  "title": "Electroweak vacuum metastability and the fate of the universe",
+  "bottleneck": "Precision measurements of the Higgs boson and top quark masses suggest our universe sits in a metastable electroweak vacuum: the Higgs potential may develop a deeper minimum at very high field values. Quantum tunneling to that true vacuum would rewrite physics itself, expanding at the speed of light. The calculated lifetime vastly exceeds the age of the universe, but the conclusion hinges on extrapolating couplings over sixteen orders of magnitude.",
+  "why_it_blocks": "This is the only experimentally accessible question about the ultimate fate of the cosmos. Settling whether the vacuum is stable, metastable, or unstable requires knowing whether new physics intervenes between the weak scale and the Planck scale, which no collider can directly probe.",
+  "current_state": "Recent analyses incorporating higher-order corrections and updated top-quark mass determinations keep the central values in the metastable region, though uncertainties still admit stability. No experiment can directly test the far-field Higgs potential, so the question remains open pending theoretical and precision-frontier progress.",
+  "sources": [
+    {
+      "title": "Electroweak vacuum stability analysis",
+      "url": "https://arxiv.org/html/2511.08843v1"
+    },
+    {
+      "title": "Higgs mass and vacuum stability",
+      "url": "https://pdfs.assets.alphaxiv.org/1405.6852v1.pdf"
+    }
+  ]
+}

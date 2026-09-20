@@ -1,0 +1,18 @@
+{
+  "id": 129,
+  "domain": "cosmology_multiverse",
+  "title": "Fast Radio Burst Progenitors",
+  "bottleneck": "Fast radio bursts release millisecond bursts of enormous energy, with some repeating and most appearing once; magnetar flares explain some repeaters, but the one-off population's origin is unknown. Host-galaxy diversity (from star-forming dwarfs to quiescent ellipticals) resists a single-progenitor model. Some bursts show complex time-frequency structure suggesting magnetospheric emission, while others look like far-away shock masers.",
+  "why_it_blocks": "FRBs could become cosmological probes (baryon census, magnetic fields) once their engines are understood; until then they are an unsolved astrophysical mystery. Until progenitors are known, FRBs cannot be fully trusted as cosmological probes despite their promise.",
+  "current_state": "CHIME catalogs thousands of FRBs; a Galactic magnetar FRB confirmed one channel, but the dominant cosmological population is unidentified. Localizing hundreds of FRBs to host galaxies is underway and should reveal whether multiple progenitor channels operate.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

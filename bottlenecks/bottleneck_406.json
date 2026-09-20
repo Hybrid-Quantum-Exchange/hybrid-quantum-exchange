@@ -1,0 +1,14 @@
+{
+  "id": 406,
+  "domain": "medicine_cures",
+  "title": "Antibiotic overuse in agriculture and the environment",
+  "bottleneck": "The majority of global antibiotic consumption occurs in livestock for growth promotion and prophylaxis, selecting for resistant bacteria that reach humans through food, water, and the environment. Agricultural use is poorly regulated in much of the world.",
+  "why_it_blocks": "Resistance is an ecological problem: human stewardship alone cannot contain resistance amplified on farms and in wastewater.",
+  "current_state": "Some countries have banned growth-promotion uses, but global agricultural antibiotic use continues to rise, and environmental surveillance remains patchy. Overuse and misuse in human medicine and agriculture are recognized as primary drivers of resistance. Denmark and the Netherlands have shown that reducing agricultural use is possible without crippling production, but global coordination is lacking. Surveillance linking farm use to human resistance remains too sparse to drive policy.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 700,
+  "domain": "space",
+  "title": "Operating machinery in permanently shadowed regions at -230 C",
+  "bottleneck": "The Moon's most valuable water ice sits in permanently shadowed craters at -230 C, where regolith is concrete-hard, lubricants freeze solid, metals turn brittle, and solar power is unavailable by definition. Equipment must survive thermal extremes, operate in darkness, and communicate without line-of-sight to Earth. Every mechanism — drills, excavators, seals, electronics — needs cryogenic-rated redesign, and failures cannot be serviced.",
+  "why_it_blocks": "PSRs are the richest known lunar resource deposits; if machines cannot work there, the lunar water economy is limited to trace hydrated minerals elsewhere — a far poorer resource base.",
+  "current_state": "The VIPER rover, designed for PSR prospecting, was cancelled in 2024; commercial landers target sunlit areas. No mission has operated inside a permanently shadowed region.",
+  "sources": [
+    {
+      "title": "How to Mine the Moon: The ISRU Process",
+      "url": "https://medium.com/@hamzatanveerahmad47/how-to-mine-the-moon-the-isru-process-c5a558017320"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

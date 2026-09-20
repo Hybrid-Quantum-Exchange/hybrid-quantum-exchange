@@ -1,0 +1,14 @@
+{
+  "id": 398,
+  "domain": "medicine_cures",
+  "title": "Bacteriophage therapy clinical standardization",
+  "bottleneck": "Bacteriophages can kill antibiotic-resistant bacteria with exquisite specificity, but therapy remains artisanal: phages must be matched to each patient's bacterial strain, manufacturing lacks standards, pharmacokinetics are poorly understood, and regulators have no established approval pathway.",
+  "why_it_blocks": "Phages are among the most promising non-traditional approaches in WHO's pipeline analysis, but without standardization they cannot scale beyond compassionate-use cases.",
+  "current_state": "Compassionate-use successes and early trials are accumulating, and engineered phages are in development. Randomized trial evidence and regulatory frameworks are still missing. Eastern European countries with long phage-therapy traditions offer observational experience, but Western regulators require randomized evidence that is only now being generated. Standardized phage banks matched to common resistant pathogens could eventually make therapy practical at scale, though investment remains modest.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    }
+  ]
+}

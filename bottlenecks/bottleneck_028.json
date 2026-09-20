@@ -1,0 +1,14 @@
+{
+  "id": 28,
+  "domain": "fundamental_physics",
+  "title": "Deriving the Born rule from first principles",
+  "bottleneck": "The Born rule, which turns quantum amplitudes into probabilities via the squared modulus, is postulated rather than derived in textbook quantum mechanics. Attempts to derive it from decision theory, envariance, or frequency arguments either smuggle in probabilistic assumptions or work only within specific interpretations.",
+  "why_it_blocks": "Probability is the theory's only bridge to experiment; if the rule connecting formalism to observed frequencies cannot be derived, quantum mechanics rests on an unexplained axiom at its most empirical point.",
+  "current_state": "Zurek's envariance derivation and Deutsch-Wallace decision-theoretic arguments are influential but contested; Gleason's theorem constrains the form of any probability rule without fully explaining its physical origin. Gleason's theorem fixes the mathematical form of quantum probabilities but does not explain why observed frequencies should follow them.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

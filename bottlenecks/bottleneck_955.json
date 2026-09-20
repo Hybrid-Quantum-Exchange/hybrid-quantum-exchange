@@ -1,0 +1,18 @@
+{
+  "id": 955,
+  "domain": "food_water_agriculture",
+  "title": "Agroforestry adoption at scale",
+  "bottleneck": "Integrating trees into farmland improves soil, sequesters carbon, diversifies income, and buffers climate shocks — yet adoption is low because trees take years to pay off, complicate mechanization, and tenure insecurity discourages long-term investment. The benefits are diffuse and long-term; the costs are immediate and concrete. Extension systems built for annual crops don't know how to support tree-crop systems. Extension systems built for annual crops do not know how to support tree-crop systems.",
+  "why_it_blocks": "Agroforestry is one of the few practices that simultaneously addresses soil, climate, and income. Its failure to scale leaves all three problems worse.",
+  "current_state": "FAO promotes agroforestry among its proven solutions; adoption lags, cited as low in most regional assessments. FAO promotes agroforestry among its proven solutions, yet adoption lags in most regional assessments.",
+  "sources": [
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    },
+    {
+      "title": "Restoring damaged soil could feed 70 million more people a year",
+      "url": "https://www.earth.com/plants/restoring-damaged-soil-could-feed-70-million-more-people-a-year/"
+    }
+  ]
+}

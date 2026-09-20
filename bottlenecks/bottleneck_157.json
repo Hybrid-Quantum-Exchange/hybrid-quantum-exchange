@@ -1,0 +1,18 @@
+{
+  "id": 157,
+  "domain": "energy",
+  "title": "Tritium permeation through fusion coolant systems",
+  "bottleneck": "Tritium bred in blankets diffuses through hot steel walls into coolant loops, whether helium, water, or liquid metal, at rates that can contaminate entire secondary systems. Permeation barriers such as alumina or erbium oxide coatings work in the lab but crack, spall, or degrade under neutron irradiation and thermal cycling. Once tritium enters water coolant it forms tritiated water, which is far harder to contain and clean up.",
+  "why_it_blocks": "Uncontrolled permeation turns a contained fuel cycle into a plant-wide contamination problem, threatening worker dose limits, environmental releases, and the operating license itself.",
+  "current_state": "Permeation barrier coatings are an active research area with promising lab results. Integrated testing under simultaneous heat, radiation, and tritium exposure has not been achieved.",
+  "sources": [
+    {
+      "title": "How lithium walls trap tritium in fusion reactors revealed",
+      "url": "https://phys.org/news/2025-07-lithium-walls-tritium-fusion-reactors.amp"
+    },
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    }
+  ]
+}

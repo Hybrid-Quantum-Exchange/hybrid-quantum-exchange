@@ -1,0 +1,18 @@
+{
+  "id": 983,
+  "domain": "coordination",
+  "title": "Clinical Trial Bottlenecks",
+  "bottleneck": "Most clinical trials fail to recruit on time, costs per approved drug keep rising, and trial populations skew unrepresentative. Regulatory conservatism, fragmented health data, and misaligned incentives (trials as marketing vs. trials as science) compound the inefficiency. Regulatory demands designed for safety also entrench incumbents who can afford compliance, reducing competition.",
+  "why_it_blocks": "Slow, expensive trials delay effective therapies and bias medicine toward diseases of the already-studied. Patients wait years longer for therapies that already exist in trial pipelines. Unrepresentative trials also produce medicine optimized for the already-studied.",
+  "current_state": "Decentralized and platform trial designs show promise but face regulatory and institutional inertia. Adaptive trial designs could cut costs substantially if regulators embraced them fully. Faster, more representative trials would benefit patients and science alike.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Doctors Worry Grant Changes Will Derail Biomedical Science (The Scientist)",
+      "url": "https://www.the-scientist.com/doctors-worry-grant-changes-will-derail-biomedical-science-74893"
+    }
+  ]
+}

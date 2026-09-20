@@ -1,0 +1,18 @@
+{
+  "id": 469,
+  "domain": "health_longevity",
+  "title": "Vascular aging and arterial stiffening",
+  "bottleneck": "Arteries stiffen with age through elastin fragmentation, collagen crosslinking (advanced glycation end-products), and endothelial dysfunction, driving hypertension, heart failure, and stroke. Unlike cholesterol, arterial stiffness has no approved drug therapy; AGE-breakers like alagebrium failed clinically, and the causal chain from stiffness to end-organ damage is still being mapped.",
+  "why_it_blocks": "Cardiovascular disease kills more older adults than any other cause, and vascular aging underlies it. Without a therapy targeting the vessel wall itself, prevention stays limited to risk-factor control that does not reverse stiffness.",
+  "current_state": "Management is blood pressure and lipid control plus exercise. Pulse-wave velocity is a research biomarker, not a treatment target in guidelines. Senolytics are being explored for vascular calcification and stiffness. Crosslink breakers failed clinically, shifting attention to senolytics and anti-fibrotic approaches for the vessel wall, though no therapy has yet reduced arterial stiffness in humans.",
+  "sources": [
+    {
+      "title": "New analysis reveals fundamental flaws in widely used measures of biological aging (News-Medical)",
+      "url": "https://www.news-medical.net/news/20251203/New-analysis-reveals-fundamental-flaws-in-widely-used-measures-of-biological-aging.aspx"
+    },
+    {
+      "title": "Bottlenecks in aging research (Lifespan.io researcher survey)",
+      "url": "https://www.lifespan.io/wp-content/uploads/2018/07/Lifespan.io_Event_kit_Bottlenecks_in_research.pdf"
+    }
+  ]
+}

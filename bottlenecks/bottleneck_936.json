@@ -1,0 +1,18 @@
+{
+  "id": 936,
+  "domain": "food_water_agriculture",
+  "title": "Agricultural water pricing and allocation",
+  "bottleneck": "Irrigation water is free or nearly free in most of the world — subsidized electricity for pumping, unmetered canals — so farmers have no incentive to conserve, and growing rice in deserts is economically rational for the individual while hydrologically insane. Pricing water at its scarcity value is the textbook fix, but it's politically explosive: it threatens smallholder livelihoods and food prices, so reforms die. Pricing water at its scarcity value is the textbook fix, but it is politically explosive and reforms die.",
+  "why_it_blocks": "Mispriced water drives planting of water-intensive crops in water-scarce regions — the root cause of aquifer depletion worldwide.",
+  "current_state": "A few basins use tradable allocations; most of the world's irrigation water remains unpriced and unmetered.",
+  "sources": [
+    {
+      "title": "In Agriculture Groundwater Is Tapped By Agriculture: 7 Issues",
+      "url": "https://farmonaut.com/blogs/in-agriculture-groundwater-is-tapped-by-agriculture-7-issues"
+    },
+    {
+      "title": "Groundwater depletion and sustainability of irrigation in the US High Plains and Central Valley",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3386121/"
+    }
+  ]
+}

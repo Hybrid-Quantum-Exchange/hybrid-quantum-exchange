@@ -1,0 +1,18 @@
+{
+  "id": 483,
+  "domain": "health_longevity",
+  "title": "Senomorphic SASP suppression versus senolytics",
+  "bottleneck": "Killing senescent cells (senolytics) is risky because some senescent cells aid wound healing and tumor suppression; an alternative is senomorphics, which suppress the toxic secretions (SASP) without killing the cell. But SASP is heterogeneous across tissues and contexts, and chronic suppression may blunt beneficial acute senescence responses.",
+  "why_it_blocks": "The field must choose between two fundamentally different strategies with different risk profiles, and the wrong choice at scale could mean either toxicity (senolytics) or blunted healing (senomorphics).",
+  "current_state": "Repurposed drugs show senomorphic activity: rosuvastatin plus ezetimibe reduced senescent CD8+ T cells in diabetics, and digoxin showed senolytic/senomorphic effects in fibrosis models. Dedicated senomorphic drugs are preclinical. JAK inhibitors suppress SASP components in early studies, but chronic JAK blockade impairs immunity, illustrating the narrow therapeutic window of systemic SASP suppression.",
+  "sources": [
+    {
+      "title": "What Is: Cellular Senescence (Scientific Frontline)",
+      "url": "https://www.sflorg.com/2026/03/wi03202601.html"
+    },
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    }
+  ]
+}

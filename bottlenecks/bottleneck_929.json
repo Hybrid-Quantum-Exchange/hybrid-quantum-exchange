@@ -1,0 +1,18 @@
+{
+  "id": 929,
+  "domain": "food_water_agriculture",
+  "title": "Herbicide-resistant weeds",
+  "bottleneck": "Weeds have evolved resistance to nearly all major herbicide modes of action, with glyphosate-resistant superweeds now infesting millions of hectares; weed control consumes a large share of farm labor and chemical budgets worldwide. New herbicide chemistry has essentially stalled — no new mode of action in decades — leaving mechanical and cultural control, which don't scale to industrial farming, as the fallback. New herbicide chemistry has essentially stalled - no new mode of action in decades - leaving non-scalable fallbacks.",
+  "why_it_blocks": "Weeds cut yields by competing for light, water, and nutrients. Losing chemical control threatens the economics of large-scale grain production. Losing chemical control threatens the economics of large-scale grain production.",
+  "current_state": "Integrated weed management is preached but rarely practiced at scale; the chemistry pipeline is dry.",
+  "sources": [
+    {
+      "title": "Limiting Factors to Crop Yield",
+      "url": "https://pro-soil.com/limiting-factors-to-crop-yield/"
+    },
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    }
+  ]
+}

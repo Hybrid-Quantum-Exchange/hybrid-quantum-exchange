@@ -1,0 +1,18 @@
+{
+  "id": 151,
+  "domain": "energy",
+  "title": "Neutron damage to superconducting fusion magnets",
+  "bottleneck": "Fusion magnets sit meters from a 14 MeV neutron source that degrades insulators, embrittles structural steel, and deposits heat inside the superconducting windings themselves. High-temperature superconductors like REBCO tolerate higher fields, but their radiation hardness at fusion-relevant fluences is poorly characterized, and neutron heating of the cold mass raises cryogenic power demands. Shielding the magnets requires thick blankets that push the plasma further from the coils, raising magnet cost and size.",
+  "why_it_blocks": "Magnets are the most expensive single system in a tokamak. If neutron damage forces derating, thicker shielding, or frequent replacement, the capital cost of fusion plants balloons beyond any plausible electricity price.",
+  "current_state": "REBCO tape is being irradiated in test facilities and 20-tesla-class compact tokamak magnets have been demonstrated, but lifetime neutron-damage data for HTS coils does not yet exist.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    }
+  ]
+}

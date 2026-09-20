@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "domain": "fundamental_physics",
+  "title": "The inflaton: identity and potential of the inflationary field",
+  "bottleneck": "Cosmic inflation explains the universe's flatness and the origin of structure, but the inflaton field driving it has never been identified and its potential is constrained only loosely by the spectral index and tensor limits. Hundreds of models fit the data, from single-field slow roll to multi-field and non-canonical scenarios.",
+  "why_it_blocks": "Inflation is cosmology's central paradigm for the first fraction of a second; without knowing what inflated, the theory is a framework awaiting its physical content.",
+  "current_state": "Planck satellite data favor simple plateau-like potentials and bound primordial gravitational waves tightly, but the inflaton's identity remains as open as ever. The Lyth bound connects observable gravitational waves to super-Planckian field excursions, creating tension with effective field theory control. Reconstructing the potential from data is an inverse problem with many degenerate solutions, so even perfect measurements may not identify the inflaton.",
+  "sources": [
+    {
+      "title": "What are the unsolved problems in physics - Axtelnet",
+      "url": "http://axtelnet.com/archive-m-bechtler-27/what-are-the-unsolved-problems-in-physics"
+    },
+    {
+      "title": "New hypothesis claims to solve 5 of the biggest problems in physics - ScienceAlert",
+      "url": "https://sciencealert.com/this-new-hypothesis-claims-to-have-solved-5-of-the-biggest-problems-in-physics/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 478,
+  "domain": "health_longevity",
+  "title": "Frailty syndrome prediction and reversal",
+  "bottleneck": "Frailty, the clinical endpoint of aging, is diagnosed only after reserve is lost, using crude scales (grip strength, gait speed). The molecular transition from robust to pre-frail to frail is unmapped, and no intervention has been shown to reverse established frailty rather than merely slow its progression.",
+  "why_it_blocks": "Frailty is what actually kills and institutionalizes older adults. Without early molecular prediction and a reversal therapy, geriatric care remains reactive damage control.",
+  "current_state": "Frailty indices and phenotypic criteria guide care planning. Exercise, protein, and vitamin D show modest benefit. Geroscience trials (senolytics, metformin via TAME) target frailty-related endpoints but results are pending. Multidomain trials combining exercise, nutrition, and cognitive training show the largest effects on frailty scores, but benefits fade when interventions stop and no drug reverses established frailty.",
+  "sources": [
+    {
+      "title": "Addressing challenges to clinical translation of biomarkers of aging tools (Medical Xpress, Nature Aging)",
+      "url": "https://medicalxpress.com/news/2024-09-clinical-biomarkers-aging-tools.html"
+    },
+    {
+      "title": "New analysis reveals fundamental flaws in widely used measures of biological aging (News-Medical)",
+      "url": "https://www.news-medical.net/news/20251203/New-analysis-reveals-fundamental-flaws-in-widely-used-measures-of-biological-aging.aspx"
+    }
+  ]
+}

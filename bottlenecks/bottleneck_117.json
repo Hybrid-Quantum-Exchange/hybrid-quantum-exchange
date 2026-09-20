@@ -1,0 +1,18 @@
+{
+  "id": 117,
+  "domain": "cosmology_multiverse",
+  "title": "Microstate counting for de Sitter entropy",
+  "bottleneck": "Black hole entropy was explained microscopically by counting string-theory microstates, but the entropy of de Sitter space, the geometry describing our accelerating universe, has no accepted microscopic derivation. The de Sitter horizon has a finite entropy and temperature, yet there is no agreed quantum description of the states it counts.",
+  "why_it_blocks": "Without microstates for de Sitter space, quantum gravity cannot describe the universe we actually inhabit. Every candidate theory of quantum gravity must eventually reproduce the observed positive cosmological constant and its horizon entropy from first principles.",
+  "current_state": "Holographic proposals, static-patch approaches, and T-Tbar deformations of conformal field theories are active research directions, with recent work exploring explicit state counting in simplified models. None has yet produced a controlled, universally accepted counting of de Sitter microstates.",
+  "sources": [
+    {
+      "title": "De Sitter entropy microstates",
+      "url": "https://arxiv.org/html/2506.03058v1"
+    },
+    {
+      "title": "Quantum description of de Sitter space",
+      "url": "https://arxiv.org/abs/2511.09624v1"
+    }
+  ]
+}

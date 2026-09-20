@@ -1,0 +1,18 @@
+{
+  "id": 855,
+  "domain": "xr_interface",
+  "title": "AR waveguide outdoor brightness barrier",
+  "bottleneck": "Diffractive waveguides are optically inefficient, so readable AR in daylight demands roughly 4,000 nits delivered to the eye, requiring multi-lumen light engines that exceed the ~1W thermal budget of eyewear temples. Indoor use needs only hundreds of nits, but sunlight is orders of magnitude brighter. The brightness-power-heat triangle has no current solution in a glasses form factor.",
+  "why_it_blocks": "AR that washes out outdoors can't serve navigation, field work, or everyday use, confining AR glasses to indoor demos. Daylight readability is the gate to AR as an all-day platform.",
+  "current_state": "MicroLED light engines are improving efficiency, and electrochromic dimming helps contrast, but no shipping waveguide glasses are comfortably readable in full daylight. Each extra nit of brightness costs power and heat the glasses cannot shed, so daylight readability stays gated by light-engine efficiency.",
+  "sources": [
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    },
+    {
+      "title": "EE Times: AR brightness requirements",
+      "url": "https://www.eetimes.com/how-bright-is-bright-enough-for-ar-in-the-real-world/"
+    }
+  ]
+}

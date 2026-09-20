@@ -1,0 +1,18 @@
+{
+  "id": 461,
+  "domain": "health_longevity",
+  "title": "Proteostasis collapse and age-related protein aggregation",
+  "bottleneck": "With age, the protein quality-control network (chaperones, ubiquitin-proteasome, autophagy) loses capacity, letting misfolded proteins aggregate in brain, muscle, and other tissues. This underlies Alzheimer's, Parkinson's, and sarcopenia alike, yet the network is so interconnected that boosting one arm (e.g., autophagy) often fails to rescue the whole system.",
+  "why_it_blocks": "Proteostasis loss is the common upstream of the most feared age-related diseases. Without a way to restore system-wide protein quality control, each aggregation disease must be fought protein by protein.",
+  "current_state": "Autophagy enhancers and chemical chaperones are in early trials, mostly for neurodegeneration. No intervention has demonstrated restored proteostasis capacity in aging humans. Heat-shock protein inducers like arimoclomol showed promise in ALS models but failed in human trials, underscoring the gap between boosting one chaperone and restoring network-wide capacity.",
+  "sources": [
+    {
+      "title": "Sarcopenia and Muscle Aging: Updated Insights into Molecular Mechanisms and Translational Therapeutics (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12963776/"
+    },
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    }
+  ]
+}

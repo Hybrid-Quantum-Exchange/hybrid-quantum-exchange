@@ -1,0 +1,18 @@
+{
+  "id": 951,
+  "domain": "food_water_agriculture",
+  "title": "Economics of vertical farming",
+  "bottleneck": "Vertical farms control every variable — light, water, nutrients — and use 95% less water than field agriculture, but electricity for lighting and climate control dominates costs, making all but leafy greens and herbs uneconomic. Staple crops need orders of magnitude more photons than LEDs can profitably deliver; no amount of optimization changes the physics of sunlight being free.",
+  "why_it_blocks": "Vertical farming was pitched as the future of food production, but its economics confine it to a niche. The crops that matter most can't be grown vertically at viable cost. Vertical farming was pitched as the future of food, but its economics confine it to a high-value niche.",
+  "current_state": "Multiple high-profile vertical farms have gone bankrupt; survivors focus on high-value greens near cities.",
+  "sources": [
+    {
+      "title": "Alternative proteins: Barriers to commercialisation",
+      "url": "https://www.foodnavigator.com/Article/2025/10/15/alternative-proteins-barriers-to-commercialisation/"
+    },
+    {
+      "title": "The Ceiling Above Every Field: How Nitrogen Set the Ultimate Limit",
+      "url": "https://medium.com/@ibsintensive159357/the-ceiling-above-every-field-68b50ba97173"
+    }
+  ]
+}

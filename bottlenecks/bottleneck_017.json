@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "domain": "fundamental_physics",
+  "title": "AMPS firewall paradox at the black hole horizon",
+  "bottleneck": "The 2012 AMPS argument showed that preserving unitarity, the equivalence principle, and effective field theory outside the horizon are mutually incompatible for an old black hole, apparently forcing a high-energy firewall at the horizon that would incinerate infalling observers. Something beloved must be sacrificed, but physicists disagree on what.",
+  "why_it_blocks": "The firewall pits Einstein's equivalence principle directly against quantum unitarity; resolving it decides whether horizons are smooth as relativity demands or violent as quantum information suggests.",
+  "current_state": "Proposed resolutions include firewalls as real, complementarity, fuzzballs with no horizon at all, and ER=EPR wormholes, with the island calculations of recent years favoring unitarity but leaving the infalling observer's experience ambiguous. Recent island and replica-wormhole calculations favor unitary evaporation, but what an infalling observer actually experiences at the horizon remains disputed.",
+  "sources": [
+    {
+      "title": "Curtains down for the black hole firewall paradox - ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2013/03/130306084151.htm"
+    },
+    {
+      "title": "Black Hole Information Paradox - kb-physics open questions",
+      "url": "https://github.com/thibautbaissac/kb-physics/blob/HEAD/kb/open-questions/black-hole-information-paradox.md"
+    }
+  ]
+}

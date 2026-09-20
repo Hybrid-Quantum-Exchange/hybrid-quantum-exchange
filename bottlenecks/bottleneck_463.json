@@ -1,0 +1,18 @@
+{
+  "id": 463,
+  "domain": "health_longevity",
+  "title": "Causal drivers of Alzheimer's disease beyond amyloid",
+  "bottleneck": "Decades of amyloid-focused research produced drugs that clear plaques without meaningful cognitive benefit: a 2026 Cochrane review of 17 trials and 20,342 patients found anti-amyloid drugs had little to no impact on decline. The field still lacks a validated causal model integrating tau, neuroinflammation, vascular, metabolic, and microbial contributors.",
+  "why_it_blocks": "Alzheimer's is the most expensive and feared disease of aging; continuing to pour the majority of funding into a hypothesis that has failed clinically delays real disease-modifying therapies by decades.",
+  "current_state": "Lecanemab and donanemab are approved but offer marginal slowing with brain swelling and bleeding risks; the UK and France declined coverage. Research is pivoting toward tau, microglial, and metabolic targets, but no replacement causal framework commands consensus.",
+  "sources": [
+    {
+      "title": "Major Review Finds Alzheimer's Amyloid Drugs Offer No Real Benefit (SciTechDaily, Cochrane review)",
+      "url": "https://scitechdaily.com/major-review-finds-alzheimers-amyloid-drugs-offer-no-real-benefit/"
+    },
+    {
+      "title": "Why Don't We Have a Cure for Alzheimer's? (WebMD)",
+      "url": "https://www.webmd.com/alzheimers/features/alzheimers-amyloid-hypothesis-rut"
+    }
+  ]
+}

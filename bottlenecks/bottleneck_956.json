@@ -1,0 +1,18 @@
+{
+  "id": 956,
+  "domain": "coordination",
+  "title": "Peer Review Penalizes Novel Grant Proposals",
+  "bottleneck": "Grant reviewers, who are typically competitors of applicants, systematically favor safe, incremental proposals with extensive preliminary data over bold ideas. Documented cases — from prion research to mRNA work by Katalin Karikó — show Nobel-level breakthroughs initially denied funding, suggesting the system filters against exactly the work that matters most. High-risk programs remain a small fraction of agency budgets, and their evaluation criteria often drift back toward conventional metrics.",
+  "why_it_blocks": "If funding selects for consensus science, transformative ideas starve at the proposal stage and progress slows to the pace of the already-agreed.",
+  "current_state": "The pattern is long documented but unreformed; agencies have piloted high-risk programs (e.g., NIH Pioneer awards) at small scale without changing the core system. Scaling what works in pilot high-risk programs to the core funding system is the unresolved challenge.",
+  "sources": [
+    {
+      "title": "'Science by Consensus' Impedes Scientific Creativity (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11126901/"
+    },
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    }
+  ]
+}

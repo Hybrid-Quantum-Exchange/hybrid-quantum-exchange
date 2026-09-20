@@ -1,0 +1,18 @@
+{
+  "id": 850,
+  "domain": "climate_environment",
+  "title": "Tropical forest degradation monitoring",
+  "bottleneck": "Deforestation gets the attention, but degradation — selective logging, understory fires, edge effects — may emit as much carbon while remaining nearly invisible to standard satellite monitoring: canopy cover persists while biomass and biodiversity collapse underneath. New radar and lidar methods can see degradation but lack the historical baselines and operational pipelines of deforestation tracking. REDD+ payments built on deforestation metrics miss most of the damage.",
+  "why_it_blocks": "If degradation emissions are uncounted, forest carbon accounting is systematically wrong and conservation targets the wrong threat. The monitoring gap lets the largest forest carbon losses hide in plain sight.",
+  "current_state": "GEDI lidar and new radar missions are mapping forest structure in 3D, promising degradation-sensitive monitoring. But operational, policy-ready degradation tracking integrated into carbon finance is still years away.",
+  "sources": [
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    },
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse"
+    }
+  ]
+}

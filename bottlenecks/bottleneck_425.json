@@ -1,0 +1,18 @@
+{
+  "id": 425,
+  "domain": "medicine_cures",
+  "title": "Disease-modifying therapy for COPD beyond symptom control",
+  "bottleneck": "Chronic obstructive pulmonary disease is treated with bronchodilators, inhaled steroids, and newer biologics that cut exacerbations in eosinophilic subsets, but nothing reverses the underlying airway remodeling and alveolar destruction. Lung function decline continues even in optimally treated patients, and COPD remains a leading global cause of death.",
+  "why_it_blocks": "A therapy that actually modified the disease course would change the prognosis of hundreds of millions of patients. Instead, treatment is phenotype-limited control layered over inexorable decline, leaving prevention through smoking cessation as the only truly effective intervention.",
+  "current_state": "Recent biologics targeting interleukin pathways show exacerbation reductions in selected patients, and regenerative approaches with stem cells are in early trials. None has yet demonstrated reversal of established emphysematous damage in humans.",
+  "sources": [
+    {
+      "title": "COPD treatment review",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/resp.70244"
+    },
+    {
+      "title": "Expanding treatments for COPD management",
+      "url": "https://www.chestphysician.org/expanding-treatments-for-copd-management/"
+    }
+  ]
+}

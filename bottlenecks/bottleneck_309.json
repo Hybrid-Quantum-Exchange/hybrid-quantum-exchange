@@ -1,0 +1,18 @@
+{
+  "id": 309,
+  "domain": "artificial_intelligence",
+  "title": "Uncertainty quantification and calibrated confidence",
+  "bottleneck": "Frontier models express confidence that bears little relation to actual correctness — they are confidently wrong as often as hesitantly right. True calibration requires the model to know what it doesn't know, including out-of-distribution detection, but softmax probabilities and verbalized confidence are both poorly calibrated. There is no reliable I-don't-know signal.",
+  "why_it_blocks": "In medicine, law, and autonomous decisions, acting on an overconfident wrong answer is the primary failure mode. Without calibration, human reviewers can't tell which outputs need checking. Deployers either over-trust confident errors or waste expert time double-checking everything, including correct outputs.",
+  "current_state": "Conformal prediction and calibration techniques help on narrow tasks but break down on open-ended generation. Frontier models remain systematically miscalibrated. Verbalized confidence correlates with correctness only weakly, and RLHF can actively degrade calibration.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "Many safety evaluations for AI models have significant limitations | TechCrunch",
+      "url": "https://bestofai.com/article/many-safety-evaluations-for-ai-models-have-significant-limitations-techcrunch"
+    }
+  ]
+}

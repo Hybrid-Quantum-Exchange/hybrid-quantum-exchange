@@ -1,0 +1,18 @@
+{
+  "id": 395,
+  "domain": "medicine_cures",
+  "title": "HIV latent reservoir and a sterilizing cure",
+  "bottleneck": "Antiretroviral therapy suppresses HIV but cannot touch latent proviruses integrated into resting CD4+ T cells, which reignite infection if treatment stops. Current latency-reversing agents have shown limited efficacy in shrinking the reservoir in clinical studies, and the persistence of latent virus is described as the greatest barrier to curing AIDS.",
+  "why_it_blocks": "Over 40 million people live with HIV; lifelong therapy is a triumph but also a burden, and a cure requires eliminating a reservoir that is invisible to drugs and the immune system.",
+  "current_state": "Novel approaches, including virus-like-particle latency reversers far more potent than existing agents, BRD9 inhibitors, and CARD8-inflammasome kill strategies, show preclinical and early clinical promise. No strategy has yet produced a sterilizing cure.",
+  "sources": [
+    {
+      "title": "HIV-Free Hopes Raised by Reservoir-Targeting VLPs",
+      "url": "https://www.genengnews.com/news/hiv-free-hopes-raised-by-reservoir-targeting-vlps/"
+    },
+    {
+      "title": "HKUMed discovers key protein that enables shock and kill strategy for HIV latent virus clearance",
+      "url": "https://lead.hku.hk/en/article/2025/06/hkumed-discovers-key-protein-that-enables-shock-kill-strategy-for-hiv-latent-virus-clearance/"
+    }
+  ]
+}

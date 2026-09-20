@@ -1,0 +1,18 @@
+{
+  "id": 61,
+  "domain": "fundamental_physics",
+  "title": "The particle identity of dark matter",
+  "bottleneck": "Dark matter's gravitational effects are mapped in exquisite detail, yet after decades of direct detection, indirect detection, and collider production searches, not a single dark matter particle has been identified. Every major candidate class, WIMPs, axions, sterile neutrinos, has a shrinking but nonzero allowed region, and the true answer could lie somewhere entirely unconsidered.",
+  "why_it_blocks": "Dark matter is five sixths of all matter; not knowing what it is means the dominant form of matter in the universe is a complete mystery, stalling cosmology and particle physics alike.",
+  "current_state": "LZ recently reported a single unexplained 248 keV nuclear-recoil event at 2.6 sigma, intriguing but far below discovery threshold, while the main WIMP searches continue to report world-leading null results.",
+  "sources": [
+    {
+      "title": "LUX-ZEPLIN sees an unexplained event in dark-matter search - Curiosmos",
+      "url": "https://curiosmos.com/lux-zeplin-unexplained-event-dark-matter-hint/"
+    },
+    {
+      "title": "LUX-ZEPLIN detector makes surprising discovery in search for dark matter - The Brighter Side",
+      "url": "https://www.thebrighterside.news/post/lux-zeplin-detector-makes-surprising-discovery-in-search-for-dark-matter/"
+    }
+  ]
+}

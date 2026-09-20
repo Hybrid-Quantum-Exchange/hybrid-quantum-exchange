@@ -1,0 +1,18 @@
+{
+  "id": 826,
+  "domain": "climate_environment",
+  "title": "Solar geoengineering governance framework",
+  "bottleneck": "Solar radiation modification could cool the planet but no legitimate global governance exists to decide whether, when, or how it is researched or deployed: the CBD has a de-facto moratorium on outdoor experiments, UNEA talks collapsed without consensus, and in 2025 all 54 African states backed a non-use agreement while a startup got $60M for SRM experiments. Unilateral deployment by one actor would affect every nation's climate, yet there is no forum with authority to stop it.",
+  "why_it_blocks": "The governance vacuum is itself dangerous: it invites rogue experimentation while blocking the coordinated research needed to understand risks. Either ungoverned deployment or a panicked ban could produce worse outcomes than careful, governed inquiry.",
+  "current_state": "The EU Parliament calls for an EU moratorium and global framework, the UK launched a 56.8M pound research program in 2025, and the EU's chief scientific advisors issued a formal opinion in 2024. But no path to binding international governance has emerged.",
+  "sources": [
+    {
+      "title": "Options for the responsible governance of research on solar radiation modification",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2026)789310"
+    },
+    {
+      "title": "Changes in solar radiation: risks, uncertainties and governance",
+      "url": "https://www.college-de-france.fr/en/agenda/symposium/geoengineering-at-glance/changes-in-solar-radiation-risks-uncertainties-and-governance"
+    }
+  ]
+}

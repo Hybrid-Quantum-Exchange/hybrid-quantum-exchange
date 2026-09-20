@@ -1,0 +1,18 @@
+{
+  "id": 259,
+  "domain": "compute_semiconductors",
+  "title": "Neuromorphic software stack and standardization",
+  "bottleneck": "Every neuromorphic platform speaks its own language: no common programming model, no standard benchmarks, and toolchains far poorer than CUDA. Developers must learn event-driven paradigms with immature debuggers and profilers, and models trained for one chip don't port to another. Fragmentation raises the cost of every experiment.",
+  "why_it_blocks": "Hardware without software is a paperweight: the CUDA ecosystem is a large part of why GPUs won AI. Neuromorphic platforms can't attract developers or workloads until programming them is as routine as training a PyTorch model.",
+  "current_state": "Community frameworks and some vendor SDKs are emerging, and standards discussions are underway. But the ecosystem remains sparse, incompatible across platforms, and years behind conventional accelerators. The lack of standard APIs means code written for one vendor's chip cannot run on another's without a rewrite, fragmenting an already tiny developer base.",
+  "sources": [
+    {
+      "title": "Educba: Neuromorphic Computing",
+      "url": "https://www.educba.com/neuromorphic-computing/"
+    },
+    {
+      "title": "MindRemix: Neuromorphic brain-inspired revolution",
+      "url": "https://www.mindremix.com/2025/12/neuromorphic-computing-brain-inspired.html"
+    }
+  ]
+}

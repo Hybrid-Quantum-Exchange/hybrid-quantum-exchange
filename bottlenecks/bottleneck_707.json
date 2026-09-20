@@ -1,0 +1,18 @@
+{
+  "id": 707,
+  "domain": "space",
+  "title": "Excavating cryogenic regolith",
+  "bottleneck": "At -230 C in shadowed craters (or -180 C on a Martian winter night), regolith behaves like concrete: it is abrasive, electrostatically charged, and destroys conventional excavation hardware — cutting teeth shatter, lubricants freeze, bearings seize, and dust infiltrates every seal. Terrestrial mining equipment is orders of magnitude too heavy to land, and lightweight robotic excavators with enough traction in 1/6 g barely exist as prototypes. Heating the ground first costs prohibitive energy.",
+  "why_it_blocks": "Every ISRU architecture starts with digging; if excavators cannot survive the environment, no downstream processing plant ever gets fed.",
+  "current_state": "NASA's RASSOR and ESA rover concepts test excavation in labs; terrestrial analog trials validate pieces. No cryogenic-regolith excavation at operational scale, on Earth or off.",
+  "sources": [
+    {
+      "title": "How to Mine the Moon: The ISRU Process",
+      "url": "https://medium.com/@hamzatanveerahmad47/how-to-mine-the-moon-the-isru-process-c5a558017320"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

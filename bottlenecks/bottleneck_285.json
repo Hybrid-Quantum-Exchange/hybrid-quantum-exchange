@@ -1,0 +1,18 @@
+{
+  "id": 285,
+  "domain": "compute_semiconductors",
+  "title": "On-chip wireless interconnect for chiplet meshes",
+  "bottleneck": "Using millimeter-wave or terahertz wireless links between chiplets could replace dense wired interconnects, but on-chip antennas are inefficient, wireless channels inside packages suffer multipath and interference, and transceivers burn significant power. Bandwidth density of wireless links trails wired SerDes by orders of magnitude, and security of broadcast on-chip communication is an added concern.",
+  "why_it_blocks": "If wireless interconnect worked at scale, chiplet assembly would get dramatically simpler and cheaper; as it stands, the bandwidth and efficiency gaps keep it a research curiosity. Wired interconnect complexity remains a tax on every disaggregated design.",
+  "current_state": "Lab demos show multi-Gbps on-chip wireless links, and standards discussions exist. Practical bandwidth density, power, and interference management are far from production needs. Antenna efficiency inside lossy packages is poor, so link budgets close only over impractically short distances.",
+  "sources": [
+    {
+      "title": "Patsnap: UCIe chiplet thermal design",
+      "url": "https://eureka.patsnap.com/report-thermal-design-for-2-5d-3d-ucie-chiplet-interconnect"
+    },
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    }
+  ]
+}

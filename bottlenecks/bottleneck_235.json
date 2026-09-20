@@ -1,0 +1,18 @@
+{
+  "id": 235,
+  "domain": "compute_semiconductors",
+  "title": "Overlay accuracy at angstrom-scale nodes",
+  "bottleneck": "Patterning at 2nm and below requires aligning dozens of exposures with overlay errors below a nanometer, across wafers that warp and expand thermally. High-NA EUV's reduced depth of focus makes the process hypersensitive to focus and overlay drift, and chiplet/3D flows multiply the number of aligned layers. Current metrology samples only a fraction of fields, so drift can go undetected until wafers are scrapped.",
+  "why_it_blocks": "Every overlay miss degrades transistor performance or kills dies outright; at these scales, misalignment is indistinguishable from a broken process. Yield learning stalls because the feedback loop between exposure and metrology is too slow and too sparse.",
+  "current_state": "Advanced overlay control with in-situ metrology and machine-learning corrections is deployed at 3nm-class nodes, and ASML's latest scanners ship tighter overlay specs. Sub-nanometer control at HVM speeds is still aspirational.",
+  "sources": [
+    {
+      "title": "Business News Today: Dry resist & high-NA EUV",
+      "url": "https://business-news-today.com/dry-resist-and-high-na-euv-is-this-the-breakthrough-that-can-finally-unlock-sub-2nm-chips/"
+    },
+    {
+      "title": "MarketMinute: Printing the 2nm era",
+      "url": "https://bakersfield.marketminute.com/article/tokenring-2026-1-26-printing-the-2nm-era-asmls-350-million-high-na-euv-machines-hit-the-production-floor"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 118,
+  "domain": "cosmology_multiverse",
+  "title": "Origin of Cosmic Magnetic Fields",
+  "bottleneck": "Micro-Gauss magnetic fields thread galaxies and clusters, and gamma-ray data hint at intergalactic fields in voids — but their seeds are unexplained. Inflationary magnetogenesis, phase-transition mechanisms, and astrophysical dynamos each face theoretical or observational hurdles, and void fields, if real, cannot be made by astrophysics alone. Inflationary magnetogenesis requires breaking the conformal invariance of electromagnetism, which is easy to arrange but hard to do without spoiling inflation.",
+  "why_it_blocks": "Primordial magnetic fields would be a new cosmological relic with implications for structure formation and CMB physics.",
+  "current_state": "Fermi-LAT blazar-halo constraints suggest void fields exist but are disputed; no seed mechanism is established. Gamma-ray constraints on void fields remain controversial, with plasma instabilities potentially mimicking or masking the signal.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}
