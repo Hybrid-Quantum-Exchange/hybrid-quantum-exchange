@@ -1,0 +1,18 @@
+{
+  "id": 906,
+  "domain": "xr_interface",
+  "title": "Long-term effects of daily VR use on vision",
+  "bottleneck": "Nobody knows what hours-daily VR does to developing or adult eyes over years: myopia progression, binocular vision changes, and dry-eye effects are plausible but unstudied at scale. Vergence-accommodation conflict's chronic impact is unknown, and children's use is effectively an uncontrolled experiment. Longitudinal data doesn't exist because the behavior is new.",
+  "why_it_blocks": "Health uncertainty is a liability for schools, employers, and parents considering all-day VR. Without long-term safety data, institutional adoption stays cautious.",
+  "current_state": "Short-term studies show transient eyestrain and focus changes; manufacturers add comfort warnings and age guidance. Definitive longitudinal research is still pending. Chronic effects of vergence-accommodation conflict are unstudied, leaving schools and employers to guess at the long-term risks. Manufacturers' age guidance is precautionary rather than evidence-based, because the longitudinal evidence simply does not exist yet.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "Wikipedia: Vergence-accommodation conflict",
+      "url": "https://en.wikipedia.org/wiki/Vergence%E2%80%93accommodation_conflict"
+    }
+  ]
+}

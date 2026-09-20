@@ -1,0 +1,18 @@
+{
+  "id": 130,
+  "domain": "cosmology_multiverse",
+  "title": "The Cosmic Distance Scale Calibration (H0 Anchors)",
+  "bottleneck": "The entire local H0 measurement rests on a handful of geometric anchors (NGC 4258 maser, LMC eclipsing binaries, Gaia parallaxes), each with its own systematics. Disagreements between Cepheid, TRGB, and surface-brightness-fluctuation routes at the few-percent level suggest unrecognized errors somewhere in the ladder's foundations. Gaia parallaxes are revolutionizing the calibration, but bright-star systematics and zero-point offsets remain under investigation.",
+  "why_it_blocks": "The Hubble tension cannot be adjudicated until the ladder's anchors are beyond reproach. Every rung's systematics propagate directly into H0, so anchor disagreements of even 1% matter enormously.",
+  "current_state": "Gaia DR4 parallaxes and JWST anchor re-observations are tightening calibrations, but inter-method offsets persist. A fully independent distance ladder based on gravitational waves would bypass these anchors, though it needs many more events.",
+  "sources": [
+    {
+      "title": "The Hubble Tension Resolved by the DESI BAO Measurements (arXiv:2509.17454)",
+      "url": "https://arxiv.org/pdf/2509.17454v2"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

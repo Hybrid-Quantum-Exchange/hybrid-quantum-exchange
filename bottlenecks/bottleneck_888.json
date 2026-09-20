@@ -1,0 +1,18 @@
+{
+  "id": 888,
+  "domain": "xr_interface",
+  "title": "Non-invasive BCI spatial resolution",
+  "bottleneck": "EEG and other non-invasive methods read brain signals through skull and scalp, smearing spatial detail to centimeters and drowning signals in muscle and environmental noise. Source localization is an ill-posed inverse problem: many brain patterns produce the same scalp readings. Non-invasive BCIs stay limited to coarse commands (left/right, yes/no) with poor reliability.",
+  "why_it_blocks": "Without better resolution, non-invasive BCIs can't offer the rich control that would make them mainstream; they're stuck as assistive switches. The skull is a fundamental low-pass filter on ambition.",
+  "current_state": "High-density EEG, fNIRS hybrids, and ML decoding squeeze more from scalp signals, but spatial resolution remains orders of magnitude below invasive methods. Inferring brain sources from scalp potentials has no unique solution, so resolution gains from algorithms alone are fundamentally bounded.",
+  "sources": [
+    {
+      "title": "ScienceTimes: Neural interface challenges",
+      "url": "https://www.sciencetimes.com/articles/61522/20260323/how-brain-computer-interfaces-use-neural-interface-technology-read-human-mind.htm"
+    },
+    {
+      "title": "anidsiam: BCI technology challenges",
+      "url": "https://github.com/anidsiam/anidsiam.github.io/blob/HEAD/content/blogs/bci.md"
+    }
+  ]
+}

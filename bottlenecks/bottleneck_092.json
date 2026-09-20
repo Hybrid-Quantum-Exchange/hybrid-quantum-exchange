@@ -1,0 +1,18 @@
+{
+  "id": 92,
+  "domain": "cosmology_multiverse",
+  "title": "Primordial Black Holes as Dark Matter",
+  "bottleneck": "Primordial black holes could constitute some or all dark matter, but allowed mass windows keep shrinking under microlensing (OGLE, Subaru HSC), CMB accretion, and gravitational-wave merger-rate constraints. The surviving windows (asteroid-mass, sublunar) are hard to probe, and formation requires finely tuned inflationary features. Forming enough PBHs requires boosting primordial power by seven orders of magnitude on small scales, which most inflation models cannot do without fine-tuning.",
+  "why_it_blocks": "If PBHs are even a fraction of dark matter, cosmology's initial conditions must include large small-scale perturbations — a major revision of inflationary model-building.",
+  "current_state": "LIGO-Virgo-KAGRA merger rates constrain the ~10-100 solar-mass window; asteroid-mass PBHs remain allowed but nearly untestable with current instruments. Future microlensing surveys like Roman could probe the asteroid-mass window, but formation theory remains the weaker link.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

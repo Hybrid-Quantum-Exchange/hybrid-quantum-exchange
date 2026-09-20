@@ -1,0 +1,18 @@
+{
+  "id": 943,
+  "domain": "food_water_agriculture",
+  "title": "Enteric methane mitigation that farmers will use",
+  "bottleneck": "Ruminant methane is a huge climate lever — Asparagopsis seaweed cuts emissions up to 80% in trials — but practical deployment is stuck: additives must be fed daily, dosing in grazing systems is near-impossible, seaweed supply doesn't exist at scale, and farmers get no payment for the reduction. The science works in feedlots; the world's cattle mostly graze. Additives must be fed daily, dosing in grazing systems is near-impossible, and farmers get no payment for the reduction.",
+  "why_it_blocks": "Livestock methane is ~30% of anthropogenic methane. A solution that only works in controlled feedlots leaves most emissions untouched.",
+  "current_state": "3-NOP (Bovaer) is approved in multiple countries for feedlot use; grazing-compatible delivery and scaled supply chains are unsolved.",
+  "sources": [
+    {
+      "title": "A comprehensive review of livestock methane emissions: emission factors, quantification methods, and mitigation strategies",
+      "url": "https://link.springer.com/article/10.1007/s44187-024-00129-0"
+    },
+    {
+      "title": "Livestock in the Mirror: The Forgotten Link Between Beef, Methane and the Race to Cool a Warming Planet",
+      "url": "https://www.zawya.com/en/business/agriculture/livestock-in-the-mirror-the-forgotten-link-between-beef-methane-and-the-race-to-cool-a-warming-planet-ig18j1h3"
+    }
+  ]
+}

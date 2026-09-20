@@ -1,0 +1,18 @@
+{
+  "id": 942,
+  "domain": "food_water_agriculture",
+  "title": "Feed-conversion efficiency in livestock",
+  "bottleneck": "Producing a kilogram of beef requires roughly 6–10 kg of feed, pigs about 3, chickens under 2 — and decades of breeding have squeezed poultry efficiency near its biological floor. Ruminants, which produce most livestock emissions, remain stubbornly inefficient because their digestive biology wastes energy as methane and heat. Marginal gains now cost more research per increment than ever.",
+  "why_it_blocks": "Feed is the largest cost in animal agriculture and the largest land use in the food system. Inefficient conversion multiplies land, water, and emissions per calorie. Feed is the largest cost in animal agriculture and the largest land use in the food system.",
+  "current_state": "Poultry FCR approaches biological limits; beef and dairy efficiency gains continue slowly through genomics and feed additives.",
+  "sources": [
+    {
+      "title": "A comprehensive review of livestock methane emissions: emission factors, quantification methods, and mitigation strategies",
+      "url": "https://link.springer.com/article/10.1007/s44187-024-00129-0"
+    },
+    {
+      "title": "Chapter 4: Industrial livestock systems & the environment",
+      "url": "https://www.fao.org/4/X5303E/x5303e0c.htm"
+    }
+  ]
+}

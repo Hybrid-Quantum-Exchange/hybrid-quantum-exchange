@@ -1,0 +1,14 @@
+{
+  "id": 415,
+  "domain": "medicine_cures",
+  "title": "Rheumatoid arthritis drug-free remission",
+  "bottleneck": "Modern biologics control RA inflammation in many patients, but true drug-free remission is rare; stopping therapy usually triggers flare, and a subset of patients never responds to any available mechanism. Joint damage accrued before control is irreversible.",
+  "why_it_blocks": "Lifelong immunosuppression carries infection and malignancy risks; the immune tolerance breakdown at RA's root is never repaired.",
+  "current_state": "Treat-to-target strategies have transformed outcomes, and tolerance-restoring approaches such as antigen-specific immunotherapy are in early trials. Immune reset without chronic drugs remains aspirational. Antigen-specific immunotherapies that retrain the immune system to tolerate joint proteins are in early trials but face the challenge of identifying the right antigens for each patient. Until tolerance can be restored, RA remains a disease to be managed indefinitely rather than cured.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 988,
+  "domain": "coordination",
+  "title": "Talent Visas Restricting Scientific Mobility",
+  "bottleneck": "Immigration barriers keep top scientific talent from where the best labs and instruments are, with visa backlogs, caps, and political volatility disrupting careers. Science is global, but researcher mobility is gated by national immigration systems designed for other purposes. The resulting misallocation means breakthroughs that required specific teams never happen.",
+  "why_it_blocks": "Misallocated talent slows every field, since breakthroughs depend on matching the right minds to the right problems. Immigration systems treat scientists as interchangeable labor, ignoring the matching problem at the heart of discovery.",
+  "current_state": "Some countries compete with fast-track science visas, but the largest research ecosystems remain among the hardest to enter. Points-based science visas exist in some countries but remain capped and politicized. The global matching of talent to problems remains badly inefficient.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

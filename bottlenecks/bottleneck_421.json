@@ -1,0 +1,18 @@
+{
+  "id": 421,
+  "domain": "medicine_cures",
+  "title": "AAV gene therapy immune barriers and redosing",
+  "bottleneck": "Up to half of people carry neutralizing antibodies against AAV vectors from natural exposure, excluding them from gene therapy, and the first dose itself provokes immunity that precludes redosing. High systemic doses have caused liver toxicity and, in rare cases, patient deaths: three muscular-dystrophy patients died of acute liver failure in 2025 after AAV therapy.",
+  "why_it_blocks": "Gene therapy's one-and-done promise collapses if half the population is ineligible, effects wane without redosing, and doses high enough to work are toxic.",
+  "current_state": "Capsid engineering, IgG-cleaving enzymes, and immunomodulation aim to enable treatment of seropositive patients and redosing. Regulators now demand deeper durability and immunogenicity data, and FDA analyses detail how immune responses against AAV capsids limit efficacy.",
+  "sources": [
+    {
+      "title": "Technology Summary: AAV immunogenicity",
+      "url": "https://www.fda.gov/media/166264/download"
+    },
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

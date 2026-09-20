@@ -1,0 +1,18 @@
+{
+  "id": 711,
+  "domain": "space",
+  "title": "Autonomous operation and maintenance of ISRU plants",
+  "bottleneck": "An ISRU plant must run for years with no crew present — handling abrasive dust, extreme temperatures, and corrosive chemistry while diagnosing and repairing its own faults. Terrestrial chemical plants have maintenance crews; a lunar plant gets none, and teleoperation from Earth suffers 2.6-second delays that make fine manipulation impractical. Self-repairing robotics, fault-tolerant design, and in-situ spare-part manufacturing are all immature, and a single unrecoverable fault can strand a multi-billion-dollar asset.",
+  "why_it_blocks": "ISRU must produce propellant before crews arrive — that is the whole point; without autonomy, the plant needs a crew, which needs the propellant: a circular dependency.",
+  "current_state": "Terrestrial mining automation is advanced but assumes human servicing; space-rated autonomous chemical processing has never been demonstrated.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

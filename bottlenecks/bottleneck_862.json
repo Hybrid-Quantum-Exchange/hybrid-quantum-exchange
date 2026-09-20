@@ -1,0 +1,18 @@
+{
+  "id": 862,
+  "domain": "xr_interface",
+  "title": "Prescription integration in headsets",
+  "bottleneck": "A large share of users need vision correction, but headsets offer crude solutions: bulky glasses spacers that reduce FOV, or expensive custom lens inserts that don't track prescription changes. Varifocal and prescription-adaptive optics are lab demos. Poor vision correction in VR causes additional eyestrain on top of existing discomfort.",
+  "why_it_blocks": "Friction for glasses wearers shrinks the addressable market and degrades experience for those who persist. Vision correction should be a solved accessory, not a product-design afterthought.",
+  "current_state": "Magnetic prescription inserts are available for major headsets, and adaptive-optics prototypes exist. Seamless, affordable, auto-adjusting correction is not shipping. Unlike phones, headsets cannot borrow the user's existing glasses comfortably, and inserts add cost and friction to every purchase. Prescription inserts must be repurchased with every headset upgrade, adding a hidden tax on staying current.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

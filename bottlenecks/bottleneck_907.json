@@ -1,0 +1,18 @@
+{
+  "id": 907,
+  "domain": "xr_interface",
+  "title": "XR accessibility for low-vision users",
+  "bottleneck": "XR is built for the sighted: interfaces assume good acuity, stereo vision, and precise gaze, excluding users with low vision, blindness, or binocular disorders. Audio-haptic alternatives are afterthoughts, magnification tools are crude, and vergence-accommodation conflict hits some visual conditions harder. Accessibility in 3D spatial computing lags decades behind 2D.",
+  "why_it_blocks": "Excluding disabled users from the next computing platform repeats old mistakes at larger scale. If XR becomes essential infrastructure, inaccessibility becomes discrimination.",
+  "current_state": "Some platforms add basic accessibility features (text scaling, audio cues), but comprehensive low-vision XR design guidelines and tooling barely exist. Spatial interfaces designed for stereo vision and precise gaze exclude users whose vision differs, with few real alternatives offered. Audio-haptic alternatives to visual UI are usually afterthoughts, so blind users get a degraded shadow of the experience.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 68,
+  "domain": "fundamental_physics",
+  "title": "The Galactic Center gamma-ray excess: dark matter or pulsars",
+  "bottleneck": "Fermi-LAT sees a mysterious excess of GeV gamma rays from the Galactic Center with a spectrum consistent with annihilating dark matter, but an unresolved population of millisecond pulsars could produce the same signal. Statistical methods to distinguish point sources from diffuse emission give conflicting answers depending on the background model.",
+  "why_it_blocks": "This is the most persistent indirect-detection hint of dark matter; resolving its origin either delivers the first non-gravitational dark matter signal or removes the field's best lead.",
+  "current_state": "Recent analyses with improved diffuse-emission models lean toward a pulsar origin, but the debate remains active and a definitive resolution awaits better angular resolution from future gamma-ray missions. Future MeV gamma-ray telescopes with better angular resolution could finally separate point sources from truly diffuse emission.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

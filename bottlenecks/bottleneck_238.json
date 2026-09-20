@@ -1,0 +1,18 @@
+{
+  "id": 238,
+  "domain": "compute_semiconductors",
+  "title": "Quantum tunneling leakage in atomic-scale gates",
+  "bottleneck": "At gate lengths of a few nanometers, electrons tunnel directly through barriers regardless of transistor state, producing leakage currents that waste power and heat chips even when idle. Gate dielectrics are already a few atoms thick; thinning them further barely helps while new channel materials are immature. This physics floor ends Dennard scaling: smaller transistors no longer automatically mean proportionally lower power.",
+  "why_it_blocks": "Leakage caps the usable transistor count per chip and per watt, directly limiting AI accelerator throughput and battery-powered compute. Every future node must now buy efficiency from architecture and materials rather than from shrinking, raising design cost and complexity.",
+  "current_state": "High-k dielectrics, GAA electrostatics, and backside power delivery mitigate but do not eliminate tunneling. Research into 2D-material channels and negative-capacitance FETs aims to beat the 60 mV/decade limit, with no production deployment yet.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    }
+  ]
+}

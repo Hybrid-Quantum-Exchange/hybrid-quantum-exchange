@@ -1,0 +1,18 @@
+{
+  "id": 530,
+  "domain": "health_longevity",
+  "title": "Stigma, misdiagnosis, and the primary-care bottleneck in mental health",
+  "bottleneck": "Stigma delays help-seeking by years, and when patients do present, most care happens in primary care where misdiagnosis is common (bipolar mislabeled as unipolar depression, ADHD, or personality disorder). Each misdiagnosis sets treatment back years and exposes patients to wrong-drug risks.",
+  "why_it_blocks": "The diagnostic front door determines everything downstream: correct treatment cannot begin from a wrong label. Stigma plus misdiagnosis is a double filter that keeps the sickest patients out of effective care longest.",
+  "current_state": "Screening tools (PHQ-9, MDQ) are widely available but inconsistently used or followed up. Anti-stigma campaigns show modest effects; collaborative-care models try to bring psychiatric expertise into primary care. Structural stigma in insurance design and employment discrimination does more measurable harm than interpersonal prejudice, yet anti-stigma funding targets attitudes rather than policies.",
+  "sources": [
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    },
+    {
+      "title": "Untreatable Mental Illness: Challenges, Management, and Hope (NeuroLaunch)",
+      "url": "https://neurolaunch.com/untreatable-mental-illness/"
+    }
+  ]
+}

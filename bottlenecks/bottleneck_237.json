@@ -1,0 +1,18 @@
+{
+  "id": 237,
+  "domain": "compute_semiconductors",
+  "title": "Complementary FET (CFET) 3D transistor manufacturability",
+  "bottleneck": "CFET stacks n-type and p-type transistors vertically to continue area scaling, but it requires sequential or monolithic 3D processing: wafer bonding or layer transfer, top-device thermal budgets that don't destroy bottom devices, and interconnect routing through the stacked structure. No fab has demonstrated CFET at high volume, and thermal-budget conflicts between stacked layers are a fundamental integration headache.",
+  "why_it_blocks": "CFET is the industry's planned answer to the end of lateral transistor scaling; without it, density gains after 2nm-class nodes slow sharply, forcing expensive reliance on 3D packaging alone to keep performance-per-dollar growing.",
+  "current_state": "Research consortia (notably imec) have demonstrated CFET device prototypes and process flows, and foundries list it on roadmaps for late-2020s/early-2030s nodes. Manufacturing-worthy flows with acceptable yield are not yet proven.",
+  "sources": [
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

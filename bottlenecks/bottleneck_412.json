@@ -1,0 +1,14 @@
+{
+  "id": 412,
+  "domain": "medicine_cures",
+  "title": "Type 2 diabetes beta-cell preservation",
+  "bottleneck": "Type 2 diabetes is managed as a chronic progressive disease, but its core driver, the progressive failure of pancreatic beta cells under metabolic stress, has no approved disease-modifying therapy. Drugs control glucose while beta-cell mass continues to decline.",
+  "why_it_blocks": "Without halting beta-cell failure, treatment is lifelong escalation toward insulin dependence and complications.",
+  "current_state": "GLP-1 agonists show hints of beta-cell protection, and early intensive therapy can induce remission in some patients. Truly disease-modifying beta-cell preservation remains unproven, and the immune-shielding advances in type 1 research have yet to translate. Early intensive glucose control can induce remission in some newly diagnosed patients, suggesting the window for preservation is early. Identifying which patients still have rescuable beta-cell mass, and intervening before it is gone, is the key unsolved challenge.",
+  "sources": [
+    {
+      "title": "Scientists reveal promising new therapy that could cure type 1 diabetes",
+      "url": "https://www.openaccessgovernment.org/scientists-reveal-promising-new-therapy-that-could-cure-type-1-diabetes/205737/"
+    }
+  ]
+}

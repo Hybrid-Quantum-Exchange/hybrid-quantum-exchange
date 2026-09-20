@@ -1,0 +1,18 @@
+{
+  "id": 915,
+  "domain": "food_water_agriculture",
+  "title": "Biological nitrogen fixation for non-legumes",
+  "bottleneck": "Legumes fix their own nitrogen via symbiosis, but cereals — which feed most of humanity — cannot, forcing dependence on synthetic fertilizer. Engineering nitrogen fixation into cereals means either transferring the 20-gene nitrogenase pathway, which is poisoned by oxygen and enormously energy-expensive, or building synthetic symbiosis with diazotrophs; both have defeated decades of effort. The biochemistry fights the plant at every step. Nitrogenase is poisoned by oxygen and enormously energy-expensive, so the plant must be re-engineered around it.",
+  "why_it_blocks": "Self-fertilizing cereals would eliminate the Haber-Bosch dependence that defines modern agriculture's energy and pollution footprint. Self-fertilizing cereals would erase the Haber-Bosch dependence that defines modern agriculture's footprint.",
+  "current_state": "Research groups report nitrogen-fixing bacterial associations with modest effects; true engineered fixation in cereals remains a distant goal.",
+  "sources": [
+    {
+      "title": "The Ceiling Above Every Field: How Nitrogen Set the Ultimate Limit",
+      "url": "https://medium.com/@ibsintensive159357/the-ceiling-above-every-field-68b50ba97173"
+    },
+    {
+      "title": "Understanding the Yield Gap: Exploring the Factors Behind Crop Productivity Differences",
+      "url": "https://www.shiftingshares.com/understanding-the-yield-gap-exploring-the-factors-behind-crop-productivity-differences-2/"
+    }
+  ]
+}

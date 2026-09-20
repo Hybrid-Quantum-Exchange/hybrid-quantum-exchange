@@ -1,0 +1,18 @@
+{
+  "id": 865,
+  "domain": "xr_interface",
+  "title": "Holographic display speckle and compute cost",
+  "bottleneck": "True holographic displays could solve vergence-accommodation conflict, but computing interference patterns (computer-generated holograms) in real time demands enormous GPU power, and coherent laser light produces speckle noise that degrades image quality. Eyebox size is tiny: move your eye slightly and the image vanishes. Real-time, wide-eyebox, speckle-free holography is unsolved.",
+  "why_it_blocks": "Holography is the theoretically ideal near-eye display, but its compute and eyebox problems keep it in labs. Without it, the VAC problem has no perfect solution.",
+  "current_state": "Research demos show impressive holographic images with neural-network CGH acceleration, but real-time full-color wide-eyebox systems are still benchtop prototypes. Speckle arises from coherent interference and cannot be removed without sacrificing the coherence that makes holography work. Reducing coherence to kill speckle also destroys the interference contrast that holographic image formation depends on.",
+  "sources": [
+    {
+      "title": "Wikipedia: Vergence-accommodation conflict",
+      "url": "https://en.wikipedia.org/wiki/Vergence%E2%80%93accommodation_conflict"
+    },
+    {
+      "title": "Laser Focus World: Waveguide design for AR",
+      "url": "https://www.laserfocusworld.com/optics/article/55365905/waveguide-design-for-ar-glasses-system-optimization"
+    }
+  ]
+}

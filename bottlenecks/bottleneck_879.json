@@ -1,0 +1,18 @@
+{
+  "id": 879,
+  "domain": "xr_interface",
+  "title": "Occlusion realism in optical see-through AR",
+  "bottleneck": "Virtual objects should be hidden behind real ones, but optical see-through displays can't block real light: they add light but can't subtract it, so virtual objects look ghostly and never properly occlude. Pixel-level occlusion needs per-pixel light modulators that don't exist in glasses form factors. Video see-through solves it with cameras but adds latency and isolates the user.",
+  "why_it_blocks": "Without correct occlusion, AR objects float unconvincingly over reality, breaking the core illusion. The additive-only nature of waveguides is a physics wall for optical AR realism.",
+  "current_state": "Dimming layers (electrochromic) provide coarse occlusion; video see-through headsets achieve good occlusion at the cost of camera latency. True per-pixel occlusion in optical AR is unsolved. Coarse dimming layers can darken regions of the view but cannot carve the pixel-precise silhouettes that real occlusion needs.",
+  "sources": [
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    },
+    {
+      "title": "Laser Focus World: Waveguide design for AR",
+      "url": "https://www.laserfocusworld.com/optics/article/55365905/waveguide-design-for-ar-glasses-system-optimization"
+    }
+  ]
+}

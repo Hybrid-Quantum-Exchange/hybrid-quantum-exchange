@@ -1,0 +1,18 @@
+{
+  "id": 820,
+  "domain": "climate_environment",
+  "title": "Deep-sea mining ecosystem impact assessment",
+  "bottleneck": "Mining polymetallic nodules and hydrothermal vents targets ecosystems that are barely described — most deep-sea species are unknown to science — so impact assessments are built on ignorance: sediment plume behavior, recovery timescales (possibly millennia), and noise effects on deep fauna are all speculative. The International Seabed Authority is writing exploitation rules while the baseline science is missing. No deep-sea mine has operated long enough to measure real impacts.",
+  "why_it_blocks": "The deep sea is Earth's largest habitat and a carbon and nutrient reservoir; unassessed mining risks irreversible biodiversity loss before we know what was there. Regulatory decisions made now will lock in consequences for geological timescales.",
+  "current_state": "Exploration contracts require baseline studies that are slowly accumulating, and some nations back a moratorium until science catches up. But commercial pressure is mounting and the precautionary path is losing to the licensing timeline.",
+  "sources": [
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    },
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    }
+  ]
+}

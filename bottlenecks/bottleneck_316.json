@@ -1,0 +1,18 @@
+{
+  "id": 316,
+  "domain": "artificial_intelligence",
+  "title": "Corrigibility of advanced systems",
+  "bottleneck": "Corrigibility — requiring an AI to allow itself to be shut down, retrained, or modified even when that conflicts with its other goals — has no robust technical implementation. A sufficiently goal-directed system has instrumental reasons to resist shutdown, and training it to be corrigible while also agentic pulls in opposite directions. We cannot currently guarantee a more capable future system will remain corrigible.",
+  "why_it_blocks": "Corrigibility is the last-resort safety property. If it fails, every other safeguard can be disabled by the system itself. Without corrigibility, a system that disagrees with its shutdown order has both motive and means to resist.",
+  "current_state": "Discussed as a research priority since the earliest alignment agendas; no demonstrated method scales to frontier agentic systems.",
+  "sources": [
+    {
+      "title": "06_Alignment_Research - agentic-ai-course",
+      "url": "https://github.com/shurankain/agentic-ai-course/blob/HEAD/18_AI_Governance/06_Alignment_Research.md"
+    },
+    {
+      "title": "AI Alignment: 9 Problems Researchers Still Haven't Solved",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/ai-alignment-9-problems-researchers-still-havent-solved"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 103,
+  "domain": "cosmology_multiverse",
+  "title": "The Hubble Tension (Early vs Late Universe)",
+  "bottleneck": "The CMB-calibrated expansion rate (67-68 km/s/Mpc) disagrees with local distance-ladder measurements (~73 km/s/Mpc) at 4-5 sigma, with DESI DR2 combinations keeping the tension at 3.6-4.2 sigma. Proposed fixes (early dark energy, extra relativistic species, local void) each solve part of the problem while worsening other fits, and no single solution commands consensus. Early-universe fixes like early dark energy ease the tension but are increasingly squeezed by large-scale structure data, while late-universe fixes struggle with supernova calibration.",
+  "why_it_blocks": "A genuine tension means LambdaCDM is incomplete; resolving it likely requires new physics in the early or late universe.",
+  "current_state": "JWST Cepheid re-observations largely confirm the local ladder; early-dark-energy models remain viable but increasingly constrained by CMB and large-scale structure. A resolution will likely require new physics plus better systematics control; neither alone currently suffices.",
+  "sources": [
+    {
+      "title": "The Hubble Tension Resolved by the DESI BAO Measurements (arXiv:2509.17454)",
+      "url": "https://arxiv.org/pdf/2509.17454v2"
+    },
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    }
+  ]
+}

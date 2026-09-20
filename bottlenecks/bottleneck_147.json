@@ -1,0 +1,18 @@
+{
+  "id": 147,
+  "domain": "energy",
+  "title": "Tritium self-sufficiency through breeding blankets",
+  "bottleneck": "Tritium has a 12.3-year half-life and essentially no natural supply: a 1 GW fusion plant would burn roughly 56 kg per year while the world holds only about 25 kg commercially. Every D-T plant must therefore breed its own tritium by capturing fusion neutrons in lithium-bearing blankets, achieving a tritium breeding ratio above 1.1 to cover losses and build startup inventory. No blanket design has yet demonstrated net tritium breeding in a burning-plasma environment.",
+  "why_it_blocks": "Without proven self-sufficient breeding, the entire D-T fusion fuel cycle collapses. There is no external tritium market that could fuel more than one or two plants, so breeding is a gating requirement, not an optimization.",
+  "current_state": "Blanket concepts such as helium-cooled pebble bed and water-cooled lithium-lead are being tested in non-nuclear mockups and ITER test blanket modules. Integrated breeding at power-plant scale remains unproven.",
+  "sources": [
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    },
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    }
+  ]
+}

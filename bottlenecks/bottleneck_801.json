@@ -1,0 +1,18 @@
+{
+  "id": 801,
+  "domain": "climate_environment",
+  "title": "Blue carbon ecosystem accounting",
+  "bottleneck": "Mangroves, seagrasses, and salt marshes bury carbon efficiently, but quantifying their sequestration is plagued by lateral carbon transport — much of the carbon moves offshore rather than staying buried — and by methane and nitrous oxide emissions from the same wetlands that offset the CO2 benefit. Site-level variability is enormous, and default accounting factors can be wrong by multiples. Restoration projects thus struggle to produce defensible carbon credits.",
+  "why_it_blocks": "Blue carbon is politically attractive because it pairs climate action with coastal protection and fisheries. Bad accounting means credits may represent little real removal, and over-crediting could displace genuine emissions cuts.",
+  "current_state": "Methodologies from major registries now include blue carbon, and research is refining lateral-flux corrections and greenhouse-gas budgets. But the science remains site-specific, and scaling credible blue carbon finance is still held back by measurement costs.",
+  "sources": [
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    },
+    {
+      "title": "What is direct air capture, and how does it work?",
+      "url": "https://thinklandscape.globallandscapesforum.org/102395/what-is-direct-air-capture/"
+    }
+  ]
+}

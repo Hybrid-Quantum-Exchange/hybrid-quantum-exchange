@@ -1,0 +1,18 @@
+{
+  "id": 21,
+  "domain": "fundamental_physics",
+  "title": "Observability of Hawking radiation",
+  "bottleneck": "Hawking radiation from astrophysical black holes is far too faint and cold to detect, with a solar-mass black hole radiating at a temperature a million times below the cosmic microwave background. All experimental evidence comes from analogue systems like flowing Bose-Einstein condensates, which mimic the mathematics but may not share the underlying physics.",
+  "why_it_blocks": "Hawking radiation is the single most important prediction at the quantum-gravity interface; if it can never be observed even in principle for real black holes, a cornerstone of the field rests on untestable calculation.",
+  "current_state": "Analogue experiments have measured stimulated and spontaneous Hawking-like emission with thermal spectra, and primordial black holes evaporating today would give gamma-ray signals that are actively searched for but not found.",
+  "sources": [
+    {
+      "title": "Black Hole Information Paradox - kb-physics open questions",
+      "url": "https://github.com/thibautbaissac/kb-physics/blob/HEAD/kb/open-questions/black-hole-information-paradox.md"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

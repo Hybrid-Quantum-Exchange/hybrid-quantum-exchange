@@ -1,0 +1,14 @@
+{
+  "id": 419,
+  "domain": "medicine_cures",
+  "title": "MASH (metabolic dysfunction-associated steatohepatitis)",
+  "bottleneck": "MASH, fatty liver progressing to inflammation and fibrosis, affects a large share of adults with metabolic syndrome and is a leading indication for liver transplant, yet until 2024 no drug was approved; diagnosis requires invasive biopsy and noninvasive staging remains imprecise.",
+  "why_it_blocks": "Silent progression to cirrhosis and liver cancer makes MASH a looming public-health crisis riding the obesity epidemic.",
+  "current_state": "Resmetirom won the first FDA approval in 2024, and GLP-1-based combinations are in trials. Whether drugs can reverse fibrosis at scale, and who to treat, are open questions. Noninvasive tests to stage fibrosis and identify who needs treatment are improving but remain imprecise, risking both overtreatment and missed cases. Whether the first approved drugs can reverse established fibrosis at population scale is the pivotal unanswered question.",
+  "sources": [
+    {
+      "title": "Beta Cell Replacement: Overcoming Immune Rejection for Type 1 Diabetes",
+      "url": "https://lifestyle.houstonnewstoday.com/story/860462/beta-cell-replacement-overcoming-immune-rejection-for-type-1-diabetes/"
+    }
+  ]
+}

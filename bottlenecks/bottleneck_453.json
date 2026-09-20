@@ -1,0 +1,18 @@
+{
+  "id": 453,
+  "domain": "health_longevity",
+  "title": "Clinically validated biomarkers of biological age",
+  "bottleneck": "Epigenetic clocks, proteomic signatures, and frailty indices correlate with chronological age and mortality, but none is accepted as a surrogate endpoint for aging itself. Experts surveyed at the Buck Institute flagged six barriers to clinical translation, including data sharing, criteria prioritization, and how to position aging biomarkers inside existing healthcare systems.",
+  "why_it_blocks": "Without a validated biomarker, every anti-aging trial must run for years and measure hard outcomes like death or disease, making geroscience trials slow, enormous, and expensive. Biomarkers are the missing yardstick.",
+  "current_state": "DNA-methylation clocks (PhenoAge, GrimAge) and plasma proteomic clocks are research tools costing a few hundred dollars, with emerging clinical pilots. A 2024 Nature Aging survey of 34 experts laid out a roadmap but no consensus endpoint yet.",
+  "sources": [
+    {
+      "title": "Addressing challenges to clinical translation of biomarkers of aging tools (Medical Xpress, Nature Aging)",
+      "url": "https://medicalxpress.com/news/2024-09-clinical-biomarkers-aging-tools.html"
+    },
+    {
+      "title": "New analysis reveals fundamental flaws in widely used measures of biological aging (News-Medical)",
+      "url": "https://www.news-medical.net/news/20251203/New-analysis-reveals-fundamental-flaws-in-widely-used-measures-of-biological-aging.aspx"
+    }
+  ]
+}

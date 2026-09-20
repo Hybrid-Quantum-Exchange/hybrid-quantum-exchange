@@ -1,0 +1,14 @@
+{
+  "id": 65,
+  "domain": "fundamental_physics",
+  "title": "Relativistic completion of modified gravity as dark matter alternative",
+  "bottleneck": "Modified Newtonian dynamics fits galaxy rotation curves without dark matter, but embedding it in a relativistic theory that also explains gravitational lensing, the cosmic microwave background, and structure formation has proven extremely difficult. TeVeS and its successors either fail cosmological tests or reintroduce dark fields.",
+  "why_it_blocks": "If gravity rather than matter is wrong, the entire dark matter experimental program is chasing a phantom; the question must be settled before committing further resources.",
+  "current_state": "Recent relativistic MOND theories fit more data than before but still struggle with cluster lensing and the CMB, while the dark matter paradigm keeps passing tests the alternatives fail. Galaxy cluster collisions like the Bullet Cluster remain the sharpest challenge, showing lensing mass separated from the visible matter.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 885,
+  "domain": "xr_interface",
+  "title": "Social acceptability of face-worn cameras",
+  "bottleneck": "Beyond technical privacy, wearing an obvious camera on your face in social settings triggers discomfort and confrontation: the 'glasshole' problem never went away. Subtle designs help but raise deception concerns; obvious designs invite stigma. Cultural norms around being recorded haven't adapted to face-worn sensors.",
+  "why_it_blocks": "Social rejection can kill a product category faster than any technical flaw; AR glasses must be welcome in public to succeed. The industry hasn't solved the human side of the camera.",
+  "current_state": "Display-less AI glasses are testing social waters with indicator lights and familiar sunglass designs. Public comfort with face cameras remains fragile and incident-prone. Each public confrontation over face cameras hardens norms against them, regardless of how useful the underlying AR becomes.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    }
+  ]
+}

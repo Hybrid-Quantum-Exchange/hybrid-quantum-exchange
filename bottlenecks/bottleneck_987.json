@@ -1,0 +1,18 @@
+{
+  "id": 987,
+  "domain": "coordination",
+  "title": "Research Security vs Open Collaboration",
+  "bottleneck": "Governments increasingly restrict international research collaboration over security concerns, with blunt instruments (country bars, affiliation-based grant denials) that also block benign science. Researchers face uncertain, shifting rules, and the compliance burden falls hardest on international scholars. Blanket restrictions punish collaboration with the many benign researchers from targeted countries.",
+  "why_it_blocks": "Overbroad security controls fragment the global research enterprise that produced modern science's biggest wins. Science advances fastest when ideas flow freely across borders.",
+  "current_state": "2026 US proposals to bar collaborations with certain countries by statute show the trend intensifying without clear guardrails. Risk-calibrated, transparent rules would protect security with less collateral damage, but nuance is politically costly. Calibrated rules could protect security without fragmenting global science, for everyone.",
+  "sources": [
+    {
+      "title": "Proposed Changes to Grant Rules Threaten the Future of Research (The Scientist)",
+      "url": "https://www.the-scientist.com/proposed-changes-to-grant-rules-threaten-the-future-of-research-scientists-must-act-now-74676"
+    },
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    }
+  ]
+}

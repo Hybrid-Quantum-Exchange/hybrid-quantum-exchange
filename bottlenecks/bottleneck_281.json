@@ -1,0 +1,18 @@
+{
+  "id": 281,
+  "domain": "compute_semiconductors",
+  "title": "Power integrity and IR drop in advanced nodes",
+  "bottleneck": "At 3nm-class nodes, transistors switch with sub-1V supplies while drawing huge transient currents, so resistive and inductive drops in the power grid cause timing failures and electromigration. Thinner wires raise grid resistance just as current density peaks, and dense standard cells leave little room for power straps. Sign-off requires simulating billions of switching events across the die.",
+  "why_it_blocks": "IR drop and electromigration silently erode performance and lifetime: chips must be margined down in frequency or up in area to survive their own power grid. Power integrity is now a primary limiter of achievable clock speed.",
+  "current_state": "Backside power delivery, on-die regulators, and ML-accelerated sign-off are easing the problem at leading nodes. But margins keep growing as voltages fall and densities rise.",
+  "sources": [
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    },
+    {
+      "title": "Patsnap: Chiplet thermal management",
+      "url": "https://eureka.patsnap.com/report-analysis-of-chiplet-integration-thermal-management-for-semiconductors"
+    }
+  ]
+}

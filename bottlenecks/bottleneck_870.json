@@ -1,0 +1,18 @@
+{
+  "id": 870,
+  "domain": "xr_interface",
+  "title": "Hand tracking occlusion and latency",
+  "bottleneck": "Camera-based hand tracking fails when fingers occlude each other, move fast, or leave the camera FOV, and processing adds latency that breaks the feeling of direct manipulation. Fine finger articulation is especially fragile, and tracking degrades in poor lighting. Users fall back to controllers, defeating the natural-interaction promise.",
+  "why_it_blocks": "Unreliable hands make XR interaction feel broken at the moments precision matters most, blocking professional and creative use. Hands are the primary input that can't be trusted.",
+  "current_state": "Inside-out hand tracking is standard on major headsets and works well for coarse gestures. Robust, low-latency, occlusion-proof finger tracking is still unsolved. Fast hand movements and finger-on-finger occlusion produce the tracking failures users notice most, exactly during precise manipulation. Gloves and controllers remain the fallback, which concedes that the natural-hand vision is not yet reliable.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "InAirSpace: VR motion sickness",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-makes-me-feel-sick-understanding-and-overcoming-simulator-sickness"
+    }
+  ]
+}

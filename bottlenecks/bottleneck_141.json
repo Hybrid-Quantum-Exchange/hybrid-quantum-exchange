@@ -1,0 +1,18 @@
+{
+  "id": 141,
+  "domain": "cosmology_multiverse",
+  "title": "The Problem of Time in Quantum Cosmology",
+  "bottleneck": "Canonical quantum gravity yields a timeless Wheeler-DeWitt equation, with no agreed way to recover the flowing time of cosmology from it. Relational-time proposals, unimodular gravity, and emergent-time scenarios each solve part of the problem while raising new ones, and none yields distinct cosmological predictions. Without a satisfactory account of time, quantum cosmology cannot describe the evolution it was built to explain.",
+  "why_it_blocks": "A quantum theory of the universe that cannot describe cosmic time cannot describe cosmic history. It also blocks a complete account of the universe's origin, which is cosmology's central narrative.",
+  "current_state": "The problem is conceptual rather than experimental; it persists as the central interpretational obstacle in quantum cosmology. The problem is widely seen as a clue that our formulation of quantum gravity is incomplete.",
+  "sources": [
+    {
+      "title": "On the Impossibility of Precise Verification of Models of Quantum Gravity (arXiv:2309.07203)",
+      "url": "https://arxiv.org/abs/2309.07203?context=hep-th"
+    },
+    {
+      "title": "Beyond Falsifiability: Normal Science in a Multiverse (PhilArchive)",
+      "url": "https://philarchive.org/archive/CARBFN"
+    }
+  ]
+}

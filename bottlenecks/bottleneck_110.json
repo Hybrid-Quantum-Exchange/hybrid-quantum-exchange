@@ -1,0 +1,18 @@
+{
+  "id": 110,
+  "domain": "cosmology_multiverse",
+  "title": "The 21-cm EDGES Anomaly and Cosmic Dawn",
+  "bottleneck": "The EDGES experiment reported a 21-cm absorption trough at cosmic dawn twice as deep as standard cosmology allows, implying either colder gas or a hotter radio background than expected. SARAS-3 failed to confirm it, and the signal's reality is disputed, leaving the thermal history of the first stars' era unmeasured. The claimed absorption depth requires gas colder than adiabatic cooling allows, pointing to exotic cooling via dark matter scattering if real.",
+  "why_it_blocks": "A confirmed anomaly would demand new physics (dark matter-baryon scattering, excess radio backgrounds) at the universe's first luminous epoch.",
+  "current_state": "No independent detection exists; HERA, REACH, and lunar far-side proposals aim to settle it, but foreground removal remains brutally hard. Independent experiments with different antenna designs are essential, since systematics in global-signal measurements are notoriously subtle.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

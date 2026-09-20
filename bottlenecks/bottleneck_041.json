@@ -1,0 +1,14 @@
+{
+  "id": 41,
+  "domain": "fundamental_physics",
+  "title": "The fermion mass hierarchy and the origin of Yukawa couplings",
+  "bottleneck": "Fermion masses span at least twelve orders of magnitude, from sub-eV neutrinos to the 173 GeV top quark, and the Standard Model encodes this entire pattern in Yukawa couplings that are simply dialed in by hand. No accepted theory derives even one of these couplings from first principles.",
+  "why_it_blocks": "Most of the Standard Model's nineteen free parameters are flavor parameters; without a theory of flavor, the model describes masses without explaining any of them.",
+  "current_state": "Froggatt-Nielsen flavor symmetries, extra-dimensional wavefunction overlaps, and string-theoretic instanton effects can fit the pattern but predict little, leaving flavor physics model-rich and theory-poor. Extra-dimensional models localize fermion wavefunctions at different positions, generating hierarchies geometrically, but the geometry itself is then unexplained.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

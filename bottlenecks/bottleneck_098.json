@@ -1,0 +1,18 @@
+{
+  "id": 98,
+  "domain": "cosmology_multiverse",
+  "title": "Distinguishing Quintessence from Modified Gravity",
+  "bottleneck": "An evolving dark energy signal can be produced either by a new scalar field (quintessence) or by modifications of general relativity on cosmic scales, and background expansion history alone cannot tell them apart. Discriminating tests require precision growth-of-structure measurements, which are contaminated by baryonic physics and nonlinear modeling uncertainties. Gravitational slip — the ratio of the two metric potentials — is the key discriminant, but measuring it needs both lensing and redshift-space distortions at percent precision.",
+  "why_it_blocks": "Misidentifying the cause would send fundamental physics down the wrong theoretical road for a generation.",
+  "current_state": "DESI redshift-space distortions plus Euclid weak lensing aim to measure structure growth at the percent level; current data cannot break the degeneracy. Joint DESI-Euclid-Rubin analyses later this decade are designed to deliver exactly this combination.",
+  "sources": [
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    },
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    }
+  ]
+}

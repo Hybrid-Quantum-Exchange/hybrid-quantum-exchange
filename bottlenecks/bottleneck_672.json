@@ -1,0 +1,18 @@
+{
+  "id": 672,
+  "domain": "space",
+  "title": "Aerocapture at Mars under atmospheric uncertainty",
+  "bottleneck": "Aerocapture — dipping into a planet's atmosphere to shed velocity instead of burning propellant — could slash Mars mission mass, but the Martian atmosphere varies wildly with dust storms, seasons, and solar activity, and its density profile is poorly characterized at the altitudes that matter. Guidance must hit a narrow entry corridor autonomously with no second chances: too shallow and the vehicle skips off into deep space; too steep and it burns up. No aerocapture maneuver has ever been flown at any planet.",
+  "why_it_blocks": "Propulsive Mars orbit insertion consumes a huge fraction of mission mass; aerocapture is the difference between affordable and unaffordable architectures for heavy cargo and crew.",
+  "current_state": "NASA has studied aerocapture for decades and validated guidance algorithms in simulation; small flight demos have been proposed but never funded. All Mars arrivals to date use propulsive insertion or direct entry.",
+  "sources": [
+    {
+      "title": "An aerospace scientist unpacks the challenges of interstellar spaceflight (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/could-aliens-ever-visit-earth-an-aerospace-scientist-unpacks-the-challenges-of-interstellar-spaceflight/"
+    },
+    {
+      "title": "Why we need in-orbit refueling to return to the Moon (Astronomy)",
+      "url": "https://www.astronomy.com/space-exploration/why-we-need-in-orbit-refueling-to-return-to-the-moon/"
+    }
+  ]
+}

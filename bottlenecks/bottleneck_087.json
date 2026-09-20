@@ -1,0 +1,18 @@
+{
+  "id": 87,
+  "domain": "cosmology_multiverse",
+  "title": "The Vanishing WIMP Parameter Space",
+  "bottleneck": "The WIMP 'miracle' motivated dark matter models for decades, but direct searches, LHC missing-energy analyses, and Fermi-LAT dwarf-galaxy gamma-ray limits have excluded most of the canonical thermal-relic cross-section range. Theorists keep retreating to tuned corners (resonances, co-annihilation, very heavy or very light WIMPs), yet no positive signal has appeared anywhere. Collider searches face the same wall: the LHC has excluded large swaths of simplified WIMP models, and even a future 100 TeV collider would leave light-mediator scenarios untouched.",
+  "why_it_blocks": "Each retreat narrows the flagship dark matter paradigm without replacing it, leaving model-building drifting and experimental programs chasing ever-smaller windows.",
+  "current_state": "Fermi-LAT and HESS constrain annihilation; LZ/XENONnT constrain scattering; the remaining thermal WIMP window sits at TeV masses probed only by future colliders and CTA. Attention is drifting toward non-thermal histories and hidden sectors, but the field lacks a unifying candidate to replace the WIMP's former centrality.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "Dark Matter, Dark Energy, and the Unanswered Questions of Cosmology (AnewZ)",
+      "url": "http://anewz.tv/ai-next/science-news/3679/dark-matter-dark-energy-and-the-unanswered-questions-of-cosmology/news"
+    }
+  ]
+}

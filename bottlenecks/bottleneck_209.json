@@ -1,0 +1,18 @@
+{
+  "id": 209,
+  "domain": "energy",
+  "title": "Compressed air storage geology constraints",
+  "bottleneck": "Compressed air energy storage needs underground caverns, salt domes, depleted reservoirs, or hard-rock caverns, that exist only in certain regions, far from many load centers. Diabatic designs waste heat and burn gas; adiabatic designs that store compression heat are more efficient but unproven at scale. Permitting underground storage adds years. Underground air storage also risks air leakage through porous rock, slowly bleeding stored energy between charge and discharge.",
+  "why_it_blocks": "CAES is geographically handcuffed. Excellent where geology cooperates, irrelevant elsewhere; it cannot be a general-purpose long-duration storage solution.",
+  "current_state": "Two diabatic plants have operated for decades. Advanced adiabatic projects are in development in the US, Europe, and China. China is building the largest advanced CAES projects, but operational efficiency data remains limited.",
+  "sources": [
+    {
+      "title": "Long Term Energy Storage Solutions For Grid Reliability",
+      "url": "https://electricityforum.com/td/energy-storage/long-term-energy-storage"
+    },
+    {
+      "title": "The growing need for long-duration energy storage in the US",
+      "url": "https://www.solarpowerworldonline.com/2026/02/the-growing-need-for-long-duration-energy-storage-in-the-us/"
+    }
+  ]
+}

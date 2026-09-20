@@ -1,0 +1,14 @@
+{
+  "id": 448,
+  "domain": "medicine_cures",
+  "title": "Dry age-related macular degeneration (geographic atrophy)",
+  "bottleneck": "Geographic atrophy, the advanced dry form of AMD, causes irreversible central vision loss in millions, driven by complement dysregulation and retinal pigment epithelium death. Two complement inhibitors approved in 2023 slow lesion growth only modestly without improving vision.",
+  "why_it_blocks": "An aging population faces growing blindness from a disease whose approved treatments preserve anatomy slightly but restore nothing.",
+  "current_state": "Cell-replacement with RPE transplantation, gene therapies, and neuroprotection strategies are in trials. No therapy restores lost vision in geographic atrophy, and delivery to the retina faces vector and immune constraints familiar from gene therapy broadly. The modest benefit of approved complement inhibitors has disappointed hopes, shifting focus to cell replacement and neuroprotection. Delivering cells or genes to the retina faces immune and surgical challenges, but the eye's accessibility makes it a favored testing ground.",
+  "sources": [
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

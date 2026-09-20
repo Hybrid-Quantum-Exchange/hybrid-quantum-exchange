@@ -1,0 +1,18 @@
+{
+  "id": 998,
+  "domain": "coordination",
+  "title": "Dual-Use Research Oversight Gaps",
+  "bottleneck": "Research with both beneficial and harmful applications (gain-of-function virology, AI capabilities, synthetic biology) lacks consistent oversight: rules vary by country, enforcement is patchy, and much work happens outside any review framework. Scientists often do not recognize dual-use implications of their own work. Oversight regimes are national while research is global, so restrictions in one country simply move work elsewhere.",
+  "why_it_blocks": "Ungoverned dual-use research creates catastrophic risks that no single lab's judgment can adequately price. A single lab's misjudgment can create risks borne by all of humanity.",
+  "current_state": "The BWC lacks verification, AI has no equivalent regime at all, and DURC policies cover only a slice of relevant work. International harmonization of dual-use oversight has barely begun. Harmonized international oversight is the only regime that can actually work.",
+  "sources": [
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    },
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    }
+  ]
+}

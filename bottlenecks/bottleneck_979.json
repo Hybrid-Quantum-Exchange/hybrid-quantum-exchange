@@ -1,0 +1,18 @@
+{
+  "id": 979,
+  "domain": "coordination",
+  "title": "Regulatory Lag on Emerging Technologies",
+  "bottleneck": "Regulators consistently trail technological change — approving too slowly for beneficial innovations (advanced nuclear, cultivated meat, autonomous systems) while lacking frameworks for novel risks. The lag is structural: agencies lack technical capacity and face asymmetric blame for approvals versus delays. Agencies optimized for stability cannot match the pace of fields like AI and synthetic biology.",
+  "why_it_blocks": "Slow, uncertain regulation both delays beneficial deployment and leaves real risks ungoverned. Both under-regulation of risks and over-regulation of benefits stem from the same lag.",
+  "current_state": "Regulatory sandboxes and adaptive licensing are piloted in pockets, but most agencies still operate on decades-old frameworks. Outcome-based regulation and sandboxes are promising but remain exceptional rather than standard practice. Agencies need new operating models built for the pace of modern technology.",
+  "sources": [
+    {
+      "title": "From Pacing the Frontier to Governing the Frontier (Access Partnership)",
+      "url": "https://accesspartnership.com/opinion/from-pacing-the-frontier-to-governing-the-frontier/"
+    },
+    {
+      "title": "Building the Analytical Infrastructure for Governing Frontier AI Development (Tech Policy Institute)",
+      "url": "https://techpolicyinstitute.org/wp-content/uploads/2026/03/AI_Governance.pdf"
+    }
+  ]
+}

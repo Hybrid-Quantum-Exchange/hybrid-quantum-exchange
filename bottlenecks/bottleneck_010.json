@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "domain": "fundamental_physics",
+  "title": "Electron electric dipole moment and missing CP violation",
+  "bottleneck": "The Standard Model contains far too little CP violation to explain the matter-antimatter asymmetry of the universe, so physicists hunt for new sources. The electron electric dipole moment is a pristine probe: any nonzero value above the Standard Model's tiny prediction would reveal new CP-violating physics. The ACME collaboration has pushed the bound down by orders of magnitude and still finds nothing.",
+  "why_it_blocks": "Without discovering where the missing CP violation hides, explanations of baryogenesis remain speculative. The null results constrain supersymmetric and extended-Higgs models so tightly that whole classes of theories are ruled out, yet the asymmetry they were meant to explain remains a fact in need of a mechanism.",
+  "current_state": "The latest ACME measurement sets the most stringent limit on the electron electric dipole moment to date, with next-generation molecular-fountain and trapped-ion experiments aiming to improve sensitivity further. Theorists are increasingly pushed toward models where new CP violation sits at very high energy scales.",
+  "sources": [
+    {
+      "title": "ACME electron electric dipole moment bound",
+      "url": "http://arxiv.org/pdf/2212.11841"
+    },
+    {
+      "title": "ACME: a search for the electric dipole moment of the electron",
+      "url": "https://sites.krieger.jhu.edu/demille-group/research/acme-a-search-for-the-electric-dipole-moment-edm-of-the-electron/"
+    }
+  ]
+}

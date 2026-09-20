@@ -1,0 +1,18 @@
+{
+  "id": 776,
+  "domain": "materials",
+  "title": "Rare-earth-free high-performance permanent magnets",
+  "bottleneck": "The strongest permanent magnets need neodymium, dysprosium, or other rare earths with concentrated, geopolitically risky supply chains. Alternatives like manganese-bismuth, iron-nitride, or tetrataenite have promising anisotropy on paper but suffer from poor coercivity, thermal instability, or synthesis routes that do not scale. No rare-earth-free magnet yet matches NdFeB energy product at motor operating temperatures.",
+  "why_it_blocks": "EV motors and wind turbine generators are the two largest growth markets for permanent magnets; rare-earth dependence exposes both to price shocks and export controls. Without an alternative, the energy transition's core machines stay hostage to a handful of suppliers.",
+  "current_state": "Iron-nitride and manganese-based magnets keep improving in the lab, and dysprosium-free NdFeB grades have cut heavy-rare-earth use. But a true rare-earth-free drop-in replacement at NdFeB performance remains one of magnetics' grand challenges.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    }
+  ]
+}

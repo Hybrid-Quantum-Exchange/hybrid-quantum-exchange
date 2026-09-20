@@ -1,0 +1,18 @@
+{
+  "id": 471,
+  "domain": "health_longevity",
+  "title": "Renal aging and chronic kidney disease progression",
+  "bottleneck": "Kidney function declines steadily with age through nephron loss, glomerulosclerosis, and interstitial fibrosis, yet the boundary between 'normal' renal aging and disease is undefined. No therapy halts age-related GFR decline; SGLT2 inhibitors and finerenone slow diabetic kidney disease but do not address the underlying aging of the kidney.",
+  "why_it_blocks": "Kidneys filter the drugs used to treat every other age-related disease, so renal aging constrains the entire geriatric pharmacopeia. End-stage renal disease is a growing, dialysis-dependent burden with no regenerative option.",
+  "current_state": "Care is blood pressure and glucose control plus SGLT2 inhibitors. Senolytics cleared senescent renal cells in mouse models and are entering early human studies for diabetic kidney disease. Aging kidneys also lose drug-clearance capacity, forcing dose reductions across geriatric medicine, and no biomarker distinguishes benign renal aging from progressive disease early enough to intervene.",
+  "sources": [
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    },
+    {
+      "title": "What Is: Cellular Senescence (Scientific Frontline)",
+      "url": "https://www.sflorg.com/2026/03/wi03202601.html"
+    }
+  ]
+}

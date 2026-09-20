@@ -1,0 +1,18 @@
+{
+  "id": 760,
+  "domain": "materials",
+  "title": "Optical loss in visible-frequency metamaterials",
+  "bottleneck": "Metamaterials promise perfect lenses and cloaking at visible wavelengths, but metals at optical frequencies are intrinsically lossy: plasmonic resonances dissipate energy as heat within a few wavelengths of propagation. All-dielectric designs reduce loss but cannot match the strong field confinement of metals, and gain-compensated structures are unstable and power-hungry. No design yet achieves deep-subwavelength control at visible frequencies without prohibitive attenuation.",
+  "why_it_blocks": "Lossless optical metamaterials would enable super-resolution imaging, ultra-compact optics, and new photonic computing architectures. With losses as they are, most striking demonstrations work only in simulation or at microwave frequencies, never reaching real optical devices.",
+  "current_state": "High-index dielectric metasurfaces have commercialized for simple flat optics like metalenses, sidestepping the loss problem for narrow functions. But the broader vision of arbitrary optical field control at the nanoscale remains blocked by fundamental material losses.",
+  "sources": [
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    },
+    {
+      "title": "Nanoarchitected Mechanical Metamaterials for Enhanced Surface Roughness Control",
+      "url": "https://eureka.patsnap.com/report-nanoarchitected-mechanical-metamaterials-for-enhanced-surface-roughness-control"
+    }
+  ]
+}

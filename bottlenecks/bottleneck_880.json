@@ -1,0 +1,18 @@
+{
+  "id": 880,
+  "domain": "xr_interface",
+  "title": "SLAM drift in dynamic environments",
+  "bottleneck": "Simultaneous localization and mapping assumes a mostly static world, but real environments have moving people, changing lighting, and rearranged furniture, causing tracking drift and map corruption. Long sessions accumulate error, relocalization fails in altered scenes, and multi-user shared maps diverge. Robust SLAM in the wild is far harder than in the lab.",
+  "why_it_blocks": "Drift breaks AR persistence: virtual objects swim, anchors detach, and shared experiences desync. AR can't be a reliable layer on the world until tracking survives the world's messiness.",
+  "current_state": "Modern headsets run impressive real-time SLAM, and semantic mapping helps, but dynamic-scene robustness and long-term drift remain active research problems. Lighting changes between sessions defeat relocalization, so persistent AR content detaches from the world it was anchored to.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    }
+  ]
+}

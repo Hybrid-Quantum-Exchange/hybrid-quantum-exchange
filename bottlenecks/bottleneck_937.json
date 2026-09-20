@@ -1,0 +1,18 @@
+{
+  "id": 937,
+  "domain": "food_water_agriculture",
+  "title": "Safe wastewater reuse for irrigation",
+  "bottleneck": "Treated wastewater could irrigate vast areas, but reuse is blocked by real and perceived safety risks — pathogens, pharmaceuticals, heavy metals, and microplastics concentrate in reclaimed water, and treatment to safe standards is expensive. Regulations vary wildly, public acceptance is low, and monitoring for emerging contaminants doesn't exist at irrigation scale. Treatment to safe standards is expensive, regulations vary wildly, and public acceptance is low.",
+  "why_it_blocks": "Cities produce enormous wastewater flows next to water-scarce farmland. Failing to close this loop wastes the most reliable water source available. Cities produce enormous wastewater flows next to water-scarce farmland; failing to close this loop wastes the most reliable source available.",
+  "current_state": "Israel reuses about 90% of wastewater for agriculture under strict standards; most countries reuse little, deterred by cost and perception.",
+  "sources": [
+    {
+      "title": "In Agriculture Groundwater Is Tapped By Agriculture: 7 Issues",
+      "url": "https://farmonaut.com/blogs/in-agriculture-groundwater-is-tapped-by-agriculture-7-issues"
+    },
+    {
+      "title": "Agricultural Irrigation Using Treated Wastewater: Challenges and Opportunities",
+      "url": "https://www.mdpi.com/2073-4441/17/14/2083"
+    }
+  ]
+}

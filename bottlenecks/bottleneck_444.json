@@ -1,0 +1,14 @@
+{
+  "id": 444,
+  "domain": "medicine_cures",
+  "title": "Sudden cardiac death risk prediction",
+  "bottleneck": "Sudden cardiac death kills hundreds of thousands yearly, often as the first manifestation of heart disease; ejection fraction, the main criterion for defibrillator implantation, misses most victims, who have preserved function, while many implanted devices never fire.",
+  "why_it_blocks": "Prevention depends on identifying at-risk individuals before the event; current risk stratification is too crude in both directions.",
+  "current_state": "Genetic testing, advanced imaging of scar, and AI-ECG models are improving prediction. Precise, actionable risk stratification for the general population remains out of reach. Most sudden cardiac deaths occur in people never identified as high-risk, limiting the reach of device therapy. Wearable monitoring and AI analysis of routine ECGs offer new avenues for population screening, but false positives and intervention thresholds remain challenging.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

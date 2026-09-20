@@ -1,0 +1,18 @@
+{
+  "id": 265,
+  "domain": "compute_semiconductors",
+  "title": "Accelerator memory capacity vs context-window growth",
+  "bottleneck": "Model context windows and parameter counts grow faster than accelerator memory capacity; a single GPU still can't hold frontier models, forcing complex tensor and pipeline parallelism with heavy communication overhead. HBM capacity per package grows slowly and expensively, while KV-cache for long contexts explodes memory demand at inference. Memory capacity, not FLOPS, increasingly decides which models can run where.",
+  "why_it_blocks": "Capacity limits fragment models across many chips, raising latency, cost, and energy per token; long-context applications (agents, video, genomics) are throttled by what fits in memory. Progress in model capability outruns the hardware's ability to host it.",
+  "current_state": "Larger HBM stacks, disaggregated memory pools, KV-cache compression, and sparsity techniques stretch capacity. The fundamental capacity-per-dollar trend still lags model growth.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

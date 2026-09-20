@@ -1,0 +1,18 @@
+{
+  "id": 342,
+  "domain": "artificial_intelligence",
+  "title": "The inference memory wall and KV cache",
+  "bottleneck": "LLM inference is memory-bound, not compute-bound: every generated token requires streaming all weights and the full KV cache through memory, and the cache grows linearly with context until it exceeds the weights themselves. A 128K-token context on a 70B model needs about 39 GB just for KV cache, nearly exhausting an H100. Memory bandwidth improvements lag compute gains, so serving gets relatively more expensive as models and contexts grow.",
+  "why_it_blocks": "Inference cost determines who can afford to deploy AI. The memory wall prices long-context and agentic workloads out of reach for most users.",
+  "current_state": "PagedAttention, quantization, and grouped-query attention mitigate the wall; a 2026 hardware analysis concludes bottlenecks are shifting decisively from FLOPS to memory capacity, bandwidth, and interconnect.",
+  "sources": [
+    {
+      "title": "LLM inference Bottlenecks: Memory, CPU and I/O",
+      "url": "https://chierhu.medium.com/bottlenecks-memory-cpu-and-i-o-8463812ace94"
+    },
+    {
+      "title": "AI inference hardware memo: Challenges and Research Directions for LLM Inference Hardware",
+      "url": "https://github.com/hczhu/stock-research/blob/HEAD/memos/2026-06-07-ai-inference-hardware-semi-investment-memo.md"
+    }
+  ]
+}

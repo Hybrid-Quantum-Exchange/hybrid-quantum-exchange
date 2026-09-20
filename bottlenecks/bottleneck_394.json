@@ -1,0 +1,18 @@
+{
+  "id": 394,
+  "domain": "medicine_cures",
+  "title": "Multidrug-resistant tuberculosis treatment",
+  "bottleneck": "Drug-resistant TB requires 6 to 20 months of treatment with toxic, expensive regimens, and rifampicin-resistant TB is a WHO critical priority. Treatment success for multidrug-resistant TB remains far below that of drug-susceptible disease, while 40% of pipeline antibiotics target TB and other critical pathogens are neglected.",
+  "why_it_blocks": "TB kills over a million people yearly; drug resistance threatens to return treatment to the pre-antibiotic era for the world's deadliest bacterial infection.",
+  "current_state": "Shorter all-oral bedaquiline-based regimens have improved outcomes, but access gaps, diagnostic delays, and emerging resistance to the new drugs themselves keep multidrug-resistant TB a crisis. Shorter regimens have improved completion rates, but drug-resistant TB still demands months of toxic therapy that many health systems struggle to deliver. Preventing resistance through better first-line treatment completion is as important as developing new drugs.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    },
+    {
+      "title": "Reports identify weakness in global pipeline for new antibiotics, diagnostics",
+      "url": "https://www.cidrap.umn.edu/antimicrobial-stewardship/reports-identify-weakness-global-pipeline-new-antibiotics-diagnostics"
+    }
+  ]
+}

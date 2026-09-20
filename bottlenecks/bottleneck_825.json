@@ -1,0 +1,18 @@
+{
+  "id": 825,
+  "domain": "climate_environment",
+  "title": "Mass extinction attribution and rate estimation",
+  "bottleneck": "Scientists agree a sixth mass extinction is underway, but its rate and drivers are estimated with enormous uncertainty: most species are undescribed, background extinction rates are debated, and attributing losses among habitat destruction, climate change, invasives, and overexploitation is rarely possible. The famous 'one million species at risk' figure rests on extrapolations that critics consider fragile. Without solid attribution, conservation cannot prioritize among competing threats.",
+  "why_it_blocks": "You cannot stop an extinction crisis you cannot measure or diagnose; resources flow to charismatic species while the actual drivers proceed unaddressed. The uncertainty also lets skeptics dismiss the crisis entirely, weakening political will.",
+  "current_state": "The IPBES assessments synthesize the best available evidence across 150+ governments, and monitoring technologies are improving. But the fundamental data deficit — most of life undescribed and unmonitored — will take decades to close at current funding.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    }
+  ]
+}

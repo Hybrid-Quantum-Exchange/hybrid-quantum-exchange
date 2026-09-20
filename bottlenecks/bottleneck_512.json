@@ -1,0 +1,18 @@
+{
+  "id": 512,
+  "domain": "health_longevity",
+  "title": "Early psychosis detection and intervention",
+  "bottleneck": "Schizophrenia is typically diagnosed years after onset, after psychosis has damaged education, employment, and brain structure, yet prodromal symptoms are nonspecific and most at-risk youth never convert, making early intervention ethically and practically fraught. No biomarker reliably identifies who will develop psychosis.",
+  "why_it_blocks": "Duration of untreated psychosis predicts worse long-term outcomes, so every year of diagnostic delay is permanent disability. The field cannot intervene early because it cannot predict.",
+  "current_state": "Clinical high-risk criteria and early-intervention services modestly improve outcomes. Omega-3, CBT, and low-dose antipsychotic prevention trials show mixed results; neuroimaging and speech-pattern biomarkers are experimental. Speech-pattern analysis and smartphone-based monitoring can flag prodromal changes in research cohorts, yet false-positive rates make population screening ethically fraught. Until prediction improves, indicated prevention will remain limited to the small fraction of at-risk youth who reach specialty clinics.",
+  "sources": [
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    },
+    {
+      "title": "Untreatable Mental Illness: Challenges, Management, and Hope (NeuroLaunch)",
+      "url": "https://neurolaunch.com/untreatable-mental-illness/"
+    }
+  ]
+}

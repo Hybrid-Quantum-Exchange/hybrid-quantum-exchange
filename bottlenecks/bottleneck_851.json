@@ -1,0 +1,18 @@
+{
+  "id": 851,
+  "domain": "xr_interface",
+  "title": "Vergence-accommodation conflict in fixed-focus VR",
+  "bottleneck": "Every first-generation VR headset is a fixed-focus display: the screen sits at one optical distance while virtual objects demand the eyes converge at many depths. This vergence-accommodation conflict decouples two reflexes that are neurologically linked, causing eyestrain, headaches, and visual fatigue, and it is a leading contributor to VR sickness. Children are advised to avoid such displays entirely due to potential lasting effects.",
+  "why_it_blocks": "The conflict makes long VR sessions physiologically punishing, blocking VR's use for work, education, and training where hours of wear are required. Until displays focus naturally, VR remains a short-session medium.",
+  "current_state": "Varifocal prototypes (Meta Half Dome, Lemnis Verifocal) demonstrated relief by moving focal planes with gaze, but no shipping consumer product uses true varifocal optics; multifocal and light-field approaches remain experimental.",
+  "sources": [
+    {
+      "title": "Wikipedia: Vergence-accommodation conflict",
+      "url": "https://en.wikipedia.org/wiki/Vergence%E2%80%93accommodation_conflict"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

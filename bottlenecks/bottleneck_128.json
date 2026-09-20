@@ -1,0 +1,18 @@
+{
+  "id": 128,
+  "domain": "cosmology_multiverse",
+  "title": "Ultra-High-Energy Cosmic Ray Origins",
+  "bottleneck": "Cosmic rays above 10^20 eV exist — single protons carrying macroscopic energies — but their sources are unidentified: the GZK cutoff should limit their range, yet arrival directions show no definitive correlation with nearby active galaxies. Composition measurements (proton vs heavy nuclei) disagree between Auger and Telescope Array. The GZK horizon limits sources to within ~100 Mpc, yet no compelling nearby accelerator has been identified.",
+  "why_it_blocks": "These particles probe the universe's most extreme accelerators, which remain unknown. Identifying even one source class would open multi-messenger astronomy's highest-energy frontier.",
+  "current_state": "AugerPrime upgrades aim to settle composition; source identification likely needs neutrino or gamma-ray multi-messenger coincidences not yet seen. Multi-messenger coincidences with neutrinos or gamma rays would clinch source identification, but none has been established.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 774,
+  "domain": "materials",
+  "title": "Hydrogen embrittlement-resistant steels",
+  "bottleneck": "Hydrogen atoms infiltrate steel lattices, accumulating at grain boundaries and dislocations where they trigger sudden brittle fracture far below the material's rated strength. The atomistic mechanisms are still debated, and no alloying or microstructural strategy has produced a high-strength steel that is provably immune under cyclic hydrogen pressure. Testing itself is slow because embrittlement manifests over long exposures.",
+  "why_it_blocks": "A hydrogen economy needs pipelines, tanks, and compressors that do not exist yet at acceptable cost: embrittlement forces expensive austenitic stainless steels or composite vessels. Without embrittlement-proof structural steels, hydrogen transport and storage stay costly, throttling the fuel's role in decarbonization.",
+  "current_state": "Trapping-site engineering and nickel-alloyed steels have improved resistance, and composite overwrapped vessels bypass the problem for vehicles. But a cheap, weldable, embrittlement-immune pipeline steel — the backbone of hydrogen infrastructure — remains unproven.",
+  "sources": [
+    {
+      "title": "Applications of Nanoarchitected Mechanical Metamaterials in Aerospace Components",
+      "url": "https://eureka.patsnap.com/report-applications-of-nanoarchitected-mechanical-metamaterials-in-aerospace-components"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    }
+  ]
+}

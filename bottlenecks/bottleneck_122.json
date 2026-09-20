@@ -1,0 +1,18 @@
+{
+  "id": 122,
+  "domain": "cosmology_multiverse",
+  "title": "Neutrino Mass Ordering and the DESI Upper Bound",
+  "bottleneck": "DESI plus CMB data cap the sum of neutrino masses at 0.072 eV, pressing against the minimum 0.059 eV required by the inverted ordering — potentially ruling it out cosmologically. But the bound relaxes if dark energy evolves, entangling neutrino physics with the DESI dark-energy hint, and laboratory ordering measurements (JUNO, DUNE) are still years away. If cosmology rules out the inverted ordering while long-baseline experiments confirm it, the contradiction would demand new physics such as decaying neutrinos.",
+  "why_it_blocks": "Cosmology may determine the neutrino mass ordering before particle physics does, or the two may contradict each other, exposing new physics.",
+  "current_state": "DESI DR2's extended analyses find the bound model-dependent; the ordering question is genuinely open on both fronts. The entanglement with dark energy dynamics means neutrino bounds cannot be read independently of the DESI evolving-dark-energy question.",
+  "sources": [
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    },
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    }
+  ]
+}

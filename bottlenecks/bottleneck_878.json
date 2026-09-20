@@ -1,0 +1,18 @@
+{
+  "id": 878,
+  "domain": "xr_interface",
+  "title": "Spatial audio HRTF personalization",
+  "bottleneck": "Convincing 3D audio needs head-related transfer functions matched to the user's ears, but generic HRTFs misplace sounds for many listeners, breaking immersion and even causing discomfort. Measuring personal HRTFs requires anechoic chambers or elaborate scans; phone-camera ear scans are improving but not yet accurate enough. Bad spatial audio is worse than stereo.",
+  "why_it_blocks": "Audio carries half of presence, and mislocalized sound destroys believability while increasing cognitive load. Until personalization is automatic and accurate, spatial audio stays approximate.",
+  "current_state": "Ear-scan apps and ML-estimated HRTFs are improving personalization, and headsets ship decent spatial audio. One-scan accurate personal HRTFs remain elusive. Generic HRTFs misplace sounds for many listeners, and inaccurate spatial audio increases cognitive load instead of aiding immersion. Measuring personal HRTFs still needs controlled conditions, so most users never get a calibrated profile.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    }
+  ]
+}

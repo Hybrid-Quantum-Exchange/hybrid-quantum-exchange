@@ -1,0 +1,18 @@
+{
+  "id": 697,
+  "domain": "space",
+  "title": "Structural strength of 3D-printed regolith construction",
+  "bottleneck": "Printing habitats from lunar or Martian regolith — by sintering, binders, or solar melting — could slash launched mass, but printed regolith is brittle, porous, and weak in tension; holding a pressurized atmosphere inside a printed structure demands strengths no printed-regolith sample has demonstrated at scale. Binders imported from Earth defeat the mass savings; alternative binders are experimental. Thermal cycling, micrometeorites, and radiation aging of printed structures are uncharacterized.",
+  "why_it_blocks": "If printed regolith cannot hold pressure, it can only make unpressurized structures like berms and pads, and habitats must still be imported — halving the ISRU construction payoff.",
+  "current_state": "ESA and NASA have printed small regolith structures and test walls. No pressurized printed-regolith structure has been built or tested, on Earth or off.",
+  "sources": [
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

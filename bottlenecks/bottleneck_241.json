@@ -1,0 +1,18 @@
+{
+  "id": 241,
+  "domain": "compute_semiconductors",
+  "title": "Die-to-die chiplet interconnect bandwidth density",
+  "bottleneck": "Chiplets split monolithic dies into smaller dies joined by standards like UCIe, but die-to-die links lag on-chip wiring in bandwidth density, latency, and energy per bit. Advanced packaging (silicon interposers, hybrid bonding) closes the gap at high cost, and heterogeneous chiplets from different vendors must interoperate electrically and thermally. The industry lacks a universal, cheap, high-density interconnect that works across foundries.",
+  "why_it_blocks": "If chiplet links stay slow and power-hungry, disaggregated designs can't match monolithic performance, undermining the main strategy for continuing Moore's-law economics through yield-friendly small dies. AI accelerators are especially exposed, since they are interconnect-bound.",
+  "current_state": "UCIe 1.0/2.0 standards are published with growing vendor adoption, and hybrid-bonded 3D stacks demonstrate high link densities in products like HBM-adjacent designs. Cost and cross-vendor validation remain barriers to universal use.",
+  "sources": [
+    {
+      "title": "Patsnap: UCIe chiplet thermal design",
+      "url": "https://eureka.patsnap.com/report-thermal-design-for-2-5d-3d-ucie-chiplet-interconnect"
+    },
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    }
+  ]
+}

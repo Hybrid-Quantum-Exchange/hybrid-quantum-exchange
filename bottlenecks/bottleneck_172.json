@@ -1,0 +1,18 @@
+{
+  "id": 172,
+  "domain": "energy",
+  "title": "Breeding blanket fabrication at scale",
+  "bottleneck": "Breeding blankets are the most complex fusion components: thousands of modules combining lithium ceramics or lead-lithium channels, beryllium multipliers, helium cooling circuits, and tritium extraction, that must be manufactured identically, installed remotely, and replaced every few years. No factory has ever mass-produced tritium-breeding blankets, and the supply chains for their specialty materials do not exist. Each module must also survive remote installation with millimeter tolerances, since human hands can never enter the activated vessel.",
+  "why_it_blocks": "Blankets are consumables in a fusion economy. If they cannot be manufactured at scale and reasonable cost, every fusion plant faces bespoke, billion-dollar maintenance cycles.",
+  "current_state": "ITER's test blanket modules are one-off fabrications by international partners. Industrial-scale blanket manufacturing concepts exist only on paper.",
+  "sources": [
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    },
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    }
+  ]
+}

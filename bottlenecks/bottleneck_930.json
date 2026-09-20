@@ -1,0 +1,18 @@
+{
+  "id": 930,
+  "domain": "food_water_agriculture",
+  "title": "Pollinator decline and crop pollination",
+  "bottleneck": "Roughly a third of crop production depends on animal pollinators, yet wild pollinator populations are declining from habitat loss, pesticides, and disease — and managed honeybees face colony-collapse pressures. There's no substitute for pollination at scale: hand-pollination works for vanilla, not for almonds. The decline is diffuse and hard to attribute, so coordinated action stalls while the losses compound. There is no substitute for pollination at scale: hand-pollination works for vanilla, not for almonds.",
+  "why_it_blocks": "Pollinator-dependent crops include most fruits, vegetables, and nuts — the nutritious part of the diet. Their loss would collapse dietary diversity.",
+  "current_state": "Habitat strips and reduced pesticide use help locally; global pollinator trends remain negative. A Harvard-led study links pollinator decline to 427,000 early deaths yearly from lost fruit and vegetable consumption.",
+  "sources": [
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    },
+    {
+      "title": "Insect Loss Stunting Fruit and Vegetable Production, Leading to More Than 400,000 Early Deaths a Year",
+      "url": "https://e360.yale.edu/digest/pollinators-fruit-vegetables-early-deaths"
+    }
+  ]
+}

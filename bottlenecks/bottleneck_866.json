@@ -1,0 +1,18 @@
+{
+  "id": 866,
+  "domain": "xr_interface",
+  "title": "Light-field display resolution-density tradeoff",
+  "bottleneck": "Light-field displays reproduce correct focus cues by emitting many angular views, but dividing pixels among views slashes spatial resolution: a 4K panel becomes effectively sub-HD per view. Capturing or rendering dozens of views multiplies compute, and the microlens arrays add bulk. Resolution high enough for text becomes impractical.",
+  "why_it_blocks": "Light fields could fix VAC without eye tracking, but the resolution cost makes them unusable for productivity. The tradeoff between correct focus and sharp text is fundamental to the approach.",
+  "current_state": "Prototype light-field near-eye displays exist with limited resolution; compressive and neural approaches aim to recover detail. No product-grade light-field headset has shipped. Microlens arrays add thickness and optical loss, working against the compactness that near-eye displays require. Capturing real-world light fields needs dense camera arrays, so content creation is as hard as display.",
+  "sources": [
+    {
+      "title": "Wikipedia: Vergence-accommodation conflict",
+      "url": "https://en.wikipedia.org/wiki/Vergence%E2%80%93accommodation_conflict"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

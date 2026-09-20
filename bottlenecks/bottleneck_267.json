@@ -1,0 +1,18 @@
+{
+  "id": 267,
+  "domain": "compute_semiconductors",
+  "title": "2D-material transistor manufacturability",
+  "bottleneck": "Atomically thin channels (MoS2, WS2) promise ultimate electrostatic control and continued scaling, but growing wafer-scale single-crystal 2D films without grain boundaries, making low-resistance contacts, and integrating them into CMOS fabs without contamination are all unsolved. Defect densities are orders of magnitude above silicon standards, and doping control is primitive.",
+  "why_it_blocks": "2D materials are the leading candidate to extend transistor scaling past silicon's limits; without manufacturable 2D FETs, the industry faces a hard stop on channel scaling within a decade. The post-silicon era can't begin until the fab can build it.",
+  "current_state": "Lab devices show excellent performance, and 300mm-wafer growth demos are emerging. Contact resistance, variability, and fab integration remain far from production readiness. Contact resistance between metal electrodes and 2D channels remains orders of magnitude too high, dominating device performance and masking the channel's intrinsic advantages.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    }
+  ]
+}

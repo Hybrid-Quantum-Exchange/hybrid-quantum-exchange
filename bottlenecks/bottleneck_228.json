@@ -1,0 +1,18 @@
+{
+  "id": 228,
+  "domain": "energy",
+  "title": "Interregional transmission planning seams",
+  "bottleneck": "The US grid is split into regions planned independently, with interregional lines, the most valuable for weather diversity and resilience, falling into jurisdictional gaps where no entity is responsible and cost allocation is disputed. FERC Order 1920 requires coordination but leaves the hardest questions of who pays and who benefits to contested processes. Seams between markets waste billions in foregone trade.",
+  "why_it_blocks": "Weather does not respect market boundaries. Without interregional transmission, each region overbuilds for its own worst case instead of sharing diversity, the most expensive way to ensure reliability.",
+  "current_state": "Order 1920 implementation is underway with contentious cost-allocation debates. Few major interregional projects have advanced. Beneficiaries in one region resist paying for lines whose reliability value accrues mostly to neighbors, stalling cost-allocation agreements.",
+  "sources": [
+    {
+      "title": "The Interconnection Queue: Energy Generation, Grid Access, and the Renewable Energy Transition",
+      "url": "https://medium.com/@mjk_89787/the-interconnection-queue-5a634d55732a"
+    },
+    {
+      "title": "Interconnection Queue Crisis and Transmission Constraints analysis",
+      "url": "https://github.com/himanshu-cloudsufi/stdf-agents/blob/HEAD/archive/chat_exports/jagannath_srikanth/2025-12-15_13-20-01_386108.md"
+    }
+  ]
+}

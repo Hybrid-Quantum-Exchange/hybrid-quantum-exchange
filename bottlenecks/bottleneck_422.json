@@ -1,0 +1,18 @@
+{
+  "id": 422,
+  "domain": "medicine_cures",
+  "title": "In vivo CRISPR delivery and off-target control",
+  "bottleneck": "CRISPR therapies work ex vivo with edited cells reinfused, but delivering editors to the right cells inside the body, including brain, muscle, and lung, remains unsolved; lipid nanoparticles target mainly liver, and viral delivery faces AAV's immune and cargo limits. Off-target edits and long-term genotoxicity are incompletely characterized.",
+  "why_it_blocks": "Most genetic diseases affect tissues beyond the liver and blood; without targeted in vivo delivery, CRISPR's curative potential stays narrow.",
+  "current_state": "Tissue-targeted lipid nanoparticles, virus-like particles, and high-fidelity editors are advancing rapidly, while capsid engineering seeks to evade pre-existing immunity. Durable, specific in vivo editing of non-liver tissues is not yet clinical reality. High-fidelity editors with reduced off-target activity are advancing, but regulators will demand long-term follow-up data that does not yet exist. Delivery, not editing chemistry, is now the field's binding constraint.",
+  "sources": [
+    {
+      "title": "Technology Summary: AAV immunogenicity",
+      "url": "https://www.fda.gov/media/166264/download"
+    },
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

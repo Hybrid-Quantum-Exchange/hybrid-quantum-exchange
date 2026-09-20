@@ -1,0 +1,18 @@
+{
+  "id": 484,
+  "domain": "health_longevity",
+  "title": "Osteoarthritis cartilage regeneration",
+  "bottleneck": "Articular cartilage has almost no blood supply and minimal regenerative capacity, so osteoarthritis, the most common joint disease of aging, progresses to bone-on-bone pain with joint replacement as the only definitive treatment. Senescent chondrocytes drive the disease, but intra-articular senolytics have not yet shown cartilage regrowth in humans.",
+  "why_it_blocks": "Osteoarthritis disables hundreds of millions of older adults and is a leading cause of lost mobility. A regenerative therapy would prevent the frailty cascade that joint failure triggers.",
+  "current_state": "Treatment is analgesia, physiotherapy, and eventual arthroplasty. Senolytics for knee OA are in early trials; stem-cell injections show inconsistent results and no approved product regenerates cartilage. Cell therapies using mesenchymal stromal cells show inconsistent cartilage repair, and regulators have approved no product that regenerates articular cartilage in humans.",
+  "sources": [
+    {
+      "title": "What Is: Cellular Senescence (Scientific Frontline)",
+      "url": "https://www.sflorg.com/2026/03/wi03202601.html"
+    },
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    }
+  ]
+}

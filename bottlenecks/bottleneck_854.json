@@ -1,0 +1,18 @@
+{
+  "id": 854,
+  "domain": "xr_interface",
+  "title": "Natural locomotion without motion platforms",
+  "bottleneck": "Moving through virtual worlds larger than the physical room requires artificial locomotion (teleport, smooth stick movement) or expensive omnidirectional treadmills and motion platforms. Redirected walking tricks work only in large tracked spaces, and none of the solutions are affordable, compact, or comfortable for home use. Legs remain the unsolved input.",
+  "why_it_blocks": "Locomotion limits VR world design: developers build around teleportation and small arenas, constraining the kinds of experiences possible. True freedom of movement in VR awaits a practical solution.",
+  "current_state": "Omnidirectional treadmills and slip-mills exist as niche products; redirected walking is a research staple. No home-friendly, affordable, comfortable locomotion system has emerged. Treadmills cost thousands of dollars and occupy a room, so home users are left with thumbstick movement that trades immersion for nausea.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR motion sickness",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-makes-me-feel-sick-understanding-and-overcoming-simulator-sickness"
+    },
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    }
+  ]
+}

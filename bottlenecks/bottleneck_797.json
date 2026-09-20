@@ -1,0 +1,18 @@
+{
+  "id": 797,
+  "domain": "climate_environment",
+  "title": "BECCS land and food competition",
+  "bottleneck": "Bioenergy with carbon capture and storage needs vast biomass plantations to remove gigatonnes, but land is finite: model scenarios requiring BECCS at scale imply cropland areas rivaling India, directly competing with food production and biodiversity. Yield assumptions in models often ignore water limits, soil degradation, and the carbon debt of land conversion. No governance framework allocates land between carbon removal, food, and nature.",
+  "why_it_blocks": "BECCS is baked into most 1.5 C pathways as the assumed backstop, yet its land footprint could trigger food price spikes and deforestation that negate the carbon benefit. The gap between modeled BECCS and physically sustainable biomass supply is one of the largest unacknowledged risks in climate planning.",
+  "current_state": "Sustainability certification schemes for biomass exist but are weakly enforced, and several planned BECCS facilities have stalled on feedstock and cost concerns. The 2024 State of CDR report found novel removal methods including BECCS contribute a tiny fraction of the 2 billion tonnes removed annually — nearly all of it conventional land management.",
+  "sources": [
+    {
+      "title": "What is direct air capture, and how does it work?",
+      "url": "https://thinklandscape.globallandscapesforum.org/102395/what-is-direct-air-capture/"
+    },
+    {
+      "title": "MIT Study Reveals Major Challenges with Carbon Removal Technology Plans",
+      "url": "https://scienceblog.com/mit-study-reveals-major-challenges-with-carbon-removal-technology-plans/"
+    }
+  ]
+}

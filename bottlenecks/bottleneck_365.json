@@ -1,0 +1,14 @@
+{
+  "id": 365,
+  "domain": "medicine_cures",
+  "title": "CAR-T cell therapy for solid tumors",
+  "bottleneck": "CAR-T cells have produced durable remissions in blood cancers but largely fail against solid tumors, which present a hostile immunosuppressive microenvironment, dense physical barriers, antigen heterogeneity that enables escape, and on-target off-tumor toxicity risks.",
+  "why_it_blocks": "Solid tumors cause the vast majority of cancer deaths; until engineered cell therapies work in them, CAR-T's transformative impact stays confined to hematologic malignancies.",
+  "current_state": "Next-generation approaches, including armored CARs secreting cytokines, TCR-engineered cells, tumor-infiltrating lymphocyte therapies, and combinations that remodel the microenvironment, are in clinical trials with early signals. Making shielded, cold solid tumors responsive remains unsolved. Key advances include engineering T cells to resist exhaustion, targeting multiple antigens at once, and pairing cell therapy with drugs that dismantle the suppressive stroma. Early-phase trials are testing these combinations, but durable responses in solid tumors remain rare.",
+  "sources": [
+    {
+      "title": "Why some tumors resist immunotherapy: Blocking miR-25 may help turn cold cancers hot",
+      "url": "https://medicalxpress.com/news/2026-06-tumors-resist-immunotherapy-blocking-mir.html"
+    }
+  ]
+}

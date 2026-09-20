@@ -1,0 +1,18 @@
+{
+  "id": 296,
+  "domain": "artificial_intelligence",
+  "title": "Mechanistic interpretability of frontier models",
+  "bottleneck": "Despite years of work, researchers cannot reliably trace how a large neural network turns inputs into outputs at the level of individual circuits and features. Techniques like sparse autoencoders and circuit analysis work on toy models but degrade sharply at frontier scale, where superposition packs many features into each neuron and explanations become ambiguous. We still lack a method that takes a trained model and produces a faithful, human-checkable account of why it made a specific high-stakes decision.",
+  "why_it_blocks": "Without interpretability, auditing models for hidden goals, bias, or dangerous reasoning is guesswork. Deployment in medicine, law, and critical infrastructure stalls because no one can verify what the system is actually doing internally.",
+  "current_state": "Labs publish SAE-based feature dictionaries and circuit dissections for mid-size models, and some multi-step reasoning paths have been traced. But a 2026 AI risk review concluded mechanistic interpretability hits severe, potentially insurmountable computational walls at scale.",
+  "sources": [
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    },
+    {
+      "title": "AI Alignment: 9 Problems Researchers Still Haven't Solved",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/ai-alignment-9-problems-researchers-still-havent-solved"
+    }
+  ]
+}

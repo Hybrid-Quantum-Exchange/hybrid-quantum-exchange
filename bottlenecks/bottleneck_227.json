@@ -1,0 +1,18 @@
+{
+  "id": 227,
+  "domain": "energy",
+  "title": "Synchronous inertia replacement",
+  "bottleneck": "Retiring synchronous generators removes the rotating mass that arrests frequency drops, and while batteries with grid-forming inverters can synthesize inertia, the response characteristics, fault current contribution, and system strength of inverter-based resources differ fundamentally. Synchronous condensers provide real inertia but are expensive rotating machines. Operators lack validated models for all-inverter grids.",
+  "why_it_blocks": "Frequency stability is non-negotiable. Until synthetic inertia is proven equivalent in real contingencies, operators must conservatively limit renewable penetration or keep fossil plants spinning. Protection systems designed around high fault currents from spinning generators may misoperate when fault current comes only from inverters.",
+  "current_state": "Synchronous condensers are being installed and grid-forming batteries are demonstrating fast frequency response. Full-scale validation in major interconnections is pending. Grid operators are running real-time stability tools to manage low-inertia periods, but the tools themselves are newly deployed.",
+  "sources": [
+    {
+      "title": "The 750-MW Warning: How Outdated Interconnection Rules Are Strangling the Grid's Hybrid Future",
+      "url": "https://www.linkedin.com/pulse/750-mw-warning-how-outdated-interconnection-rules-strangling-mike-l-3rayc"
+    },
+    {
+      "title": "The Interconnection Bottleneck: How Renewable Approval Backlogs Are Repricing the Energy-to-Data Center Equation",
+      "url": "https://www.globaldatacenterhub.com/p/the-interconnection-bottleneck-how"
+    }
+  ]
+}

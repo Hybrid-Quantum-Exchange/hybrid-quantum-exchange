@@ -1,0 +1,18 @@
+{
+  "id": 678,
+  "domain": "space",
+  "title": "Orbital propellant depots as economic infrastructure",
+  "bottleneck": "The physics of depots is understood, but the business case is not: a depot operator must invest billions in cryogenic infrastructure before any customer exists, while launch providers have little incentive to standardize refueling interfaces that commoditize their vehicles. Insurance, liability for a depot full of cryogenics, and the chicken-and-egg problem of demand have kept depots as presentation architecture for 20 years, even as Starship makes refueling technically mandatory for Artemis.",
+  "why_it_blocks": "Without depots, every deep-space mission must launch fully fueled in one shot, capping payload mass; the depot is the difference between flags-and-footprints missions and real logistics.",
+  "current_state": "Starship's 2024 intra-vehicle transfer demo and a planned inter-vehicle demo are the first real steps; ULA's distributed-launch studies keep the concept alive. No operational depot exists.",
+  "sources": [
+    {
+      "title": "Orbital propellant depot (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Orbital_propellant_depot"
+    },
+    {
+      "title": "Propellant depots: an idea whose time has (almost) come (The Space Review)",
+      "url": "https://www.thespacereview.com/archive/1127-1.html"
+    }
+  ]
+}

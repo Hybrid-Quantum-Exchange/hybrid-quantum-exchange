@@ -1,0 +1,18 @@
+{
+  "id": 69,
+  "domain": "fundamental_physics",
+  "title": "Cabibbo-angle anomaly and first-row CKM unitarity",
+  "bottleneck": "The Cabibbo angle, extracted from superallowed nuclear beta decays, kaon decays, and pion decays, no longer agrees across channels at the level precision electroweak physics demands. Combined with the most precise determinations of the up-down quark coupling, the first row of the Cabibbo-Kobayashi-Maskawa matrix appears to violate unitarity at the few-sigma level.",
+  "why_it_blocks": "CKM unitarity is a pillar of the Standard Model's flavor structure. A confirmed violation would be unambiguous evidence of new physics, such as a fourth generation of quarks, right-handed weak currents, or exotic vector-like fermions, accessible at energy scales current colliders can probe.",
+  "current_state": "Global fits continue to show tension around 3 sigma, driven by updated radiative corrections and lattice QCD inputs for kaon decays. Upcoming measurements of neutron decay correlations and rare kaon processes aim to determine whether the anomaly is a subtle systematic or the first crack in the Standard Model's flavor sector.",
+  "sources": [
+    {
+      "title": "Cabibbo-angle anomaly",
+      "url": "https://arxiv.org/abs/2111.04519"
+    },
+    {
+      "title": "First-row CKM unitarity",
+      "url": "https://arxiv.org/html/2309.03870v2"
+    }
+  ]
+}

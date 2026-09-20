@@ -1,0 +1,14 @@
+{
+  "id": 38,
+  "domain": "fundamental_physics",
+  "title": "Are neutrinos Dirac or Majorana particles",
+  "bottleneck": "The Standard Model assumes neutrinos are Dirac fermions distinct from their antiparticles, but nothing forbids them being Majorana particles identical to their antiparticles, which would enable the seesaw mechanism and leptogenesis. The only practical probe, neutrinoless double-beta decay, has never been observed despite tonne-scale experiments.",
+  "why_it_blocks": "A Majorana discovery would reveal lepton-number violation, point to ultra-high-scale physics, and unlock the leading explanation of the matter-antimatter asymmetry; a Dirac result would instead demand an explanation for absurdly tiny Yukawa couplings.",
+  "current_state": "KamLAND-Zen, GERDA/LEGEND, and nEXO successors keep pushing half-life limits past 10^26 years, progressively squeezing the inverted-ordering parameter space where a signal is most expected. A Majorana discovery would also validate the seesaw mechanism and open the door to leptogenesis as the origin of the matter-antimatter asymmetry.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

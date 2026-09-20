@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "domain": "fundamental_physics",
+  "title": "Swampland conjectures and the boundary of consistent quantum gravity",
+  "bottleneck": "The swampland program conjectures that most low-energy effective field theories, including ones that look perfectly healthy, cannot be completed into a consistent quantum gravity theory, but the conjectures themselves remain unproven. There is no rigorous criterion separating the landscape of allowed theories from the swampland of forbidden ones.",
+  "why_it_blocks": "Without a sharp boundary, model builders cannot know whether a proposed dark energy model, inflationary scenario, or particle extension is even compatible with quantum gravity, so entire research programs may rest on impossible foundations.",
+  "current_state": "Conjectures such as the weak gravity conjecture and the de Sitter conjecture have survived many string-theory tests and rule out some simple models, but counterexamples and loopholes keep the program controversial and non-rigorous.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

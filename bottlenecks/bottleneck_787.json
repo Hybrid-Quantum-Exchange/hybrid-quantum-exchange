@@ -1,0 +1,18 @@
+{
+  "id": 787,
+  "domain": "materials",
+  "title": "Critical mineral substitution in electronics",
+  "bottleneck": "Smartphones and computers depend on tantalum, cobalt, gallium, germanium, and rare earths with fragile supply chains, yet substitution is blocked by the extreme property specificity of each element: no alternative capacitor dielectric matches tantalum's volumetric efficiency, and no phosphor matches rare-earth color purity. Redesigning components around substitutes usually means larger, hotter, or less efficient devices.",
+  "why_it_blocks": "Concentrated mineral supply chains are a standing geopolitical and price risk for the entire electronics industry, and mining carries heavy environmental costs. Without substitutes, every demand surge or export restriction propagates directly into device prices and availability.",
+  "current_state": "Thrifting — using less of each critical element per device — has cut intensity steadily, and recycling recovers some supply. But true elemental substitution at equal performance remains rare, and the industry largely manages the risk through stockpiles rather than materials science.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "Nanoarchitected Mechanical Metamaterials for Enhanced Surface Roughness Control",
+      "url": "https://eureka.patsnap.com/report-nanoarchitected-mechanical-metamaterials-for-enhanced-surface-roughness-control"
+    }
+  ]
+}

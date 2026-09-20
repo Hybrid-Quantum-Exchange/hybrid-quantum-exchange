@@ -1,0 +1,18 @@
+{
+  "id": 247,
+  "domain": "compute_semiconductors",
+  "title": "Compute-in-memory for AI inference at scale",
+  "bottleneck": "Performing multiply-accumulate operations inside memory arrays eliminates data movement, but analog compute-in-memory suffers from device noise, limited precision, and ADC/DAC overhead that eats the promised efficiency gains. Mapping large, changing models (like LLMs) onto fixed crossbars requires constant reprogramming, and most demonstrations are limited to small networks or inference only.",
+  "why_it_blocks": "Data movement, not arithmetic, dominates AI energy; without in-memory compute, inference efficiency hits a floor set by memory access energy. If analog CIM can't scale to large models with digital-grade accuracy, edge AI stays power-limited and data-center inference stays expensive.",
+  "current_state": "Startups and research labs have taped out SRAM- and ReRAM-based CIM macros showing order-of-magnitude efficiency on small models. Large-model, high-accuracy, production-grade CIM chips remain in development.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 699,
+  "domain": "space",
+  "title": "Recycling solid waste into manufacturing feedstock",
+  "bottleneck": "A Mars crew generates tons of solid waste — packaging, food waste, hygiene products, eventually worn-out equipment — and discarding mass is unaffordable when every kilogram was launched across interplanetary space. Converting waste into 3D-printer filament, compost, or construction material requires processing plants handling heterogeneous, sometimes hazardous inputs reliably for years. The ISS simply bags trash for destructive reentry; a Mars base has no 'away' to throw things to.",
+  "why_it_blocks": "Waste is stranded mass and a hygiene hazard; closing the solid-waste loop is required for the same reason as water and air — without it, resupply mass never drops to sustainable levels.",
+  "current_state": "The ISS demonstrates trash compaction; NASA's waste-conversion projects study the chemistry at small scale. No operational waste-to-feedstock system has flown.",
+  "sources": [
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    },
+    {
+      "title": "Designing Mars and Moon Habitats: When Home Is Life Support",
+      "url": "https://www.archyde.com/designing-mars-and-moon-habitats-when-home-is-life-support/"
+    }
+  ]
+}

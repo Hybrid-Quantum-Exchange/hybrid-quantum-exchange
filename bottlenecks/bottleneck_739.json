@@ -1,0 +1,18 @@
+{
+  "id": 739,
+  "domain": "materials",
+  "title": "Low-loss cryogenic interconnects for quantum processors",
+  "bottleneck": "Wiring hundreds of qubits demands dense, low-thermal-conductivity, low-loss microwave cabling from room temperature to millikelvin stages, and existing coaxial looms are bulky, expensive, and a major heat load. Superconducting flex cables and photonic links are in development, but no solution yet combines the channel density, crosstalk isolation, and thermal performance needed for thousand-qubit machines. Interconnects are now a scaling bottleneck on par with the qubits themselves.",
+  "why_it_blocks": "Quantum processors cannot grow past a few hundred qubits without a wiring solution that fits in a dilution refrigerator. The cabling wall forces awkward modular architectures and slows the road to error-corrected machines.",
+  "current_state": "Superconducting flexible striplines and cryo-CMOS multiplexing are advancing in labs, and the 2026 materials-search pipeline may yield lower-loss conductor options. But a standardized, manufacturable high-density cryogenic interconnect does not yet exist.",
+  "sources": [
+    {
+      "title": "New superconductors identified, unlocking process that could yield thousands more",
+      "url": "https://phys.org/news/2026-06-superconductors-yield-thousands.html"
+    },
+    {
+      "title": "How Close Are We to Superconductors That Are Actually Practical?",
+      "url": "https://gizmodo.com/?p=2000814055"
+    }
+  ]
+}

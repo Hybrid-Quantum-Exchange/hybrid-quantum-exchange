@@ -1,0 +1,18 @@
+{
+  "id": 184,
+  "domain": "energy",
+  "title": "Molten salt reactor corrosion and chemistry control",
+  "bottleneck": "Molten salt reactors circulate hot, corrosive fluoride or chloride salts that attack structural alloys, with corrosion driven by the salt's redox chemistry, fission product buildup, and tellurium cracking. Operators must continuously monitor and adjust salt chemistry online, removing fission products and controlling oxidation potential, in a highly radioactive, high-temperature loop. Materials that survive decades in this environment are unproven.",
+  "why_it_blocks": "Corrosion and chemistry control are the central technical risks of the molten salt path. A reactor that cannot maintain its salt cannot operate, and unexpected corrosion could force redesigns after billions are committed.",
+  "current_state": "The 1960s Molten Salt Reactor Experiment proved the concept for four years. Modern developers are testing alloys and chemistry control, with no commercial-scale demonstration.",
+  "sources": [
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    },
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    }
+  ]
+}

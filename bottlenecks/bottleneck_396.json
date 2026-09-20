@@ -1,0 +1,14 @@
+{
+  "id": 396,
+  "domain": "medicine_cures",
+  "title": "Malaria eradication and vaccine durability",
+  "bottleneck": "RTS,S and R21 malaria vaccines reduce cases but offer partial, waning protection requiring multiple doses, while drug resistance spreads in Plasmodium falciparum and insecticide resistance grows in mosquitoes. Eradication would require breaking transmission entirely.",
+  "why_it_blocks": "Malaria still kills over 600,000 people yearly, mostly African children; imperfect tools mean control plateaus short of elimination.",
+  "current_state": "R21 is being rolled out at scale and next-generation vaccines, monoclonal antibodies, and gene-drive mosquitoes are in development. A highly efficacious, durable, single-encounter intervention remains elusive, and global R&D coordination for eradication-scale tools is still maturing. Eradication would also require tackling asymptomatic reservoirs and the mosquito ecology that sustains transmission. Current tools, while life-saving, are control tools rather than eradication tools, and sustained funding for eradication-scale R&D is not assured.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    }
+  ]
+}

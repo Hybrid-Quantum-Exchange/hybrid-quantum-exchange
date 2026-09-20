@@ -1,0 +1,18 @@
+{
+  "id": 756,
+  "domain": "materials",
+  "title": "Multivalent-ion battery cathodes",
+  "bottleneck": "Magnesium, calcium, and aluminum batteries could use abundant elements and multivalent ions for high volumetric capacity, but no cathode has yet reversibly intercalated these ions at practical voltages and rates. Divalent ions bind strongly to host lattices, making diffusion sluggish, and compatible electrolytes that do not passivate the metal anode are scarce. Demonstrated cells remain low-voltage curiosities with poor cycle life.",
+  "why_it_blocks": "Multivalent chemistries are the main beyond-lithium hope for escaping lithium, cobalt, and nickel supply constraints entirely. Without a working cathode-electrolyte pair, the concept cannot graduate from papers to prototypes, leaving all eggs in the lithium basket.",
+  "current_state": "Research focuses on Chevrel-phase and oxide hosts for magnesium and new halide electrolytes, but performance still trails lithium-ion by an order of magnitude. The field advances slowly because each ion-anode-electrolyte combination is effectively a new chemistry to invent.",
+  "sources": [
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    },
+    {
+      "title": "Why Solid-State Batteries Fail: MIT Study",
+      "url": "https://casrai.org/news/solid-state-battery-dendrite-failure-grain-boundaries"
+    }
+  ]
+}

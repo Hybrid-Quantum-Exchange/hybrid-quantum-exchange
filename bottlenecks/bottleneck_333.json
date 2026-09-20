@@ -1,0 +1,18 @@
+{
+  "id": 333,
+  "domain": "artificial_intelligence",
+  "title": "Evaluating open-ended agentic tasks",
+  "bottleneck": "Benchmarks for agents — long-horizon, tool-using, open-ended tasks — lack agreed definitions of success: a task completed well enough by one judge fails by another's lights, and only about 16% of safety benchmarks use proper statistical methods. Real agentic work has no ground truth, so evaluation relies on LLM judges, which are circular, or expensive human review, which doesn't scale. We cannot currently measure what we most need agents to do. Real agentic tasks take hours and resist scripting, so benchmarks either simplify them away or become irreproducible.",
+  "why_it_blocks": "Deploying autonomous agents without valid evaluation is flying blind — failures are discovered by customers, not by tests.",
+  "current_state": "SWE-bench and successors cover narrow coding tasks; open-ended agentic evaluation remains ad hoc and statistically weak.",
+  "sources": [
+    {
+      "title": "Security experts uncover major flaws in hundreds of AI benchmarks",
+      "url": "https://www.digit.fyi/flaws-in-ai-benchmarks/"
+    },
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 487,
+  "domain": "health_longevity",
+  "title": "Vaccine manufacturing surge capacity for pandemics",
+  "bottleneck": "Global vaccine production is concentrated in a few countries and companies, and scaling from zero to billions of doses takes months even with platform technologies like mRNA. Supply-chain bottlenecks in lipids, vials, and fill-finish capacity constrained the COVID-19 rollout, and little surge capacity has been built since.",
+  "why_it_blocks": "A vaccine that cannot be manufactured at pandemic scale is a scientific trophy, not a public health tool. Manufacturing, not discovery, was the binding constraint in 2021 and remains so.",
+  "current_state": "The WHO's 100-day mission aims for vaccines within 100 days of a pandemic threat, with geographically diversified production. mRNA technology-transfer hubs exist in principle but limited commercial-scale capacity in low-income regions. Single-use bioreactor systems and modular fill-finish plants could decentralize production, but capital costs and trained-workforce shortages keep manufacturing concentrated in a few countries.",
+  "sources": [
+    {
+      "title": "Global Gaps in COVID-19 Vaccine Rollout and Impact (ScienMag)",
+      "url": "https://scienmag.com/global-gaps-in-covid-19-vaccine-rollout-and-impact/"
+    },
+    {
+      "title": "MacArthur Fellow on vaccine development and pandemic preparedness (Archyde)",
+      "url": "https://www.archyde.com/macarthur-fellow-explores-advances-in-vaccine-development-and-strategies-for-pandemic-preparedness/"
+    }
+  ]
+}

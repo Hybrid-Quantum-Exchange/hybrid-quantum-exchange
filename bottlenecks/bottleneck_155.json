@@ -1,0 +1,18 @@
+{
+  "id": 155,
+  "domain": "energy",
+  "title": "Remote handling and maintenance robotics for fusion",
+  "bottleneck": "Fusion reactor interiors become too radioactive for human entry, so all maintenance, from blanket replacement to divertor swaps to diagnostics servicing, must be done by remote-handling robots operating in high radiation, high temperature, and strong magnetic fields. Components weigh tonnes, tolerances are tight, and a single failed maneuver can damage irreplaceable internals. No fusion facility has yet performed full remote replacement of breeding blankets at power-plant scale.",
+  "why_it_blocks": "Maintenance downtime dominates fusion plant economics. If remote handling takes months instead of weeks, capacity factors collapse and the cost of fusion electricity doubles regardless of how well the plasma performs.",
+  "current_state": "ITER is building the most ambitious remote-handling system ever attempted, and fission plants have decades of remote-maintenance experience, but fusion's combination of scale, activation, and magnetic fields is unprecedented.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 722,
+  "domain": "space",
+  "title": "Electrodynamic tether reliability for deorbit",
+  "bottleneck": "Electrodynamic tethers — long conductive cables generating drag from Earth's magnetic field — could deorbit satellites without propellant, but deploying a kilometer-long tether reliably is notoriously hard: tethers snag, sever on micrometeorites, and induce dynamics that can destabilize the host. Past flights left a legacy of skepticism after breakages and underperformance. A deorbit device must work years after launch on a dead satellite — the worst possible reliability case.",
+  "why_it_blocks": "Propellantless deorbit is the cheapest compliance path for coming disposal rules; if tethers cannot be trusted, operators must reserve propellant or add thrusters — mass and cost someone must pay.",
+  "current_state": "Japanese and European teams continue tether experiments; JAXA's KITE demo had partial success. No tether has operationally deorbited a satellite.",
+  "sources": [
+    {
+      "title": "Global Space Debris Removal Market Poised for Rapid Growth",
+      "url": "https://www.einpresswire.com/article/876135097/global-space-debris-removal-market-poised-for-rapid-growth-as-orbital-safety-becomes-a-strategic-priority"
+    },
+    {
+      "title": "Active Debris Removal Market Research Report",
+      "url": "https://growthmarketreports.com/report/active-debris-removal-market"
+    }
+  ]
+}

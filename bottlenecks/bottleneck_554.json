@@ -1,0 +1,18 @@
+{
+  "id": 554,
+  "domain": "biotech_genetics",
+  "title": "DNA archival storage: random access and synthesis cost",
+  "bottleneck": "DNA can store data at densities millions of times beyond magnetic tape, but practical archival systems stall on two fronts: writing data requires expensive, slow chemical synthesis, and reading a specific file back out of a vast DNA pool demands costly sequencing of everything. Random access without sequencing the whole library remains inefficient.",
+  "why_it_blocks": "Without cheap writing and selective reading, DNA storage stays a laboratory curiosity rather than the archival medium its density promises. The world's cold-data archives keep growing, and no existing medium matches DNA's durability and density if the access problem can be solved.",
+  "current_state": "AI-assisted decoding methods have claimed thousand-fold speedups in retrieval, and enzymatic synthesis is maturing, but retrieval remains slower than conventional storage and synthesis costs are orders of magnitude above tape. Pilot systems exist, yet no commercial archival product has emerged.",
+  "sources": [
+    {
+      "title": "AI method for DNA data retrieval",
+      "url": "https://techxplore.com/news/2025-03-dna-storage-ai-method.pdf"
+    },
+    {
+      "title": "DNA data retrieval speedup claims",
+      "url": "https://www.tomshardware.com/pc-components/storage/ai-breakthrough-claimed-to-make-dna-data-retrieval-3-200x-faster-with-better-accuracy-but-still-slower-than-standard-storage"
+    }
+  ]
+}

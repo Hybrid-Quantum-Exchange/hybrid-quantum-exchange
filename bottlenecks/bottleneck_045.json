@@ -1,0 +1,14 @@
+{
+  "id": 45,
+  "domain": "fundamental_physics",
+  "title": "Viability of electroweak baryogenesis",
+  "bottleneck": "Electroweak baryogenesis would generate the matter asymmetry at the weak scale where it is testable, but it requires a strongly first-order electroweak phase transition and new CP violation, both increasingly constrained by Higgs coupling measurements and the null electron electric dipole moment searches. The minimal Standard Model transition is a smooth crossover, not first-order.",
+  "why_it_blocks": "This was the only baryogenesis scenario testable at colliders; its near-exclusion removes the most experimentally accessible explanation of our matter-dominated universe.",
+  "current_state": "Extended Higgs sectors can still rescue a first-order transition, keeping the scenario alive in narrow parameter regions that future colliders and EDM experiments will probe decisively. The null electron electric dipole moment results constrain new CP-violating phases so tightly that only narrow corners of extended Higgs sectors survive.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 873,
+  "domain": "xr_interface",
+  "title": "Whole-body haptic suit bulk and cost",
+  "bottleneck": "Full-body haptic suits need dozens of actuators across the torso and limbs, but the result is heavy, hot, expensive, and tethered, with coarse spatial resolution that can't render fine touch. Washing, sizing, and hygiene for shared suits add practical barriers. No suit delivers convincing whole-body touch at consumer practicality.",
+  "why_it_blocks": "Bodily immersion is the missing half of presence: VR can show you a world but not let you feel it. Suits that nobody can afford or bear to wear don't close that gap.",
+  "current_state": "Tactile suits from several vendors ship to enterprise and location-based entertainment with vibrotactile arrays. High-resolution, affordable, comfortable whole-body haptics remain distant. Sizing, hygiene, and washability make shared suits impractical, confining them to enterprise and location-based entertainment.",
+  "sources": [
+    {
+      "title": "AndroidHeadlines: Haptic feedback tech",
+      "url": "https://www.androidheadlines.com/2026/06/haptic-feedback-technology-and-the-future-of-immersive-digital-interaction.html"
+    },
+    {
+      "title": "USC: Haptic technology for VR",
+      "url": "https://today.usc.edu/new-usc-haptic-technology-adds-the-sense-of-touch-to-virtual-reality/"
+    }
+  ]
+}

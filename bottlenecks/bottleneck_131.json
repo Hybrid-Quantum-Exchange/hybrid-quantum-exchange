@@ -1,0 +1,18 @@
+{
+  "id": 131,
+  "domain": "cosmology_multiverse",
+  "title": "Galaxy Cluster Cosmology vs CMB Cosmology",
+  "bottleneck": "Cluster counts via the Sunyaev-Zel'dovich effect (Planck, ACT, SPT) have historically preferred lower sigma-8 than the primary CMB, though the tension has eased with better mass calibration. Hydrostatic mass bias — the offset between X-ray-derived and true cluster masses — remains uncertain at the 10-20% level, dominating the error budget. Selection effects in cluster surveys couple to cosmology in ways that are hard to model, adding another layer of systematic uncertainty.",
+  "why_it_blocks": "Clusters are cosmology's most massive laboratories; their mass scale uncertainty caps their power as dark energy probes.",
+  "current_state": "Weak-lensing mass calibrations from DES and HSC are improving the situation; eROSITA's cluster sample adds an independent count. Next-generation SZ surveys with lensing-calibrated masses should make clusters competitive with other dark energy probes.",
+  "sources": [
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

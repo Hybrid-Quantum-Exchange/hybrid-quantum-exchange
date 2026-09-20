@@ -1,0 +1,18 @@
+{
+  "id": 912,
+  "domain": "food_water_agriculture",
+  "title": "Closing the yield gap in Sub-Saharan Africa",
+  "bottleneck": "African maize yields lag far behind what's agronomically possible — raising gains to a modest 80 kg/ha/year, already achieved in harsh US environments, would boost production 53% in a decade — but the gap persists due to broken seed systems, fertilizer access, extension services, and worsening soil degradation. The constraint isn't knowing what's needed but delivery: inputs, credit, and knowledge don't reach smallholders.",
+  "why_it_blocks": "The region with the fastest population growth holds the largest untapped yield potential. Failing to close the gap means rising imports, hunger, and cropland expansion.",
+  "current_state": "Targeted programs show gains are possible, but adoption of improved practices remains low and FAO assessments show soil degradation worsening across most regions. A few national programs show gains are possible, but extension reach remains a fraction of what is needed.",
+  "sources": [
+    {
+      "title": "Distinguishing between yield advances and yield plateaus in historical crop production trends (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3905725/"
+    },
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    }
+  ]
+}

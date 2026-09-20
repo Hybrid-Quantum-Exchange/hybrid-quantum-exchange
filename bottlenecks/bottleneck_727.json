@@ -1,0 +1,18 @@
+{
+  "id": 727,
+  "domain": "materials",
+  "title": "Hydride superconductor pressure barrier",
+  "bottleneck": "The highest confirmed superconducting transition temperatures, around 203-250 K in sulfur hydride and lanthanum hydride, require pressures above 150 GPa. No known mechanism yet explains how to retain hydride-like electron-phonon coupling at ambient pressure, and attempts to stabilize hydrides with chemical pre-compression have only shaved fractions off the required pressure. The ternary candidate LaSc2H24, reported in 2025 with Tc up to 298 K, still needs about 250 GPa.",
+  "why_it_blocks": "Pressure is the deal-breaker: diamond anvil cells produce microgram samples, so hydride results cannot be scaled into wires, magnets, or devices. Until high-Tc physics survives at ambient pressure, these materials remain scientific milestones with no engineering path.",
+  "current_state": "Researchers are hunting boron-based compounds and new ternary hydrides at lower pressures, but as one physicist noted in 2026, a consumer-usable ambient superconductor is unlikely within 10-15 years. Near-term progress is expected in nitrogen-cooled high-temperature superconductors for grids instead.",
+  "sources": [
+    {
+      "title": "Room-temperature superconductor",
+      "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor"
+    },
+    {
+      "title": "How Close Are We to Superconductors That Are Actually Practical?",
+      "url": "https://gizmodo.com/?p=2000814055"
+    }
+  ]
+}

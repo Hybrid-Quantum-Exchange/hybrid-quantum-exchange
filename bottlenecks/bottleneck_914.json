@@ -1,0 +1,18 @@
+{
+  "id": 914,
+  "domain": "food_water_agriculture",
+  "title": "Nitrogen-use efficiency in cereals",
+  "bottleneck": "Cereals recover only 30–50% of applied nitrogen fertilizer; the rest leaches into waterways or volatilizes as nitrous oxide, a potent greenhouse gas. Every tonne of wheat carries about 20 kg of nitrogen off the field, and the Haber-Bosch process that replaces it consumes roughly 2% of global energy. Breeding for nitrogen-use efficiency has made slow progress because the trait is complex and trades off against yield under high-input conditions.",
+  "why_it_blocks": "Nitrogen is simultaneously the ceiling on yields and one of agriculture's largest environmental costs. Without efficient crops, feeding the world means poisoning its water and climate.",
+  "current_state": "NUE breeding and precision application improve efficiency incrementally; no step-change variety exists. Precision application and slow-release fertilizers improve efficiency incrementally; no step-change variety exists.",
+  "sources": [
+    {
+      "title": "The Ceiling Above Every Field: How Nitrogen Set the Ultimate Limit",
+      "url": "https://medium.com/@ibsintensive159357/the-ceiling-above-every-field-68b50ba97173"
+    },
+    {
+      "title": "Distinguishing between yield advances and yield plateaus in historical crop production trends",
+      "url": "https://www.nature.com/articles/ncomms3918?error=cookies_not_supported&code=91675317-1c1b-4105-a673-bda45130950b"
+    }
+  ]
+}

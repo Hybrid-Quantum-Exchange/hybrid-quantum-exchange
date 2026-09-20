@@ -1,0 +1,18 @@
+{
+  "id": 954,
+  "domain": "food_water_agriculture",
+  "title": "Perennial grain crops",
+  "bottleneck": "Annual grains require yearly tillage, planting, and fertilization — an ecological treadmill — while perennial grains like Kernza promise continuous cover, deep roots, and minimal inputs. But after decades of breeding, perennial yields remain a fraction of annuals: the plant partitions energy to roots and survival rather than grain, and the yield gap hasn't closed fast enough to convince farmers to switch.",
+  "why_it_blocks": "Perennial agriculture could end the erosion and input treadmill of annual cropping. Without competitive yields, it stays an ecological ideal, not a farming system. Perennial agriculture could end the erosion and input treadmill of annual cropping - if yields ever compete.",
+  "current_state": "Kernza is commercialized at small scale; yields are roughly a quarter of annual wheat with slow improvement.",
+  "sources": [
+    {
+      "title": "The Ceiling Above Every Field: How Nitrogen Set the Ultimate Limit",
+      "url": "https://medium.com/@ibsintensive159357/the-ceiling-above-every-field-68b50ba97173"
+    },
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    }
+  ]
+}

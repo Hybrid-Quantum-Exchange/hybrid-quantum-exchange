@@ -1,0 +1,18 @@
+{
+  "id": 198,
+  "domain": "energy",
+  "title": "Thorium fuel cycle demonstration gap",
+  "bottleneck": "Thorium is abundant and its fuel cycle promises less long-lived waste and inherent proliferation resistance, but no thorium reactor has ever operated commercially. The chemistry of thorium molten salts, protactinium separation, and U-233 handling were demonstrated only at lab scale in the 1960s and 70s. Decades of advocacy have not produced a demonstration plant.",
+  "why_it_blocks": "Thorium remains a paper fuel cycle. Without an operating demonstration, its claimed advantages are unvalidated and utilities will not adopt it; advocacy without hardware changes nothing. Uranium-233 bred from thorium is weapons-usable, which complicates the proliferation narrative thorium advocates promote, and handling protactinium-233 adds radiological challenges absent from uranium fuel cycles.",
+  "current_state": "India, China, and private startups have thorium programs. China's thorium molten-salt test reactor is the furthest along, with commercial claims unproven.",
+  "sources": [
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    },
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    }
+  ]
+}

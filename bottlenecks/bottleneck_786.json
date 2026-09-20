@@ -1,0 +1,18 @@
+{
+  "id": 786,
+  "domain": "materials",
+  "title": "Aerogel cost reduction for building insulation",
+  "bottleneck": "Silica aerogels insulate better than any conventional material, but supercritical drying — needed to preserve their nanoporous structure — is slow, energy-intensive, and batch-limited, keeping prices near $100 per square meter versus cents for fiberglass. Ambient-pressure drying routes collapse pores unless expensive surface treatments are used, and the resulting blankets are fragile and dusty. No process yet delivers aerogel performance near conventional insulation cost.",
+  "why_it_blocks": "Buildings consume about a third of global energy, much of it for heating and cooling through poorly insulated envelopes. Aerogel pricing keeps super-insulation out of mainstream construction, forcing reliance on thicker conventional insulation that steals floor space and still underperforms.",
+  "current_state": "Ambient-dried aerogel blankets have reached the market for industrial and niche building uses at falling prices, and production scale-up continues. But the order-of-magnitude cost gap to mass-market insulation persists, and fragility limits handling on real job sites.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    },
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    }
+  ]
+}

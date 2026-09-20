@@ -1,0 +1,14 @@
+{
+  "id": 408,
+  "domain": "medicine_cures",
+  "title": "Chagas disease treatment",
+  "bottleneck": "Chagas disease affects 6 to 7 million people, yet the only drugs, benznidazole and nifurtimox developed in the 1960s and 70s, are toxic, require weeks of treatment, and work poorly in chronic infection when most patients are diagnosed.",
+  "why_it_blocks": "A curable-stage disease goes untreated because diagnosis comes too late and drugs are too toxic; chronic Chagas causes fatal cardiomyopathy decades after infection.",
+  "current_state": "Shorter regimens and new chemical entities are in early development through product-development partnerships. A safe, short, effective chronic-phase treatment does not exist, reflecting the broader neglect of poverty-associated diseases. Better diagnostics for chronic Chagas are also needed, since current tests perform poorly in the chronic phase when treatment decisions matter most. The disease exemplifies how market incentives fail the world's poorest patients.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 511,
+  "domain": "health_longevity",
+  "title": "Scaling psychedelic-assisted therapy for depression and PTSD",
+  "bottleneck": "MDMA-assisted therapy showed Phase 3 efficacy for PTSD and psilocybin shows promise for depression, but delivery requires 6-8 hours of two trained therapists per session, strict set-and-setting protocols, and Schedule I regulatory status. The model that proved efficacy in trials is economically and logistically unscalable.",
+  "why_it_blocks": "If the most promising new psychiatric treatments in decades cannot be delivered beyond boutique clinics, their population impact will be negligible regardless of efficacy.",
+  "current_state": "MDMA-assisted therapy faced FDA setbacks over trial-conduct concerns; Australia allows limited prescribing. Research into shorter-acting analogs and group formats aims to cut delivery costs, but regulatory pathways remain uncertain. Group therapy formats and shorter-acting compounds like 5-MeO-DMT could cut per-patient therapist hours dramatically, but efficacy data for these scaled models are preliminary.",
+  "sources": [
+    {
+      "title": "Investigational drugs in PTSD (PubMed abstract, Neuropsychopharmacology review)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41792251/"
+    },
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    }
+  ]
+}

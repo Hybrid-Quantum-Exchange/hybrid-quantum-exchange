@@ -1,0 +1,14 @@
+{
+  "id": 43,
+  "domain": "fundamental_physics",
+  "title": "The Koide formula and charged-lepton mass relations",
+  "bottleneck": "The electron, muon, and tau masses satisfy the Koide relation to better than one part in 100,000, a precision far beyond what random numbers would give, yet no accepted theory derives it. It may be numerology, or it may be a clue to compositeness or a hidden flavor symmetry.",
+  "why_it_blocks": "An unexplained relation this precise is either the biggest coincidence in particle physics or a breadcrumb to new physics; ignoring it risks missing a genuine structural clue about mass generation.",
+  "current_state": "The formula survives increasingly precise mass measurements and has been extended to quarks with mixed success, but no derivation from an underlying theory has gained traction. Extensions of the formula to quarks work approximately, suggesting either a real pattern or the flexibility of fitting three free parameters.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

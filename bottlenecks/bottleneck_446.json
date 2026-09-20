@@ -1,0 +1,14 @@
+{
+  "id": 446,
+  "domain": "medicine_cures",
+  "title": "Geroscience: healthspan extension and senolytics",
+  "bottleneck": "Aging is the dominant risk factor for nearly all chronic disease, yet medicine treats each age-related disease separately. Senolytics, drugs that clear senescent cells, extend healthspan in mice, but human evidence is preliminary, biomarkers of biological age are unvalidated, and no regulator recognizes aging as a treatable indication.",
+  "why_it_blocks": "Targeting aging itself could compress morbidity across diseases simultaneously, the highest-leverage intervention in medicine, but the paradigm lacks clinical proof.",
+  "current_state": "Early human trials of senolytics and partial reprogramming are underway, and epigenetic clocks are improving. No intervention has yet been shown to slow human aging, and long-term safety data are minimal. The lack of regulatory recognition for aging as an indication forces trials to target individual diseases, obscuring systemic benefits. Validated biomarkers of biological age would unlock the field, but none is accepted for drug approval.",
+  "sources": [
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

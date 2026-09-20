@@ -1,0 +1,18 @@
+{
+  "id": 753,
+  "domain": "materials",
+  "title": "Solid-state stack pressure management",
+  "bottleneck": "Solid-state cells need carefully controlled stack pressure — high enough to maintain interfacial contact and suppress lithium voiding, low enough to avoid lithium creep into the electrolyte and mechanical fracture. The 2026 eScience review shows pressure is a double-edged sword: it fixes voiding during cycling but drives creep damage during storage. No cell design yet self-regulates pressure across temperature and state-of-charge swings.",
+  "why_it_blocks": "External pressure frames add mass, volume, and cost that directly erode the energy-density advantage solid-state batteries promise. If every pack needs a precision pressure vessel, the technology may never beat advanced liquid cells on system-level metrics.",
+  "current_state": "Compliant interlayers and pressure-tolerant cell architectures are under development, and some pilot designs accept modest external pressure. But a truly pressure-agnostic solid-state cell — one that survives the pressure swings of real automotive service — does not exist.",
+  "sources": [
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    },
+    {
+      "title": "A Microscopic View of Dendrites: Why Solid-State Batteries Still Fall Short",
+      "url": "https://www.newswise.com/articles/a-microscopic-view-of-dendrites-why-solid-state-batteries-still-fall-short"
+    }
+  ]
+}

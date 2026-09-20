@@ -1,0 +1,14 @@
+{
+  "id": 449,
+  "domain": "medicine_cures",
+  "title": "Osteoarthritis disease-modifying therapy",
+  "bottleneck": "Osteoarthritis affects over 500 million people, yet no drug modifies its course: treatments are analgesics, exercise, and eventual joint replacement. Cartilage has minimal regenerative capacity, and the disease's mechanical, inflammatory, and metabolic drivers are intertwined.",
+  "why_it_blocks": "The world's most common joint disease has no disease-modifying drug, leaving surgery as the only definitive option for end-stage disease.",
+  "current_state": "Candidates targeting Wnt signaling, senescence, and cartilage regeneration have failed or stalled in trials. Joint replacement remains the endpoint for severe OA, and regenerative approaches are still preclinical. The slow progression of osteoarthritis makes trials long and expensive, discouraging investment. Senolytic approaches that clear aged cells from joints are being explored, but no therapy has yet demonstrated structural modification in humans in rigorous trials.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 77,
+  "domain": "fundamental_physics",
+  "title": "Detectability of a single graviton",
+  "bottleneck": "Quantum gravity predicts the graviton, yet estimates since the 1950s suggest detecting one is for all practical purposes impossible: a detector sensitive enough would collapse into a black hole, or the required interaction times would exceed the age of the universe. Recent work has reopened the question, arguing that certain collective or interferometric schemes might beat the old no-go arguments, while critics maintain the barriers are fundamental.",
+  "why_it_blocks": "A single graviton detection would be the first direct evidence that gravity is quantized, settling a century-old question. Its impossibility would instead force physics to accept that some predictions of quantum gravity are empirically inaccessible in principle.",
+  "current_state": "The debate has moved from textbooks to active literature, with proposals for graviton-induced decoherence and phonon-based detectors countered by analyses showing the old bounds survive. No experiment is close to the required sensitivity, and the community remains split on whether one is possible at all.",
+  "sources": [
+    {
+      "title": "Single-graviton detection analysis",
+      "url": "https://www.nature.com/articles/s41467-024-51420-8"
+    },
+    {
+      "title": "Graviton detection: the classic no-go analysis",
+      "url": "http://arxiv.org/pdf/gr-qc/0601043v3"
+    }
+  ]
+}

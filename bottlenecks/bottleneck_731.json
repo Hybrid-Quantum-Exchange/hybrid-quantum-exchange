@@ -1,0 +1,18 @@
+{
+  "id": 731,
+  "domain": "materials",
+  "title": "Iron-based superconductor wire fabrication",
+  "bottleneck": "Iron pnictides and chalcogenides offer high upper critical fields and lower anisotropy than cuprates, yet no one has produced long-length iron-based wire with competitive current density. The materials are brittle, sensitive to stoichiometry, and their grain boundaries suppress supercurrent even more sharply than in cuprates. Powder-in-tube routes that worked for other superconductors have yielded only modest results.",
+  "why_it_blocks": "Iron-based conductors could undercut REBCO on cost for high-field magnets while operating at more forgiving temperatures than low-Tc niobium alloys. Without a viable wire process, this entire material family stays in the lab while magnet builders pay premium prices for alternatives.",
+  "current_state": "Research continues on 122-type and 11-type compounds with improved grain-boundary engineering, but commercial wire remains absent. The field's attention has largely shifted to REBCO and hydrides, leaving iron-based conductor development underfunded relative to its potential.",
+  "sources": [
+    {
+      "title": "Room-temperature superconductor",
+      "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor"
+    },
+    {
+      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
+      "url": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html"
+    }
+  ]
+}

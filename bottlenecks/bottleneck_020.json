@@ -1,0 +1,18 @@
+{
+  "id": 20,
+  "domain": "fundamental_physics",
+  "title": "Microscopic origin of the Page curve",
+  "bottleneck": "Unitarity demands that the entanglement entropy of Hawking radiation rise and then fall following the Page curve, and recent replica-wormhole calculations reproduce this curve, but only through Euclidean path-integral saddles whose Lorentzian physical interpretation is murky. Nobody knows what microscopic degrees of freedom actually carry the information out.",
+  "why_it_blocks": "Reproducing a curve is not the same as understanding the physics; without a microscopic mechanism, the recent progress remains a mathematical hint rather than a physical explanation of how information escapes.",
+  "current_state": "The island formula and replica wormholes are celebrated as the biggest advance in decades, yet deriving them from a concrete Hamiltonian description of the black hole microstates is still missing. Replica wormholes give the right entropy curve through Euclidean saddles, but translating them into Lorentzian physics of the evaporating black hole is unresolved.",
+  "sources": [
+    {
+      "title": "Black Hole Information Paradox - kb-physics open questions",
+      "url": "https://github.com/thibautbaissac/kb-physics/blob/HEAD/kb/open-questions/black-hole-information-paradox.md"
+    },
+    {
+      "title": "Black holes and information: A new take on an old paradox - arXiv",
+      "url": "https://arxiv.org/pdf/1603.07569v1"
+    }
+  ]
+}

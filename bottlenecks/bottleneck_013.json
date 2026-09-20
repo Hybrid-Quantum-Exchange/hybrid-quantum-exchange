@@ -1,0 +1,14 @@
+{
+  "id": 13,
+  "domain": "fundamental_physics",
+  "title": "Brane-world scenarios and the missing signatures of large extra dimensions",
+  "bottleneck": "Models like ADD and Randall-Sundrum confine Standard Model particles to a 3-brane while gravity leaks into large or warped extra dimensions, predicting deviations from Newton's law at sub-millimeter scales and black hole production at colliders. Neither effect has been seen, squeezing the allowed parameter space without ruling the idea out.",
+  "why_it_blocks": "Brane-world models were a leading route to solving the hierarchy problem geometrically; their progressive exclusion without a decisive test leaves the hierarchy problem stranded between falsified models and untestable ones.",
+  "current_state": "Torsion-balance experiments confirm Newtonian gravity down to tens of microns and the LHC sees no microscopic black holes, leaving only warped models with high curvature scales still viable. Warped Randall-Sundrum models survive with curvature near the TeV scale, though they trade the hierarchy problem for the stabilization of the extra-dimensional radius.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

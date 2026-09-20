@@ -1,0 +1,18 @@
+{
+  "id": 828,
+  "domain": "climate_environment",
+  "title": "Marine cloud brightening efficacy and risks",
+  "bottleneck": "Spraying sea salt to brighten marine clouds and cool regions like the Great Barrier Reef works in models and tiny trials, but whether it produces meaningful cooling at scale is unproven: cloud responses are nonlinear, effects dissipate quickly, and shifting rainfall patterns could harm downwind regions. Field experiments are politically fraught — Australia's reef trials proceeded amid controversy — and there is no agreed way to attribute observed cooling to the intervention versus natural variability.",
+  "why_it_blocks": "Marine cloud brightening is the most politically palatable geoengineering because it is regional and reversible, making it the likely first candidate for real deployment. Deploying it without efficacy proof risks wasting resources on theater while creating transboundary conflicts over manipulated weather.",
+  "current_state": "The UK's 2025 research program includes cloud brightening studies, and reef-scale trials continue in Australia. But the step from local experiments to verified, governable regional cooling has not been taken anywhere.",
+  "sources": [
+    {
+      "title": "Options for the responsible governance of research on solar radiation modification",
+      "url": "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2026)789310"
+    },
+    {
+      "title": "Coral reef science must adapt for a chance to outpace climate change, say experts",
+      "url": "https://phys.org/news/2026-03-coral-reef-science-chance-outpace.html"
+    }
+  ]
+}

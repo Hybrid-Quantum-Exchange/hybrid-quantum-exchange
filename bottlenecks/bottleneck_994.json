@@ -1,0 +1,18 @@
+{
+  "id": 994,
+  "domain": "coordination",
+  "title": "Global South Research Capacity Gaps",
+  "bottleneck": "The vast majority of research funding and infrastructure sits in rich countries, while researchers in the Global South face underfunded labs, journal paywalls, and brain drain. Local problems get studied by outsiders or not at all, and Southern researchers are locked out of agenda-setting. Visa barriers, funding gaps, and paywalls compound to exclude talented researchers from the global conversation.",
+  "why_it_blocks": "A global science system that excludes most of humanity's researchers and problems is both unjust and inefficient. Local knowledge about local problems is lost when research agendas are set abroad.",
+  "current_state": "Open-access mandates and capacity-building programs help, but the funding geography of science barely shifts. Capacity-building programs are dwarfed by the scale of the imbalance. Closing the gap requires sustained investment, not just well-meaning programs.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

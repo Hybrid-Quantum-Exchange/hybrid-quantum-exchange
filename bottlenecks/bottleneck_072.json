@@ -1,0 +1,18 @@
+{
+  "id": 72,
+  "domain": "fundamental_physics",
+  "title": "Precision of antimatter free-fall tests",
+  "bottleneck": "The ALPHA-g experiment at CERN has shown that antihydrogen falls downward in Earth's gravity, ruling out antigravity models in which antimatter would fall up. But the measurement precision remains around the tens-of-percent level, far from testing whether antimatter falls at exactly the same rate as ordinary matter as the weak equivalence principle demands.",
+  "why_it_blocks": "A difference in gravitational acceleration between matter and antimatter would overturn general relativity's founding assumption and open a window on quantum gravity. Precision free-fall tests are one of the few direct experimental handles on how gravity treats antimatter.",
+  "current_state": "ALPHA-g continues to accumulate statistics toward percent-level precision, while competing approaches using positronium, muonium, and charged-particle traps are in development. Reaching the precision of matter-based equivalence-principle tests, parts per 10^15, remains a distant goal.",
+  "sources": [
+    {
+      "title": "Antimatter falls down, not up",
+      "url": "https://www.sciencenews.org/article/antimatter-falls-down-matter-einsteins-gravity"
+    },
+    {
+      "title": "Antimatter embraces Earth, falling downward",
+      "url": "https://phys.org/news/2023-09-antimatter-embraces-earth-falling-downward.html"
+    }
+  ]
+}

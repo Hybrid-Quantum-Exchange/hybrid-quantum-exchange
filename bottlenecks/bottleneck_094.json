@@ -1,0 +1,18 @@
+{
+  "id": 94,
+  "domain": "cosmology_multiverse",
+  "title": "Indirect Detection of Dark Matter Annihilation Signals",
+  "bottleneck": "Gamma-ray excesses (Galactic Center, dwarf spheroidals) and cosmic-ray positron anomalies have been claimed as dark matter signals for over a decade, but every one remains contested against astrophysical backgrounds (millisecond pulsars, supernova remnants). No indirect signal has survived independent confirmation, and background modeling uncertainties dominate. Dwarf spheroidal stacking analyses provide the cleanest limits, but J-factor uncertainties from stellar kinematics limit their power.",
+  "why_it_blocks": "Without a smoking-gun indirect signal, the dark matter particle stays hypothetical and its mass and couplings unconstrained.",
+  "current_state": "Fermi-LAT's Galactic Center excess is still debated; CTA's dwarf-galaxy program and AMS-02 antiproton data are the next decisive datasets. The Cherenkov Telescope Array's Galactic Center survey is the most anticipated near-term dataset for TeV-scale annihilation.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Dark Matter, Dark Energy, and the Unanswered Questions of Cosmology (AnewZ)",
+      "url": "http://anewz.tv/ai-next/science-news/3679/dark-matter-dark-energy-and-the-unanswered-questions-of-cosmology/news"
+    }
+  ]
+}

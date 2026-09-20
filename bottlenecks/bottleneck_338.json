@@ -1,0 +1,18 @@
+{
+  "id": 338,
+  "domain": "artificial_intelligence",
+  "title": "The high-quality data wall",
+  "bottleneck": "Frontier models are exhausting the supply of high-quality human-generated text; the public web's useful tokens are nearly fully exploited, and remaining data is low-quality, duplicated, or legally encumbered. Scaling laws demand ever more tokens, but the stock of good tokens isn't growing proportionally. The field has no agreed answer for what replaces human text once the wall is hit. Publishers and platforms now block scrapers aggressively, shrinking the commons just as models need it most.",
+  "why_it_blocks": "If data, not compute, becomes the binding constraint, the scaling paradigm stalls regardless of how many GPUs are built.",
+  "current_state": "Labs turn to synthetic data, licensed corpora, and multimodal sources; none has been shown to substitute for high-quality human text at scale.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "AI's Data Crunch: Why Models May Soon Hit a Wall Despite Billions in Compute",
+      "url": "https://www.webpronews.com/ais-data-crunch-why-models-may-soon-hit-a-wall-despite-billions-in-compute/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 804,
+  "domain": "climate_environment",
+  "title": "Carbon credit additionality testing",
+  "bottleneck": "Determining whether a carbon credit funded removal that would not have happened anyway — additionality — is fundamentally a counterfactual that cannot be observed, only modeled. Studies have repeatedly found large fractions of credits in major programs to be non-additional, yet methodologies keep certifying them because strict tests would shrink supply. Dynamic baselines and common-practice tests help but are gameable.",
+  "why_it_blocks": "Non-additional credits let emitters claim reductions that never occurred, actively worsening climate outcomes while looking virtuous. The additionality crisis has already damaged trust in carbon markets, with buyers retreating and prices bifurcating between junk and quality.",
+  "current_state": "Regulators and registries are tightening rules, and jurisdictional approaches with satellite monitoring reduce some gaming. But no additionality test has survived adversarial pressure at scale, and the problem is intrinsic to counterfactual reasoning.",
+  "sources": [
+    {
+      "title": "What is direct air capture, and how does it work?",
+      "url": "https://thinklandscape.globallandscapesforum.org/102395/what-is-direct-air-capture/"
+    },
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    }
+  ]
+}

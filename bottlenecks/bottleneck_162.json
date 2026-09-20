@@ -1,0 +1,18 @@
+{
+  "id": 162,
+  "domain": "energy",
+  "title": "Edge-localized modes and MHD stability control",
+  "bottleneck": "High-performance tokamak plasmas suffer edge-localized modes, periodic eruptions that eject energy bursts capable of eroding divertor surfaces in a power plant. Suppressing ELMs with resonant magnetic perturbations or pellet pacing works on current machines but can degrade core confinement or prove incompatible with burning-plasma conditions. Uncontrolled ELMs at reactor scale would destroy plasma-facing components within months.",
+  "why_it_blocks": "ELM control is a make-or-break issue for the tokamak power-plant path. The operating regimes with the best fusion performance are also the ones most threatened by ELMs.",
+  "current_state": "ELM suppression has been demonstrated on DIII-D, KSTAR, and others. Whether these techniques survive in self-heated burning plasmas with alpha-particle effects is unknown. ITER plans to test ELM control coils at near-reactor scale, but results will not arrive until the 2030s.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "How lithium walls trap tritium in fusion reactors revealed",
+      "url": "https://phys.org/news/2025-07-lithium-walls-tritium-fusion-reactors.amp"
+    }
+  ]
+}

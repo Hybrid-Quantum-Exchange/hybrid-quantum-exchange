@@ -1,0 +1,18 @@
+{
+  "id": 846,
+  "domain": "climate_environment",
+  "title": "Agricultural nitrous oxide emissions reduction",
+  "bottleneck": "Nitrous oxide is ~270 times more potent than CO2 and agriculture is the dominant source, yet mitigation is stalled: emissions depend on soil microbes responding to fertilizer, rain, and temperature in ways no model predicts well at field scale. Nitrification inhibitors work inconsistently across soils, precision application needs equipment smallholders lack, and measuring reductions for crediting is as hard as for soil carbon. Fertilizer demand keeps rising with food demand.",
+  "why_it_blocks": "N2O is now the largest ozone-depleting emission and a major agricultural greenhouse gas; without cutting it, food-system decarbonization fails. The measurement and efficacy gaps mean N2O is the forgotten greenhouse gas in most climate plans.",
+  "current_state": "Enhanced-efficiency fertilizers and better timing are cutting emissions intensity in some systems, and research into biological nitrification inhibition by plant roots shows promise. But absolute agricultural N2O emissions are still rising globally.",
+  "sources": [
+    {
+      "title": "Thawing permafrost is affecting climate, but it's unclear by how much",
+      "url": "https://phys.org/news/2024-10-permafrost-affecting-climate-unclear.html"
+    },
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 230,
+  "domain": "energy",
+  "title": "Superconducting transmission cable economics",
+  "bottleneck": "High-temperature superconducting cables can carry 5 to 10 times the power of conventional lines in the same corridor, ideal for dense cities, but require continuous cryogenic cooling, cost far more per mile, and a single cooling failure takes the whole cable offline. Demonstration projects exist but no utility has deployed HTS cable as routine infrastructure.",
+  "why_it_blocks": "Urban grid congestion is acute and new corridors are politically impossible, yet the technology that could multiply existing corridor capacity remains a laboratory curiosity for cost and reliability reasons.",
+  "current_state": "HTS cable demos operate in the US, Europe, and Asia. Costs and cooling-system reliability block commercial adoption. Niche deployments near city substations may come first, where the value of corridor capacity justifies the premium.",
+  "sources": [
+    {
+      "title": "The Interconnection Bottleneck: How Renewable Approval Backlogs Are Repricing the Energy-to-Data Center Equation",
+      "url": "https://www.globaldatacenterhub.com/p/the-interconnection-bottleneck-how"
+    },
+    {
+      "title": "Trend Scan AI Automated Report: Battery Storage and Grid-Scale Energy",
+      "url": "https://ezassi.com/wp-content/uploads/2026/06/Battery-Storage-and-Grid-Scale-Energy.pdf"
+    }
+  ]
+}

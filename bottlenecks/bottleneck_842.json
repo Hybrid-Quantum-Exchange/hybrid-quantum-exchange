@@ -1,0 +1,18 @@
+{
+  "id": 842,
+  "domain": "climate_environment",
+  "title": "Vector-borne disease range expansion forecasting",
+  "bottleneck": "Warming is pushing malaria, dengue, and other vector-borne diseases into highlands and temperate zones, but forecasting where they will establish is blocked by interacting unknowns: vector adaptation, human immunity, urbanization, and control measures all modulate the climate signal. Surveillance in newly at-risk regions is weak, so emergence is detected only after outbreaks. Health systems in expansion zones lack the diagnostics, drugs, and institutional memory to respond.",
+  "why_it_blocks": "Disease range expansion threatens hundreds of millions newly exposed with no immunity, overwhelming unprepared health systems. The forecasting gap means prevention arrives after the outbreak instead of before it.",
+  "current_state": "Climate-informed early warning systems for dengue and malaria are being piloted, and genomic surveillance tracks vector spread. But operational, localized forecasts that drive preemptive public health action exist in only a handful of places.",
+  "sources": [
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

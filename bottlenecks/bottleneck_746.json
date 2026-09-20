@@ -1,0 +1,18 @@
+{
+  "id": 746,
+  "domain": "materials",
+  "title": "Silicon anode swelling and fracture",
+  "bottleneck": "Silicon stores ten times more lithium than graphite but swells about 300 percent on lithiation, pulverizing particles and continuously cracking the solid-electrolyte interphase. Each crack exposes fresh silicon that consumes lithium and electrolyte, so capacity fades within hundreds of cycles. Nanostructuring and yolk-shell designs contain the swelling in the lab but add cost and cut volumetric energy density.",
+  "why_it_blocks": "Silicon anodes are the nearest-term path to higher EV range without new cathode chemistry. Swelling-limited lifetime keeps commercial cells at low silicon blends of 5-10 percent, leaving most of the theoretical gain unrealized.",
+  "current_state": "Blended silicon-graphite anodes are now common in premium EVs, and pre-lithiation plus advanced binders have pushed cycle life higher. But a pure-silicon anode with automotive lifetime at competitive cost remains unsolved, and solid-state designs face the same expansion stresses.",
+  "sources": [
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    },
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    }
+  ]
+}

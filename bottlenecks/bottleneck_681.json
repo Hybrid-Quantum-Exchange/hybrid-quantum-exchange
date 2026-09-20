@@ -1,0 +1,18 @@
+{
+  "id": 681,
+  "domain": "space",
+  "title": "Closing the water loop beyond 98 percent recovery",
+  "bottleneck": "The ISS recycles about 98 percent of its water — but the remaining 2 percent loss, from brine, humidity, and unrecoverable waste streams, means a Mars crew would still need tons of resupply water over a multi-year mission. Brine dewatering, urine processing without consumable-heavy chemistry, and recovering water from solid waste all hit diminishing returns where each extra percent costs disproportionate mass, power, and complexity. True closure — zero net water loss — has never been demonstrated.",
+  "why_it_blocks": "Water is the heaviest life-support consumable; without near-total recycling, Mars missions must land thousands of kilograms of water or bet everything on local ice mining working perfectly on the first try.",
+  "current_state": "The ISS Water Recovery System approaches 98 percent with its brine processor; NASA's ECLSS roadmap targets higher closure for Mars. Fully closed multi-year operation has never been tested.",
+  "sources": [
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    },
+    {
+      "title": "Designing Mars and Moon Habitats: When Home Is Life Support",
+      "url": "https://www.archyde.com/designing-mars-and-moon-habitats-when-home-is-life-support/"
+    }
+  ]
+}

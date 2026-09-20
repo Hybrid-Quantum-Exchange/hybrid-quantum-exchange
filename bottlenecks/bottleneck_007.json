@@ -1,0 +1,14 @@
+{
+  "id": 7,
+  "domain": "fundamental_physics",
+  "title": "Neutron beam-versus-bottle lifetime discrepancy",
+  "bottleneck": "Two gold-standard methods for measuring the free neutron lifetime disagree. Beam experiments count decay protons from a cold neutron beam and average about 888 seconds, while bottle experiments trap ultracold neutrons and average about 878 seconds, a roughly 5-sigma, 10-second gap. The bottle method is far more precise, but both techniques have survived decades of systematic scrutiny without the discrepancy disappearing.",
+  "why_it_blocks": "A 10-second shift in the neutron lifetime propagates into the primordial helium abundance predicted by Big Bang nucleosynthesis and into the extracted value of the CKM matrix element Vud, which anchors tests of weak-interaction universality. If the gap is new physics rather than an unrecognized systematic, it could point to a dark decay branch of the neutron.",
+  "current_state": "A beam-versus-bottle debate remains open at facilities like PSI, with new bottle traps pushing systematics below the second level and several beam experiments in preparation. No single hidden systematic has been accepted, and proposals involving neutron oscillations into mirror neutrons or dark-sector decays remain unconstrained by direct tests.",
+  "sources": [
+    {
+      "title": "The beam-bottle debate at PSI",
+      "url": "https://cerncourier.com/the-beam-bottle-debate-at-psi/"
+    }
+  ]
+}

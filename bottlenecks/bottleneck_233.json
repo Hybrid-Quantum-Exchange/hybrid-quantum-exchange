@@ -1,0 +1,18 @@
+{
+  "id": 233,
+  "domain": "compute_semiconductors",
+  "title": "EUV light-source wall-plug efficiency",
+  "bottleneck": "EUV lithography generates 13.5nm light by blasting tin droplets with CO2 lasers, converting only about 3-5% of laser energy into usable EUV photons. The rest becomes heat and debris that must be managed, and the source consumes enormous electrical power per scanner. Scaling to higher source power for throughput directly worsens energy cost and thermal load without a fundamental efficiency breakthrough.",
+  "why_it_blocks": "EUV exposure dose determines wafer throughput; a weak, inefficient source caps wafers-per-hour and inflates the energy footprint of every leading-edge chip. Sustainability targets for fabs collide with the physics of laser-produced plasma, making sub-2nm manufacturing environmentally and economically heavier per wafer.",
+  "current_state": "Current high-NA scanners operate with tin-droplet plasma sources near their demonstrated power ceiling, and research into alternative drive lasers and debris-mitigation schemes continues. No drop-in replacement source technology exists for production.",
+  "sources": [
+    {
+      "title": "PR Newswire: EUV sub-nanometer chips",
+      "url": "https://markets.financialcontent.com/prnews.investoruprising/article/tokenring-2025-10-4-euv-lithography-paving-the-way-for-sub-nanometer-chips"
+    },
+    {
+      "title": "Aminext: High-NA EUV Lithography",
+      "url": "https://www.aminext.blog/en/post/high-na-euv-lithography-asml-explained-moores-law-1"
+    }
+  ]
+}

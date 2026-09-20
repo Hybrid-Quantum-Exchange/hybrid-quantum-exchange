@@ -1,0 +1,14 @@
+{
+  "id": 374,
+  "domain": "medicine_cures",
+  "title": "Hepatocellular carcinoma recurrence after treatment",
+  "bottleneck": "Even after curative resection or ablation of liver cancer, recurrence rates reach 50 to 70% within five years, driven by undetected micrometastases and the carcinogenic field effect of chronically diseased liver. Most patients have underlying cirrhosis that limits further treatment.",
+  "why_it_blocks": "High recurrence converts potentially curative treatment into temporary control, and the damaged liver constrains what therapies patients can tolerate.",
+  "current_state": "Adjuvant immunotherapy after resection is under investigation, and improved surveillance with MRI and emerging blood biomarkers aims to catch recurrence earlier. Preventing recurrence rather than chasing it remains unsolved. Better risk stratification using molecular and imaging biomarkers could focus intensive surveillance and adjuvant therapy on those most likely to recur. Until recurrence biology is better understood, however, most patients face the same anxious watch-and-wait.",
+  "sources": [
+    {
+      "title": "Advances in Drug Development for Metastatic Cancer",
+      "url": "https://www.numberanalytics.com/blog/advances-drug-development-metastatic-cancer"
+    }
+  ]
+}

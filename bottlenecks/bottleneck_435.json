@@ -1,0 +1,14 @@
+{
+  "id": 435,
+  "domain": "medicine_cures",
+  "title": "Treatment-resistant depression",
+  "bottleneck": "Roughly a third of depressed patients do not respond to multiple antidepressant trials; existing drugs take weeks to work and target monoamines, a decades-old hypothesis, while the biology of resistance, spanning glutamate signaling, inflammation, and circuit dysfunction, is incompletely mapped.",
+  "why_it_blocks": "Depression is the leading cause of disability worldwide; treatment resistance concentrates suicide risk and chronic suffering.",
+  "current_state": "Ketamine, esketamine, and psychedelic-assisted therapies offer rapid relief for some resistant patients, but durability, access, and long-term safety questions remain. A reliably effective, durable treatment for resistant depression does not exist, and reviewers increasingly urge alternative modalities across neuropsychiatry. The rapid-acting treatments offer hope, but their effects often fade and long-term safety is unclear. Understanding the circuits and molecular drivers of resistance could finally move depression treatment beyond the monoamine era.",
+  "sources": [
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

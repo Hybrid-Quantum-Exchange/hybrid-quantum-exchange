@@ -1,0 +1,18 @@
+{
+  "id": 747,
+  "domain": "materials",
+  "title": "High-nickel cathode microcracking",
+  "bottleneck": "Nickel-rich cathodes such as NMC811 deliver high capacity but their secondary particles crack along grain boundaries during cycling, driven by anisotropic lattice expansion. Cracks expose fresh surfaces to electrolyte attack, release oxygen, and accelerate transition-metal dissolution, causing capacity fade and thermal-runaway risk. Single-crystal cathodes resist cracking but sacrifice rate capability and are harder to manufacture.",
+  "why_it_blocks": "High-nickel chemistries are the industry's main lever for EV range and cost reduction. Microcracking caps their usable lifetime and forces conservative voltage windows, surrendering energy density that the materials theoretically possess.",
+  "current_state": "Single-crystal NMC is entering commercial cells with improved longevity, and coatings plus concentration-gradient particles help. But the fundamental trade-off between nickel content, cracking, and safety is unresolved, keeping cobalt in the mix longer than cost targets allow.",
+  "sources": [
+    {
+      "title": "Why Solid-State Batteries Fail: MIT Study",
+      "url": "https://casrai.org/news/solid-state-battery-dendrite-failure-grain-boundaries"
+    },
+    {
+      "title": "Why solid-state batteries short circuit from lithium dendrites",
+      "url": "https://interestingengineering.com/energy/solid-state-batteries-short-circuit-lithium-study"
+    }
+  ]
+}

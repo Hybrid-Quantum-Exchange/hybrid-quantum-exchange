@@ -1,0 +1,18 @@
+{
+  "id": 689,
+  "domain": "space",
+  "title": "Micrometeorite puncture detection and repair",
+  "bottleneck": "Habitat pressure hulls will be struck by micrometeorites traveling kilometers per second; small punctures may leak slowly enough to be survivable, but locating a millimeter-scale hole in a large habitat — in vacuum, possibly under regolith shielding — is genuinely hard. Self-healing materials exist only as lab curiosities, and EVA repair of a hull buried under shielding is operationally nightmarish. A slow leak that cannot be found is a slow death sentence for the air supply.",
+  "why_it_blocks": "Loss of pressure is the fastest-killing habitat failure mode; without reliable find-and-fix, every habitat must carry massive air reserves or accept evacuation-level risk from a single grain of dust.",
+  "current_state": "The ISS uses Whipple shields and leak isolation by module; patch kits exist for accessible areas. Autonomous leak localization and self-repairing hulls remain research topics.",
+  "sources": [
+    {
+      "title": "Designing Mars and Moon Habitats: When Home Is Life Support",
+      "url": "https://www.archyde.com/designing-mars-and-moon-habitats-when-home-is-life-support/"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 920,
+  "domain": "food_water_agriculture",
+  "title": "Reversing soil salinization",
+  "bottleneck": "Salinization affects 160 million hectares of cropland and renders 1.5 million hectares unproductive every year, driven by irrigation in arid regions — the very regions most dependent on irrigation. Reversal requires leaching with large volumes of fresh water, which is scarce where salinization occurs, plus drainage infrastructure: an expensive combination. Salt-tolerant varieties help at the margins but don't restore degraded land.",
+  "why_it_blocks": "Irrigated drylands are among the world's most productive farmland. Losing 1.5M hectares yearly to salt is a slow amputation of the food supply. Irrigated drylands are among the world's most productive farmland; losing them to salt is a slow amputation.",
+  "current_state": "FAO's Global Map of Salt-Affected Soils guides targeting across 118 countries; large-scale reclamation projects are rare and costly.",
+  "sources": [
+    {
+      "title": "FAO at COP17: New report warns soil degradation worsening as adoption of proven solutions lags",
+      "url": "http://www.fao.org/newsroom/detail/fao-at-cop17--new-report-warns-soil-degradation-worsening-as-adoption-of-proven-solutions-lags/en"
+    },
+    {
+      "title": "FAO Says Worsening Soil Degradation Threatens Global Food Production",
+      "url": "https://agronigeria.ng/fao-says-worsening-soil-degradation-threatens-global-food-production/"
+    }
+  ]
+}

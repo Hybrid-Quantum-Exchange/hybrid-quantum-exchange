@@ -1,0 +1,18 @@
+{
+  "id": 830,
+  "domain": "climate_environment",
+  "title": "Salt-tolerant rice for delta agriculture",
+  "bottleneck": "Sea-level rise is salinizing the great river deltas — the Mekong, Ganges-Brahmaputra, Nile — where hundreds of millions grow rice, but salt-tolerant varieties yield 20-40 percent less than elite cultivars and tolerance breaks down under combined salinity, submergence, and heat. Breeding has produced incremental gains, yet the rate of salinization from sea-level rise and groundwater extraction outpaces varietal improvement. No variety sustains commercial yields at the salinities projected for 2050 deltas.",
+  "why_it_blocks": "Delta rice feeds a significant fraction of humanity; losing it means food insecurity and mass migration from the world's most densely populated regions. The breeding shortfall turns a solvable agronomic problem into a humanitarian one.",
+  "current_state": "Marker-assisted breeding has released moderately tolerant varieties now planted across millions of hectares in Bangladesh and Vietnam. But these buy time rather than solving the problem, and investment in next-generation tolerance remains small relative to the stakes.",
+  "sources": [
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 806,
+  "domain": "climate_environment",
+  "title": "Amazon rainforest dieback threshold",
+  "bottleneck": "The Amazon may be approaching a tipping point where deforestation and warming flip it from rainforest to savanna, but the threshold is deeply uncertain: the Global Tipping Points report revised the danger zone down toward 1.5 C of warming combined with current deforestation rates, yet models disagree on whether dieback would be gradual or abrupt, regional or basin-wide. Moisture-recycling feedbacks that sustain the forest are weakening in ways satellites are only beginning to track.",
+  "why_it_blocks": "The Amazon stores ~100 billion tonnes of carbon and drives rainfall across South America; dieback would release massive emissions and collapse agriculture downwind. Uncertainty about the threshold paralyzes policy — no one can say how close the edge is.",
+  "current_state": "A Nature Sustainability study warned over a fifth of ecosystems could face catastrophic breakdown within a human lifetime, with the Amazon iconic among them. Monitoring of flying rivers and forest resilience is improving, but early-warning indicators for the tipping point itself remain contested.",
+  "sources": [
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    },
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    }
+  ]
+}

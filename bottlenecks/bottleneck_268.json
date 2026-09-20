@@ -1,0 +1,18 @@
+{
+  "id": 268,
+  "domain": "compute_semiconductors",
+  "title": "Carbon-nanotube transistor alignment at density",
+  "bottleneck": "Carbon nanotubes offer ballistic transport and ideal electrostatics, but placing billions of perfectly aligned, purely semiconducting tubes at VLSI density is unsolved: as-grown tubes mix metallic and semiconducting types, alignment techniques don't scale to full wafers, and tube-to-tube pitch variation wrecks circuit uniformity. Removing metallic tubes without damaging the rest is a yield killer.",
+  "why_it_blocks": "CNT FETs could outperform silicon at low voltage, enabling a leap in efficiency; without alignment and purity at scale, they remain a lab curiosity. Another promising post-silicon channel stays stuck at prototype stage.",
+  "current_state": "Purification now exceeds 99.99% semiconducting, and aligned-array demos reach respectable densities. Wafer-scale, VLSI-density aligned CNT circuits are still research-stage. Demonstrated array densities remain far below the billions of tubes per chip a competitive CNT processor would require, and pitch variation keeps growing with array size.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 714,
+  "domain": "space",
+  "title": "Purifying water from lunar ice contaminants",
+  "bottleneck": "Lunar polar ice is not pure: LCROSS showed it mixed with sulfur compounds, ammonia, mercury, organics, and fine dust — some toxic, all problematic for electrolyzers and life support. Purification in a lunar plant means filtration, distillation, or chemical treatment operating in low gravity with no resupply of filter media, while feedstocks vary by crater and depth. Mercury contamination is especially concerning for closed-loop life support. The contaminant profile at any specific mining site is unknown until someone drills there.",
+  "why_it_blocks": "Propellant and drinking water must meet purity specs; contaminants poison catalysts, corrode equipment, and threaten crew health — the ice is only as useful as the purification chain behind it.",
+  "current_state": "No lunar ice has been sampled in situ; purification concepts are paper studies. ISS water processors handle a known, benign contaminant load.",
+  "sources": [
+    {
+      "title": "Moon Dust to Water & Oxygen: Lunar Resource Extraction?",
+      "url": "https://www.archyde.com/moon-dust-to-water-oxygen-lunar-resource-extraction/"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

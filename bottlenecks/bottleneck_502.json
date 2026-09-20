@@ -1,0 +1,18 @@
+{
+  "id": 502,
+  "domain": "health_longevity",
+  "title": "Governance and compliance of the pandemic treaty",
+  "bottleneck": "The WHO pandemic agreement aims to bind countries to surveillance, data sharing, and equitable countermeasure access, but it faces ratification hurdles, sovereignty objections, and no enforcement mechanism. The history of the International Health Regulations shows that voluntary compliance collapses under political pressure.",
+  "why_it_blocks": "A treaty without compliance is paper. If the governance bottleneck is not solved, the next pandemic will replay the same nationalist hoarding and opacity that defined COVID-19.",
+  "current_state": "The agreement was adopted in principle with a Pathogen Access and Benefit-Sharing annex still under negotiation; the 2025 UN General Assembly pushed ratification. Major powers' commitment remains uncertain. The International Health Regulations' compliance failures during COVID-19, when countries ignored reporting obligations without consequence, are the precedent the new agreement must overcome.",
+  "sources": [
+    {
+      "title": "The UN Assembly will urge ratification of the WHO pandemic agreement (Democrata)",
+      "url": "https://www.democrata.es/en/health/the-un-assembly-will-urge-to-ratify-the-who-agreement-on-pandemics-to-strengthen-global-security/"
+    },
+    {
+      "title": "Global challenges in preparedness and response to epidemic infectious diseases (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8864962/"
+    }
+  ]
+}

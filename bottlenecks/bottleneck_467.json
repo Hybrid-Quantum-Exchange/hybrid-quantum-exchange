@@ -1,0 +1,18 @@
+{
+  "id": 467,
+  "domain": "health_longevity",
+  "title": "Pre-symptomatic Alzheimer's detection and intervention windows",
+  "bottleneck": "By the time Alzheimer's symptoms appear, neurodegeneration is advanced and possibly irreversible, yet reliable pre-symptomatic detection requires expensive PET scans or invasive lumbar punctures. Blood biomarkers (p-tau217 and others) are emerging, but the field does not know at what preclinical stage intervention would actually prevent decline, or whether earlier amyloid clearance would finally show benefit.",
+  "why_it_blocks": "If disease-modifying drugs only work before damage is done, the entire therapeutic enterprise depends on cheap, scalable early detection plus a validated intervention window. Without both, even a perfect drug arrives too late.",
+  "current_state": "Blood-based p-tau and amyloid assays are entering clinical use for diagnosis. Prevention trials in pre-symptomatic mutation carriers (DIAN) have run for over a decade; results on whether ultra-early intervention changes trajectories are still maturing.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months (Medical Xpress)",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    },
+    {
+      "title": "Why Don't We Have a Cure for Alzheimer's? (WebMD)",
+      "url": "https://www.webmd.com/alzheimers/features/alzheimers-amyloid-hypothesis-rut"
+    }
+  ]
+}

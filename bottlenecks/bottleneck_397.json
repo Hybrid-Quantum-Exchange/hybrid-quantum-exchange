@@ -1,0 +1,14 @@
+{
+  "id": 397,
+  "domain": "medicine_cures",
+  "title": "Invasive fungal infections and antifungal resistance",
+  "bottleneck": "Candida auris and azole-resistant Aspergillus are spreading globally, yet only three major antifungal classes exist, fewer than for bacteria, and drug development is even more neglected. Fungi are eukaryotes like humans, making selective toxicity intrinsically difficult.",
+  "why_it_blocks": "Invasive fungal infections kill well over a million people yearly, hitting immunocompromised patients hardest, with resistance narrowing already thin options.",
+  "current_state": "A few novel antifungals are in late-stage development, but the pipeline is sparse and diagnostics are slow. Fungal pathogens remain the most underfunded major infectious threat, mirroring the innovation shortfall WHO documents for antibacterials. Climate change is expanding the range of pathogenic fungi, adding urgency to a field long starved of attention. Surveillance for emerging resistant fungi remains rudimentary in most countries.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

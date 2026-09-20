@@ -1,0 +1,18 @@
+{
+  "id": 249,
+  "domain": "compute_semiconductors",
+  "title": "Emerging nonvolatile memory endurance-density tradeoff",
+  "bottleneck": "Resistive RAM, MRAM, and FeRAM promise fast, dense, nonvolatile storage, but each trades endurance against density: filament-based ReRAM wears out with cycling, STT-MRAM struggles with write energy and retention at small cells, and ferroelectric devices face imprint and scaling limits. None has yet matched DRAM endurance with NAND-like density at competitive cost.",
+  "why_it_blocks": "A universal memory would collapse the memory hierarchy, enabling instant-on systems and cheap in-memory computing; its absence forces complex tiered architectures and constant data shuffling. AI and edge systems pay the complexity tax in power, latency, and design effort.",
+  "current_state": "Embedded MRAM is shipping in MCUs and some SoCs, and ReRAM appears in niche products. Standalone high-density, high-endurance emerging NVM at DRAM-class cost remains unproven.",
+  "sources": [
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    },
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    }
+  ]
+}

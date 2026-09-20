@@ -1,0 +1,18 @@
+{
+  "id": 723,
+  "domain": "space",
+  "title": "Enforcing post-mission disposal rules",
+  "bottleneck": "The FCC now requires US satellites to deorbit within 5 years — tighter than the old 25-year interagency guideline — and ESA adopted similar rules, but enforcement is weak: no orbital police, penalties untested, and many operators face no consequences for non-compliance. The 25-year rule was based on 1990s models now judged insufficient, yet even stricter rules cover only new launches, doing nothing about the legacy population already in orbit.",
+  "why_it_blocks": "Mitigation only works if everyone complies; a rule without enforcement is a suggestion, and the debris growth rate will not bend until compliance is near-universal and verified.",
+  "current_state": "The FCC's 5-year rule (2022) applies to new US licenses; ESA's zero-debris charter pushes industry. Compliance tracking and penalties remain largely untested.",
+  "sources": [
+    {
+      "title": "Space Debris and the Kessler Problem: A Reality Check",
+      "url": "https://medium.com/@marc.bara.iniesta/space-debris-and-the-kessler-problem-a-reality-check-99484cfa5e86"
+    },
+    {
+      "title": "ESA Warns Orbital Debris Risk Is Accelerating as Satellite Traffic Surges",
+      "url": "https://tower-post.com/2026/09/15/esa-warns-orbital-debris-risk-is-accelerating-as-satellite-traffic-surges/"
+    }
+  ]
+}

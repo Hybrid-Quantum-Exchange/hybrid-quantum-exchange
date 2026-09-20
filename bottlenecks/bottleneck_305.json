@@ -1,0 +1,18 @@
+{
+  "id": 305,
+  "domain": "artificial_intelligence",
+  "title": "Grounding and world models beyond text",
+  "bottleneck": "Language models learn the statistics of text about the world, not the world itself — they have no grounded model of physics, space, or causality to check claims against. This is why they confidently assert physical impossibilities and fail at spatial reasoning a child handles. Building world models that predict consequences of actions in physical environments, and tying language to them, remains unsolved for general domains. Without grounding, models cannot distinguish physically possible claims from impossible ones except by linguistic pattern.",
+  "why_it_blocks": "Robotics, scientific discovery, and embodied applications need models whose internal representations correspond to reality, not just word co-occurrence.",
+  "current_state": "Video-generation models show glimmers of implicit physics and robotics world models work in narrow domains. General grounded world models do not exist.",
+  "sources": [
+    {
+      "title": "The Hidden Bottlenecks of Intelligence: Memory, Reasoning, and System Coherence in Modern AI",
+      "url": "https://medium.com/architectural-intelligence/the-hidden-bottlenecks-of-intelligence-memory-reasoning-and-system-coherence-in-modern-ai-76f4b99204a8"
+    },
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    }
+  ]
+}

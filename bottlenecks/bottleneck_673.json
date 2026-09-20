@@ -1,0 +1,18 @@
+{
+  "id": 673,
+  "domain": "space",
+  "title": "Nuclear reactor cold startup and restart in space",
+  "bottleneck": "A nuclear thermal rocket's reactor must go from cold shutdown to full power reliably in the vacuum of space — with no ground crew, thermal stresses that crack materials, and heat management problems that do not exist on the ground. Multiple restarts are needed for complex Mars trajectories, and each thermal cycle risks fuel-element damage. Ground testing cannot fully replicate the combined vacuum, radiation, and thermal environment of an actual mission.",
+  "why_it_blocks": "A Mars mission needs several precisely timed burns; if the reactor cannot restart on command, the mission is stranded. Single-burn demonstrators prove little about operational reusability.",
+  "current_state": "DRACO's 2027 demo aims to demonstrate in-space operation; NERVA ground tests in the 1960s-70s demonstrated multiple restarts on Earth. In-space restart of a fission rocket engine has never been attempted.",
+  "sources": [
+    {
+      "title": "NASA Bets on Nuclear Propulsion to Cut the Mars Trip in Half (WebProNews)",
+      "url": "https://www.webpronews.com/nasa-bets-on-nuclear-propulsion-to-cut-the-mars-trip-in-half-and-the-clock-is-ticking/"
+    },
+    {
+      "title": "Nuclear rockets could travel to Mars in half the time — but designing the reactors isn't easy (Space.com)",
+      "url": "https://www.space.com/nuclear-rockets-could-travel-to-mars-in-half-time-designing-power-reactors-not-easy?utm_term=06C12F4A-4C3E-4B0F-B54B-1AC0B0EFBBED&lrh=8f5e020b18adbea7b6e1717b33b2a2b943946ab0abca849b5c61867c301dd2e4&utm_campaign=58E4DE65-C57F-4CD3-9A5A-609994E2C5A9&utm_medium=email&utm_content=C4A56BE0-F6FF-4A99-93ED-843463C2C314&utm_source=SmartBrief"
+    }
+  ]
+}

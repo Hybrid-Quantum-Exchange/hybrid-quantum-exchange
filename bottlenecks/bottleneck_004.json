@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "domain": "fundamental_physics",
+  "title": "Recovering classical general relativity from loop quantum gravity",
+  "bottleneck": "Loop quantum gravity quantizes spacetime itself into discrete spin networks, yet after three decades it still lacks a demonstrated continuum limit that reproduces smooth classical spacetime and Einstein's equations in ordinary macroscopic regimes. The dynamics of the theory, encoded in the Hamiltonian constraint, remain ambiguous with multiple competing and inequivalent formulations.",
+  "why_it_blocks": "A quantum theory of gravity that cannot provably reduce to general relativity at macroscopic scales fails the most basic consistency test any successor theory must pass.",
+  "current_state": "Spin foam models and coherent-state techniques show promising semiclassical behavior in restricted settings, and the theory resolves the Big Bang singularity in loop quantum cosmology, but a full derivation of classical GR remains an open problem.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 666,
+  "domain": "space",
+  "title": "Decelerating an interstellar probe at its destination",
+  "bottleneck": "Every credible interstellar propulsion scheme — beamed sails, fusion rockets, antimatter — is optimized for accelerating away from the Sun, but a flyby probe crosses its target star system in days, far too fast for meaningful science. Slowing from a fraction of light speed needs as much energy as speeding up, and there is no destination infrastructure to help: no laser array, no fuel depot, no atmosphere for aerobraking. Staged sails, magnetic sails braking on the interstellar medium, and onboard photon rockets all demand technologies that do not exist.",
+  "why_it_blocks": "Without deceleration, interstellar missions collect days of data after decades of travel — a catastrophic return on investment that undermines the scientific case for going at all.",
+  "current_state": "Forward's staged-sail concept and magnetic-sail braking remain theoretical. Starshot explicitly accepts a flyby; no funded program is developing interstellar deceleration.",
+  "sources": [
+    {
+      "title": "An aerospace scientist unpacks the challenges of interstellar spaceflight (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/could-aliens-ever-visit-earth-an-aerospace-scientist-unpacks-the-challenges-of-interstellar-spaceflight/"
+    },
+    {
+      "title": "Beamed Propulsion: The Future of Interstellar Travel",
+      "url": "https://www.numberanalytics.com/blog/beamed-propulsion-future-interstellar-travel"
+    }
+  ]
+}

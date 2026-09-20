@@ -1,0 +1,14 @@
+{
+  "id": 418,
+  "domain": "medicine_cures",
+  "title": "Heart failure with preserved ejection fraction (HFpEF)",
+  "bottleneck": "HFpEF, heart failure with normal pumping function but stiff, noncompliant ventricles, now accounts for over half of heart failure cases, yet its mechanisms are heterogeneous, spanning metabolic, vascular, and inflammatory drivers, and until recently no therapy improved outcomes.",
+  "why_it_blocks": "An aging, obese population is driving HFpEF prevalence upward while effective treatments lag decades behind those for reduced ejection fraction.",
+  "current_state": "SGLT2 inhibitors and GLP-1 agonists have finally shown benefit, but they manage rather than reverse the disease, and phenotyping patients for targeted therapy is still primitive. The heterogeneity of HFpEF, spanning metabolic, vascular, and inflammatory phenotypes, means single therapies help only subsets. Better phenotyping with biomarkers and imaging is needed to match patients to treatments, and truly disease-reversing therapy does not yet exist.",
+  "sources": [
+    {
+      "title": "Scientists reveal promising new therapy that could cure type 1 diabetes",
+      "url": "https://www.openaccessgovernment.org/scientists-reveal-promising-new-therapy-that-could-cure-type-1-diabetes/205737/"
+    }
+  ]
+}

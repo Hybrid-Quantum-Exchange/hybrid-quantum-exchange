@@ -1,0 +1,18 @@
+{
+  "id": 675,
+  "domain": "space",
+  "title": "Power scaling limits for solar-electric propulsion",
+  "bottleneck": "Ion and Hall thrusters are extremely propellant-efficient but power-hungry, and their power comes from solar arrays whose output falls with the square of distance from the Sun. Beyond Mars, arrays big enough to drive high-thrust electric propulsion become enormous, heavy, and hard to point — erasing the mass advantage. Nuclear power would solve it, but no flight-ready space reactor in the needed class exists, leaving deep-space electric propulsion starved of energy exactly where it is most valuable.",
+  "why_it_blocks": "This caps solar-electric propulsion to the inner solar system; outer-planet and interstellar-precursor missions cannot use the most efficient engines available.",
+  "current_state": "NASA's Psyche mission flies large solar-electric arrays to the asteroid belt; Uranus/Neptune orbiter studies wrestle with power. Nuclear-electric propulsion remains in the study phase.",
+  "sources": [
+    {
+      "title": "Ion thrusters: Why revolutionary?",
+      "url": "https://medium.com/@irmak.zelal.cengiz2/ion-thrusters-why-revolutionary-fdec437dcd42"
+    },
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    }
+  ]
+}

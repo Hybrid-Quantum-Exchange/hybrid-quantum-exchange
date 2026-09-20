@@ -1,0 +1,18 @@
+{
+  "id": 775,
+  "domain": "materials",
+  "title": "Solid-state hydrogen storage materials",
+  "bottleneck": "Storing hydrogen as a solid in metal hydrides or complex hydrides avoids extreme pressures, but no material yet meets all targets at once: high gravimetric capacity, fast kinetics near ambient temperature, and thousands of reversible cycles. Magnesium hydride holds plenty of hydrogen but releases it only above 300 C; lighter complex hydrides suffer from poor reversibility and toxic byproducts. The thermodynamics-kinetics trade-off has resisted decades of alloying.",
+  "why_it_blocks": "Hydrogen vehicles and seasonal energy storage need compact, safe, low-pressure storage to be practical. Without it, storage means 700-bar carbon-fiber tanks — expensive, bulky, and energy-hungry to fill — which caps hydrogen's competitiveness against batteries.",
+  "current_state": "Destabilized hydride mixtures and nanoconfined systems have lowered desorption temperatures in the lab, but cycle life and system-level capacity still fall short of DOE targets. Compressed gas remains the only deployed option.",
+  "sources": [
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    }
+  ]
+}

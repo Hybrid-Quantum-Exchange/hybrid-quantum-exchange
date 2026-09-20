@@ -1,0 +1,18 @@
+{
+  "id": 192,
+  "domain": "energy",
+  "title": "Accident-tolerant fuel qualification timelines",
+  "bottleneck": "Accident-tolerant fuels, coated cladding and doped pellets, promise reactors that survive loss-of-cooling longer, but qualifying new fuel for commercial use requires years of irradiation testing plus post-irradiation examination. Utilities will not load unproven fuel, and test reactors have limited capacity. The payoff in safety margin and longer cycles is real but arrives a decade after development starts. Test reactors that can irradiate full-length fuel rods are scarce and oversubscribed, stretching qualification schedules further.",
+  "why_it_blocks": "Fuel qualification is nuclear's slowest clock. Every improvement, however valuable, must wait out a decade of irradiation testing, throttling the pace of safety and economic gains.",
+  "current_state": "Lead test assemblies of coated cladding are irradiating in commercial reactors. Full qualification and batch licensing remain years away.",
+  "sources": [
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    },
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    }
+  ]
+}

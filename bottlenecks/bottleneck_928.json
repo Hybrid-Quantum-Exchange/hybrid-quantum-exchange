@@ -1,0 +1,18 @@
+{
+  "id": 928,
+  "domain": "food_water_agriculture",
+  "title": "The pesticide resistance treadmill",
+  "bottleneck": "Pests evolve resistance to every major pesticide class, typically within a decade of introduction, forcing ever-higher doses and new chemistry — a treadmill the industry is losing as discovery of novel modes of action slows and regulatory costs rise. Broad-spectrum pesticides devastate beneficial insects and pollute ecosystems, while resistance management like refuges and rotation is widely ignored because it costs yield in the short term.",
+  "why_it_blocks": "Losing effective pesticides removes the tools protecting a large share of global harvests, and no replacements are coming fast enough.",
+  "current_state": "Resistance is documented in hundreds of pest species; biopesticides and RNAi sprays are promising but not replacements at scale. Resistance is documented in hundreds of pest species; biopesticides and RNAi sprays are not replacements at scale.",
+  "sources": [
+    {
+      "title": "Limiting Factors to Crop Yield",
+      "url": "https://pro-soil.com/limiting-factors-to-crop-yield/"
+    },
+    {
+      "title": "Healthy soils for a healthy people and planet: FAO calls for reversal of soil degradation",
+      "url": "https://www.fao.org/newsroom/detail/agriculture-soils-degradation-FAO-GFFA-2022/"
+    }
+  ]
+}

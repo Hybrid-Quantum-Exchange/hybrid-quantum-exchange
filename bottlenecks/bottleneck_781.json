@@ -1,0 +1,18 @@
+{
+  "id": 781,
+  "domain": "materials",
+  "title": "Self-healing concrete for infrastructure lifespan",
+  "bottleneck": "Concrete cracks inevitably, letting water and chlorides reach rebar and start corrosion — the main killer of bridges and marine structures. Self-healing approaches using bacteria, encapsulated polymers, or expansive minerals can seal small cracks in the lab, but healing is slow, limited to sub-millimeter cracks, and unproven over decades of freeze-thaw and loading. No method yet guarantees healing across the crack sizes that actually cause failure.",
+  "why_it_blocks": "Infrastructure replacement is enormously carbon- and capital-intensive; doubling concrete lifespan would slash both. Without reliable self-healing, structures keep failing on 50-year cycles and the repair backlog grows faster than budgets.",
+  "current_state": "Bacterial self-healing concrete has been used in small real-world pours with encouraging early results. But the gap between sealing hairline lab cracks and autonomously repairing structural-scale damage in service remains wide.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    }
+  ]
+}

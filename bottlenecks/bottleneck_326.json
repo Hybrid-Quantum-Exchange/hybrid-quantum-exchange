@@ -1,0 +1,18 @@
+{
+  "id": 326,
+  "domain": "artificial_intelligence",
+  "title": "Guaranteed constraint satisfaction in generation",
+  "bottleneck": "There is no general way to guarantee that a model's output satisfies hard constraints — no disallowed content, valid syntax, physical feasibility — because generation is probabilistic token sampling, not constraint solving. Post-hoc filters catch common violations but can be bypassed, and constrained decoding only handles simple formal constraints. For open-ended constraints like not revealing a secret, guarantees don't exist. Larger models memorize more, and deduplication at web scale is imperfect, so sensitive strings slip through training.",
+  "why_it_blocks": "Regulated and safety-critical applications need guarantees, not best efforts. A 99.9% compliance rate still means thousands of violations at scale. A single memorized credential or medical record in outputs can trigger liability no usefulness offsets.",
+  "current_state": "Guardrails and classifiers are layered atop models; researchers acknowledge they reduce but cannot guarantee safe outputs.",
+  "sources": [
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    },
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    }
+  ]
+}

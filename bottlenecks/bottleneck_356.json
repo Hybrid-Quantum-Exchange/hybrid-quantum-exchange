@@ -1,0 +1,14 @@
+{
+  "id": 356,
+  "domain": "medicine_cures",
+  "title": "Metastatic tumor dormancy and late relapse",
+  "bottleneck": "Disseminated cancer cells can lodge in distant organs and persist in a dormant, non-dividing state for months or years before reawakening as overt metastases. The signals that maintain dormancy, and those that trigger awakening, remain poorly mapped, and dormant cells are invisible to conventional imaging. Existing cytotoxic drugs target dividing cells, so they cannot eradicate quiescent disseminated cells.",
+  "why_it_blocks": "Metastasis causes the large majority of cancer deaths, and late relapse after apparently successful treatment is common in breast, prostate, and melanoma. Without the ability to find and kill dormant cells, or to keep them asleep indefinitely, durable cures remain out of reach for most solid tumors.",
+  "current_state": "Researchers are mapping dormancy niches and testing strategies to either awaken dormant cells so they can be killed or lock them in quiescence, but no dormancy-targeted therapy has reached routine clinical use. A 2026 review describes eradicating dormant cells before awakening as a therapeutic challenge that remains unresolved.",
+  "sources": [
+    {
+      "title": "Cancer Metastasis: Overcoming Therapeutic Challenges and Unlocking Opportunities",
+      "url": "https://scienmag.com/cancer-metastasis-overcoming-therapeutic-challenges-and-unlocking-opportunities/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 798,
+  "domain": "climate_environment",
+  "title": "Enhanced rock weathering measurement and verification",
+  "bottleneck": "Spreading crushed silicate rock on fields to absorb CO2 is cheap in theory, but proving how much carbon was actually removed is extremely difficult: weathering rates depend on soil chemistry, rainfall, and grain size, and the signal is a tiny change in soil carbon against a noisy background. Without cheap, credible measurement, rock weathering cannot generate trustworthy carbon credits or count toward national targets.",
+  "why_it_blocks": "Measurement is the whole ballgame for CDR: unverifiable removal is worthless to buyers and policymakers. The MRV gap keeps enhanced weathering as a promising idea that cannot yet transact in carbon markets at scale.",
+  "current_state": "Field trials across the US, UK, and Malaysia are building the empirical base, and startups are selling early credits with model-based estimates. But standardized, low-cost MRV protocols accepted by registries and regulators do not yet exist.",
+  "sources": [
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    },
+    {
+      "title": "Direct Air Capture (DAC) - Carbon Project Types",
+      "url": "https://abatable.com/blog/dac-unpacked-direct-air-capture-guide/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 668,
+  "domain": "space",
+  "title": "Antimatter production scale-up and storage for propulsion",
+  "bottleneck": "Antimatter annihilation is the most energy-dense reaction physically possible, theoretically enabling relativistic rockets — but humanity produces only nanograms per year at facilities like CERN, at astronomical cost, while one interstellar mission would need grams. Storage is equally hard: antiprotons must be suspended in electromagnetic Penning traps in perfect vacuum, since any contact with normal matter annihilates the fuel; no trap has held macroscopic quantities for mission-relevant durations.",
+  "why_it_blocks": "Antimatter is the only known propellant with the energy density for conceivable relativistic crewed flight; without production scaled by many orders of magnitude and stable long-term storage, it stays in science fiction.",
+  "current_state": "CERN's antimatter factory produces and traps small quantities for physics research. No propulsion program exists; only paper studies of antimatter-catalyzed concepts have been funded.",
+  "sources": [
+    {
+      "title": "An aerospace scientist unpacks the challenges of interstellar spaceflight (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/could-aliens-ever-visit-earth-an-aerospace-scientist-unpacks-the-challenges-of-interstellar-spaceflight/"
+    },
+    {
+      "title": "Chrysalis: the 58-kilometer interstellar generation ship (Daily Galaxy)",
+      "url": "https://dailygalaxy.com/2026/09/chrysalis-generation-ship-400-year-interstellar-voyage/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 758,
+  "domain": "materials",
+  "title": "Solid-state polymer electrolyte conductivity",
+  "bottleneck": "Polymer solid electrolytes are flexible and manufacturable but conduct lithium ions orders of magnitude slower than ceramics at room temperature, because ion transport depends on polymer chain segmental motion that freezes below the glass transition. Plasticizers and ceramic fillers boost conductivity yet reintroduce flammability or brittleness. No polymer system yet hits 1 mS/cm at 25 C with mechanical stability.",
+  "why_it_blocks": "Polymers are the most manufacturable solid electrolyte family — roll-to-roll compatible and tolerant of volume changes. Their conductivity gap keeps solid-state cells dependent on brittle ceramics or sulfides with all their manufacturing headaches.",
+  "current_state": "Composite and single-ion-conducting polymers have narrowed the gap, and the 2026 eScience review highlights dynamic crosslinked polymers that can self-heal interfacial defects. Room-temperature, high-conductivity, mechanically robust polymer electrolytes remain a research target.",
+  "sources": [
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    },
+    {
+      "title": "A Microscopic View of Dendrites: Why Solid-State Batteries Still Fall Short",
+      "url": "https://www.newswise.com/articles/a-microscopic-view-of-dendrites-why-solid-state-batteries-still-fall-short"
+    }
+  ]
+}

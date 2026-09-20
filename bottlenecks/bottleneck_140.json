@@ -1,0 +1,18 @@
+{
+  "id": 140,
+  "domain": "cosmology_multiverse",
+  "title": "Loop Quantum Gravity vs String Theory Convergence",
+  "bottleneck": "The two leading quantum gravity programs make almost no overlapping testable predictions and use incompatible starting assumptions (background independence vs perturbative strings). There is no experimentum crucis that could favor one over the other, and practitioners rarely engage the rival program's results. Sociological separation compounds the scientific one: the two communities attend different conferences and cite different literature.",
+  "why_it_blocks": "A field split into non-communicating camps with no empirical arbiter cannot converge on truth. Without empirical adjudication, resources split and young researchers must bet careers on philosophy.",
+  "current_state": "Both programs remain active with internal progress; cross-program comparison efforts are rare and usually inconclusive. A genuine empirical test distinguishing the programs would be transformative but none is on the horizon.",
+  "sources": [
+    {
+      "title": "On the Impossibility of Precise Verification of Models of Quantum Gravity (arXiv:2309.07203)",
+      "url": "https://arxiv.org/abs/2309.07203?context=hep-th"
+    },
+    {
+      "title": "The Landscape and the Multiverse: What's the Problem? (Synthese)",
+      "url": "https://link.springer.com/article/10.1007/s11229-021-03137-0"
+    }
+  ]
+}

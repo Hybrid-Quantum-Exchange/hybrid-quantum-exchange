@@ -1,0 +1,18 @@
+{
+  "id": 993,
+  "domain": "coordination",
+  "title": "Science Funding Stagnation (Baumol's Cost Disease)",
+  "bottleneck": "The cost per significant discovery keeps rising — bigger teams, costlier instruments, more regulation per result — while public science budgets grow slowly in real terms. Some analyses suggest research productivity halves roughly every 13 years, meaning flat budgets buy exponentially less progress over time. Each generation of researchers must run faster to make the same-sized contribution, a treadmill with no clear end.",
+  "why_it_blocks": "If ideas are getting harder to find, civilization must spend an ever-larger share of output on research just to stand still.",
+  "current_state": "The productivity decline is documented across fields; whether it reflects exhausted low-hanging fruit or fixable inefficiency is itself disputed. Whether AI assistance can reverse the trend is the most important open question in the economics of science.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

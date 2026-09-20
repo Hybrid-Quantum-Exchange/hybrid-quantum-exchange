@@ -1,0 +1,18 @@
+{
+  "id": 833,
+  "domain": "climate_environment",
+  "title": "Early warning system coverage for extreme weather",
+  "bottleneck": "Effective early warnings cut disaster deaths dramatically, yet coverage is grossly unequal: wealthy countries have radar networks, cell broadcast, and evacuation protocols while large parts of Africa, South Asia, and small island states lack even basic weather stations. The WMO estimates a third of the world's population — mostly in least-developed countries — is not covered by early warning systems. Last-mile communication to remote and marginalized communities fails even where forecasts exist.",
+  "why_it_blocks": "Early warnings are among the most cost-effective climate adaptations, with benefit-cost ratios above 10 to 1, but the coverage gap means the most vulnerable face disasters blind. Every uncovered community is a preventable death toll waiting for the next cyclone or flood.",
+  "current_state": "The UN's Early Warnings for All initiative targets universal coverage, and low-cost sensors plus mobile networks are extending reach. But funding falls far short, and maintenance of systems in poor regions remains chronically underfunded.",
+  "sources": [
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

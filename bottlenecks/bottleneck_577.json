@@ -1,0 +1,18 @@
+{
+  "id": 577,
+  "domain": "biotech_genetics",
+  "title": "Enzymatic plastic recycling beyond pretreated PET",
+  "bottleneck": "Engineered enzymes can depolymerize PET into its monomers under mild conditions, and pilot plants are emerging. But the process works mainly on clean, pretreated PET: mixed plastic waste, contaminated streams, and the polyolefins that dominate packaging remain essentially untouched by enzymatic routes.",
+  "why_it_blocks": "Plastics are a materials success and a waste catastrophe. A recycling technology that only handles one clean polymer stream cannot address the mixed, dirty reality of municipal waste, so most plastic continues to be landfilled, incinerated, or leaked into the environment.",
+  "current_state": "Researchers are engineering more robust enzymes and multi-enzyme cascades, with protein-based approaches extending toward other polymers, but activity on untreated polyolefins and mixed streams remains far from practical. Demonstration-scale PET recycling is the current frontier.",
+  "sources": [
+    {
+      "title": "Enzymatic plastic recycling review",
+      "url": "https://www.mdpi.com/2673-8929/5/3/180"
+    },
+    {
+      "title": "Protein-based enzyme for plastic reuse",
+      "url": "https://phys.org/news/2025-07-protein-based-enzyme-reuse-plastic.html"
+    }
+  ]
+}

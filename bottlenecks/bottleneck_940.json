@@ -1,0 +1,18 @@
+{
+  "id": 940,
+  "domain": "food_water_agriculture",
+  "title": "Precision fermentation scale-up",
+  "bottleneck": "Precision fermentation — brewing proteins like dairy whey without cows — works in the lab, but scaling to food volumes hits bioreactor bottlenecks: food-grade fermentation capacity is scarce, built for pharma and biofuels, and new capacity costs hundreds of millions. Downstream purification dominates costs, and the valley of death between pilot and commercial scale has killed multiple startups. Downstream purification dominates costs, and the valley of death between pilot and commercial scale has killed multiple startups.",
+  "why_it_blocks": "Fermentation-derived proteins could replace the most resource-intensive animal products, but only at commodity scale and prices current infrastructure can't deliver.",
+  "current_state": "Ingredients like whey and egg-white proteins reach market in small volumes; price remains the biggest hurdle to commercial success. Ingredients like whey and egg-white proteins reach market in small volumes; price remains the biggest hurdle.",
+  "sources": [
+    {
+      "title": "Alternative proteins: Barriers to commercialisation",
+      "url": "https://www.foodnavigator.com/Article/2025/10/15/alternative-proteins-barriers-to-commercialisation/"
+    },
+    {
+      "title": "The Role of Science-Driven Alt Protein Startups in Addressing Global Food Security",
+      "url": "http://vegconomist.com/protein/role-science-driven-alternative-protein-startups-food-security/"
+    }
+  ]
+}

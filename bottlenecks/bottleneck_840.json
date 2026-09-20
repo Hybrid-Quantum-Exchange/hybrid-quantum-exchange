@@ -1,0 +1,18 @@
+{
+  "id": 840,
+  "domain": "climate_environment",
+  "title": "Desalination energy cost and brine disposal",
+  "bottleneck": "Desalination provides drought-proof water but remains energy-intensive — reverse osmosis needs about 3-4 kWh per cubic meter at best — and the concentrated brine poisons marine ecosystems near outfalls while offering no economic use at scale. Inland desalination has nowhere to put the brine at all. Costs have fallen but are still multiples of conventional water supply, pricing out the poor regions that need it most.",
+  "why_it_blocks": "Water scarcity threatens billions as aquifers deplete and glaciers retreat; desalination is the main technological backstop but its energy and brine problems limit it to wealthy coastal regions. Without breakthroughs, the water gap stays unbridgeable for those most at risk.",
+  "current_state": "Renewable-powered plants and improved membranes keep trimming energy use, and brine mining for minerals is being piloted. But the fundamental thermodynamics of separating salt from water set a floor that no membrane has approached, and brine disposal remains an unsolved environmental liability.",
+  "sources": [
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    },
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    }
+  ]
+}

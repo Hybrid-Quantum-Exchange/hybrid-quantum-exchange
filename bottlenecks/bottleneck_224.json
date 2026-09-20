@@ -1,0 +1,18 @@
+{
+  "id": 224,
+  "domain": "energy",
+  "title": "HVDC converter station cost and supply",
+  "bottleneck": "High-voltage DC lines are the best tool for moving bulk power over long distances, but converter stations cost hundreds of millions each, use specialized valve technology from a handful of global suppliers, and require years of lead time. HVDC breaks the AC grid's synchronization constraints but concentrates cost and supply risk in the converters.",
+  "why_it_blocks": "Long-distance renewable transmission depends on HVDC, yet converter cost and a thin supplier base make every project bespoke and expensive. The technology for continental grids exists but is not commoditized. Spare parts for converter stations are custom and slow to procure, so a single valve failure can idle a billion-dollar line for months.",
+  "current_state": "Major HVDC projects are advancing in the US, Europe, and China. Costs remain high and supplier diversity is limited.",
+  "sources": [
+    {
+      "title": "Interconnection Queue Crisis and Transmission Constraints analysis",
+      "url": "https://github.com/himanshu-cloudsufi/stdf-agents/blob/HEAD/archive/chat_exports/jagannath_srikanth/2025-12-15_13-20-01_386108.md"
+    },
+    {
+      "title": "The 750-MW Warning: How Outdated Interconnection Rules Are Strangling the Grid's Hybrid Future",
+      "url": "https://www.linkedin.com/pulse/750-mw-warning-how-outdated-interconnection-rules-strangling-mike-l-3rayc"
+    }
+  ]
+}

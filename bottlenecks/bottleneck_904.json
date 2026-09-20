@@ -1,0 +1,18 @@
+{
+  "id": 904,
+  "domain": "xr_interface",
+  "title": "Color gamut and HDR in near-eye displays",
+  "bottleneck": "Near-eye displays lag TVs in color volume and HDR: OLED microdisplays struggle with peak brightness for HDR highlights, while LCDs lack true blacks. Wide color gamut needs power-hungry backlights or emitters that heat the headset. Washed-out or dim VR looks flat next to modern displays.",
+  "why_it_blocks": "Visual richness drives emotional impact and realism; dull displays make VR feel like a lesser medium. Display quality gaps keep XR from matching the display standards users expect.",
+  "current_state": "HDR-capable headset displays are emerging in premium devices, but brightness, heat, and power tradeoffs limit HDR to modest implementations. Peak brightness for HDR highlights demands power that heats the headset, so HDR implementations stay modest in practice. Microdisplay makers must choose between brightness for HDR and efficiency for battery life, and physics punishes both choices.",
+  "sources": [
+    {
+      "title": "Laser Focus World: Waveguide design for AR",
+      "url": "https://www.laserfocusworld.com/optics/article/55365905/waveguide-design-for-ar-glasses-system-optimization"
+    },
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    }
+  ]
+}

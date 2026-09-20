@@ -1,0 +1,18 @@
+{
+  "id": 713,
+  "domain": "space",
+  "title": "Powering ISRU plants: the megawatt gap",
+  "bottleneck": "Serious ISRU — melting regolith, electrolyzing water, liquefying propellant — needs megawatts of continuous power, but a lunar base's early power will be kilowatts. Solar at the poles works only on crater rims with near-constant sunlight and still needs storage; nuclear fission surface power is the natural answer but is itself undeployed. The power system must be landed, installed, and operational before the ISRU plant produces its first kilogram — and it dominates the landed mass budget.",
+  "why_it_blocks": "Power is the master constraint: every ISRU mass and throughput estimate collapses without a credible megawatt source, yet power and ISRU are usually planned as separate programs.",
+  "current_state": "Kilopower demonstrated the 10 kW class; a 40 kW lunar fission demo is targeted for the early 2030s. Megawatt-class surface power has no program.",
+  "sources": [
+    {
+      "title": "NASA Bets on Nuclear Propulsion to Cut the Mars Trip in Half (WebProNews)",
+      "url": "https://www.webpronews.com/nasa-bets-on-nuclear-propulsion-to-cut-the-mars-trip-in-half-and-the-clock-is-ticking/"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

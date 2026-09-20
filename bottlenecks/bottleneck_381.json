@@ -1,0 +1,14 @@
+{
+  "id": 381,
+  "domain": "medicine_cures",
+  "title": "ALS (amyotrophic lateral sclerosis) treatments",
+  "bottleneck": "ALS destroys motor neurons through mechanisms including protein aggregation, excitotoxicity, neuroinflammation, and genetic mutations such as SOD1 and C9orf72, that remain incompletely understood and vary between patients. Approved drugs extend survival by only months.",
+  "why_it_blocks": "Rapid progression, typically 2 to 5 years from diagnosis, and biological heterogeneity make ALS one of the cruelest and hardest-to-treat neurodegenerations.",
+  "current_state": "Antisense therapy for SOD1-ALS showed biomarker benefit and won accelerated approval; gene-silencing and stem-cell approaches continue in trials. Broadly effective ALS therapy remains elusive, and developers increasingly look beyond single-target strategies. The field is also grappling with how to measure benefit in a disease that moves so fast, pushing development of more sensitive functional and biomarker endpoints. Platform trials that test multiple candidates efficiently are gaining traction.",
+  "sources": [
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

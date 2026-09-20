@@ -1,0 +1,18 @@
+{
+  "id": 683,
+  "domain": "space",
+  "title": "Lunar dust toxicity and equipment degradation",
+  "bottleneck": "Lunar regolith is unweathered — jagged, electrostatically charged, abrasive, and chemically reactive — and it gets everywhere: Apollo suits showed visible wear after hours, seals leaked, and inhaled simulant causes lung damage in animal studies. Mitigation options like suitports, electrostatic removal, and advanced filtration are unproven at operational scale, and chronic low-level exposure health effects in humans are unknown because no one has lived with it.",
+  "why_it_blocks": "Dust attacks the two things a base cannot lose — crew lungs and equipment seals — simultaneously; without a solved dust strategy, surface operations degrade within weeks.",
+  "current_state": "Artemis suits and habitat designs include dust-mitigation features; electrostatic and coating-based removal techniques are in lab testing. No long-duration lunar surface stay has validated any of them.",
+  "sources": [
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

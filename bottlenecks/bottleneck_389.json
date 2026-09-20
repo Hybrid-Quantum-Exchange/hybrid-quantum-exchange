@@ -1,0 +1,14 @@
+{
+  "id": 389,
+  "domain": "medicine_cures",
+  "title": "Translational gap in neurodegeneration animal models",
+  "bottleneck": "Mouse models of Alzheimer's and Parkinson's replicate pieces of pathology but not the human disease: they rarely show frank neuronal loss or cognitive decline matching patients, and hundreds of cures in mice have failed in humans. Species differences in microglia, aging, and brain complexity undermine translation.",
+  "why_it_blocks": "Drug development depends on models that predict human outcomes; when models mislead, entire pipelines chase false signals.",
+  "current_state": "Human iPSC-derived neurons, brain organoids, and better aged-animal models are improving preclinical fidelity. No model yet reliably predicts clinical success, a gap the fierce debate over anti-amyloid trial failures has thrown into relief. Until preclinical models predict human outcomes, late-stage failures will continue to burn the capital and patient goodwill the field needs.",
+  "sources": [
+    {
+      "title": "Review Finds Anti-Amyloid Drugs Have No Clinical Benefit, Sparking Fierce Debate",
+      "url": "https://www.iflscience.com/alzheimers-drugs-that-target-amyloid-plaques-have-no-meaningful-effects-says-major-review-sparking-fierce-debate-from-scientists-83225"
+    }
+  ]
+}

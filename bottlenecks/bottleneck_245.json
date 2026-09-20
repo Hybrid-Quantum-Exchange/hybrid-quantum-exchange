@@ -1,0 +1,18 @@
+{
+  "id": 245,
+  "domain": "compute_semiconductors",
+  "title": "HBM DRAM stack cost and supply scaling",
+  "bottleneck": "High-bandwidth memory stacks DRAM dies vertically with TSVs to feed AI accelerators, but HBM is far more expensive per bit than conventional DRAM, requires custom base-die logic, and its supply chain is concentrated among three vendors. Stacking more layers (12-high, 16-high) increases thermal stress and test complexity, and HBM consumes package area and power budget that could otherwise go to compute.",
+  "why_it_blocks": "AI training throughput is increasingly memory-bandwidth-bound; HBM cost and availability directly set the price and supply of every flagship AI chip. A supply crunch or cost plateau in HBM propagates into slower AI scaling and higher inference prices.",
+  "current_state": "HBM3E is shipping in volume for current AI accelerators, with HBM4 on roadmaps adding wider interfaces. Vendors are expanding capacity, but pricing remains elevated and next-gen stacks face thermal and yield learning curves.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "Patsnap: Chiplet thermal management",
+      "url": "https://eureka.patsnap.com/report-analysis-of-chiplet-integration-thermal-management-for-semiconductors"
+    }
+  ]
+}

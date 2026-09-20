@@ -1,0 +1,18 @@
+{
+  "id": 317,
+  "domain": "artificial_intelligence",
+  "title": "Scalable oversight of superhuman systems",
+  "bottleneck": "As models exceed human capability in a domain, humans can no longer reliably judge their outputs — the supervisor becomes the bottleneck. A doctor cannot evaluate a superhuman diagnostician; a programmer cannot review superhuman code. Proposed solutions like debate and amplification extend human judgment but don't fundamentally solve it: past some capability gap, the AI can fool any human-based check. Even AI-assisted evaluation inherits the problem recursively: the assistant must itself be trusted at the capability frontier.",
+  "why_it_blocks": "Training and deployment both depend on evaluation. If we can't evaluate superhuman work, we can't train it safely or catch its mistakes.",
+  "current_state": "Labs use AI-assisted evaluation and debate protocols experimentally. No publicly demonstrated method guarantees reliable oversight of systems smarter than their overseers.",
+  "sources": [
+    {
+      "title": "Alignment is still unsolved: the labs are racing anyway",
+      "url": "https://aiweekly.co/issues/alignment-is-still-unsolved-the-labs-are-racing-anyway"
+    },
+    {
+      "title": "AI Alignment: 9 Problems Researchers Still Haven't Solved",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/ai-alignment-9-problems-researchers-still-havent-solved"
+    }
+  ]
+}

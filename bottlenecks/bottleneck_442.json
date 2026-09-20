@@ -1,0 +1,14 @@
+{
+  "id": 442,
+  "domain": "medicine_cures",
+  "title": "Preterm birth prediction and prevention",
+  "bottleneck": "Preterm birth is the leading cause of neonatal death, yet most cases have no identifiable cause; progesterone helps only select high-risk women, and tocolytics merely delay labor briefly. The triggers, including infection, inflammation, and placental dysfunction, are heterogeneous and poorly predicted.",
+  "why_it_blocks": "Over a million newborns die yearly from preterm complications; without prediction, prevention cannot be targeted.",
+  "current_state": "Cervical-length screening, biomarker panels, and vaginal-microbiome research aim at risk stratification. No broadly effective prevention strategy exists, and diagnostic innovation for obstetrics lags other fields. Most preterm births have no identifiable cause, frustrating targeted prevention. The vaginal microbiome, cervical remodeling, and placental function are active research frontiers, but translating findings into interventions that work at population scale has proven elusive.",
+  "sources": [
+    {
+      "title": "Galleri Test for Early Cancer Detection: Comprehensive Guide",
+      "url": "https://www.preventivemedicinedaily.com/healthy-living/screening/galleri-test-for-early-cancer-detection-comprehensive-guide/"
+    }
+  ]
+}

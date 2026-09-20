@@ -1,0 +1,18 @@
+{
+  "id": 480,
+  "domain": "health_longevity",
+  "title": "Cognitive reserve and brain aging trajectories",
+  "bottleneck": "Some individuals sustain heavy Alzheimer's pathology with intact cognition (cognitive reserve), while others decline with minimal pathology, but the neural basis of reserve is unknown. Without it, the field cannot predict who will decline, enrich prevention trials, or design interventions that build reserve rather than merely clearing pathology.",
+  "why_it_blocks": "Cognitive decline, not lifespan, is what people fear most about aging. If reserve could be measured and enhanced, dementia prevention would not depend solely on unproven pathology-clearing drugs.",
+  "current_state": "Education, bilingualism, and cognitive engagement correlate with reserve epidemiologically. No biomarker of reserve exists, and no intervention is proven to build it; brain-training evidence is weak. Lifelong cognitive engagement and education correlate with resilience, but randomized evidence that any intervention builds reserve is lacking, and reserve cannot yet be imaged or measured.",
+  "sources": [
+    {
+      "title": "Why Don't We Have a Cure for Alzheimer's? (WebMD)",
+      "url": "https://www.webmd.com/alzheimers/features/alzheimers-amyloid-hypothesis-rut"
+    },
+    {
+      "title": "The blood-brain barrier and neurodegenerative disease (Clinical Laboratory International)",
+      "url": "https://clinlabint.com/the-blood-brain-barrier-and-neurodegenerative-disease/"
+    }
+  ]
+}

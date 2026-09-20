@@ -1,0 +1,18 @@
+{
+  "id": 815,
+  "domain": "climate_environment",
+  "title": "Biodiversity monitoring at planetary scale",
+  "bottleneck": "We cannot manage what we cannot measure, and biodiversity measurement is stuck: traditional surveys cover tiny areas, eDNA sampling is powerful but unstandardized and hard to scale, and satellite monitoring misses most taxa. The result is that extinction rates, population trends, and ecosystem health are estimated with huge uncertainty — roughly a million species face extinction risk but the error bars span hundreds of thousands. No operational system tracks biodiversity the way weather stations track climate.",
+  "why_it_blocks": "Policy targets like 30x30 cannot be evaluated or enforced without measurement; conservation funding cannot be directed to where it works. The monitoring gap means ecosystem collapse can proceed undetected until it is irreversible.",
+  "current_state": "eDNA metabarcoding, acoustic monitoring, and AI-assisted camera traps are converging toward scalable toolkits, and global initiatives are piloting essential biodiversity variables. But a coordinated, funded planetary monitoring system does not yet exist.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    }
+  ]
+}

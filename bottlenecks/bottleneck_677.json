@@ -1,0 +1,18 @@
+{
+  "id": 677,
+  "domain": "space",
+  "title": "Water electrolysis propulsion chain for cislunar logistics",
+  "bottleneck": "Splitting water into hydrogen and oxygen is the cornerstone of the cislunar propellant economy — but doing it in space means electrolyzers that survive launch, run for years without maintenance, and handle product gases in microgravity where bubbles do not rise. The hydrogen then needs liquefaction at -253 C and storage without boil-off. The full chain from mined ice to engine-ready cryogenic propellant has never been demonstrated end to end, and each step's losses multiply.",
+  "why_it_blocks": "The economic case for lunar mining collapses if water cannot be converted to usable propellant in space; Earth-launched propellant would remain cheaper than lunar-derived fuel.",
+  "current_state": "ISS electrolyzers prove the basic chemistry in orbit; lunar water extraction and space liquefaction remain lab-scale. No integrated water-to-propellant demonstration has flown.",
+  "sources": [
+    {
+      "title": "Lunar soil shows promise for in-situ oxygen and fuel production (Moon Daily)",
+      "url": "https://www.moondaily.com/reports/Lunar_soil_shows_promise_for_in_situ_oxygen_and_fuel_production_999.html"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

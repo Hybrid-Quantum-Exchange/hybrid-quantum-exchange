@@ -1,0 +1,18 @@
+{
+  "id": 800,
+  "domain": "climate_environment",
+  "title": "Afforestation permanence under wildfire reversal",
+  "bottleneck": "Forests planted for carbon removal face a permanence crisis: intensifying wildfires, drought, and pests can release decades of stored carbon in days, as recent fire seasons have demonstrated across Canada, Siberia, and the Mediterranean. Climate models that count afforestation as durable removal rarely price in rising disturbance rates. Insurance and buffer pools exist but are actuarially untested against the new fire regime.",
+  "why_it_blocks": "Afforestation and reforestation are by far the largest current source of carbon removal — nearly all of the 2 billion tonnes removed annually. If those stocks are not permanent, the world's biggest CDR asset is mispriced and climate targets built on it will fail.",
+  "current_state": "Jurisdictions are experimenting with dynamic baselines and larger buffer pools, and some registries now discount forest credits for reversal risk. But no system yet credibly guarantees century-scale permanence for forest carbon in a warming, burning world.",
+  "sources": [
+    {
+      "title": "What is direct air capture, and how does it work?",
+      "url": "https://thinklandscape.globallandscapesforum.org/102395/what-is-direct-air-capture/"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

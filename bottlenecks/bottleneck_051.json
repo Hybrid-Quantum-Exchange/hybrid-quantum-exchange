@@ -1,0 +1,18 @@
+{
+  "id": 51,
+  "domain": "fundamental_physics",
+  "title": "Proving quark confinement in QCD",
+  "bottleneck": "No isolated quark has ever been observed, and lattice simulations strongly suggest color charges are permanently confined, yet there is no analytic proof that quantum chromodynamics confines in the continuum limit. The mass gap and confinement remain Clay Millennium Prize problems worth a million dollars.",
+  "why_it_blocks": "Confinement is the central dynamical fact of the strong interaction; without understanding it, QCD's account of visible matter rests on numerical evidence rather than theoretical comprehension.",
+  "current_state": "Lattice QCD demonstrates confinement numerically with overwhelming evidence, and dual-superconductor and center-vortex pictures offer physical intuition, but a rigorous proof remains out of reach. The Clay Millennium Prize offers a million dollars for a proof, underscoring how far rigorous understanding lags behind numerical evidence. Dual-superconductor and center-vortex pictures give physical intuition for the confining flux tube, but neither has been turned into a theorem.",
+  "sources": [
+    {
+      "title": "open-physics-problems SOURCES.md - meta-aggregator of unsolved physics lists",
+      "url": "https://github.com/zozo123/open-physics-problems/blob/HEAD/SOURCES.md"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

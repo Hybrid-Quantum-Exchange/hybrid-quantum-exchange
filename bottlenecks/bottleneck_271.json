@@ -1,0 +1,18 @@
+{
+  "id": 271,
+  "domain": "compute_semiconductors",
+  "title": "Deterministic single-photon sources for photonic quantum computing",
+  "bottleneck": "Photonic quantum computers need on-demand, indistinguishable single photons, but today's best sources (quantum dots, parametric down-conversion) are probabilistic, lossy, or require cryogenics. Multiplexing many probabilistic sources to fake determinism multiplies hardware overhead and loss. Without a bright, deterministic, room-temperature single-photon source, photonic quantum advantage stays confined to specialized demos.",
+  "why_it_blocks": "Photonics is one of the most manufacturable paths to quantum computing, but probabilistic sources impose exponential overhead that cancels the advantage at scale. The source problem is the field's central bottleneck.",
+  "current_state": "Quantum-dot sources reach high indistinguishability at cryogenic temperatures, and integrated multiplexing schemes are advancing. A practical deterministic room-temperature source does not exist. Multiplexing many probabilistic sources to approximate determinism multiplies component count and optical loss, eroding the very scaling advantage photonics promises.",
+  "sources": [
+    {
+      "title": "OptoMind review: Scalable photonic computing",
+      "url": "https://github.com/ycc-pku/optomind-review/blob/HEAD/artifacts/e2e/03-scalable-photonic-computing/publication/latex/manuscript.normalized.md"
+    },
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    }
+  ]
+}

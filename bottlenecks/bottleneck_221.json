@@ -1,0 +1,18 @@
+{
+  "id": 221,
+  "domain": "energy",
+  "title": "Large power transformer supply shortage",
+  "bottleneck": "Large power transformers have lead times of 2 to 4 years, with global manufacturing concentrated in a few countries and domestic US capacity minimal. Grain-oriented electrical steel is in short supply, and the skilled workforce is aging. Every transmission project, data center, and renewable interconnection needs transformers; the shortage delays everything.",
+  "why_it_blocks": "Transformers are the unglamorous chokepoint of electrification. No transformer, no interconnection, no data center, no substation upgrade: the entire buildout queues behind steel and copper. Utilities are cannibalizing spare transformers and delaying maintenance to cope, increasing failure risk across aging fleets.",
+  "current_state": "Manufacturers are expanding capacity with DOE support. Lead times remain elevated and shortages are expected through the decade. Standardizing transformer designs could shorten lead times, but utilities resist giving up custom specifications.",
+  "sources": [
+    {
+      "title": "Energy Transition: 2026 Hurdles Explained",
+      "url": "https://globalinsightwire.com/energy-transition-hurdles-2026-reality-check/"
+    },
+    {
+      "title": "The Interconnection Queue: Energy Generation, Grid Access, and the Renewable Energy Transition",
+      "url": "https://medium.com/@mjk_89787/the-interconnection-queue-5a634d55732a"
+    }
+  ]
+}

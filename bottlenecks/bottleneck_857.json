@@ -1,0 +1,18 @@
+{
+  "id": 857,
+  "domain": "xr_interface",
+  "title": "Diffractive waveguide color artifacts",
+  "bottleneck": "Diffractive waveguides split light by wavelength, producing rainbow effects, color nonuniformity, and ghost images that vary with eye position. These artifacts are inherent to diffraction physics, not software bugs, and they worsen as field of view grows. Reflective waveguides avoid them but can't be made cheaply.",
+  "why_it_blocks": "Visible artifacts destroy the illusion of AR and cause user rejection: people won't wear glasses that paint rainbows across their vision. The cheapest manufacturable optics are also the ugliest.",
+  "current_state": "Multi-layer and advanced grating designs reduce but don't eliminate artifacts; eye-tracking-based correction helps marginally. Artifact-free diffractive waveguides at wide FOV remain elusive. Because the artifacts shift with eye position, they cannot be calibrated away in software the way fixed display nonuniformities can.",
+  "sources": [
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    },
+    {
+      "title": "Laser Focus World: Waveguide design for AR",
+      "url": "https://www.laserfocusworld.com/optics/article/55365905/waveguide-design-for-ar-glasses-system-optimization"
+    }
+  ]
+}

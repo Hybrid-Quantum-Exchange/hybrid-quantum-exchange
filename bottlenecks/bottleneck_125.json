@@ -1,0 +1,18 @@
+{
+  "id": 125,
+  "domain": "cosmology_multiverse",
+  "title": "Supermassive Black Hole Seed Formation",
+  "bottleneck": "Billion-solar-mass black holes exist by redshift 7, less than a gigayear after the Big Bang, but no seed mechanism (direct collapse, Pop III remnants, dense-cluster runaways) is confirmed, and growth-rate requirements strain Eddington-limited accretion. JWST's 'little red dots' may be over-massive black holes deepening the puzzle. Sustained super-Eddington accretion could grow light seeds fast enough, but it requires special conditions that may not be generic.",
+  "why_it_blocks": "Black hole seeds are the missing first chapter of galaxy formation, and their origin constrains early-universe physics.",
+  "current_state": "All seed channels remain viable; LISA's future detections of high-z mergers could discriminate between light and heavy seeds. JWST's discovery of abundant faint active nuclei at high redshift is reshaping seed and growth models in real time.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 196,
+  "domain": "energy",
+  "title": "High-level waste transportation capacity",
+  "bottleneck": "Moving spent fuel to any future repository, or between sites, requires certified transport casks, specialized railcars, and trained crews, none of which exist at the scale a repository program needs. The US has conducted a few thousand safe shipments, but a repository would need tens of thousands over decades. Cask manufacturing capacity, route approvals, and state-level opposition are all unresolved.",
+  "why_it_blocks": "A repository without transportation is a hole in the ground. Waste stranded at more than 70 sites cannot reach centralized storage or disposal without a transport system that takes a decade to build. State and tribal opposition to transport routes can block shipments for years even after federal certification.",
+  "current_state": "Existing cask designs are certified and shipments have an excellent safety record. Fleet-scale transport infrastructure has not been built.",
+  "sources": [
+    {
+      "title": "The Big Problems with Small Nukes",
+      "url": "https://www.columbiariverkeeper.org/2024/the-big-problems-with-small-nukes/"
+    },
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    }
+  ]
+}

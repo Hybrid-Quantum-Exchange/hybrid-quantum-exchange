@@ -1,0 +1,18 @@
+{
+  "id": 164,
+  "domain": "energy",
+  "title": "Burning plasma self-heating control",
+  "bottleneck": "In a burning plasma, alpha particles from fusion reactions heat the fuel, creating a self-sustaining system that can also run away or quench, and no device has yet operated a sustained, controlled burning plasma at power-plant scale. Diagnosing and controlling the alpha-particle population in real time, while avoiding instabilities they drive, requires actuators and models validated against data that does not yet exist. Even small control errors can trigger disruptions or thermal quenches that damage the first wall, leaving little margin for experimentation.",
+  "why_it_blocks": "Every fusion power-plant design assumes controlled burn. Without demonstrated control of alpha heating, performance projections are extrapolations and regulators cannot license the core process.",
+  "current_state": "NIF and JET produced burning-plasma conditions transiently. ITER aims for sustained alpha-dominated heating in the 2030s, with control strategies still being developed.",
+  "sources": [
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    },
+    {
+      "title": "Princeton achieves 10x reduction in tritium needs for nuclear fusion",
+      "url": "https://interestingengineering.com/energy/nuclear-fusion-fuel-breakthrough"
+    }
+  ]
+}

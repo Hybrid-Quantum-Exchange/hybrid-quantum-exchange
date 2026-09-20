@@ -1,0 +1,18 @@
+{
+  "id": 692,
+  "domain": "space",
+  "title": "Trace contaminant buildup in sealed habitats",
+  "bottleneck": "In a sealed habitat, everything off-gasses: plastics, adhesives, electronics, and the crew emit hundreds of trace volatile compounds. On Earth these disperse; in a closed loop they accumulate, and some are toxic at parts-per-million levels over months. The ISS uses trace contaminant control beds needing periodic replacement from Earth resupply; catalytic oxidizers work but add power draw and can generate their own byproducts. For a multi-year Mars mission with no resupply, contaminant load and filter lifetime are unvalidated.",
+  "why_it_blocks": "Air you cannot vent must be cleaned forever; a contaminant breakthrough months from Earth, with no spare filters, becomes a slow poisoning event.",
+  "current_state": "The ISS trace contaminant control system handles the current load with resupplied sorbent beds; NASA is developing regenerable systems for Mars. Multi-year no-resupply operation is unproven.",
+  "sources": [
+    {
+      "title": "Designing Mars and Moon Habitats: When Home Is Life Support",
+      "url": "https://www.archyde.com/designing-mars-and-moon-habitats-when-home-is-life-support/"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

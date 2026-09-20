@@ -1,0 +1,14 @@
+{
+  "id": 404,
+  "domain": "medicine_cures",
+  "title": "Drug-resistant gonorrhea",
+  "bottleneck": "Neisseria gonorrhoeae has sequentially defeated every antibiotic class deployed against it, including sulfonamides, penicillins, tetracyclines, and fluoroquinolones, and now shows decreasing susceptibility to ceftriaxone, the last reliable therapy. Resistant gonococcal infections have risen substantially since 2017.",
+  "why_it_blocks": "Over 80 million gonorrhea cases occur yearly; untreatable gonorrhea would mean rising infertility, ectopic pregnancy, and neonatal blindness.",
+  "current_state": "New agents such as zoliflodacin are in late-stage trials, and combination regimens are recommended. No vaccine exists, and resistance continues to erode each new drug. Surveillance for resistant gonorrhea is weakest where the burden is highest, allowing resistant strains to spread undetected. A vaccine, long considered impossible for gonorrhea, is now being reconsidered after meningococcal B vaccines showed cross-protection signals in large observational studies.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

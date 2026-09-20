@@ -1,0 +1,18 @@
+{
+  "id": 897,
+  "domain": "xr_interface",
+  "title": "Eye-gaze as sole input: the Midas touch problem",
+  "bottleneck": "Using gaze alone for selection means everything you look at risks activation: the Midas touch problem. Dwell-time selection is slow and tiring, blink detection misfires, and distinguishing inspection from intention needs extra modalities. Gaze is a fast pointer but a terrible clicker.",
+  "why_it_blocks": "Hands-free AR/VR interaction needs gaze to work alone for accessibility and convenience, but false activations make it untrustworthy. Gaze input stays a complement, never the primary channel.",
+  "current_state": "Gaze-plus-pinch and gaze-plus-voice hybrids are standard, sidestepping the problem rather than solving it. Pure-gaze interfaces remain slow and error-prone. Dwell-based selection forces users to stare unnaturally, causing fatigue and accidental activations that erode trust. Combining gaze with micro-gestures helps, but every added modality raises cost, calibration burden, and failure modes.",
+  "sources": [
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

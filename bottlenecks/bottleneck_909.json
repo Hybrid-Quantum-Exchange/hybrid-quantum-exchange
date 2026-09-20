@@ -1,0 +1,18 @@
+{
+  "id": 909,
+  "domain": "xr_interface",
+  "title": "Photorealistic avatar uncanny valley",
+  "bottleneck": "Avatars that are almost-but-not-quite human trigger revulsion: codec avatars need heavy capture rigs and per-person training, real-time facial tracking misses microexpressions, and rendering skin, eyes, and hair convincingly at 90fps is brutally expensive. Stylized avatars dodge the valley but sacrifice presence for professional use.",
+  "why_it_blocks": "Believable faces are the key to VR communication replacing video calls; the uncanny valley keeps avatars in the realm of cartoons. Telepresence can't go mainstream looking wrong.",
+  "current_state": "Research codec avatars are stunning in demos with dedicated capture; consumer headsets offer decent but clearly synthetic avatars. Real-time photorealism for everyone is unsolved. Microexpressions and eye moisture are extraordinarily hard to render in real time, and their absence reads immediately as lifelessness. Capturing a personal codec avatar still needs a specialized rig, so most users get generic faces instead.",
+  "sources": [
+    {
+      "title": "Frontiers in VR: Haptic feedback & embodiment",
+      "url": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2020.573167"
+    },
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    }
+  ]
+}

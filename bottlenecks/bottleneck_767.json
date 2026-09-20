@@ -1,0 +1,18 @@
+{
+  "id": 767,
+  "domain": "materials",
+  "title": "Carbon nanotube chirality sorting at scale",
+  "bottleneck": "A nanotube's electronic character — metallic or semiconducting, and its bandgap — is set by its chirality, but synthesis produces a mixture of dozens of chiralities. Density-gradient ultracentrifugation and gel chromatography can sort them in the lab at milligrams per day, while scalable methods like selective growth or cloning remain unreliable. No process yet delivers kilograms of single-chirality semiconducting nanotubes.",
+  "why_it_blocks": "Nanoelectronics, high-efficiency photovoltaics, and quantum light sources need uniform semiconducting tubes; mixed batches give unpredictable devices. The sorting bottleneck is why carbon nanotubes, discovered decades ago, still have no mainstream electronic application.",
+  "current_state": "Selective catalyst design has improved as-grown chirality distributions, and aqueous two-phase sorting has raised throughput somewhat. But the purity-throughput-cost triangle remains unsolved, and industry has largely pivoted nanotubes toward bulk composite uses that do not need sorting.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    }
+  ]
+}

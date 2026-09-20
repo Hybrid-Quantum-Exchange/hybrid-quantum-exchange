@@ -1,0 +1,18 @@
+{
+  "id": 509,
+  "domain": "health_longevity",
+  "title": "Schizophrenia negative and cognitive symptoms",
+  "bottleneck": "Antipsychotics treat hallucinations and delusions by blocking dopamine, but negative symptoms (apathy, flat affect, social withdrawal) and cognitive deficits, which most determine functional outcome, have no effective treatment. Decades of glutamate, cholinergic, and anti-inflammatory trials have failed to produce an approved therapy.",
+  "why_it_blocks": "Patients can be 'stabilized' on antipsychotics yet remain unable to work, study, or maintain relationships. Treating psychosis without treating cognition leaves the disability of schizophrenia essentially intact.",
+  "current_state": "Cognitive remediation therapy shows modest benefit. Muscarinic agonists (xanomeline-trospium, approved 2024 as Cobenfy) offer a non-dopamine mechanism for psychosis, but negative and cognitive symptoms remain without proven pharmacotherapy. The muscarinic agonist KarXT (Cobenfy) opened a non-dopamine path for psychosis in 2024, but its effect on negative and cognitive symptoms is still being characterized.",
+  "sources": [
+    {
+      "title": "Addressing the Challenges of Treating Schizophrenia and Bipolar Disorder (AHDB)",
+      "url": "https://www.ahdbonline.com/articles/2009-addressing-the-challenges-of-treating-schizophrenia-and-bipolar-disorder"
+    },
+    {
+      "title": "Untreatable Mental Illness: Challenges, Management, and Hope (NeuroLaunch)",
+      "url": "https://neurolaunch.com/untreatable-mental-illness/"
+    }
+  ]
+}

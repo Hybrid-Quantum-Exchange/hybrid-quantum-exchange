@@ -1,0 +1,18 @@
+{
+  "id": 980,
+  "domain": "coordination",
+  "title": "Nuclear Energy Regulatory Overcaution",
+  "bottleneck": "Nuclear regulation prices risk as if any release were catastrophic, making new reactors uneconomical in the West despite nuclear's strong safety record relative to fossil fuels. Licensing timelines stretch a decade or more, and regulatory ratcheting adds costs without proportional safety gains. Public fear, amplified by rare accidents, sustains political pressure for ever-tighter rules regardless of comparative risk.",
+  "why_it_blocks": "Overcautious nuclear regulation keeps carbon-free baseload power off the grid, slowing decarbonization. Climate goals slip further out of reach with each decade of delayed deployment.",
+  "current_state": "Advanced reactor licensing reform is underway in the US, but no redesigned regulatory paradigm is yet proven at deployment scale. Risk-informed, technology-neutral licensing could unlock deployment but faces entrenched opposition. A technology-neutral, risk-informed framework would serve both safety and climate goals.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

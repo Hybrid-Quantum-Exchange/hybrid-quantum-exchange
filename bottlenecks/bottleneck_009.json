@@ -1,0 +1,14 @@
+{
+  "id": 9,
+  "domain": "fundamental_physics",
+  "title": "Testing Planck-scale physics: Lorentz invariance violation searches",
+  "bottleneck": "Quantum gravity is expected to modify physics at the Planck length of 10^-35 meters, some sixteen orders of magnitude below what colliders probe, and no agreed signature survives across candidate theories. Searches for energy-dependent light speed in gamma-ray bursts and modified dispersion relations have found nothing, but the null results only constrain specific models.",
+  "why_it_blocks": "A scientific theory of quantum gravity must be falsifiable; without any accessible experimental handle, quantum gravity risks remaining metaphysics regardless of its mathematical beauty.",
+  "current_state": "Astrophysical observations of gamma-ray bursts and cosmic rays place extremely tight bounds on Lorentz violation, while tabletop optomechanical and interferometric experiments probe for Planck-scale spacetime noise with growing sensitivity. Tabletop interferometers and optomechanical resonators now probe for Planck-scale spacetime foam, though no anomaly has survived scrutiny so far.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

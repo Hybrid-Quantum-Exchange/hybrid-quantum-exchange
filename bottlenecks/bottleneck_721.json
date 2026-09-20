@@ -1,0 +1,18 @@
+{
+  "id": 721,
+  "domain": "space",
+  "title": "Laser ablation nudging and its dual-use problem",
+  "bottleneck": "Ground- or space-based lasers could nudge small debris by vaporizing surface material to create ablation thrust — elegant for the small-debris population that cannot be grappled. But a laser powerful enough to perturb debris is powerful enough to damage active satellites, making every debris laser a latent space weapon. Verification, targeting transparency, and international trust frameworks do not exist, and atmospheric distortion limits ground-based effectiveness. The technology is hostage to its military implications.",
+  "why_it_blocks": "Small debris cannot be grappled, so non-contact methods are the only removal path — yet the best non-contact method is politically undeployable.",
+  "current_state": "Lab and simulation studies only; some proposals for space-based laser demonstrators exist. No operational debris laser and no governance framework.",
+  "sources": [
+    {
+      "title": "Active Debris Removal Market Research Report",
+      "url": "https://growthmarketreports.com/report/active-debris-removal-market"
+    },
+    {
+      "title": "Global Space Debris Removal Market Poised for Rapid Growth",
+      "url": "https://www.einpresswire.com/article/876135097/global-space-debris-removal-market-poised-for-rapid-growth-as-orbital-safety-becomes-a-strategic-priority"
+    }
+  ]
+}

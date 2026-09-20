@@ -1,0 +1,14 @@
+{
+  "id": 11,
+  "domain": "fundamental_physics",
+  "title": "Asymptotic safety: proving the gravitational fixed point exists",
+  "bottleneck": "Asymptotic safety proposes that gravity is non-perturbatively renormalizable because its renormalization-group flow approaches an interacting ultraviolet fixed point, but the evidence comes from truncated approximations whose convergence is unproven. Whether the fixed point survives in the full, untruncated theory is unknown.",
+  "why_it_blocks": "If the fixed point is an artifact of truncation, asymptotic safety collapses and with it the most conservative route to quantum gravity, one requiring no new degrees of freedom.",
+  "current_state": "Functional renormalization group studies consistently find fixed points across many truncations and matter contents, and lattice approaches like causal dynamical triangulations show compatible phase structure, but a rigorous existence proof is missing. Causal dynamical triangulations independently find a second-order phase transition compatible with asymptotic safety, yet analytic control of the continuum limit is missing.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

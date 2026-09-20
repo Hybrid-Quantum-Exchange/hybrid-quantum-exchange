@@ -1,0 +1,18 @@
+{
+  "id": 304,
+  "domain": "artificial_intelligence",
+  "title": "Autoformalization of mathematical reasoning",
+  "bottleneck": "Frontier models can sketch proofs in natural language but cannot reliably translate them into machine-checkable formal proofs — the step that would make AI mathematics trustworthy. The UnsolvedMath benchmark found models do strong literature search but none can autoformalize; extended thinking helps on simple problems, while global mental picture, systematic self-verification, and analogical reasoning remain absent. Proof assistants demand a precision LLMs don't have. Manual formalization takes experts months per theorem, so the verification gap bottlenecks the entire AI-math pipeline.",
+  "why_it_blocks": "Without formalization, AI-generated mathematics cannot be verified except by scarce human experts, capping the speed of AI-assisted discovery.",
+  "current_state": "Lean and Isabelle copilots assist human formalizers, but end-to-end autoformalization of novel proofs is unsolved. Each model generation improves informal reasoning far faster than formalization ability.",
+  "sources": [
+    {
+      "title": "Open Mathematical Problems as an AI Reasoning Benchmark",
+      "url": "https://www.ulam.ai/research/open-math.pdf"
+    },
+    {
+      "title": "DeepMind's research AI occasionally solves what humans can't and mostly gets everything else wrong",
+      "url": "https://the-decoder.com/deepminds-research-ai-occasionally-solves-what-humans-cant-and-mostly-gets-everything-else-wrong/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 352,
+  "domain": "artificial_intelligence",
+  "title": "Evaluation of the context and retrieval layer",
+  "bottleneck": "The industry has model benchmarks and prompt eval tools but almost no standard for evaluating what was retrieved, why it was retrieved, what was used, what was ignored, and how reasoning paths went wrong. Teams can't measure retrieval quality, context drift, or state corruption — the actual failure modes of production systems. What isn't measured isn't fixed. Without these measurements, teams tune retrieval blindly - changing chunk sizes and prompts with no signal on what helps.",
+  "why_it_blocks": "Production AI stays brittle because the layer responsible for most failures is the layer nobody evaluates. The result is cargo-cult engineering: copy-pasted RAG recipes whose failures nobody can diagnose or fix.",
+  "current_state": "RAGAS and similar tools see limited adoption; continuous evaluation pipelines are almost nonexistent in production deployments.",
+  "sources": [
+    {
+      "title": "The Real Bottlenecks in Production AI",
+      "url": "https://medium.com/@artiquare/the-real-bottlenecks-in-production-ai-3c4e5df5abf3"
+    },
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    }
+  ]
+}

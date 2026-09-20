@@ -1,0 +1,18 @@
+{
+  "id": 143,
+  "domain": "cosmology_multiverse",
+  "title": "Multiverse Falsifiability Beyond the Measure Problem",
+  "bottleneck": "Even setting aside the measure problem, it is disputed whether multiverse proposals count as science: other pocket universes are causally disconnected by construction. Defenders argue for non-empirical theory assessment (explanatory power, unification), but no agreed criteria exist, leaving the multiverse's scientific status permanently contested. If testability is not required, cosmology risks admitting an infinity of untestable proposals with no way to choose among them.",
+  "why_it_blocks": "This is the demarcation problem made concrete: cosmology's grandest idea may sit outside science's traditional boundaries. How science handles untestable-but-motivated ideas will shape the next century of cosmology.",
+  "current_state": "Philosophers and physicists remain split; the debate has produced taxonomies of multiverse types but no resolution. The dispute reflects a deeper uncertainty about how science should proceed when direct experiment is impossible.",
+  "sources": [
+    {
+      "title": "Beyond Falsifiability: Normal Science in a Multiverse (PhilArchive)",
+      "url": "https://philarchive.org/archive/CARBFN"
+    },
+    {
+      "title": "The Landscape and the Multiverse: What's the Problem? (Synthese)",
+      "url": "https://link.springer.com/article/10.1007/s11229-021-03137-0"
+    }
+  ]
+}

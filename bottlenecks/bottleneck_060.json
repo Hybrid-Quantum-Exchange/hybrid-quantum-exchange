@@ -1,0 +1,18 @@
+{
+  "id": 60,
+  "domain": "fundamental_physics",
+  "title": "The WIMP miracle under siege: direct detection null results",
+  "bottleneck": "Weakly interacting massive particles were favored because weak-scale thermal relics naturally give the observed dark matter density, but LZ, XENONnT, and PandaX have excluded spin-independent cross sections down to 10^-48 square centimeters with no signal. The surviving WIMP parameter space is increasingly contrived.",
+  "why_it_blocks": "The WIMP was the most predictive and testable dark matter candidate; its progressive exclusion without a replacement paradigm leaves dark matter phenomenology drifting.",
+  "current_state": "LZ's latest analyses find no WIMP signal across an ever-widening mass range with world-leading sensitivity, and the field is pivoting toward axions, sterile neutrinos, and ultralight candidates. The neutrino fog, where solar and atmospheric neutrinos mimic dark matter signals, now sets a practical floor for the next generation of detectors.",
+  "sources": [
+    {
+      "title": "LZ sets a world's best in the hunt for galactic dark matter - SLAC",
+      "url": "http://www6.slac.stanford.edu/news/2025-12-08-lz-sets-worlds-best-hunt-galactic-dark-matter-and-gets-new-look-neutrinos-suns-core"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

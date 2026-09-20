@@ -1,0 +1,18 @@
+{
+  "id": 510,
+  "domain": "health_longevity",
+  "title": "Durability and long-term safety of ketamine for depression",
+  "bottleneck": "Ketamine and esketamine relieve depressive symptoms within hours, but the effect typically fades within days to weeks, requiring repeated dosing whose long-term cognitive, bladder, and dependence risks are unquantified. No biomarker predicts who sustains response, and maintenance protocols are empirical.",
+  "why_it_blocks": "Rapid-acting treatment is psychiatry's biggest advance in decades, but without durable, safe maintenance strategies it remains a crisis intervention rather than a cure, accessible mainly to those who can afford repeated clinic visits.",
+  "current_state": "Esketamine nasal spray is approved for treatment-resistant depression with a REMS monitoring program. Research into next-generation NMDA modulators and psychedelics aims for longer-lasting effects with fewer dissociative side effects. Efforts to extend ketamine's effect with psychotherapy integration or maintenance dosing show promise, but optimal schedules and long-term bladder and cognitive safety are unestablished.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Investigational drugs in PTSD (PubMed abstract, Neuropsychopharmacology review)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41792251/"
+    }
+  ]
+}

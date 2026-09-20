@@ -1,0 +1,18 @@
+{
+  "id": 765,
+  "domain": "materials",
+  "title": "Wafer-scale single-crystal graphene synthesis",
+  "bottleneck": "Graphene's remarkable properties belong to pristine single crystals, but wafer-scale synthesis still yields polycrystalline films whose grain boundaries degrade electrical and mechanical performance. Epitaxial growth on silicon carbide is high quality but limited in size and expensive; CVD on copper is scalable but defect-prone, and transfer processes introduce wrinkles, tears, and contamination. No method yet delivers meter-scale, defect-free, transferable graphene at commodity cost.",
+  "why_it_blocks": "Graphene was supposed to revolutionize electronics, composites, and membranes. The synthesis gap means real products use graphene as a filler or additive — incremental improvements — while the transformative applications needing pristine large-area films stay on the shelf.",
+  "current_state": "Roll-to-roll CVD now produces kilometers of few-layer graphene for heating films and touch sensors, proving some markets work with imperfect material. But the high-end applications that motivated the field still wait on crystal quality at scale.",
+  "sources": [
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    }
+  ]
+}

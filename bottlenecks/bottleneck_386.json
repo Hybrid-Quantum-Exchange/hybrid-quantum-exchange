@@ -1,0 +1,14 @@
+{
+  "id": 386,
+  "domain": "medicine_cures",
+  "title": "Vascular contributions to cognitive decline and dementia",
+  "bottleneck": "Mixed vascular and Alzheimer's pathology is the rule rather than the exception in late-life dementia, yet most drug development targets pure amyloid or tau. Small-vessel disease, blood-brain barrier breakdown, and impaired clearance interact with neurodegeneration in ways that are poorly quantified.",
+  "why_it_blocks": "Ignoring the vascular half of dementia means trials enroll heterogeneous patients and therapies miss a major, potentially preventable driver of decline.",
+  "current_state": "Intensive blood-pressure control has shown cognitive benefit, and vascular biomarkers are entering trials. No therapy specifically targets the vascular-neurodegenerative interface. Because vascular risk factors are modifiable, this is one of the few dementia avenues where prevention is already actionable through blood-pressure and lifestyle control. Yet dementia trials rarely stratify by vascular burden, muddying results.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    }
+  ]
+}

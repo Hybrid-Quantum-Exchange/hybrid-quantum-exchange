@@ -1,0 +1,18 @@
+{
+  "id": 302,
+  "domain": "artificial_intelligence",
+  "title": "Tool-use reliability for autonomous agents",
+  "bottleneck": "Giving models APIs, code execution, and credentials multiplies failure modes: wrong arguments, misread outputs, cascading calls, and no reliable way to verify a tool did what was intended. Permission models are coarse — an agent with a shell has the keys to everything — and there is no standard for least-privilege, auditable tool access. Production reports show context truncation and state corruption as endemic across agent tooling.",
+  "why_it_blocks": "The economic value of agents lies in acting on systems, not chatting. Unreliable tool use means agents cannot be trusted with money, data, or infrastructure. Until tool use is auditable and least-privilege by default, enterprises keep agents confined to toy tasks.",
+  "current_state": "Function-calling APIs standardize the interface but not reliability. Tool-use benchmarks exist, yet real deployments still fail on long tool chains.",
+  "sources": [
+    {
+      "title": "The Real Bottlenecks in Production AI",
+      "url": "https://medium.com/@artiquare/the-real-bottlenecks-in-production-ai-3c4e5df5abf3"
+    },
+    {
+      "title": "AI CLI Tools Digest 2026-05-28",
+      "url": "https://github.com/qyqaq/agents-radar/issues/110"
+    }
+  ]
+}

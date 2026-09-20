@@ -1,0 +1,18 @@
+{
+  "id": 260,
+  "domain": "compute_semiconductors",
+  "title": "Analog computing precision limits under noise",
+  "bottleneck": "Analog accelerators trade digital precision for efficiency, but thermal noise, device mismatch, and drift cap usable precision (often effectively 4-8 bits). Many workloads need higher precision for training or scientific computing, and error accumulation across analog stages is hard to bound. Digital correction circuits add back area and power.",
+  "why_it_blocks": "Precision limits fence analog computing into narrow niches: great for quantized inference, unusable where accuracy matters. If noise floors can't be pushed down, analog stays a complement rather than a successor to digital compute.",
+  "current_state": "Mixed-signal designs with in-situ calibration achieve competitive inference accuracy on standard benchmarks. High-precision analog computing and analog training remain unsolved. Error accumulation across cascaded analog stages makes deep analog networks especially fragile, pushing designers toward shallow or hybrid topologies that blunt the efficiency promise.",
+  "sources": [
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    },
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    }
+  ]
+}

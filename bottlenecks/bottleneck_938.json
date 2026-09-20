@@ -1,0 +1,18 @@
+{
+  "id": 938,
+  "domain": "food_water_agriculture",
+  "title": "Atmospheric water harvesting economics",
+  "bottleneck": "Pulling water from air — via fog nets, radiative cooling, or sorbent systems — works technically, but the energy cost per liter is brutal compared to any other source, and yields collapse exactly when water is needed most, during low-humidity droughts. It's a niche for military and off-grid use, not a water-supply strategy; scaling it would require energy nobody has. Yields collapse exactly when water is needed most - during low-humidity droughts - making it unreliable as supply.",
+  "why_it_blocks": "Hype around atmospheric water distracts from real solutions. As a supposed answer to water scarcity, its physics don't pencil out.",
+  "current_state": "Startups sell atmospheric water generators; costs remain orders of magnitude above piped or desalinated water. Startups sell atmospheric water generators, but costs remain orders of magnitude above piped or desalinated water.",
+  "sources": [
+    {
+      "title": "Why Desalinating Water is Hard — and Why We Might Need To Anyway",
+      "url": "https://www.discovermagazine.com/why-desalinating-water-is-hard-and-why-we-might-need-to-anyway-40123"
+    },
+    {
+      "title": "Advances in Adsorptive Atmospheric Water Harvesting Technology: Materials, Desorption, and Systems",
+      "url": "https://www.mdpi.com/2071-1050/17/22/10309"
+    }
+  ]
+}

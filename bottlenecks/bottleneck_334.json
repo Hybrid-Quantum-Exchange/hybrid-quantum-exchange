@@ -1,0 +1,18 @@
+{
+  "id": 334,
+  "domain": "artificial_intelligence",
+  "title": "LLM-as-judge bias and circularity",
+  "bottleneck": "Using LLMs to evaluate LLMs — the dominant scalable evaluation method — is circular: judges share the evaluated models' biases, prefer their own outputs, favor verbosity and confident tone over correctness, and can't reliably assess reasoning they couldn't produce themselves. Yet human evaluation doesn't scale, leaving the field dependent on a method known to be biased.",
+  "why_it_blocks": "Training and model selection driven by biased judges optimizes for impressing the judge rather than being right — a subtle, systemic form of reward hacking.",
+  "current_state": "Calibration studies document position bias, verbosity bias, and self-preference; rubrics and ensembles mitigate but don't break the circularity. Judge ensembles and rubrics mitigate bias, but the fundamental circularity of AI grading AI remains unbroken. A proposed fix, LLM panels, still grades AI with AI.",
+  "sources": [
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    },
+    {
+      "title": "The Real Bottlenecks in Production AI",
+      "url": "https://medium.com/@artiquare/the-real-bottlenecks-in-production-ai-3c4e5df5abf3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 385,
+  "domain": "medicine_cures",
+  "title": "Neuroinflammation as a therapeutic target",
+  "bottleneck": "Chronic activation of microglia and astrocytes is implicated across Alzheimer's, Parkinson's, ALS, and MS, but it is unclear when inflammation drives damage versus when it aids clearance and repair. Broad anti-inflammatory drugs have failed in neurodegeneration trials, and the relevant pathways differ by disease stage.",
+  "why_it_blocks": "If neuroinflammation could be tuned rather than simply suppressed, it might offer a target common to many neurodegenerations, but mistimed intervention could worsen outcomes.",
+  "current_state": "Selective modulators of microglial states, including TREM2, inflammasome, and complement pathways, are in clinical trials. None has yet proven that targeting neuroinflammation changes disease course in humans. Timing will likely prove critical: the same inflammatory pathway may be protective early and destructive late. Trials that stratify by disease stage are only now being designed.",
+  "sources": [
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

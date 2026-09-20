@@ -1,0 +1,18 @@
+{
+  "id": 76,
+  "domain": "fundamental_physics",
+  "title": "What the DAMA/LIBRA signal actually was",
+  "bottleneck": "For over two decades the DAMA/LIBRA experiment reported an annual modulation in its sodium-iodide detectors with the phase and period expected of dark matter. Multiple experiments using the same target material, notably COSINE-100 and ANAIS-112, now strongly exclude a dark-matter origin for that modulation. But no one has identified the systematic effect that produced the original signal.",
+  "why_it_blocks": "An unexplained 20-year experimental anomaly in a flagship dark matter search undermines confidence in the field's background modeling. Understanding what DAMA actually saw is essential before the next generation of detectors can claim their own backgrounds are understood.",
+  "current_state": "Combined analyses of COSINE-100 and ANAIS-112 data rule out the DAMA modulation at high significance, yet proposals involving seasonal muon fluxes, temperature effects, or analysis artifacts remain unproven. The origin of the signal is still an open experimental question.",
+  "sources": [
+    {
+      "title": "COSINE-100 and ANAIS-112 versus DAMA",
+      "url": "https://arxiv.org/abs/2503.19559v2"
+    },
+    {
+      "title": "Annual modulation in sodium-iodide detectors",
+      "url": "https://arxiv.org/html/2409.13226v1"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 505,
+  "domain": "health_longevity",
+  "title": "Economic model for longevity interventions",
+  "bottleneck": "The pharmaceutical business model requires clear disease endpoints and billion-dollar markets, but longevity interventions target aging itself, which regulators do not recognize as an indication. The result: geroscience companies must contort into narrow disease indications to get funded, distorting the science toward whatever is reimbursable rather than what slows aging.",
+  "why_it_blocks": "The science of aging is moving faster than the economic machinery to translate it. Without a viable business and regulatory model, the best biology stays trapped in papers instead of becoming prescriptions.",
+  "current_state": "No drug is approved for an aging indication. The TAME trial seeks to establish one; longevity biotech funding remains a fraction of oncology or immunology despite the larger addressable burden. Some funds now pursue longevity biotech as an asset class, but without an FDA-recognized aging indication, exits depend on repurposing candidates into conventional disease labels.",
+  "sources": [
+    {
+      "title": "Longevity's biggest bottleneck is economic (longevity.technology)",
+      "url": "https://longevity.technology/news/longevitys-biggest-bottleneck-is-economic/"
+    },
+    {
+      "title": "Bottlenecks in aging research (Lifespan.io researcher survey)",
+      "url": "https://www.lifespan.io/wp-content/uploads/2018/07/Lifespan.io_Event_kit_Bottlenecks_in_research.pdf"
+    }
+  ]
+}

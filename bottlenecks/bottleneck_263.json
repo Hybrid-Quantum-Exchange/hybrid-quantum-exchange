@@ -1,0 +1,18 @@
+{
+  "id": 263,
+  "domain": "compute_semiconductors",
+  "title": "Data-center copper interconnect energy ceiling",
+  "bottleneck": "Moving data over copper at 100+ Gbps per lane costs growing energy per bit as equalization, retimers, and error correction multiply; copper reach shrinks with each speed generation, forcing power-hungry retimers every few meters. At rack and row scale, interconnect energy rivals compute energy for AI training. Physics offers no relief: loss per meter rises with frequency.",
+  "why_it_blocks": "Interconnect energy sets a floor under AI training cost and data-center power: even free compute couldn't make training cheap if moving the data costs more. Scaling to larger GPU clusters hits a wall where the network, not the chips, dominates power and cost.",
+  "current_state": "224 Gbps SerDes and linear pluggable optics extend copper's life, while co-packaged optics and optical circuit switching promise relief. Copper remains dominant, with its energy ceiling approaching.",
+  "sources": [
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

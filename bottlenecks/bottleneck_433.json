@@ -1,0 +1,14 @@
+{
+  "id": 433,
+  "domain": "medicine_cures",
+  "title": "Traumatic brain injury disease-modifying treatment",
+  "bottleneck": "TBI spans concussion to severe injury with heterogeneous pathology, including contusion, diffuse axonal injury, and hemorrhage, and no drug has been shown to improve outcomes; trials fail on heterogeneity, insensitive endpoints, and poor preclinical models.",
+  "why_it_blocks": "TBI is a leading cause of death and disability in young adults, and repeated mild TBI is linked to chronic traumatic encephalopathy; supportive care has barely changed in decades.",
+  "current_state": "Blood biomarkers such as GFAP and UCH-L1 now aid diagnosis and trial enrichment, and several candidates are in trials. No disease-modifying TBI therapy exists. The heterogeneity of TBI, from concussion to severe injury, means no single therapy will fit all patients. Better classification by biomarker and imaging endotype is a prerequisite for successful trials, and the field is only now building that foundation.",
+  "sources": [
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

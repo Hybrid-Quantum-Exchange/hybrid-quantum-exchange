@@ -1,0 +1,18 @@
+{
+  "id": 346,
+  "domain": "artificial_intelligence",
+  "title": "Model compression and distillation limits",
+  "bottleneck": "Distilling a frontier model into a small one loses capabilities unevenly and unpredictably — reasoning and rare knowledge degrade first, and nobody can predict what a distilled model retains without exhaustive testing. There's no theory of what transfers in distillation, so compression is trial and error; each new capability must be re-validated from scratch in the small model.",
+  "why_it_blocks": "Deployment economics depend on small, cheap models inheriting frontier abilities. Unreliable distillation forces serving the expensive teacher. Without reliable distillation, affordable deployment of frontier capabilities stays out of reach for most organizations.",
+  "current_state": "Distillation works well for narrow skills; general capability transfer to small models remains lossy and poorly understood. Practitioners rely on exhaustive per-task testing, since no metric predicts which capabilities survive compression.",
+  "sources": [
+    {
+      "title": "LLM Inference Bottlenecks - apxml",
+      "url": "https://apxml.com/courses/llm-compression-acceleration/chapter-1-foundations-llm-efficiency-challenges/memory-compute-bottlenecks-inference"
+    },
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    }
+  ]
+}

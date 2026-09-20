@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "domain": "fundamental_physics",
+  "title": "Resolving the black hole singularity",
+  "bottleneck": "Classical general relativity predicts that matter collapsing inside a black hole reaches a singularity where curvature diverges and the equations break down, signaling the theory's own failure. Whether quantum gravity replaces the singularity with a bounce, a fuzzball, or something else entirely is unknown because the interior is causally cut off from observation.",
+  "why_it_blocks": "The singularity is where general relativity demonstrably fails; any quantum gravity theory must say what happens there, and different answers imply radically different pictures of spacetime.",
+  "current_state": "Loop quantum gravity predicts a bounce replacing the singularity, string theory's fuzzball proposal removes the horizon and singularity together, and several models predict observable gravitational-wave echoes, none yet detected. Loop quantum gravity predicts a bounce, string fuzzballs remove the horizon entirely, and some models predict gravitational-wave echoes that have not been observed.",
+  "sources": [
+    {
+      "title": "Black Hole Information Paradox - kb-physics open questions",
+      "url": "https://github.com/thibautbaissac/kb-physics/blob/HEAD/kb/open-questions/black-hole-information-paradox.md"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

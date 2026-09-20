@@ -1,0 +1,14 @@
+{
+  "id": 410,
+  "domain": "medicine_cures",
+  "title": "Chronic hepatitis B functional cure",
+  "bottleneck": "HBV integrates into hepatocyte DNA and maintains a stable cccDNA reservoir that current nucleoside analogues suppress but cannot eliminate, requiring lifelong therapy. Nearly 300 million people are chronically infected.",
+  "why_it_blocks": "Lifelong treatment is costly and imperfectly adhered to; without cure, chronic HBV progresses to cirrhosis and liver cancer in millions.",
+  "current_state": "siRNA, capsid assembly modulators, and therapeutic vaccines aim for functional cure, defined as sustained surface-antigen loss. Early combinations show promise, but no finite curative regimen is approved, and the reservoir problem parallels that of HIV latency. The cccDNA reservoir in hepatocyte nuclei is the central obstacle, analogous to HIV's latent provirus. Combinations of siRNA, capsid modulators, and immune-stimulating agents are being tested, but defining and achieving functional cure in diverse patient populations remains unsolved.",
+  "sources": [
+    {
+      "title": "HKUMed discovers key protein that enables shock and kill strategy for HIV latent virus clearance",
+      "url": "https://lead.hku.hk/en/article/2025/06/hkumed-discovers-key-protein-that-enables-shock-kill-strategy-for-hiv-latent-virus-clearance/"
+    }
+  ]
+}

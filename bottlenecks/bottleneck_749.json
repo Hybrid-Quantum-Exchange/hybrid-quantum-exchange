@@ -1,0 +1,18 @@
+{
+  "id": 749,
+  "domain": "materials",
+  "title": "Sodium-ion battery energy density ceiling",
+  "bottleneck": "Sodium-ion cells work and are cheap, but their energy density lags lithium-ion by 20-40 percent because sodium ions are larger and heavier and suitable cathode frameworks operate at lower voltages. Hard-carbon anodes — the standard — have sloping voltage profiles that waste usable capacity, and no sodium cathode has yet combined high voltage, high capacity, and long life.",
+  "why_it_blocks": "Sodium-ion is the great hope for decoupling grid storage from lithium supply crunches. The density gap confines it to stationary storage and short-range vehicles, leaving lithium demand — and its price volatility — undiminished where energy density matters most.",
+  "current_state": "Commercial sodium-ion cells around 140-160 Wh/kg are shipping for storage and two-wheelers, with steady incremental gains. Closing the gap to lithium iron phosphate levels would require a cathode breakthrough that has not yet materialized.",
+  "sources": [
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    },
+    {
+      "title": "Why Solid-State Batteries Fail: MIT Study",
+      "url": "https://casrai.org/news/solid-state-battery-dendrite-failure-grain-boundaries"
+    }
+  ]
+}

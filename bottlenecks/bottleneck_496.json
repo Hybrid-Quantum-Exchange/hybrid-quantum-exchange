@@ -1,0 +1,18 @@
+{
+  "id": 496,
+  "domain": "health_longevity",
+  "title": "Long COVID mechanisms and treatments",
+  "bottleneck": "A significant fraction of COVID-19 survivors develop persistent multisystem symptoms, but the mechanisms (viral persistence, autoimmunity, endothelial damage, dysautonomia) remain contested and likely heterogeneous. Without mechanistic subtypes, trials test one-size-fits-all therapies against a syndrome that may be several diseases.",
+  "why_it_blocks": "Long COVID is already one of the largest new chronic-disease burdens in working-age adults. Failing to mechanistically define it risks stranding millions without treatments and repeating the mistakes of other post-viral syndromes.",
+  "current_state": "No approved disease-modifying therapy exists; care is symptomatic and rehabilitative. Biomarker and subtyping research is active but has not converged on actionable patient strata. Phenotyping efforts now distinguish cardiovascular, neurological, and immune subtypes of long COVID, but subtype-specific trials are only beginning and most patients still receive symptomatic care alone.",
+  "sources": [
+    {
+      "title": "Global Gaps in COVID-19 Vaccine Rollout and Impact (ScienMag)",
+      "url": "https://scienmag.com/global-gaps-in-covid-19-vaccine-rollout-and-impact/"
+    },
+    {
+      "title": "Immunosenescence: Aging and Immune System Decline (MDPI)",
+      "url": "https://www.mdpi.com/3055920"
+    }
+  ]
+}

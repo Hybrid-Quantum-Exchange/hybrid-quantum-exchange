@@ -1,0 +1,18 @@
+{
+  "id": 690,
+  "domain": "space",
+  "title": "Long-term gas retention in inflatable habitats",
+  "bottleneck": "Inflatable habitats offer huge volume per launch mass, but flexible fabrics leak: gas diffuses through materials, micrometeorites abrade outer layers, and seams and airlocks are perennial weak points. Over a multi-year deployment, even tiny leak rates compound into tons of lost nitrogen and oxygen requiring replacement. Radiation and thermal cycling degrade polymers in ways ground aging tests may not capture, and a fabric hull cannot be welded or patched like metal.",
+  "why_it_blocks": "Inflatables are the most mass-efficient way to get living volume to the Moon or Mars; if they cannot hold pressure for a decade, bases must use heavy rigid modules and the logistics math gets much worse.",
+  "current_state": "Bigelow's BEAM has performed well on the ISS since 2016 as a test article; Sierra Space's LIFE and other designs continue development. Decade-scale crewed operational data does not exist.",
+  "sources": [
+    {
+      "title": "Designing Mars and Moon Habitats: When Home Is Life Support",
+      "url": "https://www.archyde.com/designing-mars-and-moon-habitats-when-home-is-life-support/"
+    },
+    {
+      "title": "Biomaterials for organically generated habitats beyond Earth (Science Advances)",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adp4985"
+    }
+  ]
+}

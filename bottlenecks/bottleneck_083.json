@@ -1,0 +1,18 @@
+{
+  "id": 83,
+  "domain": "fundamental_physics",
+  "title": "Origin of the area law for entanglement entropy",
+  "bottleneck": "Entanglement entropy in quantum field theory scales with the boundary area rather than the volume, a fact underlying black hole thermodynamics and holography, but there is no universal derivation of the area law from first principles for general interacting theories. Its connection to spacetime geometry remains mysterious outside AdS/CFT.",
+  "why_it_blocks": "The area law is the quantitative bridge between quantum information and gravity; understanding its origin is prerequisite to any information-theoretic account of spacetime.",
+  "current_state": "The Ryu-Takayanagi formula geometrizes entanglement entropy in holographic theories, but extending the area law's derivation to non-holographic and de Sitter settings is an active research frontier. Proving the area law for general gapped systems was a major mathematical achievement, but interacting relativistic field theories remain harder. The connection between entanglement and geometry deepens with each holographic result, yet a derivation outside AdS/CFT is missing.",
+  "sources": [
+    {
+      "title": "Black holes and information: A new take on an old paradox - arXiv",
+      "url": "https://arxiv.org/pdf/1603.07569v1"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

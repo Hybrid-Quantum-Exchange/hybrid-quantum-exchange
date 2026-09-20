@@ -1,0 +1,18 @@
+{
+  "id": 195,
+  "domain": "energy",
+  "title": "Nuclear liability and insurance for new designs",
+  "bottleneck": "The Price-Anderson framework caps US nuclear liability and has underpinned the industry for decades, but its renewal and application to novel designs, microreactors, and fusion plants remain unsettled. Private insurers will not cover nuclear accident risk at full scale, and without a liability framework, projects cannot be financed. Internationally, liability conventions vary, complicating export.",
+  "why_it_blocks": "No liability framework, no financing. This is pure institutional infrastructure, but a reactor that cannot be insured cannot be built regardless of engineering. Export customers face a patchwork of international liability conventions, complicating reactor sales abroad.",
+  "current_state": "Price-Anderson has been repeatedly extended. Its long-term form and coverage of advanced and fusion designs are open questions. Congressional reauthorization debates recur every decade, injecting political uncertainty into financing for plants with 60-year lifetimes.",
+  "sources": [
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    },
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    }
+  ]
+}

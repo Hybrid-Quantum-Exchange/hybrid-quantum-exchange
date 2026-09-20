@@ -1,0 +1,18 @@
+{
+  "id": 817,
+  "domain": "climate_environment",
+  "title": "Soil microbiome degradation and restoration",
+  "bottleneck": "Industrial agriculture has degraded soil microbial communities that drive nutrient cycling, disease suppression, and carbon storage, but restoration is blocked by basic ignorance: most soil microbes are undescribed, their ecological roles unknown, and probiotic inoculants usually fail because introduced microbes cannot establish in resident communities. There is no reliable way to diagnose a sick soil microbiome, let alone cure it.",
+  "why_it_blocks": "Soil microbes underpin the productivity of all terrestrial food systems; degraded microbiomes force ever more fertilizer and pesticide inputs, raising costs and emissions. The knowledge gap means agriculture keeps mining a biological resource it cannot see or manage.",
+  "current_state": "Metagenomic sequencing is cataloging soil diversity rapidly, and some inoculants work in specific contexts like legume rhizobia. But predictive, generalizable microbiome management for agriculture remains a distant goal.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Peatlands may collapse under their own weight before reaching their carbon storage potential",
+      "url": "https://www.earth.com/environment/peatlands-may-collapse-under-their-own-weight-before-reaching-their-carbon-storage-potential/"
+    }
+  ]
+}

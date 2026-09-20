@@ -1,0 +1,14 @@
+{
+  "id": 426,
+  "domain": "medicine_cures",
+  "title": "Mitochondrial diseases",
+  "bottleneck": "Mitochondrial disorders, caused by mutations in mitochondrial or nuclear DNA affecting energy production, have no curative treatments; heteroplasmy, the mixture of mutant and healthy mitochondria, and the blood-brain barrier complicate delivery, and editing mitochondrial DNA itself remains primitive.",
+  "why_it_blocks": "These devastating, often childhood-onset diseases attack the highest-energy tissues, including brain, muscle, and heart, with only supportive care available.",
+  "current_state": "Mitochondrial replacement techniques prevent transmission, and experimental mitochondrial gene editing is emerging. Treatments for affected patients remain supportive only, and delivery advances in the broader gene-therapy field have yet to reach mitochondria. Because mitochondria are inherited maternally and present in hundreds of copies per cell, even gene-editing successes face unique biological hurdles. Recent progress in mitochondrial DNA editing tools offers the first real hope, but clinical translation is years away.",
+  "sources": [
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

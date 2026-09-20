@@ -1,0 +1,18 @@
+{
+  "id": 508,
+  "domain": "health_longevity",
+  "title": "Individual suicide risk prediction in bipolar disorder",
+  "bottleneck": "Population risk factors for suicide in bipolar disorder are well known (mixed states, prior attempts, substance use), but predicting which individual will act and when remains essentially impossible; clinical risk scales perform barely better than chance. This leaves clinicians managing extreme risk with tools that cannot identify it.",
+  "why_it_blocks": "Suicide is the leading cause of premature death in bipolar disorder. Without individual prediction, prevention defaults to blunt instruments (hospitalization, lithium for all) that are inconsistently applied.",
+  "current_state": "Lithium shows the most consistent association with reduced suicide risk, though trials never used suicidal acts as primary outcomes. Machine-learning and digital-phenotyping prediction models are experimental and unvalidated prospectively. Ecological momentary assessment via smartphones captures rapid fluctuations in suicidal ideation that clinic visits miss, though translating these signals into timely intervention remains experimental.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    }
+  ]
+}

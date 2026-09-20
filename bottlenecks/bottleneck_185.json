@@ -1,0 +1,18 @@
+{
+  "id": 185,
+  "domain": "energy",
+  "title": "Graphite waste from high-temperature gas reactors",
+  "bottleneck": "High-temperature gas-cooled reactors use massive graphite moderators and reflectors that become irradiated waste, thousands of tonnes per reactor containing carbon-14 with a 5,700-year half-life. Irradiated graphite cannot be easily decontaminated, has no disposal pathway in most countries, and stores Wigner energy that complicates handling. A fleet of HTGRs would create a new waste stream larger by volume than conventional spent fuel.",
+  "why_it_blocks": "Graphite waste is the HTGR industry's unpriced liability. Decommissioning costs and disposal pathways are undefined, and regulators have not settled on acceptable endpoints.",
+  "current_state": "Research into graphite decontamination and disposal continues. No country has an operating disposal route for bulk irradiated graphite. Decommissioning plans for HTGRs typically assume graphite disposal routes that do not yet exist, leaving cost estimates speculative.",
+  "sources": [
+    {
+      "title": "The Big Problems with Small Nukes",
+      "url": "https://www.columbiariverkeeper.org/2024/the-big-problems-with-small-nukes/"
+    },
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    }
+  ]
+}

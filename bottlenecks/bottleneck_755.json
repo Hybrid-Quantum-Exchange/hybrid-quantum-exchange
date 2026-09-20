@@ -1,0 +1,18 @@
+{
+  "id": 755,
+  "domain": "materials",
+  "title": "Dry electrode manufacturing at scale",
+  "bottleneck": "Dry electrode coating eliminates toxic NMP solvent and energy-hungry drying ovens, but making uniform, well-adhered thick electrodes without solvent is still unreliable: dry-mixed powders suffer from binder distribution problems, calendering cracks, and inconsistent porosity. Tesla's 4680 dry-cathode ramp famously struggled for years with yield, showing how hard the process is even with massive resources.",
+  "why_it_blocks": "Wet coating lines are capital-intensive and energy-hungry, adding meaningful cost and carbon footprint to every cell. Dry processing could cut electrode manufacturing cost and emissions substantially — if yields ever match wet lines.",
+  "current_state": "Dry anode coating is now routine at some manufacturers, but dry cathode at automotive yields remains elusive outside limited production. The process window is narrow and chemistry-specific, so each new cathode formulation restarts the learning curve.",
+  "sources": [
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    },
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    }
+  ]
+}

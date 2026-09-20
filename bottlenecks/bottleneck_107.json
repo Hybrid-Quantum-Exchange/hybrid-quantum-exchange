@@ -1,0 +1,18 @@
+{
+  "id": 107,
+  "domain": "cosmology_multiverse",
+  "title": "Violations of the Cosmological Principle (Cosmic Dipole)",
+  "bottleneck": "Radio-galaxy and quasar counts show a dipole anisotropy larger than the CMB dipole predicts, at 3-5 sigma depending on the catalog, suggesting the universe may not be isotropic on the largest scales. It is unknown whether this reflects genuine large-scale structure, subtle survey systematics, or a breakdown of the cosmological principle itself. If the excess dipole is real, it could indicate a giant local void or superhorizon perturbations, each with dramatic implications.",
+  "why_it_blocks": "The cosmological principle underlies every FLRW-based analysis; its failure would force a rewrite of the standard model from the metric up.",
+  "current_state": "CatWISE quasar dipole measurements drive the anomaly; independent radio surveys give mixed results, and systematics audits are ongoing. Upcoming all-sky radio surveys with better systematics control should confirm or refute the anomaly within a few years.",
+  "sources": [
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

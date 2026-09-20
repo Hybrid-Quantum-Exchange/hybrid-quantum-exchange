@@ -1,0 +1,18 @@
+{
+  "id": 253,
+  "domain": "compute_semiconductors",
+  "title": "Photonic weight storage for optical neural networks",
+  "bottleneck": "Optical neural networks compute with light, but their weights must be stored and updated somewhere: volatile tuning burns constant power, while nonvolatile phase-change materials suffer from limited endurance, drift, and slow write speeds. There is no photonic equivalent of SRAM that holds weights indefinitely with fast, unlimited updates at low energy.",
+  "why_it_blocks": "Without efficient weight storage, photonic accelerators either burn power holding weights or stall on slow reprogramming, erasing their speed and efficiency advantage over electronics. Large-model photonic inference is blocked until weight memory is solved.",
+  "current_state": "Phase-change materials (GST and successors) integrated on waveguides demonstrate nonvolatile photonic memory in labs, and research into electro-optic and MEMS-based storage continues. Endurance and drift at scale are unresolved.",
+  "sources": [
+    {
+      "title": "OptoMind review: Scalable photonic computing",
+      "url": "https://github.com/ycc-pku/optomind-review/blob/HEAD/artifacts/e2e/03-scalable-photonic-computing/publication/latex/manuscript.normalized.md"
+    },
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    }
+  ]
+}

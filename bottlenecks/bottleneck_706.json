@@ -1,0 +1,18 @@
+{
+  "id": 706,
+  "domain": "space",
+  "title": "Asteroid volatile extraction in microgravity",
+  "bottleneck": "Carbonaceous asteroids hold water and organics that could fuel deep-space missions — but mining in microgravity means excavated material floats away, drilling imparts spin to the asteroid, anchoring is unreliable on rubble piles, and heating regolith to release volatiles in vacuum risks losing the product to space. Hayabusa2 and OSIRIS-REx proved sample return, but extracting tons of water commercially is a different universe from grabbing grams.",
+  "why_it_blocks": "Asteroid water could supply propellant depots beyond the Moon without climbing out of any gravity well; without extraction technology, that resource stays theoretical.",
+  "current_state": "Sample-return missions succeeded; no extraction, processing, or containment demonstration in microgravity. Commercial asteroid mining ventures have all pivoted or folded. Prospecting missions have mapped candidate targets, but resource-extraction hardware has never left the drawing board.",
+  "sources": [
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    },
+    {
+      "title": "Moon Dust to Water & Oxygen: Lunar Resource Extraction?",
+      "url": "https://www.archyde.com/moon-dust-to-water-oxygen-lunar-resource-extraction/"
+    }
+  ]
+}

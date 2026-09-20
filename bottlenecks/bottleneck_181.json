@@ -1,0 +1,18 @@
+{
+  "id": 181,
+  "domain": "energy",
+  "title": "First-of-a-kind nuclear cost escalation",
+  "bottleneck": "First-of-a-kind nuclear projects consistently cost far more than estimates: NuScale's flagship SMR project rose from 5.3 to 9.3 billion dollars before cancellation, and recent gigawatt-scale projects in the US and Europe doubled budgets. Modular factory fabrication is supposed to break this pattern, but no SMR has demonstrated factory learning-curve savings in practice. Each overrun destroys investor confidence for the next project. Factory fabrication was supposed to break this pattern, but building the factories themselves requires the firm orders that cost overruns scare away.",
+  "why_it_blocks": "Nuclear's credibility problem is arithmetic. As long as first plants cost multiples of projections, financing costs soar and the technology cannot compete regardless of its technical merits.",
+  "current_state": "Standardized designs and factory build are the industry's answer. No Western SMR has reached commercial operation to prove the cost curve.",
+  "sources": [
+    {
+      "title": "Small Modular Reactors: Executive Summary",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/01_executive_summary.md"
+    },
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    }
+  ]
+}

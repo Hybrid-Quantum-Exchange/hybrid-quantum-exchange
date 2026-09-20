@@ -1,0 +1,18 @@
+{
+  "id": 901,
+  "domain": "xr_interface",
+  "title": "Motion-to-photon latency floor for presence",
+  "bottleneck": "Presence needs motion-to-photon latency under ~20ms, but tracking, prediction, rendering, and display pipelines each consume milliseconds that add up, especially at high resolutions. Wireless streaming adds more. Hitting the latency budget while rendering rich scenes at high refresh is a system-wide optimization with no slack.",
+  "why_it_blocks": "Latency above threshold breaks presence and causes sickness; it's the master constraint linking displays, GPUs, tracking, and networks. Every XR system is a latency budget with too many claimants.",
+  "current_state": "Wired headsets approach the target with optimized pipelines; standalone and streamed VR often exceed it under load. Sub-20ms at high fidelity on mobile power remains hard. Each pipeline stage adds milliseconds and wireless links add more, leaving no slack for rich scenes at high refresh rates.",
+  "sources": [
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    },
+    {
+      "title": "InAirSpace: VR motion sickness",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-makes-me-feel-sick-understanding-and-overcoming-simulator-sickness"
+    }
+  ]
+}

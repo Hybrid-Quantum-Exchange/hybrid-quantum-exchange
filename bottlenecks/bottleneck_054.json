@@ -1,0 +1,14 @@
+{
+  "id": 54,
+  "domain": "fundamental_physics",
+  "title": "Internal structure of exotic hadrons",
+  "bottleneck": "Experiments have confirmed pentaquarks and tetraquarks, yet it is unknown whether these exotic hadrons are compact multi-quark states or loosely bound molecules of ordinary hadrons. Different models predict different spectra and decays, and current data cannot decisively discriminate.",
+  "why_it_blocks": "Exotic hadrons are QCD's laboratory for how confinement organizes multiquark systems; misidentifying their structure means misunderstanding the strong force's binding rules.",
+  "current_state": "LHCb continues discovering new exotics with growing precision, and lattice QCD is beginning to compute their properties, but the compact-versus-molecular debate remains open for most states. Lattice QCD calculations of tetraquark binding energies are steadily improving, but distinguishing compact multi-quark states from hadronic molecules requires precision not yet achieved. Decay patterns and production rates offer complementary handles that LHCb continues to refine.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 519,
+  "domain": "health_longevity",
+  "title": "Acute agitation management in schizophrenia and bipolar disorder",
+  "bottleneck": "Agitation in psychosis and mania creates dangerous situations for patients and staff and drives emergency visits, yet available drugs have delayed onset, require injection or restraint-adjacent administration, and carry heavy sedation and metabolic costs. The neurobiology of agitation itself is poorly understood.",
+  "why_it_blocks": "Agitation is where psychiatric illness meets coercion: poor options mean more restraint, more trauma, and more avoidance of care. Better acute management would reduce both harm and the adversarial character of emergency psychiatry.",
+  "current_state": "Atypical antipsychotics (often intramuscular) plus benzodiazepines are standard; newer sublingual and inhaled formulations aim for faster, less coercive control. Non-pharmacological de-escalation is recommended but under-resourced. Sublingual dexmedetomidine offers a non-injectable option for acute agitation, but real-world uptake is limited by cost and emergency-department workflow constraints.",
+  "sources": [
+    {
+      "title": "Addressing the Challenges of Treating Schizophrenia and Bipolar Disorder (AHDB)",
+      "url": "https://www.ahdbonline.com/articles/2009-addressing-the-challenges-of-treating-schizophrenia-and-bipolar-disorder"
+    },
+    {
+      "title": "Breaking the Cycle: Unmet Needs in Mental Health Access, Treatments, and Outcomes (AJMC)",
+      "url": "https://www.ajmc.com/peer-exchange/breaking-the-cycle-unmet-needs-in-mental-health-access-treatments-and-outcomes"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 812,
+  "domain": "climate_environment",
+  "title": "Peatland drainage emissions reversal",
+  "bottleneck": "Drained peatlands — for agriculture, forestry, and fuel — emit CO2 continuously for decades, contributing several percent of global emissions, yet rewetting them at scale is blocked by land tenure, agricultural economics, and the technical difficulty of restoring hydrology across fragmented landscapes. Even where rewetted, methane spikes can offset CO2 gains for years, and the long-term carbon trajectory is uncertain. Indonesia's and Europe's drained peatlands keep emitting while restoration pilots cover tiny areas.",
+  "why_it_blocks": "Peatlands cover 3 percent of land but hold twice the carbon of all forests; their drainage is among the cheapest emissions to abate in principle. The implementation gap means this low-hanging fruit keeps rotting — literally — while climate budgets assume it will be picked.",
+  "current_state": "The EU's nature restoration law and Indonesia's peatland agency have created policy frameworks, and paludiculture (wet agriculture) offers an economic alternative. But rewetted area remains a small fraction of drained area, and a 2026 study showed even intact peatlands face mechanical limits on future carbon storage.",
+  "sources": [
+    {
+      "title": "Peatlands may collapse under their own weight before reaching their carbon storage potential",
+      "url": "https://www.earth.com/environment/peatlands-may-collapse-under-their-own-weight-before-reaching-their-carbon-storage-potential/"
+    },
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    }
+  ]
+}

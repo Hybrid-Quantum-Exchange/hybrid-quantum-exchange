@@ -1,0 +1,18 @@
+{
+  "id": 890,
+  "domain": "xr_interface",
+  "title": "Wireless fully-implanted BCI power and data link",
+  "bottleneck": "Cutting the cables means powering and reading an implant through skin and skull: inductive charging is inefficient and heats tissue, while wireless data links must push megabits through lossy tissue within milliwatt budgets. Batteries need replacement surgery; batteryless designs harvest too little power. Fully implanted, cable-free, high-bandwidth BCIs face coupled power-data-thermal constraints.",
+  "why_it_blocks": "Tethered BCIs confine users to labs; true independence needs wireless implants. Until power and data cross the skin barrier efficiently, BCIs can't be everyday devices.",
+  "current_state": "Percutaneous pedestals are being replaced by wireless prototypes in animals and early human work; fully implanted inductively charged systems are on translational paths. Human-grade wireless broadband implants are not yet demonstrated. Tissue attenuates radio signals unpredictably with posture and hydration, making wireless link budgets hard to guarantee.",
+  "sources": [
+    {
+      "title": "PMC: Wireless intracortical BCI at home",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8218873/"
+    },
+    {
+      "title": "Vectree: High-bandwidth BCI architecture",
+      "url": "https://vectree.io/pdf/c/neural-interface-signal-processing"
+    }
+  ]
+}

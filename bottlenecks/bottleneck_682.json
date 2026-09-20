@@ -1,0 +1,18 @@
+{
+  "id": 682,
+  "domain": "space",
+  "title": "Galactic cosmic ray shielding and secondary radiation",
+  "bottleneck": "Galactic cosmic rays — high-energy atomic nuclei from beyond the solar system — penetrate any practical amount of spacecraft shielding, and worse, when they strike shielding they shatter into showers of secondary particles, including neutrons, that can be more damaging than the primary. Adding mass helps against solar storms but yields diminishing returns against GCRs. Hydrogen-rich materials perform best per kilogram, yet a Mars transit still delivers doses near career limits.",
+  "why_it_blocks": "Radiation dose is the binding constraint on Mars mission duration and crew career limits; it may force shorter stays or acceptance of elevated cancer risk — a medical-ethical bottleneck, not just an engineering one.",
+  "current_state": "ISS crews are protected by Earth's magnetosphere; Mars Science Laboratory's RAD instrument measured about 0.64 mSv/day on the Martian surface. Active magnetic shielding remains theoretical; material optimization continues.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "Biomaterials for organically generated habitats beyond Earth (Science Advances)",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adp4985"
+    }
+  ]
+}

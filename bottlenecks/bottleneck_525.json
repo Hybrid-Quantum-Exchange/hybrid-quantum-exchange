@@ -1,0 +1,18 @@
+{
+  "id": 525,
+  "domain": "health_longevity",
+  "title": "Treatment resistance in personality disorders",
+  "bottleneck": "Personality disorders (especially borderline and antisocial) involve deeply ingrained patterns of thinking and behavior with high suicide and comorbidity rates, yet no drug treats the disorder itself and evidence-based psychotherapies (DBT, MBT) require a year or more of intensive treatment that few systems provide. Research funding is minimal relative to burden.",
+  "why_it_blocks": "These are among the most stigmatized and undertreated conditions in psychiatry, with patients cycling through crisis services for decades. The absence of scalable treatments guarantees chronicity.",
+  "current_state": "Dialectical behavior therapy has the strongest evidence for borderline personality disorder; delivery is limited by therapist training and cost. Pharmacotherapy remains symptom-targeted and off-label. Mentalization-based and schema therapies show durable benefits in trials, but training enough therapists to meet demand would take a generation at current rates.",
+  "sources": [
+    {
+      "title": "Untreatable Mental Illness: Challenges, Management, and Hope (NeuroLaunch)",
+      "url": "https://neurolaunch.com/untreatable-mental-illness/"
+    },
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    }
+  ]
+}

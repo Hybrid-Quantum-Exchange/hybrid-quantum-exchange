@@ -1,0 +1,18 @@
+{
+  "id": 324,
+  "domain": "artificial_intelligence",
+  "title": "Agent identity persistence across sessions",
+  "bottleneck": "Agents have no stable, verifiable identity across sessions — no persistent memory of commitments, no continuity of principals, no reliable way for others to know they're talking to the same agent. Each session starts fresh, which breaks accountability, long-term contracts, and trust. Worse, the lack of identity infrastructure means malicious actors can trivially impersonate agents. Interaction dynamics are emergent and untestable in single-agent evals, so risks surface only in live deployments.",
+  "why_it_blocks": "Economic and social roles require persistent identity. You can't hire, contract with, or hold accountable an entity that evaporates between conversations.",
+  "current_state": "API keys and session tokens identify accounts, not agents. Production postmortems cite state corruption across sessions as endemic; no agent identity layer exists.",
+  "sources": [
+    {
+      "title": "The Hidden Bottlenecks of Intelligence: Memory, Reasoning, and System Coherence in Modern AI",
+      "url": "https://medium.com/architectural-intelligence/the-hidden-bottlenecks-of-intelligence-memory-reasoning-and-system-coherence-in-modern-ai-76f4b99204a8"
+    },
+    {
+      "title": "The Real Bottlenecks in Production AI",
+      "url": "https://medium.com/@artiquare/the-real-bottlenecks-in-production-ai-3c4e5df5abf3"
+    }
+  ]
+}

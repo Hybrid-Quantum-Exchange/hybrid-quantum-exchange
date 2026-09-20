@@ -1,0 +1,18 @@
+{
+  "id": 360,
+  "domain": "medicine_cures",
+  "title": "Pancreatic cancer early detection",
+  "bottleneck": "Pancreatic cancer is usually diagnosed after it has spread because early tumors cause no symptoms and the pancreas sits deep in the abdomen, inaccessible to routine screening. No validated screening test exists for average-risk people, so five-year survival remains around 13%.",
+  "why_it_blocks": "Surgery is the only potentially curative treatment and is only possible when disease is caught early. Without early detection, most patients present with incurable disease regardless of therapeutic advances.",
+  "current_state": "Multi-cancer early detection blood tests such as Galleri can detect signals from over 50 cancer types via circulating tumor DNA, but sensitivity for early-stage disease is limited and no trial has yet shown they reduce cancer deaths. Pancreatic screening remains restricted to high-risk families under surveillance protocols.",
+  "sources": [
+    {
+      "title": "The cancer blood test making waves, and what the numbers really show",
+      "url": "https://medicalxpress.com/news/2025-11-cancer-blood.html"
+    },
+    {
+      "title": "Galleri Test for Early Cancer Detection: Comprehensive Guide",
+      "url": "https://www.preventivemedicinedaily.com/healthy-living/screening/galleri-test-for-early-cancer-detection-comprehensive-guide/"
+    }
+  ]
+}

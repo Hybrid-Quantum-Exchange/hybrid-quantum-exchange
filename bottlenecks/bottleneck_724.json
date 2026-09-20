@@ -1,0 +1,18 @@
+{
+  "id": 724,
+  "domain": "space",
+  "title": "Collision avoidance coordination among mega-constellations",
+  "bottleneck": "With Starlink, OneWeb, Kuiper, and others operating tens of thousands of satellites, conjunctions are routine — but there is no common traffic protocol: operators use different ephemeris formats, maneuver thresholds, and communication channels, and automated avoidance systems must negotiate right-of-way in seconds without a shared standard. A miscoordinated maneuver can turn a near-miss into a collision, and the maneuver burden in fuel and service interruption grows with constellation size.",
+  "why_it_blocks": "Mega-constellations are the dominant new debris-source risk; without coordination standards, the busiest orbital shells become a game of chicken played by algorithms that cannot talk to each other.",
+  "current_state": "Operators share data via Space-Track and commercial providers; automated conjunction assessment is standard at SpaceX. No binding international space traffic coordination protocol exists.",
+  "sources": [
+    {
+      "title": "ESA Warns Orbital Debris Risk Is Accelerating as Satellite Traffic Surges",
+      "url": "https://tower-post.com/2026/09/15/esa-warns-orbital-debris-risk-is-accelerating-as-satellite-traffic-surges/"
+    },
+    {
+      "title": "Global Space Debris Removal Market Poised for Rapid Growth",
+      "url": "https://www.einpresswire.com/article/876135097/global-space-debris-removal-market-poised-for-rapid-growth-as-orbital-safety-becomes-a-strategic-priority"
+    }
+  ]
+}

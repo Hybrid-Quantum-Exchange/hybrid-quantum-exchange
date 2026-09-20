@@ -1,0 +1,18 @@
+{
+  "id": 358,
+  "domain": "medicine_cures",
+  "title": "Immunologically cold tumors and checkpoint inhibitor resistance",
+  "bottleneck": "Immune checkpoint inhibitors have transformed care for melanoma and some lung cancers, yet most tumors, including pancreatic, ovarian, prostate, and microsatellite-stable colorectal cancers, are immunologically cold, with few infiltrating T cells and a suppressive tumor microenvironment that blunts immune attack. Many initially responding tumors also acquire resistance over time.",
+  "why_it_blocks": "Checkpoint therapy only works where the immune system is already engaged; for cold tumors it offers little benefit, leaving the majority of cancer patients without effective immunotherapy options.",
+  "current_state": "UC San Diego researchers reported in 2026 that blocking microRNA-25 reshaped the tumor microenvironment and restored immunotherapy responses in mouse models via the Syndecan-3 pathway. Combination strategies targeting macrophages and stromal cells are in trials, but converting cold tumors to hot in patients remains unsolved.",
+  "sources": [
+    {
+      "title": "Why some tumors resist immunotherapy: Blocking miR-25 may help turn cold cancers hot",
+      "url": "https://medicalxpress.com/news/2026-06-tumors-resist-immunotherapy-blocking-mir.html"
+    },
+    {
+      "title": "Tumor-associated macrophages in gastric cancer peritoneal metastasis",
+      "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1944126/full"
+    }
+  ]
+}

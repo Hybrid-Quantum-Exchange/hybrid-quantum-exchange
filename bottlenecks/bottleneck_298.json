@@ -1,0 +1,18 @@
+{
+  "id": 298,
+  "domain": "artificial_intelligence",
+  "title": "Compositional and systematic generalization",
+  "bottleneck": "Models memorize vast patterns yet fail to recombine known concepts into novel structures — the hallmark of human systematicity. Small variations in problem phrasing cause large accuracy drops: OpenAI's o1-preview lost about 30% accuracy on modified Putnam-style problems, with similar drops for GPT-4 and Claude 3.5, revealing shared reliance on memorized templates rather than genuine reasoning. No training method has closed this gap.",
+  "why_it_blocks": "Real-world deployment is an endless stream of novel situations. If models only work on near-copies of training data, they cannot be trusted in law, finance, or science, where every case differs.",
+  "current_state": "Benchmarks like PutnamBench and the UnsolvedMath dataset measure true generalization with contamination-free variants. Standard benchmark scores keep climbing while variation-robustness barely moves.",
+  "sources": [
+    {
+      "title": "Study Reveals AI's Struggles with Logical Reasoning & Adaptability",
+      "url": "https://www.geeky-gadgets.com/ai-reasoning-limitations/?ref=aileap&utm_source=aileap&utm_medium=referral"
+    },
+    {
+      "title": "Open Mathematical Problems as an AI Reasoning Benchmark",
+      "url": "https://www.ulam.ai/research/open-math.pdf"
+    }
+  ]
+}

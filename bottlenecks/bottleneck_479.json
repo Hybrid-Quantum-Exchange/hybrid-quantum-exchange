@@ -1,0 +1,18 @@
+{
+  "id": 479,
+  "domain": "health_longevity",
+  "title": "Determinants of exceptional species longevity",
+  "bottleneck": "Bowhead whales live 200+ years, naked mole rats resist cancer, and some bats live 40 years at mouse size, yet the mechanisms of exceptional longevity remain largely unidentified. Comparative genomics finds candidates (enhanced DNA repair, tumor suppression) but cannot distinguish causal longevity genes from correlated traits.",
+  "why_it_blocks": "Nature has already solved slow aging multiple times; failing to decode these solutions means reinventing from scratch what evolution optimized over millions of years.",
+  "current_state": "Long-lived species are sequenced and studied (e.g., bowhead whale genome, mole-rat hyaluronan), but no longevity mechanism from comparative biology has been translated into a therapy. The field remains descriptive. Naked mole-rat hyaluronan and bowhead whale DNA-repair genes are leading mechanistic leads, yet transferring any such mechanism into a short-lived mammal has not extended lifespan.",
+  "sources": [
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    },
+    {
+      "title": "Bottlenecks in aging research (Lifespan.io researcher survey)",
+      "url": "https://www.lifespan.io/wp-content/uploads/2018/07/Lifespan.io_Event_kit_Bottlenecks_in_research.pdf"
+    }
+  ]
+}

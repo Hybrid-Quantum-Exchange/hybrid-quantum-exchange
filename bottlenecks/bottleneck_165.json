@@ -1,0 +1,18 @@
+{
+  "id": 165,
+  "domain": "energy",
+  "title": "Neutron multiplier material scarcity for blankets",
+  "bottleneck": "Many breeding blanket designs rely on beryllium as a neutron multiplier to achieve tritium breeding ratios above 1.0, but beryllium is toxic, expensive, and produced in tiny quantities, with global production of a few hundred tonnes per year from a single dominant supplier. A fleet of fusion plants would need thousands of tonnes, and irradiated beryllium swells, cracks, and generates tritium and helium that complicate recycling.",
+  "why_it_blocks": "A blanket concept that depends on a material the world cannot supply at fleet scale is a dead end. Multiplier availability constrains blanket design as tightly as physics does.",
+  "current_state": "Alternative multipliers like lead are used in lithium-lead blankets to sidestep beryllium. Beryllium-based pebble-bed blankets face unresolved supply and lifetime questions.",
+  "sources": [
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    },
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    }
+  ]
+}

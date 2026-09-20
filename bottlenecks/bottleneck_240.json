@@ -1,0 +1,18 @@
+{
+  "id": 240,
+  "domain": "compute_semiconductors",
+  "title": "Backside power delivery network (BSPDN) integration",
+  "bottleneck": "Routing power through the wafer backside frees front-side routing for signals and cuts IR drop, but it requires wafer thinning, backside lithography alignment, nano-TSVs, and bonding without damaging finished transistors. Thermal and mechanical stress from backside processing can crack thinned wafers, and inspection of buried power rails is hard. Yield impact of the added steps is still being quantified.",
+  "why_it_blocks": "Power delivery limits how much current dense logic can draw without voltage droop; without BSPDN, IR drop forces lower clocks and wastes area on power straps. It is one of the few remaining knobs for system-level power efficiency gains at advanced nodes.",
+  "current_state": "Intel's PowerVia (18A) and TSMC's A16 with Super Power Rail are the first commercial BSPDN deployments. Early silicon shows the promised IR-drop and density benefits, but process maturity and defect learning are ongoing.",
+  "sources": [
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

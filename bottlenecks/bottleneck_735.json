@@ -1,0 +1,18 @@
+{
+  "id": 735,
+  "domain": "materials",
+  "title": "Phase-change memory endurance and drift for neuromorphic computing",
+  "bottleneck": "Phase-change memory is a leading candidate for analog in-memory computing, but two material problems persist: resistance drift, where the amorphous state's resistance creeps over time and corrupts stored analog weights, and limited endurance under the billions of write cycles neural-network training demands.",
+  "why_it_blocks": "Neuromorphic computing promises orders-of-magnitude efficiency gains for AI inference, but it needs memory devices that hold precise analog values reliably. Drift and endurance are the material ceiling between promising prototypes and deployable accelerators.",
+  "current_state": "New alloys such as CrTe3 show practically no resistance drift across wide temperature ranges, and superlattice structures have reached hundreds of millions of cycles with multibit states. Yet combining no-drift behavior, high endurance, and CMOS-compatible manufacturing in one device remains undone.",
+  "sources": [
+    {
+      "title": "Nanostructures bring gains for phase-change memory",
+      "url": "https://spectrum.ieee.org/amp/phase-change-memory-2667099714"
+    },
+    {
+      "title": "No-drift phase-change memory alloy for neuromorphic computing",
+      "url": "https://arxiv.org/abs/2503.21446v1"
+    }
+  ]
+}

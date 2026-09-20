@@ -1,0 +1,18 @@
+{
+  "id": 893,
+  "domain": "xr_interface",
+  "title": "Motor BCI fine finger control",
+  "bottleneck": "Current motor BCIs decode arm reaching and grasp reasonably, but individuated finger movements need far more neural detail than today's channel counts provide. Decoding dexterous manipulation (typing, tool use) demands single-neuron resolution across larger cortical areas with stable long-term recordings. The hand's 20+ degrees of freedom overwhelm current decoders.",
+  "why_it_blocks": "Coarse control gives patients a cursor; fine control gives them back their hands. The clinical value of motor BCIs jumps with dexterity, which is exactly what's missing.",
+  "current_state": "Point-and-click and simple grasp are demonstrated in trials; research pushes toward finger-level decoding. Reliable, dexterous, multi-finger control is not yet achieved. The cortical area devoted to the hand is small and densely packed, demanding electrode densities that current implants cannot achieve.",
+  "sources": [
+    {
+      "title": "Vectree: High-bandwidth BCI architecture",
+      "url": "https://vectree.io/pdf/c/neural-interface-signal-processing"
+    },
+    {
+      "title": "PMC: Wireless intracortical BCI at home",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8218873/"
+    }
+  ]
+}

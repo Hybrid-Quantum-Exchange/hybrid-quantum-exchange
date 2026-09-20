@@ -1,0 +1,18 @@
+{
+  "id": 67,
+  "domain": "fundamental_physics",
+  "title": "Ultralight and fuzzy dark matter: wave-like signatures",
+  "bottleneck": "Dark matter particles as light as 10^-22 eV would behave as a galactic-scale quantum wave, naturally suppressing small-scale structure, but the required mass range is squeezed between Lyman-alpha forest constraints from below and dwarf galaxy dynamics. Laboratory detection of such feebly coupled fields demands entirely new techniques.",
+  "why_it_blocks": "Fuzzy dark matter would replace particle scattering experiments with precision atomic and interferometric sensors; confirming or excluding it determines the experimental roadmap for a major candidate class.",
+  "current_state": "Atomic clocks, pulsar timing arrays, and torsion balances are beginning to probe ultralight couplings, while astrophysical bounds keep narrowing the viable fuzzy-dark-matter mass window. Black hole superradiance constrains ultralight bosons through purely gravitational effects, independent of their couplings to ordinary matter, complementing laboratory searches.",
+  "sources": [
+    {
+      "title": "LUX-ZEPLIN detector makes surprising discovery in search for dark matter - The Brighter Side",
+      "url": "https://www.thebrighterside.news/post/lux-zeplin-detector-makes-surprising-discovery-in-search-for-dark-matter/"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

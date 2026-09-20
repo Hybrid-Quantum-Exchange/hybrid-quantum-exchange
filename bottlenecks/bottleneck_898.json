@@ -1,0 +1,18 @@
+{
+  "id": 898,
+  "domain": "xr_interface",
+  "title": "Voice input in noisy and shared environments",
+  "bottleneck": "Voice is natural but fails in noise, wind, and crowds, and speaking commands aloud is socially awkward and privacy-leaking in public. Recognition accuracy collapses with accents, overlapping speech, and domain jargon. Silent-speech alternatives (EMG, ultrasound) are immature.",
+  "why_it_blocks": "AR glasses need discreet input for public use; if voice only works alone in quiet rooms, it's not a mobile interface. The social and acoustic realities of the world defeat voice.",
+  "current_state": "On-device speech recognition is fast and private in good conditions; beamforming mics help in moderate noise. Robust, discreet voice in real-world chaos is still unreliable. Speaking commands aloud broadcasts potentially sensitive queries to everyone nearby, a privacy cost most users will not pay. On-device recognition helps privacy but cannot fix the fundamental social awkwardness of talking to glasses.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "ScienceTimes: Neural interface challenges",
+      "url": "https://www.sciencetimes.com/articles/61522/20260323/how-brain-computer-interfaces-use-neural-interface-technology-read-human-mind.htm"
+    }
+  ]
+}

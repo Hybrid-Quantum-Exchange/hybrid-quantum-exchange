@@ -1,0 +1,18 @@
+{
+  "id": 522,
+  "domain": "health_longevity",
+  "title": "Metabolic comorbidity in severe mental illness",
+  "bottleneck": "People with schizophrenia and bipolar disorder die 10-20 years early, largely from cardiovascular and metabolic disease driven by both the illnesses and their treatments (antipsychotic-induced weight gain, diabetes). Psychiatry and primary care operate in silos, so metabolic risk goes unmanaged until crisis.",
+  "why_it_blocks": "The mortality gap in severe mental illness is a public health emergency hiding inside psychiatry. Treating the mind while the body dies early is a partial medicine.",
+  "current_state": "Metabolic monitoring guidelines exist but adherence is poor. GLP-1 agonists are being explored for antipsychotic-associated weight gain; integrated care models show promise but are rare. Metformin and GLP-1 agonists are being repurposed for antipsychotic-induced metabolic syndrome, but psychiatric and medical care remain organizationally siloed in most systems.",
+  "sources": [
+    {
+      "title": "Bipolar depression: a major unsolved challenge (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943098/"
+    },
+    {
+      "title": "Addressing the Challenges of Treating Schizophrenia and Bipolar Disorder (AHDB)",
+      "url": "https://www.ahdbonline.com/articles/2009-addressing-the-challenges-of-treating-schizophrenia-and-bipolar-disorder"
+    }
+  ]
+}

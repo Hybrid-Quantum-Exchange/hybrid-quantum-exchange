@@ -1,0 +1,18 @@
+{
+  "id": 152,
+  "domain": "energy",
+  "title": "Plasma disruption prediction and mitigation",
+  "bottleneck": "Tokamak plasmas can disrupt, losing confinement in milliseconds and dumping megajoules of energy into the walls while inducing massive electromagnetic forces on the vessel. In a power plant, even rare disruptions would damage first walls and blankets, and runaway electron beams generated during disruptions can drill holes in plasma-facing components. Prediction must work with near-perfect reliability because mitigation through massive gas injection must trigger within milliseconds.",
+  "why_it_blocks": "A commercial reactor cannot tolerate unmitigated disruptions. Each one risks weeks of repair downtime and cumulative wall damage, so disruption control is a licensing and economic prerequisite, not a research nicety.",
+  "current_state": "Machine-learning predictors on existing tokamaks reach high accuracy on historical data, and shattered-pellet injection is ITER's baseline mitigation. Whether these scale to burning plasmas with alpha-particle-driven instabilities is untested.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    }
+  ]
+}

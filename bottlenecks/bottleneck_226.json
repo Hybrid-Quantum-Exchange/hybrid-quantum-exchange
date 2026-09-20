@@ -1,0 +1,18 @@
+{
+  "id": 226,
+  "domain": "energy",
+  "title": "Flexible load aggregation at scale",
+  "bottleneck": "Demand response could provide massive grid flexibility by shifting EV charging, water heating, and industrial loads, but aggregation at scale requires interoperable controls, customer participation, and market rules that value flexibility. Most potential flexible load is unmanaged, programs are fragmented across utilities, and wholesale markets undervalue demand-side resources.",
+  "why_it_blocks": "Flexibility is cheaper than storage or peaking plants, but only if loads can be coordinated. Unaggregated demand response is a rounding error, not a grid resource. Consumer fatigue is real: programs that cycle air conditioners aggressively see enrollment collapse after the first uncomfortable summer.",
+  "current_state": "Virtual power plants are growing with FERC Order 2222 opening wholesale markets. Aggregated flexible load remains a small fraction of technical potential. Interoperability standards for home devices remain fragmented, so aggregators must support dozens of proprietary protocols.",
+  "sources": [
+    {
+      "title": "The Interconnection Bottleneck: How Renewable Approval Backlogs Are Repricing the Energy-to-Data Center Equation",
+      "url": "https://www.globaldatacenterhub.com/p/the-interconnection-bottleneck-how"
+    },
+    {
+      "title": "Trend Scan AI Automated Report: Battery Storage and Grid-Scale Energy",
+      "url": "https://ezassi.com/wp-content/uploads/2026/06/Battery-Storage-and-Grid-Scale-Energy.pdf"
+    }
+  ]
+}

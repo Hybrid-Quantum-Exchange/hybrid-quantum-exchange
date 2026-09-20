@@ -1,0 +1,18 @@
+{
+  "id": 924,
+  "domain": "food_water_agriculture",
+  "title": "Submergence and flood tolerance",
+  "bottleneck": "Flooding destroys crops through oxygen deprivation, and while submergence-tolerant rice (Sub1 varieties) was a celebrated success, extending tolerance to other staples and to longer, deeper floods has proven difficult. Climate change is intensifying both floods and their unpredictability; breeding for an event that's severe, sporadic, and varies in depth and duration is inherently hard to select for. Breeding for an event that is severe, sporadic, and varies in depth and duration is inherently hard to select for.",
+  "why_it_blocks": "Flood-prone regions include some of the world's most densely populated farmland. Each major flood threatens millions of people simultaneously.",
+  "current_state": "Sub1 rice is deployed at scale; comparable tolerance in wheat and maize, and for flash floods, remains limited. Sub1 rice is deployed at scale; comparable tolerance in wheat and maize remains limited.",
+  "sources": [
+    {
+      "title": "The uncomfortable truth: modern high-yield crops aren't built for climate shocks",
+      "url": "https://medium.com/@vg7412640/heres-the-uncomfortable-truth-modern-high-yield-crops-aren-t-built-like-a-stew-you-can-adjust-on-6fc767910446"
+    },
+    {
+      "title": "Understanding the Yield Gap: Exploring the Factors Behind Crop Productivity Differences",
+      "url": "https://www.shiftingshares.com/understanding-the-yield-gap-exploring-the-factors-behind-crop-productivity-differences-2/"
+    }
+  ]
+}

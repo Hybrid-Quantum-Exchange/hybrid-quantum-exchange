@@ -1,0 +1,18 @@
+{
+  "id": 740,
+  "domain": "materials",
+  "title": "High-current superconducting fault current limiters",
+  "bottleneck": "Superconducting fault current limiters could protect grids from surges with near-zero standby loss, but they require kilometers of uniform conductor that quenches predictably and recovers in milliseconds. Inhomogeneities in commercial tape cause localized hotspots during faults, and recovery under load remains unreliable. No utility-scale deployment has survived long-term grid service.",
+  "why_it_blocks": "As grids add inverter-based renewables, fault currents grow harder to manage with conventional breakers. Without limiters, utilities must oversize switchgear or curtail new generation connections, slowing the energy transition.",
+  "current_state": "Pilot installations using REBCO and MgB2 have demonstrated the physics in substations, but the jump to standardized, utility-trusted products is stalled on conductor uniformity and recovery reliability. Cheaper, more uniform tape would unlock the application. Commercial products remain limited to pilot installations.",
+  "sources": [
+    {
+      "title": "How Close Are We to Superconductors That Are Actually Practical?",
+      "url": "https://gizmodo.com/?p=2000814055"
+    },
+    {
+      "title": "Room-temperature superconductor",
+      "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor"
+    }
+  ]
+}

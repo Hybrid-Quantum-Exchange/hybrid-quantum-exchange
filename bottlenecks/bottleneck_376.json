@@ -1,0 +1,18 @@
+{
+  "id": 376,
+  "domain": "medicine_cures",
+  "title": "Anti-amyloid Alzheimer's drugs show no clinically meaningful benefit",
+  "bottleneck": "A 2026 Cochrane review of 17 randomized trials with over 20,000 participants found that anti-amyloid monoclonal antibodies, including approved drugs lecanemab and donanemab, clear amyloid plaques but produce no clinically meaningful slowing of cognitive decline, while increasing risks of brain swelling and bleeding.",
+  "why_it_blocks": "Decades of drug development were bet on the amyloid cascade hypothesis; if clearing amyloid does not help patients, the field must rebuild its therapeutic strategy around other targets.",
+  "current_state": "The drugs remain approved and defended by their manufacturers, who dispute the review's pooling of failed and successful antibodies, but UK and French health services have declined coverage. Reviewers urge future trials to consider alternative modalities. The controversy has intensified scrutiny of how trial results are pooled and interpreted, and of the regulatory standards for accelerated approval in dementia.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    },
+    {
+      "title": "Review Finds Anti-Amyloid Drugs Have No Clinical Benefit, Sparking Fierce Debate",
+      "url": "https://www.iflscience.com/alzheimers-drugs-that-target-amyloid-plaques-have-no-meaningful-effects-says-major-review-sparking-fierce-debate-from-scientists-83225"
+    }
+  ]
+}

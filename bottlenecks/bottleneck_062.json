@@ -1,0 +1,18 @@
+{
+  "id": 62,
+  "domain": "fundamental_physics",
+  "title": "Dark matter self-interactions and small-scale structure",
+  "bottleneck": "Cold dark matter simulations predict dense cusps and abundant satellite galaxies that observations of dwarf galaxies do not show, the core-cusp and too-big-to-fail problems. Self-interacting dark matter can fix the discrepancies but requires a cross section tuned to a narrow window, while baryonic feedback explanations remain disputed.",
+  "why_it_blocks": "If dark matter is not perfectly collisionless, its particle properties can be read off from galactic structure; if the discrepancies are just astrophysics, a major discovery channel evaporates.",
+  "current_state": "Precision stellar kinematics from Gaia and strong-lensing measurements are sharpening the small-scale tests, but no consensus has emerged between self-interactions and feedback solutions. Strong gravitational lensing of quasars and stellar streams in the Milky Way halo provide independent small-scale tests that are sharpening rapidly.",
+  "sources": [
+    {
+      "title": "LZ sets a world's best in the hunt for galactic dark matter - SLAC",
+      "url": "http://www6.slac.stanford.edu/news/2025-12-08-lz-sets-worlds-best-hunt-galactic-dark-matter-and-gets-new-look-neutrinos-suns-core"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

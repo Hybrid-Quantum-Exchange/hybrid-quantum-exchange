@@ -1,0 +1,18 @@
+{
+  "id": 881,
+  "domain": "xr_interface",
+  "title": "Persistent shared AR anchors at scale",
+  "bottleneck": "Multi-user AR needs virtual content pinned to the same physical spot for everyone, persistently, but building and maintaining planet-scale spatial maps raises unsolved problems: map storage and updates, cross-device calibration, privacy of scanned spaces, and drift between sessions. Current cloud anchors work in small areas with frequent rescans.",
+  "why_it_blocks": "Without persistent shared anchors, AR stays single-user and session-local, unable to become the shared spatial web. The infrastructure for a persistent AR cloud doesn't exist.",
+  "current_state": "Cloud anchor APIs from major platforms support limited persistence and sharing. City-scale, always-fresh, privacy-preserving spatial maps are still aspirational. Maintaining fresh, consistent spatial maps across millions of devices demands infrastructure that no platform has yet built. Maps built by one device rarely align with another's without shared calibration, so multi-user sessions start with a lengthy sync ritual.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    }
+  ]
+}

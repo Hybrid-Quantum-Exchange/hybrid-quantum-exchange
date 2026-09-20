@@ -1,0 +1,14 @@
+{
+  "id": 364,
+  "domain": "medicine_cures",
+  "title": "Cancer cachexia",
+  "bottleneck": "Cancer cachexia, the progressive loss of skeletal muscle and fat driven by tumor-induced inflammation and metabolic derangement, affects up to 80% of patients with advanced pancreatic, gastric, and lung cancers. It cannot be reversed by nutrition alone and directly causes an estimated 20 to 30% of cancer deaths through wasting, weakness, and treatment intolerance.",
+  "why_it_blocks": "Cachexia robs patients of the strength to tolerate therapy, degrades quality of life, and kills independently of tumor burden, yet it is rarely the primary endpoint of drug development.",
+  "current_state": "No approved therapy reverses cachexia; investigational agents targeting inflammatory cytokines, ghrelin signaling, and muscle-wasting pathways have shown modest or inconsistent results. It remains one of oncology's most neglected unsolved problems. Multidisciplinary approaches combining nutrition, exercise, and anti-inflammatory agents show the most promise, though the evidence base remains preliminary.",
+  "sources": [
+    {
+      "title": "Advances in Drug Development for Metastatic Cancer",
+      "url": "https://www.numberanalytics.com/blog/advances-drug-development-metastatic-cancer"
+    }
+  ]
+}

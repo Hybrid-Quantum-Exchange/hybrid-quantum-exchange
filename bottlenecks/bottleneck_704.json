@@ -1,0 +1,18 @@
+{
+  "id": 704,
+  "domain": "space",
+  "title": "Mars propellant production at mission scale",
+  "bottleneck": "Making methane and oxygen propellant on Mars via the Sabatier reaction plus water electrolysis is proven chemistry — MOXIE made oxygen on Mars in 2021 — but scaling from grams to the 500-plus tons needed for a Starship return is a four-order-of-magnitude jump. It requires finding and extracting subsurface water ice at the landing site, a megawatt-scale power source running for about two years, autonomous plant operation, and cryogenic liquefaction and storage of the product. No integrated system has been built even on Earth.",
+  "why_it_blocks": "Starship-class Mars return is impossible without refueling on Mars; the propellant plant is the long pole of the entire Mars architecture, and it must work before the crew leaves Earth.",
+  "current_state": "MOXIE (oxygen only, grams) succeeded; full-scale plant designs exist on paper in NASA's Design Reference Architecture. No pilot plant and no Martian water extraction demo exist.",
+  "sources": [
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    },
+    {
+      "title": "How to Mine the Moon: The ISRU Process",
+      "url": "https://medium.com/@hamzatanveerahmad47/how-to-mine-the-moon-the-isru-process-c5a558017320"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 913,
+  "domain": "food_water_agriculture",
+  "title": "Engineering C4 photosynthesis into rice",
+  "bottleneck": "Rice uses C3 photosynthesis, roughly half as efficient as the C4 pathway in maize — and converting rice to C4 requires re-engineering leaf anatomy and biochemistry across dozens of genes, one of the most ambitious feats ever attempted in plant synthetic biology. After two decades of international effort, prototype plants exist but none match C4 efficiency; the trait is polygenic and interacts with everything else in the plant.",
+  "why_it_blocks": "A 50% jump in photosynthetic efficiency would be the largest single yield breakthrough in history — bigger than the Green Revolution — and it remains out of reach. Every decade of delay pushes the payoff further into a future of worsening climate pressure.",
+  "current_state": "International consortia have produced C4-like rice prototypes; field-ready varieties are still years away with no guarantee of success.",
+  "sources": [
+    {
+      "title": "Distinguishing between yield advances and yield plateaus in historical crop production trends",
+      "url": "https://www.nature.com/articles/ncomms3918?error=cookies_not_supported&code=91675317-1c1b-4105-a673-bda45130950b"
+    },
+    {
+      "title": "Understanding the Yield Gap: Exploring the Factors Behind Crop Productivity Differences",
+      "url": "https://www.shiftingshares.com/understanding-the-yield-gap-exploring-the-factors-behind-crop-productivity-differences-2/"
+    }
+  ]
+}

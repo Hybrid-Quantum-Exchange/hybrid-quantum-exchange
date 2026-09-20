@@ -1,0 +1,18 @@
+{
+  "id": 517,
+  "domain": "health_longevity",
+  "title": "PTSD pharmacotherapy beyond sertraline and paroxetine",
+  "bottleneck": "Only two drugs (sertraline, paroxetine) are FDA-approved for PTSD, both with modest efficacy, and first-line trauma-focused psychotherapies leave up to half of patients symptomatic. Decades of candidates (NK-1 antagonists, AMPA modulators, prazosin) failed late-stage trials, often sunk by high placebo responses and patient heterogeneity.",
+  "why_it_blocks": "PTSD is common, disabling, and biologically complex; a two-drug armamentarium from the 1990s is a standing indictment of psychiatric drug development for trauma.",
+  "current_state": "Brexpiprazole was rejected by FDA despite early promise, underscoring regulatory hurdles. Ketamine, MDMA-assisted therapy, and neurosteroids are the leading investigational directions, with durability and safety questions unresolved. The pipeline's repeated late-stage failures have pushed investment toward psychedelics and neuromodulation, leaving conventional small-molecule development for PTSD nearly abandoned.",
+  "sources": [
+    {
+      "title": "Investigational drugs in PTSD (PubMed abstract, Neuropsychopharmacology review)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41792251/"
+    },
+    {
+      "title": "Treatment of Posttraumatic Stress Disorder: A State-of-the-art Review (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10845104/"
+    }
+  ]
+}

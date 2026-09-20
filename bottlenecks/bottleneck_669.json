@@ -1,0 +1,18 @@
+{
+  "id": 669,
+  "domain": "space",
+  "title": "Fission surface power for lunar and Martian outposts",
+  "bottleneck": "A sustained Moon or Mars base needs tens to hundreds of kilowatts of continuous power — through the 14-day lunar night and global Martian dust storms that cripple solar. Fission surface power (Kilopower demonstrated ~10 kW) is the leading answer, but scaling up means autonomous reactor operation, regolith-shielded emplacement, heat rejection, and a launch-and-landing architecture for a fueled reactor that has never flown. Regulatory approval for launching an active nuclear payload adds years.",
+  "why_it_blocks": "Without reliable night-and-storm power, ISRU plants cannot run, habitats cannot stay warm, and a base reverts to short solar-powered sorties instead of permanent presence.",
+  "current_state": "Kilopower's KRUSTY test (2018) proved the concept at small scale; NASA and DOE are working toward a ~40 kW lunar fission surface power demo targeted for the early 2030s. No flight unit exists.",
+  "sources": [
+    {
+      "title": "NASA Bets on Nuclear Propulsion to Cut the Mars Trip in Half (WebProNews)",
+      "url": "https://www.webpronews.com/nasa-bets-on-nuclear-propulsion-to-cut-the-mars-trip-in-half-and-the-clock-is-ticking/"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

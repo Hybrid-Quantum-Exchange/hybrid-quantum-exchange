@@ -1,0 +1,18 @@
+{
+  "id": 436,
+  "domain": "medicine_cures",
+  "title": "Durable core-symptom therapy for anorexia nervosa",
+  "bottleneck": "Anorexia nervosa has the highest mortality rate of any psychiatric disorder, yet there is no approved pharmacological treatment that durably addresses its core symptoms: the relentless drive for thinness, body-image distortion, and food avoidance. Psychotherapy helps some patients, but relapse rates are high and a substantial fraction become chronically ill.",
+  "why_it_blocks": "Without a treatment that targets the underlying neurobiology, clinicians are left managing starvation's medical complications while the disorder itself persists. The absence of any approved drug for anorexia nervosa stands out against progress in depression, schizophrenia, and even obesity pharmacology.",
+  "current_state": "Early studies of psilocybin-assisted therapy and neuromodulation show tentative signals but are small and open-label. Research into the gut-brain axis, metabolic drivers, and reward-circuit dysfunction is active, but no mechanism-based therapy has reached late-stage trials.",
+  "sources": [
+    {
+      "title": "Anorexia nervosa treatment review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10427429/"
+    },
+    {
+      "title": "Psilocybin research in anorexia nervosa",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11972612/"
+    }
+  ]
+}

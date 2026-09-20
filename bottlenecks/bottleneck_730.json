@@ -1,0 +1,18 @@
+{
+  "id": 730,
+  "domain": "materials",
+  "title": "Flux pinning for high-field superconducting magnets",
+  "bottleneck": "Magnetic flux lines threading a superconductor feel a Lorentz force that, if unpinned, makes them move and dissipate energy, destroying the zero-resistance state at high fields. Engineers add nanoscale defects as pinning centers, but designing defect landscapes that pin flux efficiently across all field orientations and temperatures without degrading the conductor is still largely empirical. Performance in real magnets lags laboratory short-sample values.",
+  "why_it_blocks": "Fusion reactors, particle accelerators, and next-generation MRI need magnets above 20 tesla, where flux creep and weak pinning are the binding constraint. Without better pinning, magnets must run at lower fields, growing larger, heavier, and more expensive.",
+  "current_state": "Irradiation, chemical doping, and engineered nanorod arrays have improved pinning in REBCO, and the 2026 discovery of kagome-lattice superconductors by the SuperC consortium points to new physics routes. But translating pinning gains into reproducible, long-length conductor remains an open manufacturing problem.",
+  "sources": [
+    {
+      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
+      "url": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html"
+    },
+    {
+      "title": "New superconductors identified, unlocking process that could yield thousands more",
+      "url": "https://phys.org/news/2026-06-superconductors-yield-thousands.html"
+    }
+  ]
+}

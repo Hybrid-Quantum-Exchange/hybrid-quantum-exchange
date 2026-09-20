@@ -1,0 +1,18 @@
+{
+  "id": 430,
+  "domain": "medicine_cures",
+  "title": "Base and prime editing delivery",
+  "bottleneck": "Base and prime editors can correct mutations without double-strand breaks, safer than classic CRISPR, but the editor proteins are too large for single AAV vectors, requiring dual-vector systems with lower efficiency, and in vivo delivery to non-liver tissues remains unsolved.",
+  "why_it_blocks": "These precise editors could address the majority of pathogenic point mutations, but only if they can be delivered efficiently to the affected tissue.",
+  "current_state": "Dual-AAV prime editing recently achieved a first FDA approval for a rare deafness gene with Otarmeni, proving the concept in humans. Broad, efficient in vivo delivery is still ahead, and immune responses to vectors remain a constraint. The Otarmeni approval demonstrates that even oversized editors can reach patients via dual vectors, but efficiency and manufacturing complexity remain concerns. Tissue-targeted non-viral delivery could eventually bypass AAV's limits entirely.",
+  "sources": [
+    {
+      "title": "Otarmeni Approved by FDA as First Dual AAV Vector Gene Therapy for Rare Disease",
+      "url": "https://www.world-today-journal.com/otarmeni-approved-by-fda-as-first-dual-aav-vector-gene-therapy-for-rare-disease/"
+    },
+    {
+      "title": "Technology Summary: AAV immunogenicity",
+      "url": "https://www.fda.gov/media/166264/download"
+    }
+  ]
+}

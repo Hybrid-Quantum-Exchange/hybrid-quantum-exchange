@@ -1,0 +1,18 @@
+{
+  "id": 182,
+  "domain": "energy",
+  "title": "Fast reactor fuel fabrication",
+  "bottleneck": "Sodium fast reactors need metallic or nitride fuels that must be fabricated remotely in hot cells because of their radioactivity, a capability that barely exists commercially. The US produced such fuel for the Experimental Breeder Reactor-II decades ago, but the industrial base is gone. Rebuilding remote fuel fabrication at commercial scale is a multi-billion-dollar, decade-long undertaking with its own licensing hurdles.",
+  "why_it_blocks": "Fast reactors are the path to closing the fuel cycle and burning long-lived waste, but without fuel fabrication infrastructure they cannot be built. The reactor design is the easy part.",
+  "current_state": "DOE is recovering HALEU from EBR-II fuel at Idaho National Lab as a bridge supply, targeting about 10 metric tons by late 2028. Commercial-scale fast-reactor fuel fabrication does not exist.",
+  "sources": [
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    },
+    {
+      "title": "Small Modular Nuclear Power Reactors as a Driver of Development of Nuclear Technologies",
+      "url": "https://mdpi-res.com/d_attachment/energies/energies-18-05766/article_deploy/energies-18-05766-v2.pdf?version=1762159195"
+    }
+  ]
+}

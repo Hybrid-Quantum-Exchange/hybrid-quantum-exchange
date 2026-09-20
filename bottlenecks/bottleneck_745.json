@@ -1,0 +1,18 @@
+{
+  "id": 745,
+  "domain": "materials",
+  "title": "Lithium metal anode voiding during stripping",
+  "bottleneck": "During discharge, lithium atoms leave the metal anode slower than the current demands because lithium self-diffusion is only about 10^-11 cm2/s, so voids open at the solid electrolyte interface. These voids concentrate current density on the next charge, accelerating dendrite growth exactly where contact was lost. High stack pressure suppresses voiding but can drive lithium creep into the electrolyte during storage.",
+  "why_it_blocks": "Voiding is the discharge-side twin of the dendrite problem: it caps usable current density and cycle life even in cells that plate cleanly. Without solving it, lithium-metal anodes — the main energy-density prize of solid-state designs — cannot survive automotive duty cycles.",
+  "current_state": "The 2026 eScience review identifies self-diffusion as the critical parameter and notes dynamic crosslinked polymers as a possible self-healing route. Pressure-managed cell designs work in the lab but add system mass and complexity that erode the energy-density advantage.",
+  "sources": [
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    },
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    }
+  ]
+}

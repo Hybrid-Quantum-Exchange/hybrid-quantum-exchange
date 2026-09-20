@@ -1,0 +1,14 @@
+{
+  "id": 361,
+  "domain": "medicine_cures",
+  "title": "Minimal residual disease detection and monitoring",
+  "bottleneck": "After surgery or therapy, microscopic residual cancer cells can persist below the detection limit of imaging and later seed relapse. Circulating tumor DNA assays can detect molecular residual disease, but sensitivity is imperfect, especially for low-shedding tumors, and a negative test can falsely reassure patients and doctors into complacency.",
+  "why_it_blocks": "Treatment decisions after curative-intent therapy, whether to intensify chemotherapy or safely de-escalate, hinge on knowing whether any cancer remains. Without reliable residual-disease detection, patients are systematically over-treated or under-treated.",
+  "current_state": "ctDNA-based residual-disease tests are entering clinical use for colorectal and other cancers, with trials testing treatment escalation or de-escalation guided by results. Assay sensitivity, standardization, and proof that residual-disease-guided therapy improves survival are still being established.",
+  "sources": [
+    {
+      "title": "The cancer blood test making waves, and what the numbers really show",
+      "url": "https://medicalxpress.com/news/2025-11-cancer-blood.html"
+    }
+  ]
+}

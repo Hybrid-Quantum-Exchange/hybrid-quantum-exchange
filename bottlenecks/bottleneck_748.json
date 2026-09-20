@@ -1,0 +1,18 @@
+{
+  "id": 748,
+  "domain": "materials",
+  "title": "Cobalt-free high-energy cathodes",
+  "bottleneck": "Removing cobalt from high-energy cathodes without losing capacity, voltage, or cycle life is still unsolved: lithium iron phosphate is safe and cheap but tops out near 190 Wh/kg at cell level, while high-manganese and disordered-rocksalt alternatives suffer from voltage fade, poor conductivity, or oxygen loss. No cobalt-free chemistry yet matches nickel-cobalt performance across all metrics simultaneously.",
+  "why_it_blocks": "Cobalt supply is geographically concentrated, price-volatile, and tied to artisanal mining concerns, making it the riskiest link in battery supply chains. Without a drop-in cobalt-free high-energy cathode, EV cost reduction and supply security both stall.",
+  "current_state": "LMFP (manganese-doped LFP) is commercializing with modest energy gains, and sodium-ion chemistries sidestep the issue for stationary storage. But the high-energy cobalt-free cathode that premium EVs need remains a materials research problem, not a product.",
+  "sources": [
+    {
+      "title": "Why dendrites still limit solid-state lithium metal batteries",
+      "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70211.php"
+    },
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    }
+  ]
+}

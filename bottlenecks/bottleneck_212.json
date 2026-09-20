@@ -1,0 +1,18 @@
+{
+  "id": 212,
+  "domain": "energy",
+  "title": "Lithium-sulfur shuttle effect and cycle life",
+  "bottleneck": "Lithium-sulfur batteries offer up to 5x the theoretical energy density of lithium-ion using abundant sulfur, but soluble polysulfides shuttle between electrodes, causing rapid capacity fade. Typical cells last 300 to 500 cycles versus the 3,000-plus needed for grid use. Sulfur's 80 percent volume expansion during cycling destroys electrode structure, and self-discharge runs 8 to 15 percent per month. Electrolyte additives that suppress the shuttle effect tend to increase viscosity and cost while reducing ionic conductivity.",
+  "why_it_blocks": "Li-S has tantalizing energy density but grid storage buys cycle life above all. Five-hundred-cycle batteries are consumables, not infrastructure.",
+  "current_state": "Research on solid-state and confined-sulfur designs continues. No Li-S cell has demonstrated grid-relevant cycle life. Aviation and drone applications may adopt Li-S first, where energy density matters more than cycle life.",
+  "sources": [
+    {
+      "title": "Hybrid lithium-sulfur battery systems for grid-scale energy storage",
+      "url": "https://eureka.patsnap.com/report-hybrid-lithium-sulfur-battery-systems-for-grid-scale-energy-storage"
+    },
+    {
+      "title": "Rechargeable Batteries for Grid-Scale Energy Storage: Technologies, Performance, and Emerging Directions",
+      "url": "https://mdpi-res.com/d_attachment/batteries/batteries-12-00264/article_deploy/batteries-12-00264.pdf?version=1784562080"
+    }
+  ]
+}

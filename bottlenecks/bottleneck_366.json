@@ -1,0 +1,18 @@
+{
+  "id": 366,
+  "domain": "medicine_cures",
+  "title": "Ovarian cancer early detection",
+  "bottleneck": "Ovarian cancer is typically diagnosed at stage III or IV because early disease produces vague symptoms and no effective screening test exists; large trials of CA-125 plus transvaginal ultrasound failed to reduce mortality. Five-year survival for late-stage disease remains under 30%.",
+  "why_it_blocks": "As with pancreatic cancer, curability depends on stage at diagnosis; without early detection, therapeutic advances benefit only a minority of patients.",
+  "current_state": "Multi-cancer blood tests can detect ovarian cancer signals, but early-stage sensitivity is limited and mortality benefit is unproven, and the $949 out-of-pocket cost with limited insurance coverage restricts access. Research continues into novel biomarkers including methylation signatures and tumor-derived proteins. Ovarian cancer's low prevalence in the general population also makes screening difficult, since even good tests produce many false positives. Better risk stratification and more sensitive early-stage assays are both needed.",
+  "sources": [
+    {
+      "title": "The cancer blood test making waves, and what the numbers really show",
+      "url": "https://medicalxpress.com/news/2025-11-cancer-blood.html"
+    },
+    {
+      "title": "Galleri Test for Early Cancer Detection: Comprehensive Guide",
+      "url": "https://www.preventivemedicinedaily.com/healthy-living/screening/galleri-test-for-early-cancer-detection-comprehensive-guide/"
+    }
+  ]
+}

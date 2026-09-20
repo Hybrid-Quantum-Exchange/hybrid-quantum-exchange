@@ -1,0 +1,18 @@
+{
+  "id": 472,
+  "domain": "health_longevity",
+  "title": "Lung aging and idiopathic pulmonary fibrosis",
+  "bottleneck": "Aged lungs lose elasticity, alveolar surface, and repair capacity, and idiopathic pulmonary fibrosis (IPF) — a relentlessly progressive scarring disease of older adults — has a median survival of 3-5 years. The two approved drugs only slow decline; the initiating injury and why repair fails with age remain unknown.",
+  "why_it_blocks": "IPF exemplifies aging as failed repair: a disease where the aged organ cannot heal a wound. Cracking it would illuminate regenerative failure across organs, while failure leaves a fatal disease with no disease-modifying therapy.",
+  "current_state": "Pirfenidone and nintedanib slow FVC decline but do not reverse fibrosis. Senolytics (dasatinib+quercetin) and senomorphics like digoxin showed anti-fibrotic activity in models and early human pilots. Antifibrotics slow but never reverse scarring, and lung transplantation is rarely an option for elderly IPF patients, leaving a fatal disease with median survival measured in single years.",
+  "sources": [
+    {
+      "title": "What Is: Cellular Senescence (Scientific Frontline)",
+      "url": "https://www.sflorg.com/2026/03/wi03202601.html"
+    },
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    }
+  ]
+}

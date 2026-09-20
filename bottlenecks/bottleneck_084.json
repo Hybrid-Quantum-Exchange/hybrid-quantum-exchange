@@ -1,0 +1,18 @@
+{
+  "id": 84,
+  "domain": "fundamental_physics",
+  "title": "Triviality of phi-four theory and the Higgs sector's consistency",
+  "bottleneck": "Rigorous renormalization-group arguments suggest that four-dimensional phi-four theory is 'trivial,' meaning its continuum limit is a free theory with vanishing interactions, which would make the Higgs self-interaction inconsistent at arbitrarily high energies. Lattice evidence supports triviality, implying the Standard Model needs new physics before the Landau pole.",
+  "why_it_blocks": "If the Higgs sector cannot be fundamental up to the Planck scale, the Standard Model is provably an effective theory and the scale of its breakdown becomes a concrete target for experiment.",
+  "current_state": "The triviality bound places the Standard Model's cutoff comfortably above LHC energies for a 125 GeV Higgs, so the issue is one of principle rather than urgency, but it remains mathematically unresolved.",
+  "sources": [
+    {
+      "title": "open-physics-problems SOURCES.md - meta-aggregator of unsolved physics lists",
+      "url": "https://github.com/zozo123/open-physics-problems/blob/HEAD/SOURCES.md"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

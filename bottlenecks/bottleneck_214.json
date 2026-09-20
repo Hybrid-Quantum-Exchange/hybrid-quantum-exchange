@@ -1,0 +1,18 @@
+{
+  "id": 214,
+  "domain": "energy",
+  "title": "Gravity energy storage economics",
+  "bottleneck": "Gravity storage, lifting masses with surplus power, is mechanically simple and long-lived, but energy density is abysmal: storing meaningful energy requires thousands of tonnes lifted hundreds of meters. Capital costs per kWh remain high, round-trip efficiency is modest, and suitable sites or structures add expense. It competes against pumped hydro where geography allows and loses everywhere else. Round-trip efficiency through mechanical systems typically lands between 70 and 85 percent, acceptable but not compelling against batteries.",
+  "why_it_blocks": "Gravity storage's physics caps its relevance. Without extreme scale it stores trivial energy, and at extreme scale it costs more than alternatives.",
+  "current_state": "Pilot projects using cranes, mine shafts, and rail are operating or under construction. No project has demonstrated competitive levelized costs.",
+  "sources": [
+    {
+      "title": "Trend Scan AI Automated Report: Battery Storage and Grid-Scale Energy",
+      "url": "https://ezassi.com/wp-content/uploads/2026/06/Battery-Storage-and-Grid-Scale-Energy.pdf"
+    },
+    {
+      "title": "Long Term Energy Storage Solutions For Grid Reliability",
+      "url": "https://electricityforum.com/td/energy-storage/long-term-energy-storage"
+    }
+  ]
+}

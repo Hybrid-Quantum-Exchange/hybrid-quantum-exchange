@@ -1,0 +1,18 @@
+{
+  "id": 272,
+  "domain": "compute_semiconductors",
+  "title": "Superconducting logic integration density",
+  "bottleneck": "Single-flux-quantum superconducting logic switches in picoseconds at tiny energy, but Josephson-junction density lags CMOS by orders of magnitude, fabrication is specialized and low-yield, and circuits need cryogenic cooling that dominates system cost. Memory is especially weak: no dense, fast superconducting RAM exists. Without density, superconducting processors can't compete on real workloads.",
+  "why_it_blocks": "Superconducting electronics could break the power wall for ultrafast computing, but density and memory gaps keep it a niche for specialized signal processing. The technology needs a scaling path, not just speed records.",
+  "current_state": "Niobium-based SFQ processes are mature for small circuits, and foundry access is improving. Million-junction-scale processors with usable memory remain out of reach. The absence of dense, fast cryogenic memory forces constant data shuttling to room temperature, negating much of the speed advantage superconducting logic offers.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

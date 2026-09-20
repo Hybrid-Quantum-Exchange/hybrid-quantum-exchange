@@ -1,0 +1,14 @@
+{
+  "id": 57,
+  "domain": "fundamental_physics",
+  "title": "The mu problem in supersymmetric theories",
+  "bottleneck": "Supersymmetric models require a Higgs mass parameter, mu, at the weak scale, but nothing in the theory explains why it sits there rather than at the Planck scale where it would naturally arise. Every proposed solution, from the NMSSM to Giudice-Masiero mechanisms, introduces new structure without independent confirmation.",
+  "why_it_blocks": "Supersymmetry was meant to solve the hierarchy problem naturally, yet it smuggles in its own hierarchy problem through the back door, undermining its claim to naturalness.",
+  "current_state": "With weak-scale supersymmetry disfavored by the LHC, the mu problem persists in high-scale variants where it is even more acute, and no solution has experimental support. The NMSSM generates mu dynamically through a singlet vacuum expectation value, but the singlet sector introduces its own unexplained scales and new fine-tunings.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

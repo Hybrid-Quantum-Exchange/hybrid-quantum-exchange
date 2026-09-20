@@ -1,0 +1,14 @@
+{
+  "id": 384,
+  "domain": "medicine_cures",
+  "title": "Dementia with Lewy bodies",
+  "bottleneck": "Dementia with Lewy bodies is the second most common neurodegenerative dementia but is frequently misdiagnosed as Alzheimer's or Parkinson's; its hallmark alpha-synuclein deposits have no approved targeted therapy, and patients are exquisitely sensitive to antipsychotics commonly used for agitation.",
+  "why_it_blocks": "Misdiagnosis leads to harmful treatment, and the absence of disease-specific therapy leaves a large patient population with only repurposed symptomatic drugs.",
+  "current_state": "Improved diagnostic criteria and DaTscan imaging aid recognition; alpha-synuclein-targeted trials are beginning. No disease-modifying therapy for Lewy body dementia exists. Better clinician education is as important as new drugs, since many patients receive harmful antipsychotics before the correct diagnosis is made. Dedicated research funding lags far behind the disease's prevalence, slowing every aspect of therapeutic progress.",
+  "sources": [
+    {
+      "title": "Much-hyped Alzheimer's drugs removed amyloid yet brought no meaningful gains over 18 months",
+      "url": "https://medicalxpress.com/news/2026-04-hyped-alzheimer-drugs-amyloid-brought.html"
+    }
+  ]
+}

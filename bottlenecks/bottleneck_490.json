@@ -1,0 +1,18 @@
+{
+  "id": 490,
+  "domain": "health_longevity",
+  "title": "Antibiotic stewardship and resistance surveillance",
+  "bottleneck": "Most antibiotic use is inappropriate (viral infections, agriculture, incomplete courses), accelerating resistance, yet most countries lack the diagnostics to distinguish bacterial from viral infection at point of care and the surveillance systems (like WHO GLASS) to track resistance patterns. Stewardship without diagnostics is exhortation, not medicine.",
+  "why_it_blocks": "Every new antibiotic's useful life depends on slowing resistance; without stewardship and surveillance, even breakthrough drugs are squandered within years, as happened repeatedly before.",
+  "current_state": "Rapid diagnostics exist for a few pathogens but are unavailable or unaffordable where resistance is worst. The 2024 UN General Assembly committed to One Health AMR action with 2030 surveillance targets, but implementation lags. Behavioral nudges and audit-feedback programs cut inappropriate prescribing in trials, but effects decay without sustained investment, and agricultural antibiotic use remains largely unregulated globally.",
+  "sources": [
+    {
+      "title": "The Silent Crisis of Antibiotic Resistance is Threatening Our Future (Substack synthesis of WHO/UN data)",
+      "url": "https://synthianexus.substack.com/p/the-silent-crisis-of-antibiotic-resistance"
+    },
+    {
+      "title": "WHO Warns of Weak Antibiotic Pipeline and Critical Diagnostic Gaps in AMR Fight (Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/health/3650844-who-warns-of-weak-antibiotic-pipeline-and-critical-diagnostic-gaps-in-amr-fight"
+    }
+  ]
+}

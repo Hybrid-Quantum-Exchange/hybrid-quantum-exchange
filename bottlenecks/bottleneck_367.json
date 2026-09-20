@@ -1,0 +1,14 @@
+{
+  "id": 367,
+  "domain": "medicine_cures",
+  "title": "Therapeutic cancer vaccines",
+  "bottleneck": "Decades of work on vaccines that train the immune system to attack established tumors have yielded few successes, with sipuleucel-T for prostate cancer showing only modest benefit, because tumors suppress immune responses, mutate away from targeted antigens, and reside in hostile microenvironments.",
+  "why_it_blocks": "A working therapeutic vaccine could provide durable, specific, low-toxicity control of cancer, but the concept has never delivered at scale outside a few niche indications.",
+  "current_state": "Personalized neoantigen mRNA vaccines combined with checkpoint inhibitors have shown encouraging early-phase results in melanoma and pancreatic cancer. Whether they improve survival in randomized trials is the open question now being tested. Success will likely require combining vaccines with agents that remodel the suppressive microenvironment and prevent antigen escape. Several such combinations are now in randomized trials, with results expected in the coming years.",
+  "sources": [
+    {
+      "title": "Why some tumors resist immunotherapy: Blocking miR-25 may help turn cold cancers hot",
+      "url": "https://medicalxpress.com/news/2026-06-tumors-resist-immunotherapy-blocking-mir.html"
+    }
+  ]
+}

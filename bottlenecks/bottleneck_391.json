@@ -1,0 +1,18 @@
+{
+  "id": 391,
+  "domain": "medicine_cures",
+  "title": "Broken economics of the antibiotic R&D pipeline",
+  "bottleneck": "WHO's 2025 analysis found the clinical antibacterial pipeline shrank from 97 candidates in 2023 to 90 in 2025, with only 15 qualifying as innovative and just 5 active against critical-priority pathogens. Since 2017, only 17 new agents reached market, and only two represent new chemical classes.",
+  "why_it_blocks": "Antimicrobial resistance is associated with nearly 5 million deaths annually; a pipeline this thin cannot outpace evolving resistance.",
+  "current_state": "The market is fundamentally broken: new antibiotics must be used sparingly to preserve effectiveness, destroying returns, so large pharmaceutical companies have exited and 90% of preclinical work sits with fragile small firms. WHO calls for innovation-focused incentives and a stable pipeline. Pull incentives such as subscription-style payments are being piloted in a few countries, but nothing yet operates at the scale the crisis demands.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    },
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

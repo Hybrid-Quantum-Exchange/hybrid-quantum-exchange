@@ -1,0 +1,18 @@
+{
+  "id": 799,
+  "domain": "climate_environment",
+  "title": "Biochar carbon permanence accounting",
+  "bottleneck": "Biochar locks carbon in soils for centuries in principle, but permanence varies wildly with feedstock, pyrolysis temperature, and soil conditions — some biochars mineralize within decades. Accounting rules must also handle the counterfactual: what would the biomass have done otherwise, and did producing biochar displace other land uses? No consensus standard resolves these questions, so biochar credits trade on inconsistent methodologies.",
+  "why_it_blocks": "Biochar is one of the most deployment-ready CDR methods, with co-benefits for soil fertility. Weak permanence accounting risks flooding markets with low-quality credits, undermining trust in all carbon removal.",
+  "current_state": "The 2024 State of CDR report counts biochar among the small set of novel methods actually removing carbon today, and certification bodies are converging on standards. But the science of long-term biochar stability in diverse soils is still catching up with the market.",
+  "sources": [
+    {
+      "title": "What is direct air capture, and how does it work?",
+      "url": "https://thinklandscape.globallandscapesforum.org/102395/what-is-direct-air-capture/"
+    },
+    {
+      "title": "What Are DAC's Main Sustainability Challenges?",
+      "url": "https://sustainability-directory.com/question/what-are-dacs-main-sustainability-challenges/"
+    }
+  ]
+}

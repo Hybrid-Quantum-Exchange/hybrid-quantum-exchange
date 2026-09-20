@@ -1,0 +1,18 @@
+{
+  "id": 213,
+  "domain": "energy",
+  "title": "Zinc-based flow battery electrode durability",
+  "bottleneck": "Zinc-based flow batteries promise low-cost long-duration storage from abundant materials, but zinc dendrites grow during charging, shorting cells and degrading electrodes over hundreds of cycles. Controlling dendrite formation while maintaining efficiency has proven difficult, and several high-profile zinc battery companies have failed commercially. The chemistry is cheap; the durability is not. Flow distribution unevenness across large electrode areas worsens dendrite growth, a scaling problem that lab cells hide.",
+  "why_it_blocks": "Zinc flow batteries keep failing at the durability hurdle. Cheap materials cannot compensate for systems that degrade before paying back their capital cost.",
+  "current_state": "Companies continue developing dendrite-suppression approaches. Commercial track records remain short and mixed. Membrane-free designs attempt to sidestep the issue, but crossover of active species then degrades efficiency instead.",
+  "sources": [
+    {
+      "title": "Rechargeable Batteries for Grid-Scale Energy Storage: Technologies, Performance, and Emerging Directions",
+      "url": "https://mdpi-res.com/d_attachment/batteries/batteries-12-00264/article_deploy/batteries-12-00264.pdf?version=1784562080"
+    },
+    {
+      "title": "Long Term Energy Storage Solutions For Grid Reliability",
+      "url": "https://electricityforum.com/td/energy-storage/long-term-energy-storage"
+    }
+  ]
+}

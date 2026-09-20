@@ -1,0 +1,18 @@
+{
+  "id": 411,
+  "domain": "medicine_cures",
+  "title": "Type 1 diabetes cure: beta-cell replacement without immunosuppression",
+  "bottleneck": "Stem cell-derived islet therapies can restore insulin production: in a published trial all 12 patients regained insulin secretion and ten stopped injections entirely. But every patient requires chronic immunosuppression to prevent immune destruction of the new beta cells, trading diabetes for lifelong immune suppression.",
+  "why_it_blocks": "The science of replacing beta cells is largely solved; the unsolved problem is protecting them from the autoimmune attack that caused the disease, without toxic immunosuppression.",
+  "current_state": "Three strategies compete: better immunosuppression, gene-edited immune-evasive cells, and physical encapsulation of cells. Encapsulation and edited-cell trials are underway, and engineered regulatory T cells are being tested as immune bodyguards, but an immunosuppression-free cure is not yet proven. Manufacturing scale-up for cell therapies is also underway, though cost and access questions loom large.",
+  "sources": [
+    {
+      "title": "Scientists reveal promising new therapy that could cure type 1 diabetes",
+      "url": "https://www.openaccessgovernment.org/scientists-reveal-promising-new-therapy-that-could-cure-type-1-diabetes/205737/"
+    },
+    {
+      "title": "Beta Cell Replacement: Overcoming Immune Rejection for Type 1 Diabetes",
+      "url": "https://lifestyle.houstonnewstoday.com/story/860462/beta-cell-replacement-overcoming-immune-rejection-for-type-1-diabetes/"
+    }
+  ]
+}

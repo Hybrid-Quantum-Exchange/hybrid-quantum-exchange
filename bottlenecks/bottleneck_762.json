@@ -1,0 +1,18 @@
+{
+  "id": 762,
+  "domain": "materials",
+  "title": "Daytime radiative cooling material durability",
+  "bottleneck": "Radiative cooling metamaterials can dump heat to space through the atmospheric transparency window, cooling below ambient with no energy input, but outdoor durability is poor: UV exposure yellows polymers, dust and soiling degrade the delicate optical structures, and moisture infiltration ruins performance. No formulation yet survives multi-year rooftop exposure while maintaining the precise emissivity spectrum the effect requires.",
+  "why_it_blocks": "Passive cooling could cut air-conditioning energy — a fast-growing share of global electricity — with zero operating cost. Durability failures mean every demonstration degrades within months outdoors, so the technology cannot yet displace any installed cooling capacity.",
+  "current_state": "Encapsulated photonic films and self-cleaning surface treatments have extended lifetimes in field trials, but the combination of UV stability, soiling resistance, and low cost in one manufacturable product is still missing.",
+  "sources": [
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Enhance Material Strength",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-enhance-material-strength"
+    }
+  ]
+}

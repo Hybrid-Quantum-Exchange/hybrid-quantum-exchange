@@ -1,0 +1,18 @@
+{
+  "id": 206,
+  "domain": "energy",
+  "title": "Vanadium redox flow battery cost and supply",
+  "bottleneck": "Vanadium flow batteries offer effectively unlimited cycle life and independent power-energy scaling, ideal for long duration, but vanadium electrolyte is expensive and its price is volatile, tied to steel markets. Systems cost 300 to 600 dollars per kWh, too high for broad deployment, and vanadium supply is concentrated. Cheaper chemistries like zinc and iron face their own durability problems. Membrane and electrode stack costs add to the total, and system footprints are large, limiting where flow batteries can be sited.",
+  "why_it_blocks": "Flow batteries are the most mature long-duration technology, yet cost keeps them in niche projects. The long-duration workhorse exists but cannot yet carry the load.",
+  "current_state": "Commercial deployments are growing, especially in China. Cost reduction depends on manufacturing scale and vanadium price stability.",
+  "sources": [
+    {
+      "title": "Long Term Energy Storage Solutions For Grid Reliability",
+      "url": "https://electricityforum.com/td/energy-storage/long-term-energy-storage"
+    },
+    {
+      "title": "Rechargeable Batteries for Grid-Scale Energy Storage: Technologies, Performance, and Emerging Directions",
+      "url": "https://mdpi-res.com/d_attachment/batteries/batteries-12-00264/article_deploy/batteries-12-00264.pdf?version=1784562080"
+    }
+  ]
+}

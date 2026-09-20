@@ -1,0 +1,18 @@
+{
+  "id": 188,
+  "domain": "energy",
+  "title": "Uranium enrichment capacity constraints",
+  "bottleneck": "Western uranium enrichment capacity is concentrated in a handful of facilities, with Russia historically supplying a large share of global enrichment services. Sanctions and supply concerns have spurred Western expansion, but centrifuge plants take years to build and license. Any rapid nuclear scale-up would strain enrichment capacity long before uranium mining becomes the limit.",
+  "why_it_blocks": "Enrichment is the narrowest chokepoint in the front end of the fuel cycle. Reactors cannot run without it, and capacity cannot be expanded quickly, so it caps the speed of any nuclear renaissance.",
+  "current_state": "Urenco and Orano are expanding Western capacity and the US is funding domestic enrichment. Lead times mean relief arrives in the late 2020s at earliest. New centrifuge capacity takes the better part of a decade from decision to operation, so today's investments relieve tomorrow's reactors, not today's.",
+  "sources": [
+    {
+      "title": "ASP Isotopes MOU to supply HALEU for small modular reactors",
+      "url": "https://whig.marketminute.com/article/gnwcq-2023-9-28-asp-isotopes-inc-enters-into-memorandum-of-understanding-with-a-small-modular-reactor-company-to-supply-high-assay-low-enriched-uranium-haleu"
+    },
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 95,
+  "domain": "cosmology_multiverse",
+  "title": "Dark Sector Couplings to the Standard Model",
+  "bottleneck": "Dark matter may interact through a 'dark sector' of new particles and forces with only feeble portals (kinetic mixing, Higgs portal, neutrino portal) to visible matter. The portal parameter space is vast, mostly unexplored, and each portal needs its own dedicated experiment, with no guarantee any portal exists. Each portal predicts distinct signatures — displaced vertices, missing momentum, or rare meson decays — fragmenting experimental effort across facilities.",
+  "why_it_blocks": "This fragmentation means null results barely constrain the theory space, so progress is slow even when experiments perform perfectly.",
+  "current_state": "Beam-dump and fixed-target experiments (LDMX, SHiP proposals) target light dark sectors; the parameter space above ~GeV remains the province of colliders. A coordinated 'dark sector' program spanning colliders and beam dumps has been proposed but never funded as a unified initiative.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "Dark Matter, Dark Energy, and the Unanswered Questions of Cosmology (AnewZ)",
+      "url": "http://anewz.tv/ai-next/science-news/3679/dark-matter-dark-energy-and-the-unanswered-questions-of-cosmology/news"
+    }
+  ]
+}

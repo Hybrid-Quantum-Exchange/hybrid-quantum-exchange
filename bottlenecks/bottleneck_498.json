@@ -1,0 +1,18 @@
+{
+  "id": 498,
+  "domain": "health_longevity",
+  "title": "Cardiovascular disease as the dominant killer of the oldest old",
+  "bottleneck": "Cardiovascular disease accounts for 35-70% of deaths among older adults, and autopsy studies show even centenarians die of identifiable vascular pathology rather than 'old age.' Yet cardiology's tools (statins, stents, antihypertensives) manage risk factors without reversing the vascular aging that makes them necessary.",
+  "why_it_blocks": "If the longest-lived humans still die of vascular disease, then extending healthspan requires defeating cardiovascular aging itself, not just its risk factors. The field treats the smoke while the fire of arterial aging burns on.",
+  "current_state": "Prevention is lipid and blood pressure control; acute care is advanced. Research into vascular senescence, arterial stiffness reversal, and endothelial rejuvenation is early-stage. Arterial stiffness and endothelial senescence are now measurable risk markers in the very old, but no therapy targeting the aged vessel wall itself has reached clinical practice.",
+  "sources": [
+    {
+      "title": "New analysis reveals fundamental flaws in widely used measures of biological aging (News-Medical)",
+      "url": "https://www.news-medical.net/news/20251203/New-analysis-reveals-fundamental-flaws-in-widely-used-measures-of-biological-aging.aspx"
+    },
+    {
+      "title": "Bottlenecks in aging research (Lifespan.io researcher survey)",
+      "url": "https://www.lifespan.io/wp-content/uploads/2018/07/Lifespan.io_Event_kit_Bottlenecks_in_research.pdf"
+    }
+  ]
+}

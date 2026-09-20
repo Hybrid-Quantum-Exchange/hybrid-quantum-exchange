@@ -1,0 +1,18 @@
+{
+  "id": 286,
+  "domain": "compute_semiconductors",
+  "title": "Analog in-memory computing signal-to-noise at scale",
+  "bottleneck": "Analog crossbars compute by summing tiny currents, but as arrays grow, IR drop along wires, device noise, and ADC quantization noise accumulate, degrading signal-to-noise ratio faster than array size grows. Partitioning into small tiles restores accuracy but reintroduces the data-movement costs CIM was meant to eliminate. There is a fundamental scaling law working against large analog arrays.",
+  "why_it_blocks": "This SNR wall caps analog CIM at modest array sizes, forcing tiled architectures whose efficiency converges back toward digital. The promised orders-of-magnitude advantage shrinks as models grow.",
+  "current_state": "Architectural tricks (differential cells, noise-aware training, hybrid analog-digital) push usable array sizes up incrementally. Large-model analog CIM at digital accuracy remains unproven. Wire resistance grows with array size, so IR drop along bitlines fundamentally limits how large a single analog crossbar can be before accuracy collapses.",
+  "sources": [
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    },
+    {
+      "title": "MindRemix: Neuromorphic brain-inspired revolution",
+      "url": "https://www.mindremix.com/2025/12/neuromorphic-computing-brain-inspired.html"
+    }
+  ]
+}

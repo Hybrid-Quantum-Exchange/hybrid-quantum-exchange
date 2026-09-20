@@ -1,0 +1,18 @@
+{
+  "id": 751,
+  "domain": "materials",
+  "title": "High-voltage electrolyte oxidation stability",
+  "bottleneck": "Pushing cathodes above 4.5 V unlocks major energy gains, but conventional carbonate electrolytes oxidize at these voltages, generating gas, acid, and resistive films. Fluorinated solvents and additives widen the stability window yet often degrade the anode interphase or raise cost and toxicity. No electrolyte yet survives 4.6 V+ cycling for thousands of cycles in a full cell.",
+  "why_it_blocks": "Voltage is the cheapest route to energy density: every 0.1 V adds roughly 3 percent capacity from the same cathode. Electrolyte oxidation forces manufacturers to leave that capacity on the table, slowing EV range improvements.",
+  "current_state": "High-voltage electrolyte formulations with fluorinated components are entering premium cells with modest voltage bumps. The leap to 4.7-5 V class cathodes like lithium-rich manganese oxides still waits on an electrolyte that can survive them.",
+  "sources": [
+    {
+      "title": "Why Solid-State Batteries Fail: MIT Study",
+      "url": "https://casrai.org/news/solid-state-battery-dendrite-failure-grain-boundaries"
+    },
+    {
+      "title": "Unlocking the Microscopic Origins of Dendrite Formation in Solid-State Batteries",
+      "url": "https://www.azom.com/news.aspx?newsID=65787"
+    }
+  ]
+}

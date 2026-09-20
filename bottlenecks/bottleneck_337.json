@@ -1,0 +1,18 @@
+{
+  "id": 337,
+  "domain": "artificial_intelligence",
+  "title": "Measuring and forecasting emergent capabilities",
+  "bottleneck": "Capabilities appear discontinuously with scale — sudden jumps not predicted by smaller models — yet we have no reliable science of when emergence happens or what emerges next. Scaling laws predict loss, not capabilities; evals discover jumps after the fact. This makes AI progress fundamentally unpredictable: the next training run might produce a mundane improvement or a dangerous new ability, and nobody knows which.",
+  "why_it_blocks": "Governance, safety research, and business planning all assume predictable progress. Emergence makes every frontier training run a gamble.",
+  "current_state": "Researchers debate whether emergence is real or a measurement artifact; forecasting remains closer to punditry than science. Labs track emergence post hoc, but no published method has reliably predicted a novel capability before training.",
+  "sources": [
+    {
+      "title": "An Objective Assessment of Open Problems in AI Research",
+      "url": "https://medium.com/@shakeel_80218/an-objective-assessment-of-open-problems-in-ai-research-5f3f57cd603e"
+    },
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    }
+  ]
+}

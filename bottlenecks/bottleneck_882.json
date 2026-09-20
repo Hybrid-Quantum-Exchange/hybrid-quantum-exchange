@@ -1,0 +1,18 @@
+{
+  "id": 882,
+  "domain": "xr_interface",
+  "title": "Outdoor AR localization precision",
+  "bottleneck": "GPS gives meter-level accuracy at best, with multipath errors in cities, while AR needs centimeter-level pose to align virtual content with the world. Sensor fusion with cameras and IMUs helps but fails in featureless or dynamic outdoor scenes, and sky-pointing cameras can't help. Precision outdoor AR is unreliable where it's most useful.",
+  "why_it_blocks": "Navigation, field service, and outdoor gaming all need precise world-locked AR; without it, content floats and misleads. The last-mile of outdoor localization is unsolved.",
+  "current_state": "VPS (visual positioning) services in mapped urban areas achieve good accuracy locally, but coverage is sparse and unmapped areas fall back to GPS. Urban canyons reflect GPS signals, producing multipath errors of tens of meters exactly where AR navigation is most needed.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "Next Reality: Waveguide smart glasses bottlenecks",
+      "url": "https://virtual.reality.news/news/should-you-buy-waveguide-smart-glasses-now-not-yet/"
+    }
+  ]
+}

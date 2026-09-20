@@ -1,0 +1,18 @@
+{
+  "id": 964,
+  "domain": "coordination",
+  "title": "Ideological Screening of Research Grants",
+  "bottleneck": "NIH has used keyword lists (including terms like 'equity,' 'gender,' and 'climate change') to flag and terminate grants, forcing researchers to scrub legitimate scientific language from proposals. The screening applies even to already-funded, peer-reviewed awards, overriding congressional mandates for merit-based allocation. Researchers report self-censoring legitimate terminology preemptively, distorting the scientific record beyond the grants directly affected.",
+  "why_it_blocks": "Ideological vetoes corrupt the knowledge base itself, as entire research domains become unfundable regardless of merit. Entire literatures become distorted when terminology itself is policed.",
+  "current_state": "Researchers challenged the screening in 2026; the practice's legal fate was unresolved, with grants already terminated in the interim. The chilling effect may outlast any particular keyword list, reshaping what questions get asked. The episode shows how fragile merit-based science funding is to executive overreach.",
+  "sources": [
+    {
+      "title": "Proposed Changes to Grant Rules Threaten the Future of Research (The Scientist)",
+      "url": "https://www.the-scientist.com/proposed-changes-to-grant-rules-threaten-the-future-of-research-scientists-must-act-now-74676"
+    },
+    {
+      "title": "Doctors Worry Grant Changes Will Derail Biomedical Science (The Scientist)",
+      "url": "https://www.the-scientist.com/doctors-worry-grant-changes-will-derail-biomedical-science-74893"
+    }
+  ]
+}

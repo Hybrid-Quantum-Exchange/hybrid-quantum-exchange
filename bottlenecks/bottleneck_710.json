@@ -1,0 +1,18 @@
+{
+  "id": 710,
+  "domain": "space",
+  "title": "Producing structural metals from regolith",
+  "bottleneck": "A self-sufficient base needs steel, aluminum, and titanium — but extracting metals from lunar oxides requires carbothermal reduction (needing imported carbon), electrolysis at extreme temperatures, or vapor-phase processes, all enormously energy-intensive. The metal must then be cast, rolled, or printed in vacuum and low gravity, where molten metal behaves differently and contamination is hard to control. Earth industry does this with gigawatt-scale plants; a lunar version must fit in a lander.",
+  "why_it_blocks": "Without local metal production, every habitat module, spare part, and tool must be imported forever — the base never becomes more than an outpost.",
+  "current_state": "Lab demos of molten oxide electrolysis produce small metal samples; no integrated metal production and fabrication chain for space has been demonstrated.",
+  "sources": [
+    {
+      "title": "Lunar Soil Yields Oxygen and Water: Breakthrough in Space Resource Utilization",
+      "url": "https://www.archyde.com/lunar-soil-yields-oxygen-and-water-breakthrough-in-space-resource-utilization/"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

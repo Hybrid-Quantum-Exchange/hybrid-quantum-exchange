@@ -1,0 +1,14 @@
+{
+  "id": 387,
+  "domain": "medicine_cures",
+  "title": "Microglia-targeted therapeutics",
+  "bottleneck": "Microglia, the brain's resident immune cells, can adopt protective or toxic states, but human microglial biology differs substantially from mouse models, and tools to selectively modulate microglial states in patients are nascent. Key targets like TREM2 show complex, stage-dependent effects.",
+  "why_it_blocks": "Microglia sit at the intersection of genetics, since many Alzheimer's risk genes are microglial, inflammation, and clearance: a uniquely leveraged target if it can be controlled.",
+  "current_state": "TREM2 agonist antibodies and other microglial modulators are in early clinical trials. Human proof that microglial modulation alters neurodegeneration is still lacking. Human microglial models derived from stem cells are improving, but they still lack the aged, complex brain environment that shapes microglial behavior. Bridging that gap is a prerequisite for rational drug design.",
+  "sources": [
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

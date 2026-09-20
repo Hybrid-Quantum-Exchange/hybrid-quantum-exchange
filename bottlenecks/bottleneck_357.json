@@ -1,0 +1,14 @@
+{
+  "id": 357,
+  "domain": "medicine_cures",
+  "title": "Blood-brain barrier drug delivery for brain tumors",
+  "bottleneck": "The blood-brain barrier excludes more than 98% of small-molecule drugs and nearly all large biologics from the brain, so most effective cancer drugs never reach therapeutic concentrations in brain tumors or brain metastases. Surgical resection cannot remove infiltrative disease, and the barrier also limits antibodies, cell therapies, and gene therapies alike.",
+  "why_it_blocks": "Brain metastases occur in a large fraction of patients with metastatic solid cancers, and primary brain tumors remain almost uniformly fatal. Any therapy that cannot cross the barrier cannot cure disease behind it, making delivery, not just drug design, the limiting step.",
+  "current_state": "Approaches under study include focused ultrasound to transiently open the barrier, nanoparticle carriers, convection-enhanced delivery, and engineered barrier-shuttle antibodies, but none is yet a reliable, broadly available platform. Reviews of metastatic disease cite the protective metastatic microenvironment as a major hurdle for therapy.",
+  "sources": [
+    {
+      "title": "Cancer Metastasis: Overcoming Therapeutic Challenges and Unlocking Opportunities",
+      "url": "https://scienmag.com/cancer-metastasis-overcoming-therapeutic-challenges-and-unlocking-opportunities/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 292,
+  "domain": "compute_semiconductors",
+  "title": "Silicon interposer size and cost limits",
+  "bottleneck": "2.5D integration relies on silicon interposers, but reticle limits cap interposer size (~800 mm2 class), forcing multi-interposer stitching for the largest AI packages. Large interposers are expensive, fragile, and low-yield, and through-interposer vias add cost. Alternatives like organic or glass interposers trade electrical performance for size and cost.",
+  "why_it_blocks": "Interposer limits cap how many chiplets can be integrated at high bandwidth, constraining the largest AI accelerators. The industry's main disaggregation vehicle is itself hitting scaling walls.",
+  "current_state": "Large-body interposers and interposer-stitching are in production for flagship AI chips. Glass and organic alternatives are advancing but not yet performance-equivalent. Stitching multiple interposers adds assembly steps and failure points, raising cost exactly where disaggregation was supposed to save it.",
+  "sources": [
+    {
+      "title": "Patsnap: UCIe chiplet thermal design",
+      "url": "https://eureka.patsnap.com/report-thermal-design-for-2-5d-3d-ucie-chiplet-interconnect"
+    },
+    {
+      "title": "MDPI: 2.5D/3D chiplet thermal review",
+      "url": "https://www.mdpi.com/2673-4117/6/12/373"
+    }
+  ]
+}

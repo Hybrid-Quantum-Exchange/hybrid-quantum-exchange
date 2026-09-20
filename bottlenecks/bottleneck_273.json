@@ -1,0 +1,18 @@
+{
+  "id": 273,
+  "domain": "compute_semiconductors",
+  "title": "Spintronic logic speed and switching energy",
+  "bottleneck": "Spintronics (spin-transfer and spin-orbit torque devices) promise nonvolatile logic, but switching magnets is slower and more energy-hungry than charging CMOS gates at advanced nodes, and read/write asymmetry complicates circuit design. Scaling magnetic tunnel junctions below 10nm while retaining thermal stability fights fundamental superparamagnetic limits. Spintronic logic keeps losing the speed race to CMOS.",
+  "why_it_blocks": "Nonvolatile logic could eliminate standby power and enable instant-on computing, but only if it matches CMOS speed. Until switching energy and delay improve by orders of magnitude, spintronics stays confined to memory (MRAM) rather than logic.",
+  "current_state": "STT-MRAM is commercial as embedded memory, and spin-orbit-torque devices show faster switching in labs. Logic-grade speed and energy at scale remain unproven. Thermal stability requirements force larger magnetic volumes, which directly opposes the scaling needed for competitive density.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    }
+  ]
+}

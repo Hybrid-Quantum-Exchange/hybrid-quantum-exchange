@@ -1,0 +1,18 @@
+{
+  "id": 824,
+  "domain": "climate_environment",
+  "title": "Arctic shrubification feedback quantification",
+  "bottleneck": "Warming is converting tundra to shrubland across the Arctic, but whether this amplifies or dampens warming is unresolved: shrubs trap snow that insulates permafrost (warming it), darken the surface reducing albedo (warming), yet also sequester carbon and shade soils (cooling). The net feedback sign and magnitude are unknown, and models parameterize the transition crudely. Observations show rapid change while the feedback accounting lags years behind.",
+  "why_it_blocks": "The Arctic is warming four times faster than the global average, and vegetation feedbacks could substantially alter the trajectory — in either direction. Getting the sign wrong means misjudging how much carbon budget remains.",
+  "current_state": "Long-term observatories and remote sensing are documenting the greening in detail, and permafrost-carbon models are beginning to include vegetation dynamics. But the net feedback remains one of the largest uncertainties in Arctic climate projections.",
+  "sources": [
+    {
+      "title": "Permafrost and wetlands may add more warming than climate models expect",
+      "url": "https://www.earth.com/climate/warming-induced-emissions-climate-models/"
+    },
+    {
+      "title": "Thawing permafrost is affecting climate, but it's unclear by how much",
+      "url": "https://phys.org/news/2024-10-permafrost-affecting-climate-unclear.html"
+    }
+  ]
+}

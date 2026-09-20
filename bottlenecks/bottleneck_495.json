@@ -1,0 +1,18 @@
+{
+  "id": 495,
+  "domain": "health_longevity",
+  "title": "Zoonotic spillover prevention at the human-animal interface",
+  "bottleneck": "Most pandemics begin as zoonotic spillover, yet surveillance of wildlife, livestock, and live-animal markets is minimal, and the ecological drivers (deforestation, wildlife trade, intensive farming) are governed by ministries that do not coordinate with health authorities. Prevention is discussed but rarely funded as a health intervention.",
+  "why_it_blocks": "Stopping spillover is orders of magnitude cheaper than stopping a pandemic, but the institutional architecture treats it as an environmental issue, not a health-security one, so it falls between mandates.",
+  "current_state": "One Health frameworks are endorsed (including at the 2024 UN General Assembly for AMR) but weakly implemented. Genomic surveillance of animal reservoirs is concentrated in a few research programs. Metagenomic surveillance of wildlife markets and farms can flag high-risk viruses before spillover, yet sustained funding for animal-reservoir monitoring remains a fraction of human-disease spending.",
+  "sources": [
+    {
+      "title": "Preventing the Next Pandemic: WHO background guide (IAC)",
+      "url": "https://www.iacompetitions.com/wp-content/uploads/2025/05/World-Health-Organization_Preventing-the-Next-Pandemic.pdf"
+    },
+    {
+      "title": "Global challenges in preparedness and response to epidemic infectious diseases (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8864962/"
+    }
+  ]
+}

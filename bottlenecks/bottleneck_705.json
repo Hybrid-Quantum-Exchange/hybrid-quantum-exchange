@@ -1,0 +1,18 @@
+{
+  "id": 705,
+  "domain": "space",
+  "title": "Industrial-scale CO2 capture from the Martian atmosphere",
+  "bottleneck": "Mars' atmosphere is 95 percent CO2 but at 0.6 percent of Earth's pressure — capturing tons of it means filtering enormous volumes of thin, dusty gas through intakes that must not clog with perchlorate-laced dust. Compressors and separation membranes must run for years in the cold, dusty environment with no maintenance, and the capture rate sets the tempo for the entire propellant plant. Dust storms can choke intakes for months.",
+  "why_it_blocks": "Atmospheric CO2 is the carbon feedstock for methane propellant; the capture subsystem's throughput directly limits how fast a Mars base can fuel return vehicles.",
+  "current_state": "MOXIE filtered small amounts of CO2 for its experiments; no large-scale atmospheric intake or dust-tolerant compressor has been demonstrated on Mars.",
+  "sources": [
+    {
+      "title": "Lunar soil shows promise for in-situ oxygen and fuel production (Moon Daily)",
+      "url": "https://www.moondaily.com/reports/Lunar_soil_shows_promise_for_in_situ_oxygen_and_fuel_production_999.html"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

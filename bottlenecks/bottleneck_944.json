@@ -1,0 +1,18 @@
+{
+  "id": 944,
+  "domain": "food_water_agriculture",
+  "title": "Antibiotic use and resistance in livestock",
+  "bottleneck": "Livestock consume the majority of the world's antibiotics, much of it for growth promotion and prophylaxis in crowded conditions, accelerating antimicrobial resistance that kills over a million people yearly. Alternatives — vaccines, probiotics, better husbandry — exist but cost more or demand management skills industrial systems aren't built for; bans in one region shift production to unregulated ones. Bans in one region shift production to unregulated ones, and alternatives cost more or demand skills industrial systems lack.",
+  "why_it_blocks": "AMR is a slow pandemic, and animal agriculture is its largest driver. Failing to decouple protein production from antibiotics endangers modern medicine.",
+  "current_state": "The EU banned growth-promotion antibiotics; global livestock use keeps rising, concentrated in regions with weak oversight.",
+  "sources": [
+    {
+      "title": "A comprehensive review of livestock methane emissions: emission factors, quantification methods, and mitigation strategies",
+      "url": "https://link.springer.com/article/10.1007/s44187-024-00129-0"
+    },
+    {
+      "title": "Antimicrobial resistance: a One Health perspective",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10451764/"
+    }
+  ]
+}

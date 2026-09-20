@@ -1,0 +1,18 @@
+{
+  "id": 838,
+  "domain": "climate_environment",
+  "title": "Permafrost thaw infrastructure adaptation",
+  "bottleneck": "Arctic infrastructure — roads, pipelines, buildings, airstrips — was built on permafrost now thawing beneath it, with up to 70 percent of Arctic infrastructure at risk; but adaptation is blocked by unpredictable local thaw rates, the cost of thermosyphon and pile foundations, and the absence of building codes for thawing ground. Abrupt thaw can destroy a roadbed in a single season with no warning. Relocation is often the only durable option, and no funding mechanism exists for it.",
+  "why_it_blocks": "Thaw damage already costs Arctic communities hundreds of millions annually, threatening Indigenous settlements most. The engineering gap means infrastructure keeps being built to standards for a frozen ground that no longer exists.",
+  "current_state": "Adaptation techniques — adjustable foundations, passive cooling embankments — work where applied, and permafrost maps are improving. But systematic retrofitting programs and funded relocation pathways remain almost entirely absent.",
+  "sources": [
+    {
+      "title": "Abrupt thaw could boost permafrost carbon emissions, new study finds",
+      "url": "https://ecoss-nau.org/abrupt-thaw-could-boost-permafrost-carbon-emissions-new-study-finds/"
+    },
+    {
+      "title": "Permafrost and wetlands may add more warming than climate models expect",
+      "url": "https://www.earth.com/climate/warming-induced-emissions-climate-models/"
+    }
+  ]
+}

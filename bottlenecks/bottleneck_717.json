@@ -1,0 +1,18 @@
+{
+  "id": 717,
+  "domain": "space",
+  "title": "Who pays for active debris removal",
+  "bottleneck": "Removing one large debris object costs on the order of 86 million euros — ESA's ClearSpace-1 contract price — for a single object, with thousands of high-risk objects in orbit. The operators who created legacy debris often no longer exist; current operators argue they should not subsidize others' junk; governments fund demos but not operational-scale cleanup. It is a textbook tragedy of the commons: everyone benefits from cleaner orbits, nobody wants the bill, and no revenue model closes the gap.",
+  "why_it_blocks": "Without a payer, removal stays at demo scale while the debris population grows; economics, not technology, is the binding constraint on stabilizing low Earth orbit.",
+  "current_state": "ESA, JAXA, and startups fly demos; proposals for orbital-use fees and debris credits remain academic. No operational removal market exists.",
+  "sources": [
+    {
+      "title": "Space Debris and the Kessler Problem: A Reality Check",
+      "url": "https://medium.com/@marc.bara.iniesta/space-debris-and-the-kessler-problem-a-reality-check-99484cfa5e86"
+    },
+    {
+      "title": "Global Space Debris Removal Market Poised for Rapid Growth",
+      "url": "https://www.einpresswire.com/article/876135097/global-space-debris-removal-market-poised-for-rapid-growth-as-orbital-safety-becomes-a-strategic-priority"
+    }
+  ]
+}

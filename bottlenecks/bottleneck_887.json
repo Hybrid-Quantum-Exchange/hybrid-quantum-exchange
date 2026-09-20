@@ -1,0 +1,18 @@
+{
+  "id": 887,
+  "domain": "xr_interface",
+  "title": "BCI signal bandwidth vs thermal budget",
+  "bottleneck": "High-bandwidth BCIs generate gigabits of raw neural data per second, but implanted electronics must stay within strict thermal limits (brain tissue tolerates ~1C rise, capping implants at tens of milliwatts). Amplifying, digitizing, and transmitting thousands of channels overheats tissue unless data is compressed or processed on-chip, which costs more power. Bandwidth and heat are fundamentally at odds.",
+  "why_it_blocks": "The thermal ceiling caps how many neurons a BCI can ever record, limiting the richness of decoded intent. Physics, not engineering effort, sets the channel-count limit.",
+  "current_state": "On-chip spike detection and compression reduce telemetry, and low-power ASICs stretch budgets. Thousand-channel wireless implants within thermal limits are the current frontier. Every microwatt spent on telemetry is a microwatt unavailable for recording, forcing lossy compression of the neural data itself.",
+  "sources": [
+    {
+      "title": "qinnovates: BCI limits equation",
+      "url": "https://github.com/qinnovates/neurosecurity/blob/HEAD/research/bci-limits-equation.md"
+    },
+    {
+      "title": "Vectree: High-bandwidth BCI architecture",
+      "url": "https://vectree.io/pdf/c/neural-interface-signal-processing"
+    }
+  ]
+}

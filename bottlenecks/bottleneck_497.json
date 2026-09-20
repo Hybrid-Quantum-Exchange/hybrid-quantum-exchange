@@ -1,0 +1,18 @@
+{
+  "id": 497,
+  "domain": "health_longevity",
+  "title": "Dementia care systems and caregiver burden",
+  "bottleneck": "Dementia prevalence will triple by 2050 while no disease-modifying therapy exists, leaving care to fall on unpaid family caregivers with minimal training, respite, or financial support. Health systems are designed around acute episodes, not the decade-long progressive dependency dementia creates.",
+  "why_it_blocks": "The dementia crisis is a care crisis, not just a drug crisis: without scalable care models, even a future therapy arrives into systems that cannot support patients or their families.",
+  "current_state": "Anti-amyloid drugs offer marginal slowing at high cost and risk, and several health systems declined coverage. Dementia-friendly community programs and caregiver interventions show modest benefit but are not systematically funded. Dementia villages and caregiver-support programs improve quality of life in pilots, but scaling them requires workforce and funding models that no health system has committed to.",
+  "sources": [
+    {
+      "title": "Why Don't We Have a Cure for Alzheimer's? (WebMD)",
+      "url": "https://www.webmd.com/alzheimers/features/alzheimers-amyloid-hypothesis-rut"
+    },
+    {
+      "title": "Major Review Finds Alzheimer's Amyloid Drugs Offer No Real Benefit (SciTechDaily, Cochrane review)",
+      "url": "https://scitechdaily.com/major-review-finds-alzheimers-amyloid-drugs-offer-no-real-benefit/"
+    }
+  ]
+}

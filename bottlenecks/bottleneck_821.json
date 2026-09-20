@@ -1,0 +1,18 @@
+{
+  "id": 821,
+  "domain": "climate_environment",
+  "title": "Invasive species eradication at continental scale",
+  "bottleneck": "Invasive species are a leading driver of extinctions, but eradication works only on small islands; at continental scales, control is a permanent, expensive treadmill. Gene drives and biocontrol offer theoretical leverage but face ecological risks and regulatory barriers — a drive that escapes containment cannot be recalled. Early detection systems that could catch invasions when eradication is still feasible barely exist outside a few wealthy countries.",
+  "why_it_blocks": "Invasives already cost the global economy hundreds of billions annually and drive native species extinct at an accelerating rate. The scale gap means the problem grows faster than the response everywhere except tiny islands.",
+  "current_state": "New Zealand's Predator Free 2050 program is testing whether nation-scale eradication is possible, and eDNA surveillance is improving early detection. But no continent has reversed an established major invasion, and climate change keeps opening new pathways.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

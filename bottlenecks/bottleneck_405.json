@@ -1,0 +1,14 @@
+{
+  "id": 405,
+  "domain": "medicine_cures",
+  "title": "Antiviral drug resistance",
+  "bottleneck": "Resistance complicates long-term antiviral therapy for HIV, hepatitis B, herpesviruses, and influenza; HBV in particular requires lifelong nucleoside analogues with no finite cure, and resistant variants emerge under suboptimal treatment.",
+  "why_it_blocks": "Chronic viral infections demand lifelong suppression; resistance turns manageable disease back into progressive illness.",
+  "current_state": "High-barrier drug combinations manage HIV resistance well, but functional cure for HBV and resistance-proof regimens for other chronic viruses remain unsolved, and reservoir-eradication strategies are still experimental. For HIV, high-barrier combinations have made resistance manageable in adherent patients, but the latent reservoir means therapy can never stop. For hepatitis B, the integrated viral DNA reservoir similarly defeats finite therapy. Reservoir-eradication strategies being explored for HIV, such as latency reversal plus targeted killing, may eventually inform approaches to other chronic viruses.",
+  "sources": [
+    {
+      "title": "HIV-Free Hopes Raised by Reservoir-Targeting VLPs",
+      "url": "https://www.genengnews.com/news/hiv-free-hopes-raised-by-reservoir-targeting-vlps/"
+    }
+  ]
+}

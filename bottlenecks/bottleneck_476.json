@@ -1,0 +1,18 @@
+{
+  "id": 476,
+  "domain": "health_longevity",
+  "title": "Circadian rhythm disruption in older adults",
+  "bottleneck": "Aging degrades circadian amplitude: the suprachiasmatic nucleus loses neurons, melatonin secretion falls, and sleep fragments. Disrupted rhythms worsen metabolic disease, cognitive decline, and immune function, but it is unclear how much is reversible clock dysfunction versus irreversible neural loss.",
+  "why_it_blocks": "Circadian disruption is one of the few aging mechanisms addressable without drugs (light, timing, sleep), yet it is rarely treated as a medical target. Cracking reversibility would unlock a cheap, scalable healthspan lever.",
+  "current_state": "Light therapy, timed melatonin, and sleep hygiene help symptomatically. Chronotherapy (timing drugs to circadian phase) is underused. No therapy restores youthful clock amplitude. Time-restricted feeding and bright-light protocols can partially restore rhythm amplitude in older adults, yet adherence is poor and the central clock's neuronal loss appears irreversible.",
+  "sources": [
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    },
+    {
+      "title": "Non-Invasive Drug Delivery across the Blood-Brain Barrier: A Prospective Analysis (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10674293/"
+    }
+  ]
+}

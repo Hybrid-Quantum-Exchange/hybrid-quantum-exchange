@@ -1,0 +1,18 @@
+{
+  "id": 351,
+  "domain": "artificial_intelligence",
+  "title": "Context engineering and provenance in RAG systems",
+  "bottleneck": "Production AI fails most often not in the model but in the context pipeline: stale chunks, inconsistent semantics, missing versioning, ungoverned metadata, and no record of what the model actually used versus ignored. Engineers rank context as the most fragile layer, yet there's no standard for context provenance — which documents, which versions, retrieved why — making failures undebuggable and unrepeatable.",
+  "why_it_blocks": "Enterprises can't deploy AI on their data when nobody can explain what information drove a decision or reproduce it later.",
+  "current_state": "Vector databases and RAG frameworks proliferate, but production surveys find almost no evaluation layer for context; most teams rely on manual spot checks. Vector databases and RAG frameworks proliferate, but production surveys find almost no evaluation layer for context; most teams rely on manual spot checks.",
+  "sources": [
+    {
+      "title": "The Real Bottlenecks in Production AI",
+      "url": "https://medium.com/@artiquare/the-real-bottlenecks-in-production-ai-3c4e5df5abf3"
+    },
+    {
+      "title": "Model Evaluation Standards - reflexive-ai",
+      "url": "https://github.com/reflexive-ai/reflexive-ai.github.io/blob/HEAD/src/content/research/049-model-evaluation-standards.md"
+    }
+  ]
+}

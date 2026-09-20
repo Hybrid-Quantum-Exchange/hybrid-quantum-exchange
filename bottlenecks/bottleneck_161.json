@@ -1,0 +1,18 @@
+{
+  "id": 161,
+  "domain": "energy",
+  "title": "Stellarator coil manufacturing precision",
+  "bottleneck": "Stellarators confine plasma with intricately shaped 3D magnetic coils that must be built to millimeter precision over tens of meters. Any deviation creates magnetic field errors that degrade confinement. Wendelstein 7-X demonstrated the physics, but its coils took over a decade to build at enormous cost. High-temperature superconductors could shrink stellarators, yet winding brittle REBCO tape into complex 3D shapes without degrading it is unsolved.",
+  "why_it_blocks": "Stellarators avoid tokamaks' disruption and current-drive problems, but only if their coils can be manufactured affordably and precisely. Otherwise they remain one-off physics experiments rather than power-plant templates.",
+  "current_state": "W7-X proved steady-state stellarator confinement. Startups are pursuing HTS stellarators with simplified coil designs, but precision HTS 3D coil manufacturing is still developmental.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Reliable Nuclear Fusion Will Require New Heat- and Radiation-Resilient Materials",
+      "url": "http://www.ien.com/product-development/article/22924037/reliable-nuclear-fusion-will-require-new-heat-and-radiationresilient-materials"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 441,
+  "domain": "medicine_cures",
+  "title": "Chronic wound healing (diabetic foot ulcers)",
+  "bottleneck": "Diabetic foot ulcers precede about 85% of diabetes-related amputations; impaired angiogenesis, neuropathy, infection, and biofilm formation stall healing, and standard care fails in a large fraction of cases. Each amputation carries high mortality and cost.",
+  "why_it_blocks": "A preventable cascade, from ulcer to infection to amputation to death, continues because wounds in metabolically impaired tissue resist healing.",
+  "current_state": "Advanced dressings, growth factors, skin substitutes, and offloading improve outcomes, but no therapy reliably heals refractory ulcers. Prevention and early intervention remain the main levers. Biofilms within chronic wounds resist both antibiotics and immune clearance, mirroring the implant-infection problem. Advanced biologics and skin substitutes help some patients, but the underlying metabolic impairment means recurrence is common without sustained preventive care.",
+  "sources": [
+    {
+      "title": "WHO releases new reports on new tests and treatments in development for bacterial infections",
+      "url": "https://www.who.int/news/item/02-10-2025-who-releases-new-reports-on-new-tests-and-treatments-in-development-for-bacterial-infections"
+    }
+  ]
+}

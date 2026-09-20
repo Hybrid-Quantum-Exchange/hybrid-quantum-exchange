@@ -1,0 +1,18 @@
+{
+  "id": 973,
+  "domain": "coordination",
+  "title": "The Capability-Control Gap in AI Development",
+  "bottleneck": "Frontier AI capabilities advance faster than the science of evaluation, interpretability, and alignment, widening the gap between what systems can do and what developers can demonstrate is safe. Competitive pressure punishes labs that slow down for safety work, as Anthropic's 2026 retreat from its own scaling-commitment thresholds illustrated. Each generation of models is trained with techniques less understood than the last, from RLHF to open-ended agentic training.",
+  "why_it_blocks": "A growing capability-control gap means each generation of models is deployed with less relative assurance than the last.",
+  "current_state": "Adaptive governance proposals would gate development on demonstrated control, but no jurisdiction has implemented capability-linked obligations. Pausing until assurance catches up is economically punishing for any single lab, creating a collective action problem.",
+  "sources": [
+    {
+      "title": "From Pacing the Frontier to Governing the Frontier (Access Partnership)",
+      "url": "https://accesspartnership.com/opinion/from-pacing-the-frontier-to-governing-the-frontier/"
+    },
+    {
+      "title": "AI Leaders Support Call to Slow Pace of Frontier Development (IAPP)",
+      "url": "https://iapp.org/news/a/ai-leaders-support-call-to-slow-pace-of-frontier-development-as-safety-concerns-grow"
+    }
+  ]
+}

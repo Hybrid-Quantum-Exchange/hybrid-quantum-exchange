@@ -1,0 +1,18 @@
+{
+  "id": 999,
+  "domain": "coordination",
+  "title": "Demographic Coordination and Fertility Policy",
+  "bottleneck": "Falling fertility across developed and much of the developing world threatens long-run research capacity, economic dynamism, and the tax base supporting science — yet pro-natal policies show weak, inconsistent effects and no country has a proven model. The drivers (housing costs, career timing, cultural shifts) span policy domains that do not coordinate. No wealthy country has found policies that reliably raise fertility, and the economic stakes grow as populations age.",
+  "why_it_blocks": "A shrinking pipeline of future researchers and taxpayers undermines every long-term scientific plan.",
+  "current_state": "Nordic and East Asian experiments with family policy have moved fertility only modestly; the bottleneck is genuinely unsolved. The drivers are cultural and economic in ways that resist policy levers, making this a genuinely hard problem.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

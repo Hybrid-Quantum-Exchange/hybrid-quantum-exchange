@@ -1,0 +1,18 @@
+{
+  "id": 772,
+  "domain": "materials",
+  "title": "Perovskite solar cell long-term stability",
+  "bottleneck": "Perovskite photovoltaics match silicon efficiency in the lab at a fraction of the processing cost, but they degrade under heat, moisture, UV, and even light itself, as volatile organic cations escape and phase segregation ruins the absorber. Encapsulation slows the decay but adds cost and has not yet delivered the 25-year warranties the solar industry requires. Lead toxicity adds a further barrier to deployment.",
+  "why_it_blocks": "Solar is the cheapest new electricity source, and perovskites could make it cheaper still while enabling flexible and tandem applications. Stability failures keep bankable, warrantied perovskite modules off the market, so silicon keeps its monopoly and its higher manufacturing footprint.",
+  "current_state": "Perovskite-silicon tandems have passed IEC-style accelerated tests from some manufacturers, and all-inorganic compositions show better intrinsic stability. But field data over decades — the only proof that matters for financing — does not yet exist.",
+  "sources": [
+    {
+      "title": "Role of Nanoarchitected Mechanical Metamaterials in Renewable Energy Systems",
+      "url": "https://eureka.patsnap.com/report-role-of-nanoarchitected-mechanical-metamaterials-in-renewable-energy-systems"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    }
+  ]
+}

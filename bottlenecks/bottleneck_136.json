@@ -1,0 +1,18 @@
+{
+  "id": 136,
+  "domain": "cosmology_multiverse",
+  "title": "The Black Hole Information Paradox",
+  "bottleneck": "Hawking radiation appears to destroy quantum information, contradicting unitarity; proposed resolutions (firewalls, islands, soft hair, final-state projection) conflict with each other and with cherished principles like locality or the equivalence principle. Recent 'island' computations reproduce the Page curve but rely on replica wormholes whose physical meaning is disputed. The island prescription computes the right entropy curve but its derivation assumes replica wormholes dominate, a step some consider unjustified.",
+  "why_it_blocks": "The paradox sits at the exact intersection of quantum mechanics and gravity, so its resolution dictates the shape of quantum gravity.",
+  "current_state": "No consensus resolution exists after 50 years; the paradox remains the sharpest thought-experiment in fundamental physics. Resolving the paradox likely requires giving up at least one cherished principle, and physicists disagree on which.",
+  "sources": [
+    {
+      "title": "On the Impossibility of Precise Verification of Models of Quantum Gravity (arXiv:2309.07203)",
+      "url": "https://arxiv.org/abs/2309.07203?context=hep-th"
+    },
+    {
+      "title": "The Landscape and the Multiverse: What's the Problem? (Synthese)",
+      "url": "https://link.springer.com/article/10.1007/s11229-021-03137-0"
+    }
+  ]
+}

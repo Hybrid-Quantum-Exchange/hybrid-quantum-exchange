@@ -1,0 +1,14 @@
+{
+  "id": 382,
+  "domain": "medicine_cures",
+  "title": "Huntington's disease gene-silencing delivery",
+  "bottleneck": "Huntington's is caused by a single known mutation, expanded CAG repeats in the huntingtin gene, making it theoretically curable by gene silencing, yet delivering antisense oligonucleotides, siRNA, or gene editors throughout the deep brain structures affected remains the central obstacle. Early huntingtin-lowering trials produced disappointing or concerning results.",
+  "why_it_blocks": "A monogenic, fully penetrant neurodegeneration should be the easiest to cure; failure here signals how far delivery technology must go.",
+  "current_state": "Next-generation splice modulators, allele-selective silencers, and AAV-delivered approaches are in trials, as the gene-therapy field confronts immune barriers and dosing limits. Safe, durable, brain-wide huntingtin lowering has not yet been achieved. Because the mutation is known and fully penetrant, Huntington's remains the cleanest test of whether gene-silencing delivery can be solved for the brain. Success here would unlock similar approaches for other monogenic brain diseases.",
+  "sources": [
+    {
+      "title": "Is AAV gene therapy at a turning point?",
+      "url": "https://www.drugdiscoverynews.com/is-aav-gene-therapy-at-a-turning-point-16755"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 872,
+  "domain": "xr_interface",
+  "title": "Haptic glove force-feedback density",
+  "bottleneck": "Realistic touch needs per-finger force feedback that can resist motion (kinesthetic) plus skin-level texture (tactile), but actuators small enough for gloves are weak, bulky, power-hungry, or slow. Current gloves do vibration or limited force on a few fingers; full-hand, high-fidelity force feedback remains a lab exoskeleton. Heat and battery add more bulk.",
+  "why_it_blocks": "Without convincing hand haptics, virtual objects feel like ghosts: you see your hand pass through what your eyes say is solid. The hand is where the reality gap is most keenly felt.",
+  "current_state": "Commercial haptic gloves offer vibrotactile feedback with limited force; research exoskeletons demonstrate strong force feedback at the cost of wearability. No glove combines fidelity, comfort, and affordability. Actuators strong enough to resist a finger are too large to fit ten of them in a glove, forcing a choice between coverage and strength.",
+  "sources": [
+    {
+      "title": "Frontiers in VR: Haptic feedback & embodiment",
+      "url": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2020.573167"
+    },
+    {
+      "title": "Frontiers: Tactile & kinesthetic shape rendering",
+      "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1298537"
+    }
+  ]
+}

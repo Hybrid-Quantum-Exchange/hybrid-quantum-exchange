@@ -1,0 +1,18 @@
+{
+  "id": 903,
+  "domain": "xr_interface",
+  "title": "Display refresh rate vs motion clarity",
+  "bottleneck": "High refresh rates (120Hz+) reduce motion blur and sickness, but each frame halves the GPU time budget and doubles display bandwidth and power. Low-persistence displays cut blur but dim the image, demanding brighter backlights. Mobile VR must choose between smooth motion and rich scenes.",
+  "why_it_blocks": "Motion clarity directly affects comfort and realism; judder and blur break presence and sicken users. The refresh-rate war is fought against power and GPU budgets.",
+  "current_state": "120Hz+ is standard on flagship headsets with reprojection filling gaps, but native high-refresh rendering of complex scenes on mobile chips remains constrained. Reprojection fills missed frames but introduces artifacts of its own, trading judder for ghosting rather than solving the budget problem. Display bandwidth for true high-refresh 4K-per-eye exceeds what mobile interfaces deliver, forcing compression with its own artifacts.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "InAirSpace: VR motion sickness",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-makes-me-feel-sick-understanding-and-overcoming-simulator-sickness"
+    }
+  ]
+}

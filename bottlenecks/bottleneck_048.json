@@ -1,0 +1,14 @@
+{
+  "id": 48,
+  "domain": "fundamental_physics",
+  "title": "Gauge coupling unification: precision and the desert",
+  "bottleneck": "The three Standard Model gauge couplings nearly meet at high energies but miss exact unification without new physics, and the classic supersymmetric fix is strained by LHC null results. Whether unification is real physics or numerology depends on unknown particles in the vast desert between the weak and GUT scales.",
+  "why_it_blocks": "Coupling unification was the strongest quantitative hint for physics beyond the Standard Model; if it dissolves, the case for grand unification loses its empirical anchor.",
+  "current_state": "Precision measurements keep the near-miss intriguing but inconclusive, and non-supersymmetric unification with intermediate thresholds remains viable though increasingly baroque. Threshold corrections at the GUT scale introduce uncertainties comparable to the apparent unification itself, and the desert assumption of no new physics over thirteen orders of magnitude is itself untested.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

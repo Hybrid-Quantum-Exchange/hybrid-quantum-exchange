@@ -1,0 +1,18 @@
+{
+  "id": 664,
+  "domain": "space",
+  "title": "Light-sail materials surviving gigawatt laser irradiation",
+  "bottleneck": "Breakthrough Starshot-style missions would push gram-scale sails to a fraction of light speed with ~100-gigawatt laser arrays, but no known material combines the required properties: near-perfect reflectivity at the laser wavelength, near-zero absorption (absorbed energy vaporizes the sail), gram-scale areal density, and tolerance for Doppler-shifted wavelengths as the sail recedes. Metals like gold and silver reflect well but absorb too much to survive; candidates like crystalline silicon and molybdenum disulfide have some right properties but none has the full set.",
+  "why_it_blocks": "Beamed sails are the only near-term credible path to interstellar flight within a human lifetime; without a survivable sail material, the concept cannot proceed past paper studies.",
+  "current_state": "Researchers propose nanostructured sails — hexagonal hole lattices, alternating nanometer layers — to boost reflectivity and cut mass, but these remain lab concepts. No sail has flown under anything approaching Starshot-level irradiation.",
+  "sources": [
+    {
+      "title": "Building Sails for Tiny Interstellar Probes Will Be Tough — But Not Impossible (Space.com)",
+      "url": "https://www.space.com/40512-breatkthrough-starshot-interstellar-sail-technology.html&"
+    },
+    {
+      "title": "We might soon have the technology to reach other star systems (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/we-might-soon-have-the-technology-to-reach-other-star-systems/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 255,
+  "domain": "compute_semiconductors",
+  "title": "Photonic foundry PDK and design automation maturity",
+  "bottleneck": "Designing photonic integrated circuits still relies on immature process design kits, fragmented EDA tools, and manual layout, unlike the mature digital CMOS flow. Foundry processes vary widely, statistical models for yield are thin, and co-simulation of electronics and photonics is clumsy. This raises design cost and risk, deterring fabless startups.",
+  "why_it_blocks": "A weak design ecosystem throttles innovation: great photonic device ideas die because taping out is expensive, slow, and unpredictable. The CMOS revolution was as much about design automation as devices; photonics lacks that flywheel.",
+  "current_state": "Multi-project-wafer services and open PDKs (e.g., from several foundries and research institutes) are improving access, and EDA vendors are adding photonic tooling. The ecosystem remains years behind CMOS in maturity and standardization.",
+  "sources": [
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    },
+    {
+      "title": "TomorrowDesk: Silicon Photonics challenges",
+      "url": "https://tomorrowdesk.com/future/silicon-photonic"
+    }
+  ]
+}

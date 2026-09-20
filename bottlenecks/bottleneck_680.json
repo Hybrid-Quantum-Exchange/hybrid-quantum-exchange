@@ -1,0 +1,18 @@
+{
+  "id": 680,
+  "domain": "space",
+  "title": "Interstellar dust and gas erosion at relativistic speeds",
+  "bottleneck": "At a tenth of light speed, even the near-vacuum between stars becomes a sandblaster: each interstellar hydrogen atom strikes with particle-accelerator energy, and micron-scale dust grains hit like artillery. A gram-scale Starshot probe would be eroded, charged, and potentially destroyed over a 20-year cruise, while shielding adds mass the laser must then push. The interstellar medium's density and dust distribution along any specific trajectory are poorly measured, so designers cannot even quantify the threat precisely.",
+  "why_it_blocks": "This is a hard physics limit on how fast any probe can go and how light it can be — it may force slower cruises or heavier shielding that unravel the beamed-sail mass budget.",
+  "current_state": "Laboratory hypervelocity impact studies and astronomical dust models exist, but no spacecraft has flown at relativistic speed; erosion models are unvalidated extrapolations.",
+  "sources": [
+    {
+      "title": "We might soon have the technology to reach other star systems (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/we-might-soon-have-the-technology-to-reach-other-star-systems/"
+    },
+    {
+      "title": "An aerospace scientist unpacks the challenges of interstellar spaceflight (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/could-aliens-ever-visit-earth-an-aerospace-scientist-unpacks-the-challenges-of-interstellar-spaceflight/"
+    }
+  ]
+}

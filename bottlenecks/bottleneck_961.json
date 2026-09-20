@@ -1,0 +1,18 @@
+{
+  "id": 961,
+  "domain": "coordination",
+  "title": "Lottery and Egalitarian Funding Models Untested at Scale",
+  "bottleneck": "Alternatives to peer review — funding lotteries among qualified proposals, or equal baseline grants to all qualified researchers — have theoretical and small-scale support but have never been tested at national scale. Calculations suggest egalitarian distribution could sustain current lab sizes, yet no major funder has committed to a real trial. Critics warn that lotteries could fund weak science and erode accountability, though evidence from small trials does not support these fears.",
+  "why_it_blocks": "Without large-scale experiments, reform debates recycle the same untested arguments and the incumbent system persists by default.",
+  "current_state": "New Zealand's Health Research Council and some private funders run small lotteries; no NIH/NSF-scale trial exists. A large, randomized trial of funding mechanisms would settle the debate but no funder has volunteered.",
+  "sources": [
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    },
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    }
+  ]
+}

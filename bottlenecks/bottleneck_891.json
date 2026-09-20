@@ -1,0 +1,18 @@
+{
+  "id": 891,
+  "domain": "xr_interface",
+  "title": "Bidirectional BCI safe stimulation limits",
+  "bottleneck": "Writing information back into the brain (sensory feedback) requires electrical stimulation, but charge-injection limits (Shannon criteria) cap safe stimulation per electrode to avoid tissue damage. Current materials (platinum) allow only tens of microC/cm2; delivering rich, naturalistic sensation needs far more. Bidirectional BCIs are bottlenecked by electrochemistry.",
+  "why_it_blocks": "Without safe, high-fidelity stimulation, BCIs are read-only: users get no touch, proprioception, or natural feedback, capping prosthetic dexterity and VR neural interfaces. The write path is the missing half.",
+  "current_state": "Coatings like PEDOT push charge-injection limits higher, and stimulation paradigms are improving. Naturalistic, high-bandwidth, chronic-safe neural stimulation remains out of reach. Safe charge limits force stimulation to stay weak and coarse, far from the rich patterns needed for natural-feeling sensation.",
+  "sources": [
+    {
+      "title": "qinnovates: BCI limits equation",
+      "url": "https://github.com/qinnovates/neurosecurity/blob/HEAD/research/bci-limits-equation.md"
+    },
+    {
+      "title": "ScienceTimes: Neural interface challenges",
+      "url": "https://www.sciencetimes.com/articles/61522/20260323/how-brain-computer-interfaces-use-neural-interface-technology-read-human-mind.htm"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 97,
+  "domain": "cosmology_multiverse",
+  "title": "The Cosmological Constant Vacuum-Energy Problem",
+  "bottleneck": "Quantum field theory predicts a vacuum energy roughly 10^120 times larger than the observed dark energy density — the worst quantitative disagreement in physics. Proposed resolutions (supersymmetry, anthropic selection, dynamical cancellation) either fail or are untestable, and no mechanism is known that naturally yields the tiny observed value. Anthropic selection in a multiverse is the most cited escape route, but it replaces a physics explanation with an environmental one that many find unsatisfying.",
+  "why_it_blocks": "This 120-order-of-magnitude gap means our theories of gravity and quantum fields are jointly wrong somewhere fundamental.",
+  "current_state": "The problem is as open as in 1989; DESI's hint of evolving dark energy would sidestep rather than solve it, since a dynamical field still needs its own small energy scale explained. No proposed solution commands majority support; the problem is routinely called the deepest crisis in theoretical physics.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "Dark Matter, Dark Energy, and the Unanswered Questions of Cosmology (AnewZ)",
+      "url": "http://anewz.tv/ai-next/science-news/3679/dark-matter-dark-energy-and-the-unanswered-questions-of-cosmology/news"
+    }
+  ]
+}

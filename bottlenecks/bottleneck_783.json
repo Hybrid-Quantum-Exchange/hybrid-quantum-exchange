@@ -1,0 +1,18 @@
+{
+  "id": 783,
+  "domain": "materials",
+  "title": "Quantum dot synthesis uniformity for displays",
+  "bottleneck": "Quantum dots give displays purer colors and better efficiency, but commercial value depends on size uniformity within a few percent — any spread broadens emission and washes out color. Batch synthesis inherently produces distributions that need wasteful purification, and continuous-flow reactors improve consistency but struggle with the core-shell structures that give dots their stability. Cadmium-free dots that match cadmium performance add another constraint.",
+  "why_it_blocks": "Displays are a multi-hundred-billion-dollar market where quantum dots could cut power and improve color, but uniformity-limited yields keep costs high. The same synthesis problem blocks quantum dots in solar cells and medical imaging, where monodispersity matters even more.",
+  "current_state": "Flow-chemistry production has improved batch-to-batch consistency for display-grade dots, and indium phosphide dots now serve the premium TV market. But cheap, perfectly uniform, heavy-metal-free quantum dots at commodity scale remain a process engineering challenge.",
+  "sources": [
+    {
+      "title": "Nanoarchitected Mechanical Metamaterials for Enhanced Surface Roughness Control",
+      "url": "https://eureka.patsnap.com/report-nanoarchitected-mechanical-metamaterials-for-enhanced-surface-roughness-control"
+    },
+    {
+      "title": "How Nanoarchitected Mechanical Metamaterials Revolutionize Packaging Industries",
+      "url": "https://eureka.patsnap.com/report-how-nanoarchitected-mechanical-metamaterials-revolutionize-packaging-industries"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 738,
+  "domain": "materials",
+  "title": "Scalable single-flux-quantum superconducting electronics",
+  "bottleneck": "Single-flux-quantum logic can switch at hundreds of gigahertz with a fraction of CMOS energy, but fabrication lacks the yield and integration density of semiconductors. Niobium junction processes top out at tens of thousands of junctions per chip versus billions of transistors, and there is no mature EDA toolchain or foundry ecosystem. Magnetic crosstalk and bias-current distribution further limit scaling.",
+  "why_it_blocks": "Data centers already consume a few percent of global electricity, and superconducting logic is one of the few paths to orders-of-magnitude efficiency gains in computing. Without scalable fabrication, it stays a laboratory curiosity while silicon hits its own power walls.",
+  "current_state": "Research programs continue to push junction counts and develop cryogenic memory to pair with SFQ logic, but no commercial foundry offers the process. Progress depends on sustained investment that the field has struggled to attract without a killer application.",
+  "sources": [
+    {
+      "title": "How Close Are We to Superconductors That Are Actually Practical?",
+      "url": "https://gizmodo.com/?p=2000814055"
+    },
+    {
+      "title": "In search of a room-temperature superconductor, scientists present a research agenda",
+      "url": "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html"
+    }
+  ]
+}

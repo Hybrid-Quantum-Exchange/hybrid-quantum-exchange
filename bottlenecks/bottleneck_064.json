@@ -1,0 +1,14 @@
+{
+  "id": 64,
+  "domain": "fundamental_physics",
+  "title": "The Hubble tension: early versus late universe expansion",
+  "bottleneck": "The cosmic microwave background implies a Hubble constant near 67 km/s/Mpc while local distance ladders measure about 73, a discrepancy now exceeding five sigma that has survived years of scrutiny on both sides. No single systematic error has been found, yet no new-physics model explains all the data cleanly.",
+  "why_it_blocks": "A five-sigma crack in the standard cosmological model either reveals new physics or exposes unknown systematics in precision cosmology's flagship measurements; either way the model is incomplete.",
+  "current_state": "Early dark energy, modified recombination, and interacting dark sector models can ease the tension but tend to worsen fits elsewhere, leaving the field without a compelling resolution. Gravitational-wave standard sirens offer a completely independent distance ladder that could break the deadlock within the next decade.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 853,
+  "domain": "xr_interface",
+  "title": "Cybersickness from vestibular-visual mismatch",
+  "bottleneck": "When the eyes report motion that the inner ear doesn't feel (or vice versa), the sensory conflict triggers nausea, dizziness, and disorientation in a large fraction of users. Artificial locomotion via thumbstick is the worst offender, and dropped frames or reprojection artifacts amplify it. Comfort settings (vignetting, teleportation) reduce sickness only by reducing immersion.",
+  "why_it_blocks": "Cybersickness is the single biggest adoption barrier for VR: a substantial share of the population can't use it comfortably at all. Every application requiring virtual movement must choose between comfort and presence.",
+  "current_state": "Higher refresh rates, lower latency, and inside-out tracking have reduced but not eliminated sickness; susceptibility varies widely and 'VR legs' don't develop for everyone. No universal countermeasure exists. Susceptibility varies widely between individuals, so no single comfort preset works for the whole population.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR motion sickness",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-makes-me-feel-sick-understanding-and-overcoming-simulator-sickness"
+    },
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    }
+  ]
+}

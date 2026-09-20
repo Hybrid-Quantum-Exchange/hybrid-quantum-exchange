@@ -1,0 +1,18 @@
+{
+  "id": 844,
+  "domain": "climate_environment",
+  "title": "Insurance retreat and climate risk modeling",
+  "bottleneck": "Insurers are withdrawing from fire- and flood-prone regions because catastrophe models cannot price accelerating climate risk: historical loss data no longer predicts future losses, correlated extremes break diversification assumptions, and granular forward-looking models do not exist at the parcel level. The result is an insurance death spiral — withdrawal raises uninsured losses, which raises risk, which accelerates withdrawal. Mortgage markets built on mandatory insurance face systemic risk.",
+  "why_it_blocks": "Insurance is the financial infrastructure of homeownership and much commercial lending; its retreat strands trillions in assets and pushes costs onto taxpayers via insurer-of-last-resort schemes. The modeling gap turns a risk-transfer problem into a financial stability problem.",
+  "current_state": "Parametric insurance and public reinsurance backstops are expanding, and catastrophe modeling is incorporating climate projections. But no model yet credibly prices 2050-era extremes at property scale, and retreat is outpacing model improvement.",
+  "sources": [
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

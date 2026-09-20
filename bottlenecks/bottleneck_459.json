@@ -1,0 +1,18 @@
+{
+  "id": 459,
+  "domain": "health_longevity",
+  "title": "Stem cell exhaustion and aging of stem cell niches",
+  "bottleneck": "Tissue stem cells decline in number and function with age, but the defect is often in the niche (the signaling microenvironment) rather than the stem cells themselves: young stem cells transplanted into old niches fail, old stem cells in young niches partially recover. Rejuvenating niches systemically without triggering uncontrolled proliferation is unsolved.",
+  "why_it_blocks": "Regeneration of muscle, blood, gut, and brain all depend on stem cell pools. If niches cannot be restored, endogenous repair keeps failing and every regenerative medicine approach fights an uphill, aged environment.",
+  "current_state": "Heterochronic parabiosis and young-plasma factors (e.g., GDF11 controversies, oxytocin) rejuvenate aged stem cells in mice, but human translation has stalled and commercial 'young plasma' clinics outran the evidence.",
+  "sources": [
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    },
+    {
+      "title": "An Age-Old Problem: how aging research should be done (Newswise, Harvard)",
+      "url": "https://www.newswise.com/articles/an-age-old-problem?sc=rsla"
+    }
+  ]
+}

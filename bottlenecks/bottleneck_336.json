@@ -1,0 +1,18 @@
+{
+  "id": 336,
+  "domain": "artificial_intelligence",
+  "title": "Safety evaluation for dual-use science",
+  "bottleneck": "The same model that accelerates biology and chemistry research can accelerate bioweapon and chemical-weapon development, and we have no validated way to measure where the line is. Capability evaluations for uplift — how much a model helps a malicious actor — are nascent, contested, and easy to game; labs disagree on thresholds and evaluations lag the models. Under-measuring risks catastrophe; over-measuring blocks legitimate science.",
+  "why_it_blocks": "This is the evaluation problem with the highest stakes: a wrong answer in either direction costs lives or cripples beneficial research.",
+  "current_state": "Labs publish biosecurity evaluations of varying rigor; experts warn weak methods fuel misleading claims about safety. Labs publish safety evaluations for dual-use domains, but the refusal benchmarks are narrow and easily circumvented.",
+  "sources": [
+    {
+      "title": "Many safety evaluations for AI models have significant limitations | TechCrunch",
+      "url": "https://bestofai.com/article/many-safety-evaluations-for-ai-models-have-significant-limitations-techcrunch"
+    },
+    {
+      "title": "The Persistence of Vulnerability: Unsolved Challenges in Artificial Intelligence Risk Management (2016–2026)",
+      "url": "https://sgws.jesse.do/the-persistence-of-vulnerability-unsolved-challenges-in-artificial-intelligence-risk-management-2016-2026/"
+    }
+  ]
+}

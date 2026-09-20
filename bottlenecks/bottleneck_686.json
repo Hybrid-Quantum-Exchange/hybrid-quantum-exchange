@@ -1,0 +1,18 @@
+{
+  "id": 686,
+  "domain": "space",
+  "title": "Perchlorate detoxification of Martian regolith at scale",
+  "bottleneck": "Martian soil contains perchlorates at levels toxic to humans — they disrupt thyroid function and are dangerous even in trace amounts for fetal development — and they are globally distributed. Any agriculture, dust exposure, or water extraction from regolith must first remove or neutralize them. Lab methods exist (washing, microbial reduction, thermal decomposition), but scaling to tons of soil for a farm, with limited water and power, while preventing recontamination by windblown dust, is unsolved.",
+  "why_it_blocks": "Perchlorates sit directly in the path of both food production and crew health; they make 'just add water to Martian soil' impossible and add a processing step to every regolith-handling operation.",
+  "current_state": "Microbial perchlorate reduction and washing are demonstrated at lab scale; mitigation via microbes or genetic engineering is an emerging strategy. No field-scale demonstration on Mars exists.",
+  "sources": [
+    {
+      "title": "Biomaterials for organically generated habitats beyond Earth (Science Advances)",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adp4985"
+    },
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    }
+  ]
+}

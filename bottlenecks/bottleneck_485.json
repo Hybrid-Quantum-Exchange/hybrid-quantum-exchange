@@ -1,0 +1,18 @@
+{
+  "id": 485,
+  "domain": "health_longevity",
+  "title": "Cancer risk of pro-regenerative anti-aging interventions",
+  "bottleneck": "Every powerful rejuvenation lever (telomerase activation, Yamanaka reprogramming, stem cell expansion, growth-factor signaling) overlaps mechanistically with cancer: the same pathways that restore youthful proliferation can immortalize a precancerous cell. The field has no general framework for rejuvenating tissues without increasing malignancy risk.",
+  "why_it_blocks": "Cancer is already the leading cause of death in the 'successfully aged.' If anti-aging therapies trade one aging disease for more cancer, they fail the fundamental test of extending healthy life.",
+  "current_state": "This tradeoff is managed case-by-case (e.g., cyclical reprogramming to avoid tumors) rather than solved. Long-term cancer surveillance data from any human rejuvenation trial do not yet exist. Progeroid mouse models tolerate reprogramming better than wild-type animals, hinting the cancer-rejuvenation tradeoff may depend on baseline damage burden, but this is untested in humans.",
+  "sources": [
+    {
+      "title": "Epigenetic Reprogramming as a Key to Reverse Ageing and Increase Longevity (ResearchGate review)",
+      "url": "https://www.researchgate.net/publication/377642874_Epigenetic_Reprogramming_as_a_Key_to_Reverse_Ageing_and_Increase_Longevity"
+    },
+    {
+      "title": "New analysis reveals fundamental flaws in widely used measures of biological aging (News-Medical)",
+      "url": "https://www.news-medical.net/news/20251203/New-analysis-reveals-fundamental-flaws-in-widely-used-measures-of-biological-aging.aspx"
+    }
+  ]
+}

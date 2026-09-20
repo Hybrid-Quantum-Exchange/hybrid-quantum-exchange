@@ -1,0 +1,18 @@
+{
+  "id": 921,
+  "domain": "food_water_agriculture",
+  "title": "Remediation of heavy-metal soil pollution",
+  "bottleneck": "Industrial activity, mining, and excessive agrochemical use have contaminated vast farmland areas with heavy metals and persistent pollutants — and unlike organic pollution, heavy metals can't be broken down, only immobilized or extracted. Phytoremediation takes decades, soil washing is ruinously expensive at scale, and in much of the world contaminated food is simply grown and eaten because testing is absent. Unlike organic pollution, heavy metals cannot be broken down - only immobilized or extracted at great cost.",
+  "why_it_blocks": "Polluted soils poison the food chain directly. Without remediation, growing populations farm increasingly toxic land. In much of the world, contaminated food is simply grown and eaten because testing is absent.",
+  "current_state": "Over 55% of surveyed soil labs lack adequate analytical capacity; remediation at agricultural scale is essentially not practiced.",
+  "sources": [
+    {
+      "title": "Healthy soils for a healthy people and planet: FAO calls for reversal of soil degradation",
+      "url": "https://www.fao.org/newsroom/detail/agriculture-soils-degradation-FAO-GFFA-2022/"
+    },
+    {
+      "title": "FAO Says Worsening Soil Degradation Threatens Global Food Production",
+      "url": "https://agronigeria.ng/fao-says-worsening-soil-degradation-threatens-global-food-production/"
+    }
+  ]
+}

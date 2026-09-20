@@ -1,0 +1,18 @@
+{
+  "id": 883,
+  "domain": "xr_interface",
+  "title": "AR sensing degradation in low light",
+  "bottleneck": "AR headsets depend on cameras for tracking, hand detection, and scene understanding, but low light starves sensors: tracking degrades, depth fails, and hand tracking breaks. Active illumination (IR) helps but adds power and can be visible or interfere with other devices. Nighttime and dim indoor AR are second-class experiences.",
+  "why_it_blocks": "AR must work wherever people are, including dim restaurants and night streets; light-dependent failure modes make it unreliable as an everyday tool. The real world doesn't guarantee good lighting.",
+  "current_state": "IR-assisted tracking extends operation into darkness for headsets, but scene understanding and passthrough quality still collapse in low light. Depth sensors and passthrough cameras lose accuracy in dim light, degrading both tracking and the user's view of reality.",
+  "sources": [
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    },
+    {
+      "title": "InAirSpace: VR motion sickness",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-makes-me-feel-sick-understanding-and-overcoming-simulator-sickness"
+    }
+  ]
+}

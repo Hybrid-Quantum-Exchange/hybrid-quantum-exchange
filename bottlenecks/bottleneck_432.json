@@ -1,0 +1,14 @@
+{
+  "id": 432,
+  "domain": "medicine_cures",
+  "title": "Stroke neuroprotection",
+  "bottleneck": "Clot removal and thrombolysis restore blood flow, but no neuroprotective drug has ever succeeded in human stroke trials despite hundreds of successes in animals; the ischemic cascade of excitotoxicity, oxidative stress, and inflammation unfolds too fast and heterogeneously for single-target drugs.",
+  "why_it_blocks": "Stroke is a leading cause of death and adult disability; reperfusion helps only a minority who arrive in time, leaving most without effective acute therapy.",
+  "current_state": "The field has pivoted to combination approaches, better trial selection with imaging, and extended-window thrombectomy. An approved neuroprotectant remains elusive, and trial-design lessons from neurodegeneration increasingly apply. The repeated failure of neuroprotectants has pushed the field toward rigorous preclinical standards and combination therapies. Whether any drug can salvage brain tissue beyond the reperfusion window remains one of neurology's oldest unanswered questions.",
+  "sources": [
+    {
+      "title": "Developers back Alzheimer's drugs despite report suggesting lack of efficacy",
+      "url": "https://www.clinicaltrialsarena.com/news/developers-back-alzheimers-drugs-despite-report-suggesting-lack-of-efficacy/"
+    }
+  ]
+}

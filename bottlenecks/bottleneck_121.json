@@ -1,0 +1,18 @@
+{
+  "id": 121,
+  "domain": "cosmology_multiverse",
+  "title": "The Cosmic Neutrino Background Detection",
+  "bottleneck": "Big Bang cosmology predicts a cosmic neutrino background of ~336 neutrinos per cubic centimeter, a pillar of the hot Big Bang as firm as the CMB — yet it has never been directly detected. Proposed tritium-capture experiments (PTOLEMY) face backgrounds and energy-resolution challenges that may be insurmountable with current technology. The capture cross-section on tritium is minuscule, requiring hundreds of grams of tritium and sub-eV energy resolution simultaneously.",
+  "why_it_blocks": "Direct detection would confirm the universe's thermal history back to one second after the Bang; failure leaves a central prediction forever indirect.",
+  "current_state": "PTOLEMY remains in R&D with no detection timeline; cosmological N_eff measurements are the only current handle. No funded experiment is close to the required sensitivity; the CNB may remain undetected for many decades.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 923,
+  "domain": "food_water_agriculture",
+  "title": "Heat tolerance during grain filling",
+  "bottleneck": "Staple cereals are acutely vulnerable to heat during flowering and grain filling — a few days of extreme heat can sterilize pollen and collapse yields, and this sensitivity is built deep into reproductive biology. Breeding for heat tolerance is slow because the trait involves many genes and must be selected against rare extreme events; meanwhile, the frequency of such events is rising faster than breeding cycles.",
+  "why_it_blocks": "Heat waves during the critical grain-filling window can erase a season's production across entire regions — and they're becoming the norm, not the exception. Heat waves during the critical grain-filling window can erase a season's production across entire regions.",
+  "current_state": "Heat-tolerant lines exist in breeding pipelines; none yet protects yields under the severe heat episodes now occurring.",
+  "sources": [
+    {
+      "title": "The uncomfortable truth: modern high-yield crops aren't built for climate shocks",
+      "url": "https://medium.com/@vg7412640/heres-the-uncomfortable-truth-modern-high-yield-crops-aren-t-built-like-a-stew-you-can-adjust-on-6fc767910446"
+    },
+    {
+      "title": "Distinguishing between yield advances and yield plateaus in historical crop production trends",
+      "url": "https://www.nature.com/articles/ncomms3918?error=cookies_not_supported&code=91675317-1c1b-4105-a673-bda45130950b"
+    }
+  ]
+}

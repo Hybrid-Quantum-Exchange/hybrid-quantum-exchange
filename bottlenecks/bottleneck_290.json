@@ -1,0 +1,18 @@
+{
+  "id": 290,
+  "domain": "compute_semiconductors",
+  "title": "Chip-manufacturing water and energy footprint",
+  "bottleneck": "Leading-edge fabs consume tens of millions of liters of ultrapure water daily and gigawatt-hours of electricity, competing with communities in water-stressed regions. Recycling rates are high but not total, and each new node adds process steps that increase resource intensity per wafer. Permitting for new fabs increasingly hinges on water and power availability.",
+  "why_it_blocks": "Resource constraints are becoming a hard cap on fab expansion: you can't build the chips the AI era demands where there's no water or grid capacity. Sustainability pressures could slow the geographic diversification of chip supply.",
+  "current_state": "Fabs recycle 70-80%+ of water and sign clean-power deals, and dry-process research continues. Absolute consumption still rises with each fab generation. Each new node adds process steps, so water and energy intensity per wafer rises even as recycling rates improve.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "PR Newswire: EUV sub-nanometer chips",
+      "url": "https://markets.financialcontent.com/prnews.investoruprising/article/tokenring-2025-10-4-euv-lithography-paving-the-way-for-sub-nanometer-chips"
+    }
+  ]
+}

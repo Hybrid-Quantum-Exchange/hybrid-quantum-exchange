@@ -1,0 +1,14 @@
+{
+  "id": 438,
+  "domain": "medicine_cures",
+  "title": "Non-opioid chronic pain treatment",
+  "bottleneck": "Chronic pain affects roughly 20% of adults, yet the analgesic arsenal is thin: NSAIDs carry cardiovascular and gastrointestinal risks, opioids cause dependence, and most neuropathic-pain drugs were repurposed from epilepsy or depression with modest efficacy. Pain's subjective, multifactorial nature defeats single-target drugs.",
+  "why_it_blocks": "The opioid crisis was fueled by the absence of safe, effective alternatives; without them, pain care oscillates between suffering and addiction.",
+  "current_state": "Non-opioid sodium-channel blockers newly approved for acute pain, anti-CGRP migraine drugs, and neuromodulation expand options. A broadly effective, safe chronic-pain drug class remains missing, and innovation incentives for non-blockbuster indications stay weak. Chronic pain's subjectivity makes clinical trials difficult, as placebo responses are large and endpoints are self-reported. Objective biomarkers of pain would transform drug development, but none is validated for routine use.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

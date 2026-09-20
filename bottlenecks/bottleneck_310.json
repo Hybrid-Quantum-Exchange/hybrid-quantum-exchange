@@ -1,0 +1,18 @@
+{
+  "id": 310,
+  "domain": "artificial_intelligence",
+  "title": "Defining and learning human values",
+  "bottleneck": "Alignment starts with a question nobody has answered: what exactly should the AI optimize for? Human values are complex, context-dependent, and often contradictory; attempts to formalize them — helpfulness, harmlessness, honesty — break down at the edges. Worse, values must be inferred from noisy human behavior rather than introspected directly, and different inference methods yield different objectives. Attempts to aggregate preferences inherit Arrow-style impossibility results: no voting scheme satisfies all fairness criteria.",
+  "why_it_blocks": "Every alignment technique inherits the fuzziness of its target. You cannot verify alignment to a specification that doesn't exist.",
+  "current_state": "RLHF and Constitutional AI use rough proxies like human preference votes and written constitutions. Researchers openly describe these as approximations, not solutions. Most published alignment methods assume a single coherent principal, sidestepping disagreement entirely.",
+  "sources": [
+    {
+      "title": "AI Alignment: 9 Problems Researchers Still Haven't Solved",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/ai-alignment-9-problems-researchers-still-havent-solved"
+    },
+    {
+      "title": "Alignment is still unsolved: the labs are racing anyway",
+      "url": "https://aiweekly.co/issues/alignment-is-still-unsolved-the-labs-are-racing-anyway"
+    }
+  ]
+}

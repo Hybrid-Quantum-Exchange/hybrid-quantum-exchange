@@ -1,0 +1,18 @@
+{
+  "id": 952,
+  "domain": "food_water_agriculture",
+  "title": "Greenhouse automation and labor",
+  "bottleneck": "Greenhouse production is productive but labor-intensive — harvesting delicate fruits and vegetables resists automation because robots can't match human dexterity at picking ripe produce without damage. Labor shortages and rising wages squeeze margins, while robotic harvesters work only for specific crops in structured environments. The dexterity gap keeps the most valuable horticulture dependent on scarce human hands. Labor shortages and rising wages squeeze greenhouse margins while robotic harvesters work only for specific crops in structured environments.",
+  "why_it_blocks": "Fruits and vegetables are the nutrition-critical part of diets. If their production can't scale past labor limits, healthy diets stay expensive.",
+  "current_state": "Harvesting robots handle strawberries and tomatoes in trials; general-purpose produce harvesting is unsolved. Harvesting robots handle strawberries and tomatoes in trials; general-purpose produce harvesting is unsolved.",
+  "sources": [
+    {
+      "title": "Alternative proteins: Barriers to commercialisation",
+      "url": "https://www.foodnavigator.com/Article/2025/10/15/alternative-proteins-barriers-to-commercialisation/"
+    },
+    {
+      "title": "Understanding the Yield Gap: Exploring the Factors Behind Crop Productivity Differences",
+      "url": "https://www.shiftingshares.com/understanding-the-yield-gap-exploring-the-factors-behind-crop-productivity-differences-2/"
+    }
+  ]
+}

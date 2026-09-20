@@ -1,0 +1,14 @@
+{
+  "id": 420,
+  "domain": "medicine_cures",
+  "title": "Chronic kidney disease progression",
+  "bottleneck": "CKD affects roughly 10% of adults worldwide and progresses silently to kidney failure; SGLT2 inhibitors and finerenone slow decline but do not stop or reverse it, and the molecular drivers of progression across diverse causes remain incompletely mapped.",
+  "why_it_blocks": "Dialysis and transplantation are the only options at end stage, enormously costly and limited, so halting progression earlier is the critical unmet need.",
+  "current_state": "New agents targeting inflammation and fibrosis are in trials, and precision approaches by etiology are emerging. No therapy restores lost kidney function. Most CKD is detected late, when substantial nephron loss has already occurred, because early disease is silent. Better screening of at-risk populations combined with therapies that halt progression could prevent enormous suffering, but regenerative approaches to restore kidney function remain distant.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

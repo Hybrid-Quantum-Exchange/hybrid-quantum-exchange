@@ -1,0 +1,18 @@
+{
+  "id": 229,
+  "domain": "energy",
+  "title": "Data center load growth versus grid capacity",
+  "bottleneck": "AI data centers could add roughly 100 GW of new US electricity demand by 2035, concentrated, inflexible loads arriving faster than generation and transmission can be built. Interconnection queues are filling with data-center load requests, capacity auction prices are spiking, and utilities warn of shortfalls. Data centers want clean firm power on timelines the grid cannot meet.",
+  "why_it_blocks": "Data-center demand is repricing electricity for everyone. One capacity auction jumped from 2.2 to 14.7 billion dollars in a year, and ratepayers absorb the cost of grid expansion for loads that may not materialize.",
+  "current_state": "Hyperscalers are signing nuclear and geothermal deals and building on-site generation. Grid planners are scrambling to distinguish real load from speculative requests.",
+  "sources": [
+    {
+      "title": "The Interconnection Bottleneck: How Renewable Approval Backlogs Are Repricing the Energy-to-Data Center Equation",
+      "url": "https://www.globaldatacenterhub.com/p/the-interconnection-bottleneck-how"
+    },
+    {
+      "title": "The 750-MW Warning: How Outdated Interconnection Rules Are Strangling the Grid's Hybrid Future",
+      "url": "https://www.linkedin.com/pulse/750-mw-warning-how-outdated-interconnection-rules-strangling-mike-l-3rayc"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 506,
+  "domain": "health_longevity",
+  "title": "Mechanisms of treatment-resistant depression",
+  "bottleneck": "Roughly a third of depressed patients fail multiple adequate antidepressant trials, yet treatment-resistant depression has no agreed biological definition: it is defined by what did not work, not by a mechanism. Candidate mechanisms (glutamate dysfunction, inflammation, anhedonia circuits, HPA axis) are studied in isolation without a unifying framework.",
+  "why_it_blocks": "Without mechanistic subtypes, treatment is trial-and-error across drug classes, condemning patients to months of ineffective therapy while suicide risk and functional loss accumulate.",
+  "current_state": "Esketamine is approved for treatment-resistant depression with rapid but often transient effect. Research into inflammatory, metabolic, and circuit-based subtypes is active but has not produced a clinical test. Inflammatory and metabolic subtypes of depression are emerging as distinct entities, yet no clinic can currently test which subtype a patient has, keeping treatment selection empirical.",
+  "sources": [
+    {
+      "title": "Untreatable Mental Illness: Challenges, Management, and Hope (NeuroLaunch)",
+      "url": "https://neurolaunch.com/untreatable-mental-illness/"
+    },
+    {
+      "title": "Hardest Mental Illnesses to Treat: Challenges Explored (NeuroLaunch)",
+      "url": "https://neurolaunch.com/what-is-the-hardest-mental-illness-to-treat/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 216,
+  "domain": "energy",
+  "title": "Interconnection queue backlog",
+  "bottleneck": "More than 2,300 GW of generation and storage, over twice the existing US power plant fleet, sits in interconnection queues, with median wait times exceeding four years from request to operation. Only 20 to 25 percent of queued projects ever reach commercial operation. Each withdrawal forces restudies that cascade delays onto remaining projects.",
+  "why_it_blocks": "The queue is the binding constraint on clean energy deployment. Generation technology is ready and financed, but grid access takes half a decade, stranding capital and missing climate timelines.",
+  "current_state": "FERC Order 2023 imposed cluster studies and deadlines to clear backlogs. Early reforms are working through queues but transmission availability remains the deeper limit. Some developers now site projects to use existing interconnection capacity rather than wait for new studies, distorting optimal siting.",
+  "sources": [
+    {
+      "title": "The Interconnection Queue: Energy Generation, Grid Access, and the Renewable Energy Transition",
+      "url": "https://medium.com/@mjk_89787/the-interconnection-queue-5a634d55732a"
+    },
+    {
+      "title": "The Interconnection Bottleneck: How Renewable Approval Backlogs Are Repricing the Energy-to-Data Center Equation",
+      "url": "https://www.globaldatacenterhub.com/p/the-interconnection-bottleneck-how"
+    }
+  ]
+}

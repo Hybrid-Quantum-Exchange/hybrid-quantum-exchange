@@ -1,0 +1,18 @@
+{
+  "id": 945,
+  "domain": "food_water_agriculture",
+  "title": "Aquaculture feed dependence on wild fish",
+  "bottleneck": "Farmed fish still depend on fishmeal and fish oil from wild-caught forage fish — a paradox where feeding aquaculture depletes ocean ecosystems. Alternative ingredients (insect meal, algae oil, single-cell protein) work nutritionally but cost more and lack supply chains at the scale of the fishmeal industry. Meanwhile, wild stocks can't sustain growing aquaculture demand.",
+  "why_it_blocks": "Aquaculture is the fastest-growing food sector and a key protein hope. If its growth strips the oceans of forage fish, the net food gain is negative. If aquaculture's growth strips the oceans of forage fish, the net food gain is negative.",
+  "current_state": "Fish-in-fish-out ratios are falling; alternative ingredients are being adopted but remain a minority of feed. Fish-in-fish-out ratios are falling, but alternative ingredients remain a minority of feed.",
+  "sources": [
+    {
+      "title": "New study highlights need for alternative aquaculture feed ingredients",
+      "url": "https://www.aquaculturenorthamerica.com/new-study-highlights-need-for-alternative-aquaculture-feed-ingredients/"
+    },
+    {
+      "title": "Aquaculture's next frontier: balancing growth, sustainability, and resilience",
+      "url": "https://www.mdpi.com/2071-1050/17/9/3936"
+    }
+  ]
+}

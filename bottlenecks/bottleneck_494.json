@@ -1,0 +1,18 @@
+{
+  "id": 494,
+  "domain": "health_longevity",
+  "title": "Countering health misinformation and vaccine hesitancy",
+  "bottleneck": "Misinformation now spreads faster than public health guidance, eroding vaccine uptake even where supply is adequate. Behavioral science offers tools (prebunking, trusted messengers), but health agencies lack the standing capacity, measurement methods, and platform cooperation to counter misinformation at scale.",
+  "why_it_blocks": "Hesitancy converts available vaccines into unused ones, keeping herd immunity out of reach and prolonging every outbreak. It is a demand-side failure no supply chain can fix.",
+  "current_state": "The WHO pandemic agreement draft includes misinformation provisions. Community-engagement and AI-assisted communication strategies are being tested, but no country has demonstrated a scalable, evidence-based counter-misinformation system. Prebunking and trusted-messenger campaigns show modest, context-dependent effects in trials, while platforms' algorithmic amplification of sensational health claims outpaces every countermeasure tested.",
+  "sources": [
+    {
+      "title": "The UN Assembly will urge ratification of the WHO pandemic agreement (Democrata)",
+      "url": "https://www.democrata.es/en/health/the-un-assembly-will-urge-to-ratify-the-who-agreement-on-pandemics-to-strengthen-global-security/"
+    },
+    {
+      "title": "MacArthur Fellow on vaccine development and pandemic preparedness (Archyde)",
+      "url": "https://www.archyde.com/macarthur-fellow-explores-advances-in-vaccine-development-and-strategies-for-pandemic-preparedness/"
+    }
+  ]
+}

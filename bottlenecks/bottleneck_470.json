@@ -1,0 +1,18 @@
+{
+  "id": 470,
+  "domain": "health_longevity",
+  "title": "Age-related bone loss and osteoporotic fracture",
+  "bottleneck": "Bone remodeling uncouples with age as osteoblast activity falls and osteoclast activity persists, compounded by senescent osteocytes secreting inflammatory factors. Existing drugs (bisphosphonates, denosumab) suppress resorption but do not rebuild lost bone architecture, and long-term use carries atypical fracture and jaw necrosis risks.",
+  "why_it_blocks": "Hip fractures in the elderly carry one-year mortality near 20-30% and frequently end independent living. An aging population means fracture burden will surge even as bone drugs remain anti-catabolic rather than regenerative.",
+  "current_state": "Anabolic agents (teriparatide, romosozumab) build bone but are limited to 1-2 years of use by cost and safety. Senolytics targeting senescent osteocytes are in early investigation. Dual-action romosozumab builds bone while inhibiting resorption but carries cardiovascular warnings that limit use, making treatment sequencing the main open clinical research question.",
+  "sources": [
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    },
+    {
+      "title": "What Is: Cellular Senescence (Scientific Frontline)",
+      "url": "https://www.sflorg.com/2026/03/wi03202601.html"
+    }
+  ]
+}

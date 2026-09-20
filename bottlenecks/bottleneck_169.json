@@ -1,0 +1,18 @@
+{
+  "id": 169,
+  "domain": "energy",
+  "title": "Quench protection for high-field HTS magnets",
+  "bottleneck": "High-temperature superconducting magnets enable compact, high-field fusion devices, but HTS quenches, transitions to normal conductivity, propagate slowly and are hard to detect before localized heating destroys the coil. At 20 tesla with gigajoules of stored energy, an unprotected quench can melt a magnet worth tens of millions of dollars. Detection and energy-dump systems for large HTS fusion magnets are unproven.",
+  "why_it_blocks": "A single quench-induced magnet failure could destroy a compact fusion device's core and set a company back years. Magnet protection is an existential reliability issue for the private fusion path.",
+  "current_state": "20-tesla-class HTS toroidal-field model coils have been demonstrated. Quench detection via fiber optics and acoustic sensing is in development, with no full-scale validation. A quench in a full-scale compact device could release enough stored energy to destroy the magnet and its surrounding structure.",
+  "sources": [
+    {
+      "title": "Plasma-facing material",
+      "url": "https://en.wikipedia.org/wiki/Plasma-facing_material"
+    },
+    {
+      "title": "Commercial Fusion Energy Gets a Utility Buyer and a Licence",
+      "url": "https://discoveryalert.com/analysis/commercial-fusion-energy-us-uk-deal-september-2026/"
+    }
+  ]
+}

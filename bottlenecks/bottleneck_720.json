@@ -1,0 +1,18 @@
+{
+  "id": 720,
+  "domain": "space",
+  "title": "Liability law for touching someone else's debris",
+  "bottleneck": "Under the 1972 Liability Convention and the Outer Space Treaty, a launched object remains the property and responsibility of its launching state forever — there is no salvage law in orbit. Removing another nation's dead satellite without permission is legally ambiguous at best and could be construed as an attack on a space asset; a debris-removal arm is also an anti-satellite weapon. No international framework authorizes third-party removal, so every mission needs bespoke bilateral permission.",
+  "why_it_blocks": "The highest-risk objects are often foreign military or defunct state assets; without legal clarity, removers can only touch their own countries' junk — a fraction of the problem.",
+  "current_state": "No binding international removal regime exists; interagency guidelines are voluntary. ClearSpace-1 targets ESA's own hardware precisely to sidestep the issue.",
+  "sources": [
+    {
+      "title": "Global Space Debris Removal Market Poised for Rapid Growth",
+      "url": "https://www.einpresswire.com/article/876135097/global-space-debris-removal-market-poised-for-rapid-growth-as-orbital-safety-becomes-a-strategic-priority"
+    },
+    {
+      "title": "ESA purchases world-first debris removal mission from start-up",
+      "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_purchases_world-first_debris_removal_mission_from_start-up"
+    }
+  ]
+}

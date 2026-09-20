@@ -1,0 +1,18 @@
+{
+  "id": 250,
+  "domain": "compute_semiconductors",
+  "title": "On-chip laser integration for silicon photonics",
+  "bottleneck": "Silicon cannot emit light efficiently because of its indirect bandgap, so every silicon-photonic chip needs an external or bonded light source (typically indium-phosphide lasers). Heterogeneous bonding, epitaxial growth of III-V materials on silicon, and alignment add cost, yield loss, and reliability risk. A truly monolithic, CMOS-compatible on-chip laser remains elusive.",
+  "why_it_blocks": "Without integrated lasers, photonic chips stay expensive multi-component assemblies rather than single-die solutions, blocking the cost curve needed for photonics in mainstream compute. Data-center optics and future optical compute both depend on solving the source problem.",
+  "current_state": "Hybrid and heterogeneous integration of III-V lasers on silicon is in production for transceivers, and quantum-dot lasers on silicon show promise. Monolithic electrically pumped silicon-compatible lasers are still research-stage.",
+  "sources": [
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    },
+    {
+      "title": "TomorrowDesk: Silicon Photonics challenges",
+      "url": "https://tomorrowdesk.com/future/silicon-photonic"
+    }
+  ]
+}

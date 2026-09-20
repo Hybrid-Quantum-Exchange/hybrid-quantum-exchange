@@ -1,0 +1,18 @@
+{
+  "id": 115,
+  "domain": "cosmology_multiverse",
+  "title": "Singularity Theorems and Bouncing Alternatives",
+  "bottleneck": "Classical general relativity demands an initial singularity, but quantum-gravity-motivated bounces (loop quantum cosmology, ekpyrotic models) could replace it — with radically different predictions for the primordial spectrum. No bounce model is both theoretically complete and observationally distinguished from inflation, and singularity resolution remains conjectural. Bouncing models must violate the null energy condition or modify gravity, introducing instabilities or ghosts that are hard to tame.",
+  "why_it_blocks": "The universe's ultimate origin — beginning or bounce — is undecided, and each option implies different fundamental physics.",
+  "current_state": "Loop quantum cosmology predicts specific large-scale CMB features; searches find no compelling signal, but the models' parameter freedom is large. Loop quantum cosmology's bounce is the most developed, but connecting it to a realistic inflationary phase remains incomplete.",
+  "sources": [
+    {
+      "title": "On the Impossibility of Precise Verification of Models of Quantum Gravity (arXiv:2309.07203)",
+      "url": "https://arxiv.org/abs/2309.07203?context=hep-th"
+    },
+    {
+      "title": "The Landscape and the Multiverse: What's the Problem? (Synthese)",
+      "url": "https://link.springer.com/article/10.1007/s11229-021-03137-0"
+    }
+  ]
+}

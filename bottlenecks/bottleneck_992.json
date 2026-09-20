@@ -1,0 +1,18 @@
+{
+  "id": 992,
+  "domain": "coordination",
+  "title": "Research Productivity Measurement Gaps",
+  "bottleneck": "No one can reliably measure whether a funding program, institution, or reform actually accelerates discovery: outputs (papers, patents, citations) are weak proxies for progress. Without valid metrics, funders cannot learn what works, and debates about reform run on anecdote. Without valid metrics, every reform debate reduces to competing anecdotes and no one can tell what works.",
+  "why_it_blocks": "Unmeasurable productivity means science funding cannot be optimized, only argued about. Funders flying blind cannot learn, and science policy becomes ideology.",
+  "current_state": "Bibliometric and econometric research inches forward, but causal measurement of discovery productivity remains unsolved. Developing causal measures of discovery is a research program in its own right, barely begun. Measurement must precede optimization in science policy as elsewhere, in practice.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "'Science by Consensus' Impedes Scientific Creativity (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11126901/"
+    }
+  ]
+}

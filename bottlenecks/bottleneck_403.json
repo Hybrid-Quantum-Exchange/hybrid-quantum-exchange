@@ -1,0 +1,14 @@
+{
+  "id": 403,
+  "domain": "medicine_cures",
+  "title": "Neglected tropical disease therapeutics",
+  "bottleneck": "Diseases like Chagas, leishmaniasis, and sleeping sickness afflict over a billion people but attract minimal R&D because patients cannot pay; treatments are often decades old, toxic, and difficult to administer.",
+  "why_it_blocks": "Market-driven drug development systematically ignores diseases of poverty, leaving ancient, toxic regimens as the standard of care.",
+  "current_state": "Product-development partnerships have delivered a handful of improved treatments, but the pipeline remains thin and dependent on philanthropy, the same fragility WHO documents in the antibacterial ecosystem. The market failure is structural: developing drugs for patients who cannot pay requires sustained philanthropic or public funding. Product-development partnerships have shown the model can work, delivering improved treatments for sleeping sickness and visceral leishmaniasis, but the portfolio remains far too small for the burden.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

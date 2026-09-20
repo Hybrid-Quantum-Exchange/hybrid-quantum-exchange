@@ -1,0 +1,18 @@
+{
+  "id": 451,
+  "domain": "health_longevity",
+  "title": "Senolytic drug selectivity and off-target toxicity",
+  "bottleneck": "Senescent cells drive aging phenotypes, but no senolytic drug reliably kills senescent cells while sparing healthy ones. First-generation agents like dasatinib plus quercetin hit broad pathways shared with normal proliferating cells, causing off-target toxicity. The field lacks senescent-cell-specific surface markers, so dosing is empirical and tissue targeting is crude.",
+  "why_it_blocks": "Without selectivity, senolytics cannot be dosed chronically or used preventively, which is exactly how they would need to work against aging itself. Safety failures at this stage would discredit the whole geroscience drug class.",
+  "current_state": "Dasatinib+quercetin and fisetin are in early human trials, mostly for specific diseases like osteoarthritis and pulmonary fibrosis rather than aging. Statins and digoxin have shown senomorphic (SASP-suppressing) activity, a milder but safer direction.",
+  "sources": [
+    {
+      "title": "What Is: Cellular Senescence (Scientific Frontline)",
+      "url": "https://www.sflorg.com/2026/03/wi03202601.html"
+    },
+    {
+      "title": "Open problems in ageing science: a roadmap for biogerontology (GeroScience via longevity.technology)",
+      "url": "https://longevity.technology/news/mapping-the-unanswered-questions-of-aging/"
+    }
+  ]
+}

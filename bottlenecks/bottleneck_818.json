@@ -1,0 +1,18 @@
+{
+  "id": 818,
+  "domain": "climate_environment",
+  "title": "Ocean deoxygenation trajectory and impacts",
+  "bottleneck": "Oxygen minimum zones are expanding as warming reduces oxygen solubility and stratification starves deep waters, but the ecological consequences are poorly constrained: thresholds at which fisheries collapse, food webs rewire, or nitrous oxide production spikes are known only roughly. Models disagree on the pace of deoxygenation this century, and observations are sparse across the vast mid-ocean. Dead zones now number in the hundreds with poorly understood cumulative effects.",
+  "why_it_blocks": "Deoxygenation threatens fisheries that feed billions and could trigger powerful feedbacks via N2O, a potent greenhouse gas. The observation gap means the damage function — how much oxygen loss costs in food and climate terms — is largely guesswork.",
+  "current_state": "The Global Ocean Oxygen Network is coordinating monitoring, and new autonomous floats are extending coverage. But the science is still in the mapping phase while the zones keep growing.",
+  "sources": [
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 978,
+  "domain": "coordination",
+  "title": "The Valley of Death in Technology Transfer",
+  "bottleneck": "Promising lab results routinely die between academic publication and commercial viability because neither grants nor venture capital fund the translational middle: too applied for science funders, too early for investors. Energy, materials, and biotech hardware are hit hardest. Translational funding falls between agency missions, and no institution owns the problem end to end.",
+  "why_it_blocks": "Breakthroughs that clear the science hurdle still fail to reach the world for lack of translational funding. Society pays twice: once for the research, again for the benefits it never receives.",
+  "current_state": "ARPA-style programs and translational institutes partially bridge the gap, but coverage is patchy and sector-specific. Mission-driven ARPA models show translation can be managed, but they cover only slices of the economy.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

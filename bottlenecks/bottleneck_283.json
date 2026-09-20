@@ -1,0 +1,18 @@
+{
+  "id": 283,
+  "domain": "compute_semiconductors",
+  "title": "PFAS-dependent semiconductor process chemistry phase-out",
+  "bottleneck": "Chip manufacturing depends on PFAS ('forever chemicals') for photoresist components, etch chemistries, lubricants, and fab infrastructure, yet regulators in the EU, US states, and elsewhere are moving to restrict or ban them. Drop-in PFAS-free alternatives don't exist for many steps: reformulating resists and etch processes risks yield loss at the most advanced nodes. The industry faces a forced chemistry transition with no proven substitutes.",
+  "why_it_blocks": "A PFAS ban without qualified alternatives could halt advanced-node production or force costly requalification of entire process flows, disrupting the global chip supply. Environmental necessity collides with manufacturing reality, and the timeline is set by regulators, not engineers.",
+  "current_state": "Industry consortia are cataloging PFAS uses and funding alternatives research, and some low-risk substitutions are underway. For critical lithography and etch chemistries, qualified PFAS-free options remain unavailable.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "Business News Today: Dry resist & high-NA EUV",
+      "url": "https://business-news-today.com/dry-resist-and-high-na-euv-is-this-the-breakthrough-that-can-finally-unlock-sub-2nm-chips/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 968,
+  "domain": "coordination",
+  "title": "Open Data Sharing Remains Rare",
+  "bottleneck": "Despite mandates, most published research still lacks usable shared data and code; compliance is often a broken link or an unusable dump. Without data, verification is impossible and reuse is blocked, particularly for expensive datasets in genomics, climate, and astronomy. Funders lack the staff to audit compliance, and researchers face little penalty for non-sharing.",
+  "why_it_blocks": "Closed data makes science pay for the same observations many times over and shields errors from scrutiny. Expensive datasets get recollected instead of reused, a direct tax on taxpayers.",
+  "current_state": "Funder mandates (NIH DMS policy) are tightening, but enforcement is weak and researcher compliance is grudging. Technical infrastructure for FAIR data exists; the missing piece is enforcement and cultural change. Without enforcement, mandates remain suggestions that most researchers quietly ignore.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

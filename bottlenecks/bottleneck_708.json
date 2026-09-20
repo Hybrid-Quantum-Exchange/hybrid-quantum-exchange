@@ -1,0 +1,18 @@
+{
+  "id": 708,
+  "domain": "space",
+  "title": "Beneficiation: concentrating minerals from bulk regolith",
+  "bottleneck": "Useful minerals — ilmenite for oxygen, anorthite for aluminum — are mixed through bulk regolith at low concentrations; processing raw dirt wastes enormous energy heating worthless rock. On Earth, beneficiation uses water, gravity separation, and flotation — none of which work well on the airless Moon, where water is scarce, 1/6 g weakens gravity separation, and vacuum breaks flotation. Electrostatic and magnetic separation work in principle but are unproven at the throughputs ISRU needs.",
+  "why_it_blocks": "Without concentration, every extraction process must handle 5-10x more mass, multiplying power demand, equipment wear, and plant size beyond what a base can support.",
+  "current_state": "Lab studies of electrostatic and magnetic lunar beneficiation exist; no pilot-scale system and no lunar demonstration.",
+  "sources": [
+    {
+      "title": "Lunar Soil Yields Oxygen and Water: Breakthrough in Space Resource Utilization",
+      "url": "https://www.archyde.com/lunar-soil-yields-oxygen-and-water-breakthrough-in-space-resource-utilization/"
+    },
+    {
+      "title": "Lunar Resource Utilization: A New Era",
+      "url": "https://www.numberanalytics.com/blog/lunar-resource-utilization-ultimate-guide"
+    }
+  ]
+}

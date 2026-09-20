@@ -1,0 +1,14 @@
+{
+  "id": 437,
+  "domain": "medicine_cures",
+  "title": "Opioid use disorder durable recovery",
+  "bottleneck": "Methadone, buprenorphine, and naltrexone reduce mortality, but most patients cycle through relapse; the neurobiology of craving and the social determinants of addiction are not addressed by pharmacology alone, and stigma plus access barriers keep most untreated.",
+  "why_it_blocks": "Overdose deaths remain at historic highs; existing medications work but reach a fraction of those who need them and rarely produce stable long-term recovery alone.",
+  "current_state": "Long-acting injectables, vaccines against opioids, and psychedelic-assisted approaches are in trials. No intervention reliably produces durable recovery at population scale. The most effective approaches combine medication with housing, employment, and social support, yet funding flows overwhelmingly to acute care. Treating addiction as a chronic relapsing condition rather than a moral failing remains an unfinished cultural and medical shift.",
+  "sources": [
+    {
+      "title": "World Health Organization Warns That Antibiotic Innovation Still Insufficient",
+      "url": "https://www.pew.org/pt/research-and-analysis/articles/2024/07/15/world-health-organization-warns-that-antibiotic-innovation-still-insufficient"
+    }
+  ]
+}

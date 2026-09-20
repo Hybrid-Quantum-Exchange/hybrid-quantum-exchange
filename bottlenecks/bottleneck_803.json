@@ -1,0 +1,18 @@
+{
+  "id": 803,
+  "domain": "climate_environment",
+  "title": "Carbon dioxide removal MRV standards",
+  "bottleneck": "Every CDR method — DAC, biochar, weathering, soils, oceans — needs its own measurement, reporting, and verification protocol, yet standards are fragmented across registries with inconsistent definitions of net removal, permanence, and leakage. Buyers cannot compare a tonne from one method to a tonne from another, and weak standards let low-quality credits undercut rigorous ones. No single authority sets the rules.",
+  "why_it_blocks": "Without trusted MRV, the carbon removal market cannot scale: corporate buyers fear reputational risk and regulators cannot count removals toward national targets. The standards gap is now a bigger constraint on CDR than the underlying technology for several methods.",
+  "current_state": "The EU's carbon removal certification framework and ISO efforts are pushing toward harmonization, and independent rating agencies now score credit quality. But a unified, science-based MRV regime accepted across markets is still years away.",
+  "sources": [
+    {
+      "title": "What is direct air capture, and how does it work?",
+      "url": "https://thinklandscape.globallandscapesforum.org/102395/what-is-direct-air-capture/"
+    },
+    {
+      "title": "MIT Study Reveals Major Challenges with Carbon Removal Technology Plans",
+      "url": "https://scienceblog.com/mit-study-reveals-major-challenges-with-carbon-removal-technology-plans/"
+    }
+  ]
+}

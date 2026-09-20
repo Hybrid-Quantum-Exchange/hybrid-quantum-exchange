@@ -1,0 +1,18 @@
+{
+  "id": 481,
+  "domain": "health_longevity",
+  "title": "Durability of reprogramming-induced rejuvenation",
+  "bottleneck": "In partial reprogramming studies, aging markers (DNA damage, H3K9me3 loss, nuclear envelope defects) begin returning within 4-8 days after Yamanaka factor withdrawal, trending back toward untreated levels. The rejuvenated state appears to require continuous or repeated induction, whose long-term safety is unknown.",
+  "why_it_blocks": "A rejuvenation therapy that must be re-dosed indefinitely, with each cycle carrying cancer and dedifferentiation risk, is not a viable medicine. Durability determines whether reprogramming is a cure or a treadmill.",
+  "current_state": "Cyclical short-induction protocols (e.g., 2 days on/5 days off in progeroid mice) extended lifespan without tumors in landmark studies, but wild-type durability data are thin and human data nonexistent. Epigenetic memory of the aged state may actively reassert itself, suggesting durable rejuvenation requires erasing the upstream drivers of aging rather than just resetting their marks.",
+  "sources": [
+    {
+      "title": "Epigenetic Reprogramming as a Key to Reverse Ageing and Increase Longevity (ResearchGate review)",
+      "url": "https://www.researchgate.net/publication/377642874_Epigenetic_Reprogramming_as_a_Key_to_Reverse_Ageing_and_Increase_Longevity"
+    },
+    {
+      "title": "Age reprogramming: Innovations and ethical considerations for prolonged longevity (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12035601/"
+    }
+  ]
+}

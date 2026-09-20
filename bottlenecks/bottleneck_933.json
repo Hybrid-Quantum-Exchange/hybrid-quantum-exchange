@@ -1,0 +1,18 @@
+{
+  "id": 933,
+  "domain": "food_water_agriculture",
+  "title": "Desalination permitting and financing timelines",
+  "bottleneck": "In the US, the average desalination project takes 5–10 years from proposal to operation, dominated by environmental review, litigation, and financing — not construction. Plants cost around $1B, need massive capital stacks, and face community opposition over rates and marine impacts. The technology is ready, but the institutional pipeline is the bottleneck. Plants cost around $1B and need massive capital stacks, while communities oppose projects over rates and marine impacts.",
+  "why_it_blocks": "Water crises unfold in years, not decades. A 10-year permitting timeline means desalination can't respond to the droughts it's meant to solve.",
+  "current_state": "MENA countries build faster via state backing while Western projects stall in review. Modular off-grid units may bypass the megaproject logjam. MENA countries build faster via state backing while Western projects stall in environmental review.",
+  "sources": [
+    {
+      "title": "Desalination cost curve - abundance-codex water domain",
+      "url": "https://github.com/cjtruheart/abundance-codex/blob/HEAD/domains/03-water/01-desalination-cost-curve.md"
+    },
+    {
+      "title": "Looking into Desalination to Tackle the Growing Water Crisis in MENA and Beyond",
+      "url": "https://greennetwork.asia/gna-knowledge-hub/looking-into-desalination-to-tackle-the-growing-water-crisis-in-mena-and-beyond/"
+    }
+  ]
+}

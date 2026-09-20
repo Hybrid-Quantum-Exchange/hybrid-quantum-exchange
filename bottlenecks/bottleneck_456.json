@@ -1,0 +1,18 @@
+{
+  "id": 456,
+  "domain": "health_longevity",
+  "title": "Drivers and resolution of inflammaging",
+  "bottleneck": "Aging brings chronic, sterile, low-grade inflammation (inflammaging) marked by IL-6, TNF-alpha, and CRP, driven by senescent cells, gut leakage, and immune remodeling. But the causal direction is unresolved: is inflammaging a driver of aging or a readout of other damage? Anti-inflammatory trials have mostly treated downstream markers rather than root sources.",
+  "why_it_blocks": "Inflammaging predicts frailty, cardiovascular disease, dementia, and vaccine failure better than chronological age. If its root drivers cannot be identified and switched off, every age-related disease keeps the same inflammatory fuel.",
+  "current_state": "Senescent T cells with a senescence-associated secretory phenotype are a confirmed contributor. Lifestyle interventions, Mediterranean diet, and exercise lower inflammatory markers, but no targeted anti-inflammaging therapy is approved. Clinical trials of IL-1beta blockade (CANTOS) reduced cardiovascular events but increased fatal infections, illustrating the double-edged nature of suppressing age-related inflammation.",
+  "sources": [
+    {
+      "title": "Immunofitness in the elderly: The role of vaccination in promoting healthy aging (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12893699/"
+    },
+    {
+      "title": "Immunosenescence: Aging and Immune System Decline (MDPI)",
+      "url": "https://www.mdpi.com/3055920"
+    }
+  ]
+}

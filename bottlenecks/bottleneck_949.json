@@ -1,0 +1,18 @@
+{
+  "id": 949,
+  "domain": "food_water_agriculture",
+  "title": "Consumer food waste in wealthy countries",
+  "bottleneck": "Roughly a third of food in rich countries is wasted at retail and household stages — not from technical failure but from behavior: overbuying, confusion over date labels, oversized portions, aesthetic standards. The food is produced with full land, water, and emissions cost, then thrown away. Interventions (label reform, nudges, redistribution apps) show modest effects against deeply embedded habits. The food is produced with full land, water, and emissions cost, then thrown away - pure waste of the production footprint.",
+  "why_it_blocks": "Wasted food in wealthy countries carries a massive emissions footprint for zero nutrition — cutting it is pure climate gain with no production cost.",
+  "current_state": "Waste-tracking apps and surplus redistribution grow; aggregate waste levels barely budge.",
+  "sources": [
+    {
+      "title": "FAO Save Food: Post-harvest losses brochure",
+      "url": "https://www.fao.org/fileadmin/user_upload/ags/publications/brochure_phl_low.pdf"
+    },
+    {
+      "title": "Cutting food waste to feed the world",
+      "url": "https://www.fao.org/newsroom/detail/Cutting-food-waste-to-feed-the-world/ar"
+    }
+  ]
+}

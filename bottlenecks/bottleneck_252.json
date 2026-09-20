@@ -1,0 +1,18 @@
+{
+  "id": 252,
+  "domain": "compute_semiconductors",
+  "title": "Thermo-optic phase-shifter crosstalk in dense photonic circuits",
+  "bottleneck": "Silicon lacks a strong electro-optic effect, so most silicon-photonic circuits tune phase with heaters, which are slow, power-hungry, and leak heat into neighboring waveguides. In dense photonic meshes for computing, this thermal crosstalk causes erroneous signal routing and limits how tightly components can be packed. Faster alternatives (carrier-depletion, Pockels materials) bring their own loss or integration penalties.",
+  "why_it_blocks": "Thermal crosstalk caps the scale of programmable photonic processors: bigger meshes should mean more compute, but heat limits density and forces power-hungry compensation. This is a direct ceiling on photonic neural networks and optical signal processors.",
+  "current_state": "Thin-film lithium niobate and other Pockels platforms offer fast, low-crosstalk modulation but lag silicon in integration density; hybrid integration strategies are the active research path. No single platform yet combines density, speed, and efficiency.",
+  "sources": [
+    {
+      "title": "OptoMind review: Scalable photonic computing",
+      "url": "https://github.com/ycc-pku/optomind-review/blob/HEAD/artifacts/e2e/03-scalable-photonic-computing/publication/latex/manuscript.normalized.md"
+    },
+    {
+      "title": "Aminext: Silicon Photonics Revolution",
+      "url": "https://www.aminext.blog/en/post/silicon-photonics-revolution-high-performance-computing-1"
+    }
+  ]
+}

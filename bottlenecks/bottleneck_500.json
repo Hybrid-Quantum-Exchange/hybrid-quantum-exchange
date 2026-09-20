@@ -1,0 +1,18 @@
+{
+  "id": 500,
+  "domain": "health_longevity",
+  "title": "Non-communicable disease prevention in aging societies",
+  "bottleneck": "As populations age, the disease burden shifts to non-communicable diseases (cardiovascular, cancer, diabetes, dementia) that share aging itself as the dominant risk factor, yet research funding and health systems remain organized disease-by-disease. Prevention science is dwarfed by treatment spending, and the geroscience hypothesis (target aging to prevent many diseases at once) has no regulatory or funding home.",
+  "why_it_blocks": "Treating diseases one at a time in an aging population is a losing strategy: curing one leaves the patient exposed to the next. Without a prevention paradigm built around aging, healthspan gains will always lag lifespan gains.",
+  "current_state": "WHO and national strategies acknowledge NCDs but fund them in silos. The TAME trial (metformin for aging) aims to create a regulatory precedent for targeting aging, with results expected late 2020s.",
+  "sources": [
+    {
+      "title": "Bottlenecks in aging research (Lifespan.io researcher survey)",
+      "url": "https://www.lifespan.io/wp-content/uploads/2018/07/Lifespan.io_Event_kit_Bottlenecks_in_research.pdf"
+    },
+    {
+      "title": "Longevity's biggest bottleneck is economic (longevity.technology)",
+      "url": "https://longevity.technology/news/longevitys-biggest-bottleneck-is-economic/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 220,
+  "domain": "energy",
+  "title": "Grid cybersecurity for inverter-dominated systems",
+  "bottleneck": "A grid dominated by millions of inverters, sensors, and distributed resources is a vast attack surface, and many devices ship with weak security, unpatchable firmware, and foreign-manufactured components. Coordinated cyberattacks on inverters could destabilize the grid faster than operators can respond. Supply-chain security for grid equipment is increasingly treated as a national security issue.",
+  "why_it_blocks": "The grid's digitalization outpaces its security. A single exploited vulnerability in a widely deployed inverter fleet could become a continent-scale event. Many distributed devices cannot receive security patches at all, leaving known vulnerabilities exposed for the life of the equipment.",
+  "current_state": "NERC standards are tightening and agencies warn of threats. Comprehensive security for distributed energy resources remains aspirational. Incident response plans for coordinated inverter attacks are immature, and attribution would be slow during an unfolding event.",
+  "sources": [
+    {
+      "title": "Energy Transition: 2026 Hurdles Explained",
+      "url": "https://globalinsightwire.com/energy-transition-hurdles-2026-reality-check/"
+    },
+    {
+      "title": "The Interconnection Bottleneck: How Renewable Approval Backlogs Are Repricing the Energy-to-Data Center Equation",
+      "url": "https://www.globaldatacenterhub.com/p/the-interconnection-bottleneck-how"
+    }
+  ]
+}

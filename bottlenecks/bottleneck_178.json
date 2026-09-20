@@ -1,0 +1,18 @@
+{
+  "id": 178,
+  "domain": "energy",
+  "title": "Geologic repository licensing deadlock",
+  "bottleneck": "The US has no licensed geologic repository. Yucca Mountain was studied for decades, then defunded and politically blocked, leaving more than 90,000 tonnes of spent fuel stranded at reactor sites. Finland is opening the world's first repository and Sweden follows, but the US program has no site, no timeline, and no political consensus. Every new reactor, SMR or gigawatt-scale, adds waste to a system with no endpoint.",
+  "why_it_blocks": "Without a repository, nuclear waste accumulates indefinitely at dozens of sites, feeding the political opposition that blocks new build. The waste problem and the deployment problem are the same problem.",
+  "current_state": "On-site dry-cask storage is licensed for decades and performing safely. The US DOE is pursuing consent-based siting, with no repository expected before the 2040s at earliest.",
+  "sources": [
+    {
+      "title": "The Big Problems with Small Nukes",
+      "url": "https://www.columbiariverkeeper.org/2024/the-big-problems-with-small-nukes/"
+    },
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    }
+  ]
+}

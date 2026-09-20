@@ -1,0 +1,18 @@
+{
+  "id": 359,
+  "domain": "medicine_cures",
+  "title": "Clonal evolution and targeted-therapy resistance",
+  "bottleneck": "Targeted therapies select for resistant clones: cancer cells escape through secondary mutations in the drug target, activation of bypass signaling pathways, or lineage plasticity. A 2026 Molecular Cell study showed that abnormal chromosome numbers rewire cancer cells to suppress the PARP1 self-destruct pathway, protecting them from oxidative stress and promoting spread to distant organs.",
+  "why_it_blocks": "Resistance is nearly universal in advanced disease treated with targeted agents, turning initially dramatic responses into temporary remissions and forcing perpetual cycles of new drug development.",
+  "current_state": "Clinicians sequence and combine therapies to stay ahead of tumor evolution, and researchers are testing whether restoring PARP1 activity or blocking the aneuploidy stress response can slow resistance. Overcoming resistance, including tumor heterogeneity and alternative pathway activation, remains a central unsolved challenge in metastatic cancer drug development.",
+  "sources": [
+    {
+      "title": "Cancer cells are better able to resist treatments when they have an abnormal number of chromosomes",
+      "url": "https://medicalxpress.com/news/2026-05-cancer-cells-resist-treatments-abnormal.html"
+    },
+    {
+      "title": "Advances in Drug Development for Metastatic Cancer",
+      "url": "https://www.numberanalytics.com/blog/advances-drug-development-metastatic-cancer"
+    }
+  ]
+}

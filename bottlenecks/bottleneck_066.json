@@ -1,0 +1,18 @@
+{
+  "id": 66,
+  "domain": "fundamental_physics",
+  "title": "Boltzmann-brain typicality in an eternal universe",
+  "bottleneck": "If the universe lasts forever or inflates eternally, thermal or quantum fluctuations should eventually produce isolated conscious observers, Boltzmann brains, vastly outnumbering ordinary observers like us who arose through billions of years of evolution. Cosmological models that predict we should typically be such fleeting fluctuations are considered cognitively unstable: believing the theory undermines the evidence used to support it.",
+  "why_it_blocks": "This paradox is a sharp filter on theories of the far future and of eternal inflation. Any cosmology that cannot explain why we observe an orderly, low-entropy history is arguably disqualified, yet no consensus measure over infinite spacetime exists to do the counting.",
+  "current_state": "Philosophers and physicists continue to debate proposed resolutions, from restricting the allowed measures over eternal inflation to arguing that de Sitter vacua decay before Boltzmann brains dominate. Discover Magazine-level summaries capture the public argument, but the technical literature has no agreed resolution.",
+  "sources": [
+    {
+      "title": "Boltzmann brains and the scale-factor cutoff measure",
+      "url": "https://arxiv.org/pdf/1702.00850v1"
+    },
+    {
+      "title": "Boltzmann's universe",
+      "url": "https://www.discovermagazine.com/boltzmanns-universe-26100"
+    }
+  ]
+}

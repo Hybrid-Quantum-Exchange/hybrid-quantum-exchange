@@ -1,0 +1,18 @@
+{
+  "id": 867,
+  "domain": "xr_interface",
+  "title": "Eye-tracking accuracy across diverse populations",
+  "bottleneck": "Eye tracking must work for all eye shapes, eyelid geometries, glasses, contact lenses, and lighting conditions, but accuracy degrades for many users: drooping eyelids, dark irises, and corrective lenses all confuse cameras. Foveated rendering and gaze interaction assume sub-degree accuracy that isn't guaranteed across the population.",
+  "why_it_blocks": "Inconsistent eye tracking makes gaze-dependent features unreliable for large user segments, blocking accessibility and core rendering optimizations. A feature that works for only some users can't be a platform foundation.",
+  "current_state": "Vendors claim high population coverage with improved algorithms and illumination, but real-world accuracy varies widely. Robust, calibration-free tracking for everyone remains aspirational. Calibration drift over a session means accuracy measured at setup does not hold, undermining gaze-contingent features mid-use.",
+  "sources": [
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    },
+    {
+      "title": "Geo Week News: Verifocal & VR sickness",
+      "url": "https://www.geoweeknews.com/articles/verifocal-aims-to-solve-a-neurological-problem-that-makes-vr-users-sick/"
+    }
+  ]
+}

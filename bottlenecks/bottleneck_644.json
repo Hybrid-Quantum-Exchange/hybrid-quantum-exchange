@@ -1,0 +1,18 @@
+{
+  "id": 644,
+  "domain": "neuroscience",
+  "title": "Brain energy allocation as a computational constraint",
+  "bottleneck": "The human brain runs on about 20 watts, yet communication between neurons appears to dominate its energy budget, dwarfing the cost of computation itself. Attention and task engagement reallocate a limited metabolic supply across regions, suggesting energy, not just wiring, constrains what the brain can compute at any moment.",
+  "why_it_blocks": "If energy allocation is the binding constraint on neural computation, it reframes both neuroscience and AI: the brain's algorithms are solutions to a power-budget problem, and neuromorphic hardware chasing brain-like efficiency must solve distribution, not just transistor efficiency.",
+  "current_state": "Studies show task-evoked activity reallocates rather than increases total brain energy use, consistent with a tight metabolic budget. But the quantitative mapping from energy supply to cognitive capacity remains crude, and no complete theory links metabolic constraints to specific computational limits.",
+  "sources": [
+    {
+      "title": "Brain energy allocation study",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2008173118"
+    },
+    {
+      "title": "Attention and brain energy supply",
+      "url": "https://www.sciencedaily.com/releases/2020/08/200803140046.htm"
+    }
+  ]
+}

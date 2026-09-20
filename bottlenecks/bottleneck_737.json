@@ -1,0 +1,18 @@
+{
+  "id": 737,
+  "domain": "materials",
+  "title": "Magnesium diboride wire for affordable MRI",
+  "bottleneck": "Magnesium diboride superconducts at 39 K — reachable with cheap cryocoolers instead of liquid helium — yet MgB2 wire has never achieved the current density and long-length uniformity needed to displace niobium-titanium in MRI magnets. Powder-in-tube processing leaves porosity and poor grain connectivity, and carbon doping, which boosts high-field performance, is hard to control uniformly over kilometers.",
+  "why_it_blocks": "Helium-cooled MRI scanners are expensive to buy and run, keeping advanced imaging out of reach in much of the world. MgB2 could cut magnet costs dramatically, but wire limitations keep it a niche product for low-field demonstrators.",
+  "current_state": "Commercial MgB2 wire exists in limited lengths for research magnets, and incremental doping and densification work continues. Until grain connectivity and kilometer-scale uniformity are solved, helium-dependent NbTi remains the MRI standard.",
+  "sources": [
+    {
+      "title": "Room-temperature superconductor",
+      "url": "https://en.wikipedia.org/wiki/Room-temperature_superconductor"
+    },
+    {
+      "title": "How Close Are We to Superconductors That Are Actually Practical?",
+      "url": "https://gizmodo.com/?p=2000814055"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 100,
+  "domain": "cosmology_multiverse",
+  "title": "The Dark Energy Equation-of-State Precision Floor",
+  "bottleneck": "Even with DESI, Euclid, and Rubin, forecasts suggest w0-wa constraints will hit systematic floors from photometric redshifts, supernova calibration, and BAO modeling before reaching the precision needed to distinguish competing dynamical models. It is unclear any planned survey can push past ~2-3% on w without new methodology. Supernova systematics — dust, population drift, calibration — are now the limiting factor rather than statistics, and they improve only slowly.",
+  "why_it_blocks": "A precision floor would leave dark energy phenomenology permanently ambiguous among several viable theories.",
+  "current_state": "Stage-IV surveys are in early operations; intensity-mapping (SKA, CHIME successors) and standard-siren cosmology are the proposed routes past the floor. Novel probes like gravitational-wave standard sirens and intensity mapping may eventually bypass these systematics, but both are a decade from maturity.",
+  "sources": [
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    },
+    {
+      "title": "Cosmology in Extended Parameter Space with DESI DR2 (IOPscience)",
+      "url": "https://iopscience.iop.org/article/10.3847/2041-8213/ade1cc"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 52,
+  "domain": "fundamental_physics",
+  "title": "The Yang-Mills mass gap",
+  "bottleneck": "Pure Yang-Mills theory is believed to have a mass gap, meaning the lightest glueball has nonzero mass despite the classical theory having no scale, but proving this from the axioms of quantum field theory is an unsolved Millennium problem. The gap is tied to confinement and the origin of most of the visible mass in the universe.",
+  "why_it_blocks": "Nearly all the mass of ordinary matter comes from QCD dynamics rather than the Higgs; the mass gap is the mathematical statement of how that dynamical mass arises, and it remains conjectural.",
+  "current_state": "Lattice calculations measure the glueball spectrum precisely, and constructive field theory has made partial progress, but the Clay problem stands unsolved after a quarter century. Lattice simulations measure the lightest glueball near 1.7 GeV, yet connecting that number to an analytic proof remains out of reach.",
+  "sources": [
+    {
+      "title": "open-physics-problems SOURCES.md - meta-aggregator of unsolved physics lists",
+      "url": "https://github.com/zozo123/open-physics-problems/blob/HEAD/SOURCES.md"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

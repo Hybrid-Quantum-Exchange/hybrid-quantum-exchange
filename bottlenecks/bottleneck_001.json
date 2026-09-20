@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "domain": "fundamental_physics",
+  "title": "Non-renormalizability of perturbative quantum gravity",
+  "bottleneck": "Treating general relativity as a quantum field theory with a graviton produces loop integrals that diverge in ways no finite set of counterterms can absorb; at each new loop order fresh divergences appear and the theory loses predictive power above the Planck scale. No perturbative fix exists because the gravitational coupling itself carries mass dimension, making every higher-order diagram more divergent than the last.",
+  "why_it_blocks": "Without a renormalizable perturbative description, physicists cannot compute quantum corrections to gravitational scattering the way they do for the other three forces, leaving quantum gravity without its most basic calculational engine.",
+  "current_state": "The community treats Einstein gravity as a low-energy effective field theory valid below the Planck energy, while non-perturbative programs like string theory, loop quantum gravity and asymptotic safety attempt to complete it; none is experimentally confirmed.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 900,
+  "domain": "xr_interface",
+  "title": "Multimodal input fusion latency",
+  "bottleneck": "Combining gaze, hands, voice, and EMG should give robust intent understanding, but fusing asynchronous streams with different latencies and confidences in real time is hard: waiting for the slowest modality adds lag, while acting early risks errors. No standard fusion architecture handles conflict and timing gracefully.",
+  "why_it_blocks": "The best XR interaction would blend modalities seamlessly, but fusion complexity keeps inputs siloed and brittle. Each modality alone is weak; together they're uncoordinated.",
+  "current_state": "Platform SDKs offer basic multimodal combos (gaze+pinch), but deep, adaptive, low-latency fusion across many sensors is still research-stage. Modalities disagree about timing and confidence, and resolving those conflicts in real time without adding lag is unsolved. Waiting for the slowest modality adds lag while acting on the fastest risks errors, and no fusion architecture resolves this cleanly.",
+  "sources": [
+    {
+      "title": "NVIDIA Research: Foveated rendering latency",
+      "url": "https://research.nvidia.com/publication/2017-09_latency-requirements-foveated-rendering-virtual-reality"
+    },
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    }
+  ]
+}

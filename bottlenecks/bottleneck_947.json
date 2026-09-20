@@ -1,0 +1,18 @@
+{
+  "id": 947,
+  "domain": "food_water_agriculture",
+  "title": "Post-harvest loss in low-income food systems",
+  "bottleneck": "In developing countries, 15–30% of harvested food is lost before reaching consumers — to pests, mold, poor drying, and absent cold chains — while these same regions face the worst food insecurity. The fixes are known (hermetic storage, drying, cold chain), but they require capital, energy, and maintenance that smallholders and rural markets lack. Loss happens invisibly, spread across millions of farms, so it attracts little investment.",
+  "why_it_blocks": "Cutting post-harvest losses is the cheapest way to feed more people: it needs no new land, no new yields — just saving what's already grown. Cutting these losses needs no new land or yields - just saving what is already grown.",
+  "current_state": "Hermetic bags and metal silos show strong results where deployed; coverage remains a small fraction of smallholder storage.",
+  "sources": [
+    {
+      "title": "FAO Save Food: Post-harvest losses brochure",
+      "url": "https://www.fao.org/fileadmin/user_upload/ags/publications/brochure_phl_low.pdf"
+    },
+    {
+      "title": "Food losses and waste in the context of sustainable food systems",
+      "url": "https://www.fao.org/4/i3901e/i3901e.pdf"
+    }
+  ]
+}

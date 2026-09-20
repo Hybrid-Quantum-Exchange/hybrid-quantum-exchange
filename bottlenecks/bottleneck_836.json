@@ -1,0 +1,18 @@
+{
+  "id": 836,
+  "domain": "climate_environment",
+  "title": "Urban heat island mitigation at scale",
+  "bottleneck": "Extreme heat is the deadliest weather hazard, amplified in cities by concrete, asphalt, and waste heat — yet proven cooling interventions do not scale: reflective coatings degrade and raise heating costs in winter, urban trees die in heatwaves without irrigation cities cannot afford, and air conditioning, the default response, dumps more heat outside while pricing out the poor. No city has demonstrated a neighborhood-scale cooling strategy that works through a record heatwave.",
+  "why_it_blocks": "Heat deaths are rising fastest where adaptation is weakest — dense, poor, tropical cities. The mitigation gap means urbanization and warming compound into an escalating mortality crisis with no deployable solution set.",
+  "current_state": "Cool-roof programs, misting stations, and heat action plans with early warnings have cut deaths in cities like Ahmedabad. But these are emergency measures; the built-environment transformation that would make cities livable in a 2 C world has barely started.",
+  "sources": [
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    },
+    {
+      "title": "Global climate crosses more dangerous tipping points, heading for ecosystem collapse",
+      "url": "https://reneweconomy.com.au/global-climate-crosses-more-dangerous-tipping-points-heading-for-ecosystem-collapse/"
+    }
+  ]
+}

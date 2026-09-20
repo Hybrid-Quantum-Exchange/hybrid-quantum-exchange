@@ -1,0 +1,18 @@
+{
+  "id": 960,
+  "domain": "coordination",
+  "title": "Concentration of Funding (Matthew Effect)",
+  "bottleneck": "A small fraction of senior investigators captures a large share of funding, with success breeding success through reputation effects in review. Young and outsider researchers face the steepest odds precisely when they are most likely to produce disruptive work, and the concentration has grown over decades. Reputation effects compound over careers: early wins lead to more funding, which leads to more publications and more wins.",
+  "why_it_blocks": "Concentration narrows the diversity of ideas pursued and wastes talent that cannot get a first grant. The loss compounds over decades as unfunded young researchers leave science entirely.",
+  "current_state": "NIH data shows persistent concentration; early-career set-asides help at the margins without reversing the trend. Capped funding per investigator has been proposed but never implemented at major agencies.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

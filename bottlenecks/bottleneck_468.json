@@ -1,0 +1,18 @@
+{
+  "id": 468,
+  "domain": "health_longevity",
+  "title": "Sarcopenia and anabolic resistance in aging muscle",
+  "bottleneck": "Aging muscle loses mass, strength, and regenerative capacity through converging mechanisms: satellite cell decline, motor neuron denervation, mitochondrial dysfunction, and anabolic resistance, where older muscle needs far more protein and exercise stimulus to synthesize protein. No drug is approved for sarcopenia; myostatin inhibitors repeatedly failed to improve function despite increasing mass.",
+  "why_it_blocks": "Sarcopenia drives frailty, falls, fractures, and loss of independence, and muscle is the body's metabolic sink. Without a pharmacological lever, the main defense remains exercise, which the frailest cannot do.",
+  "current_state": "Exercise plus adequate protein remains the only proven intervention. Myostatin/activin blockers increased lean mass but not strength in trials. Satellite-cell and neuromuscular-junction rejuvenation approaches are preclinical. Selective androgen receptor modulators and activin blockers increased lean mass without improving strength, suggesting mass alone is the wrong endpoint and neuromuscular function must be the target.",
+  "sources": [
+    {
+      "title": "Molecular constraints of sarcopenia in the ageing muscle (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12267276/"
+    },
+    {
+      "title": "Sarcopenia and Muscle Aging: Updated Insights into Molecular Mechanisms and Translational Therapeutics (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12963776/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 104,
+  "domain": "cosmology_multiverse",
+  "title": "Systematics in the Local Distance Ladder",
+  "bottleneck": "The Hubble tension could still be mundane: Cepheid crowding, metallicity corrections, TRGB calibration, and supernova standardization each carry sub-percent systematics that are hard to audit independently. Competing anchor teams get different answers at the 1-2 sigma level, and there is no fully independent geometric check at every rung. The Cepheid period-luminosity relation's metallicity dependence and crowding corrections are the most scrutinized systematics, with rival teams reaching different conclusions from similar data.",
+  "why_it_blocks": "If the tension is systematics, cosmology avoids a paradigm crisis; if not, new physics is required — and the community cannot yet tell which.",
+  "current_state": "JWST's resolved stellar populations are tightening Cepheid and TRGB calibrations; gravitational-wave standard sirens offer a fully independent route but need dozens of events. Independent geometric distances from detached eclipsing binaries and megamasers remain too few to arbitrate on their own.",
+  "sources": [
+    {
+      "title": "The Hubble Tension Resolved by the DESI BAO Measurements (arXiv:2509.17454)",
+      "url": "https://arxiv.org/pdf/2509.17454v2"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

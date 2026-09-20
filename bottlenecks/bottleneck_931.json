@@ -1,0 +1,18 @@
+{
+  "id": 931,
+  "domain": "food_water_agriculture",
+  "title": "The desalination energy cost floor",
+  "bottleneck": "Reverse osmosis is approaching its thermodynamic limit — modern plants use about 3 kWh per cubic meter against a theoretical minimum near 1 kWh — which means future cost reductions must come from cheaper energy, not better membranes. Desalination already consumes up to 10x the energy of conventional water treatment, and scaling it to water-scarce regions means scaling energy demand that poor grids can't meet.",
+  "why_it_blocks": "Water scarcity affects billions, but desalination can't serve them if each cubic meter requires energy they don't have. The energy floor caps how cheap desalinated water can ever get.",
+  "current_state": "Sorek B set record-low contracted prices and next-gen membranes promise sub-2 kWh per cubic meter in pilots, but the thermodynamic wall is fixed.",
+  "sources": [
+    {
+      "title": "Desalination cost curve - abundance-codex water domain",
+      "url": "https://github.com/cjtruheart/abundance-codex/blob/HEAD/domains/03-water/01-desalination-cost-curve.md"
+    },
+    {
+      "title": "Why Desalinating Water is Hard — and Why We Might Need To Anyway",
+      "url": "https://www.discovermagazine.com/why-desalinating-water-is-hard-and-why-we-might-need-to-anyway-40123"
+    }
+  ]
+}

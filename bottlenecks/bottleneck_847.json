@@ -1,0 +1,18 @@
+{
+  "id": 847,
+  "domain": "climate_environment",
+  "title": "Agroforestry scaling barriers",
+  "bottleneck": "Agroforestry — integrating trees into farms — sequesters carbon while diversifying income, but scaling is blocked by the mismatch between tree timescales and farmer economics: trees take years to pay off, tenure insecurity discourages planting, and extension services built for monocultures cannot advise on complex systems. Carbon finance could bridge the gap but MRV for scattered trees is costly. Knowledge of which tree-crop combinations work is hyper-local and poorly codified.",
+  "why_it_blocks": "Agroforestry is among the most co-beneficial land interventions available, yet adoption grows linearly while deforestation proceeds exponentially. The scaling barriers keep a proven solution marginal.",
+  "current_state": "Farmer-managed natural regeneration has restored millions of hectares in the Sahel at low cost, proving scale is possible with the right model. But finance, tenure reform, and knowledge systems have not caught up with the agronomy.",
+  "sources": [
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    },
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    }
+  ]
+}

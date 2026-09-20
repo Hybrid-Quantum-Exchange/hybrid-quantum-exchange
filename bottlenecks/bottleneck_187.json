@@ -1,0 +1,18 @@
+{
+  "id": 187,
+  "domain": "energy",
+  "title": "Nuclear workforce pipeline",
+  "bottleneck": "The nuclear industry faces a demographic cliff: experienced welders, health physicists, reactor operators, and licensing engineers are retiring faster than replacements are trained. Nuclear-grade welding and quality assurance require years of certification, and university nuclear engineering programs contracted for decades. New-build projects already report skilled-labor shortages driving schedule delays.",
+  "why_it_blocks": "Reactors are built by people, not designs. Without welders, operators, and inspectors, deployment timelines slip regardless of how good the technology is; labor is a hard physical constraint.",
+  "current_state": "DOE and industry have launched workforce initiatives and university partnerships, but training pipelines take years and current project demand already outstrips supply. Community colleges and trade programs are expanding nuclear tracks, but graduates need years of supervised experience before touching safety-critical work.",
+  "sources": [
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    },
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    }
+  ]
+}

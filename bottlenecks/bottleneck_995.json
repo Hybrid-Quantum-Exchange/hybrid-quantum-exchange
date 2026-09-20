@@ -1,0 +1,18 @@
+{
+  "id": 995,
+  "domain": "coordination",
+  "title": "Short-Termism in Democratic Policymaking",
+  "bottleneck": "Elected governments discount the future heavily: research investments that pay off in decades lose to spending with immediate political returns. Long-horizon programs (fusion, space science, basic research) survive only through exceptional political entrepreneurship, and policy reversals strand multi-year efforts. Basic research with decadal payoffs is the first casualty of budget crunches and political turnover.",
+  "why_it_blocks": "Democracies systematically underinvest in the future relative to what their citizens' long-term interests require. Each cancelled long-term program teaches researchers not to trust the next promise.",
+  "current_state": "Independent research agencies with statutory independence partly insulate science, but they remain vulnerable to budget politics. Insulated, long-horizon funding institutions are the classic remedy, but they require political self-restraint to create. Political self-restraint to protect long-horizon institutions is rare but essential.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Doctors Worry Grant Changes Will Derail Biomedical Science (The Scientist)",
+      "url": "https://www.the-scientist.com/doctors-worry-grant-changes-will-derail-biomedical-science-74893"
+    }
+  ]
+}

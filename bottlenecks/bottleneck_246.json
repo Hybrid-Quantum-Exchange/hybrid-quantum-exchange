@@ -1,0 +1,18 @@
+{
+  "id": 246,
+  "domain": "compute_semiconductors",
+  "title": "The memory wall: DRAM bandwidth vs accelerator demand",
+  "bottleneck": "Processor performance has outpaced memory bandwidth for decades, and AI workloads have widened the gap: accelerators sit idle waiting for weights and activations while memory channels saturate. DRAM bandwidth scales slowly and expensively, while compute demand grows exponentially. Neither wider buses nor faster signaling alone close the gap at acceptable power.",
+  "why_it_blocks": "The memory wall converts transistor gains into wasted silicon: adding more compute units yields nothing if they can't be fed. It is the primary reason AI scaling now demands expensive HBM, 3D stacking, and architectural workarounds instead of simple FLOPS growth.",
+  "current_state": "HBM, larger on-chip SRAM caches, and disaggregated memory pools mitigate the wall for flagship systems, but the fundamental bandwidth-per-FLOP deficit persists and worsens with each accelerator generation.",
+  "sources": [
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

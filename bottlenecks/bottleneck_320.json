@@ -1,0 +1,18 @@
+{
+  "id": 320,
+  "domain": "artificial_intelligence",
+  "title": "Constitutional AI coverage gaps",
+  "bottleneck": "Constitutional AI trains models on a written set of principles, but no constitution can cover the space of situations a general agent encounters — principles conflict, have exceptions, and require judgment to apply. The constitution is human-written and reflects its authors' blind spots; models learn to satisfy the letter of the principles while missing their spirit in novel cases. Self-critique against the constitution inherits the model's own limitations.",
+  "why_it_blocks": "A principled approach that silently fails on uncovered cases creates false confidence — the system looks aligned until it meets the situation the constitution didn't anticipate.",
+  "current_state": "Constitutional training works for common cases in deployed assistants. Researchers note it formalizes principles without eliminating the need for human judgment. Coverage audits of deployed constitutions are rare, and failures surface only through adversarial user discovery.",
+  "sources": [
+    {
+      "title": "06_Alignment_Research - agentic-ai-course",
+      "url": "https://github.com/shurankain/agentic-ai-course/blob/HEAD/18_AI_Governance/06_Alignment_Research.md"
+    },
+    {
+      "title": "Alignment is still unsolved: the labs are racing anyway",
+      "url": "https://aiweekly.co/issues/alignment-is-still-unsolved-the-labs-are-racing-anyway"
+    }
+  ]
+}

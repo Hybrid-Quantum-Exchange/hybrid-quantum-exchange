@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "domain": "cosmology_multiverse",
+  "title": "Cosmic Birefringence in CMB Polarization",
+  "bottleneck": "Several analyses find a ~0.3-degree rotation of CMB polarization (cosmic birefringence), hinting at parity-violating physics like axion-like fields coupled to photons. The signal hovers near systematic limits of polarization-angle calibration, and independent confirmation is lacking. An axion-like field coupling to photons is the leading explanation, which would connect the signal to dark matter or dark energy physics.",
+  "why_it_blocks": "A confirmed rotation would be the first cosmological evidence of parity violation beyond the Standard Model. Even a marginal signal motivates better calibration, since the payoff of a confirmed detection would be enormous.",
+  "current_state": "Planck PR4 analyses report ~3 sigma; absolute angle calibration from Crab Nebula and future CMB-S4 data will decide. Improved absolute calibration using artificial sources and better foreground modeling are the priorities.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "10 Unsolved Space Mysteries (Tech Times)",
+      "url": "https://www.techtimes.com/articles/314139/20260117/10-unsolved-space-mysteries-that-still-baffle-science-dark-energy-cosmic-signals.htm"
+    }
+  ]
+}

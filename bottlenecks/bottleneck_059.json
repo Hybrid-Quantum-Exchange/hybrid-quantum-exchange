@@ -1,0 +1,14 @@
+{
+  "id": 59,
+  "domain": "fundamental_physics",
+  "title": "Is naturalness a reliable guide to new physics",
+  "bottleneck": "The naturalness principle, that dimensionless parameters should not require extreme fine-tuning, successfully predicted the charm quark and the rho meson, but its flagship predictions of weak-scale supersymmetry and compositeness have failed at the LHC. It is unclear whether the principle is a law of nature or a historically lucky heuristic.",
+  "why_it_blocks": "Particle physics has used naturalness as its main compass for fifty years; if the compass is broken, the field loses its primary criterion for choosing among theories and justifying new experiments.",
+  "current_state": "The community is split between those who abandon naturalness for anthropic or cosmological explanations and those who insist the new physics is simply at higher energies than the LHC reaches. Relaxion models and cosmological selection attempt to explain apparent tuning dynamically, but they remain speculative and largely untested.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

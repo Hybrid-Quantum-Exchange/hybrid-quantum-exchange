@@ -1,0 +1,18 @@
+{
+  "id": 473,
+  "domain": "health_longevity",
+  "title": "Gut microbiome dysbiosis in aging",
+  "bottleneck": "The aged gut microbiome loses diversity, gains pro-inflammatory taxa, and the intestinal barrier leaks microbial products that fuel systemic inflammaging. But causality is murky: does dysbiosis drive aging, or does aging drive dysbiosis? Fecal transplants from young donors rejuvenate aged mice, yet human data are correlative and strain-specific effects are unknown.",
+  "why_it_blocks": "The microbiome is the most modifiable aging lever (diet, probiotics, transplant), but without causal maps, interventions are shots in the dark, and commercial probiotics outrun evidence.",
+  "current_state": "Microbiome profiling is a research tool; defined bacterial consortia are in early trials for C. difficile and metabolic endpoints, not aging. Diet and exercise remain the only evidence-based modulators. Defined bacterial consortia and engineered probiotics are in early trials, but the field cannot yet predict which strains engraft, persist, or causally shift host aging phenotypes.",
+  "sources": [
+    {
+      "title": "Immunosenescence: Aging and Immune System Decline (MDPI)",
+      "url": "https://www.mdpi.com/3055920"
+    },
+    {
+      "title": "Immunofitness in the elderly: The role of vaccination in promoting healthy aging (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12893699/"
+    }
+  ]
+}

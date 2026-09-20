@@ -1,0 +1,18 @@
+{
+  "id": 864,
+  "domain": "xr_interface",
+  "title": "Pancake lens optical efficiency loss",
+  "bottleneck": "Pancake lenses fold the optical path to shrink VR headsets, but multiple reflections waste 75%+ of display light, forcing brighter, hotter, more power-hungry panels. Ghosting and reduced contrast accompany the efficiency loss. The compactness win is paid for in power and image quality.",
+  "why_it_blocks": "Inefficient optics raise headset power, heat, and cost while dimming the image; every pancake headset is dimmer than its panel could be. Better folded optics are needed to keep shrinking headsets without degrading the picture.",
+  "current_state": "Pancake lenses are standard in current flagship VR headsets, with coatings improving efficiency incrementally. Fundamental polarization losses remain. The wasted light becomes heat inside the headset, compounding thermal problems while dimming the image the user actually sees.",
+  "sources": [
+    {
+      "title": "InAirSpace: VR headset safety",
+      "url": "https://inairspace.com/blogs/learn-with-inair/vr-headset-safety-concerns-navigating-the-immersive-frontier-with-caution"
+    },
+    {
+      "title": "Laser Focus World: Waveguide design for AR",
+      "url": "https://www.laserfocusworld.com/optics/article/55365905/waveguide-design-for-ar-glasses-system-optimization"
+    }
+  ]
+}

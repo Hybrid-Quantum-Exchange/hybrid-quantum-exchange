@@ -1,0 +1,18 @@
+{
+  "id": 22,
+  "domain": "fundamental_physics",
+  "title": "Soft hair on black holes and information retrieval",
+  "bottleneck": "Hawking, Perry and Strominger proposed that black holes carry 'soft hair', an infinite set of conserved charges from asymptotic symmetries that could encode infalling information, but it remains unproven that these charges have enough capacity or the right dynamics to account for the full Bekenstein-Hawking entropy. Critics argue the soft modes are too few and too weakly coupled.",
+  "why_it_blocks": "Soft hair was the most concrete recent proposal for where the missing information physically resides; if it fails, the paradox loses its most conservative classical-leaning resolution.",
+  "current_state": "The BMS symmetry structure is now well established and soft theorems are understood, but the leap from asymptotic charges to a complete account of black hole microstates has not been made.",
+  "sources": [
+    {
+      "title": "Black holes and information: A new take on an old paradox - arXiv",
+      "url": "https://arxiv.org/pdf/1603.07569v1"
+    },
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}

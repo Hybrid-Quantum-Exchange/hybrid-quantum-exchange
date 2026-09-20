@@ -1,0 +1,18 @@
+{
+  "id": 667,
+  "domain": "space",
+  "title": "Solar sail deployment and control at operational scale",
+  "bottleneck": "Solar sails offer propellant-free propulsion, but useful thrust needs sails hundreds of meters across — gossamer membranes that must deploy reliably, stay flat and reflective, and be steered by shifting their center of pressure. Large flexible structures couple deployment dynamics, thermal distortion, and attitude control in ways that are hard to model and harder to test on the ground. NASA's Advanced Composite Solar Sail System is only about 9 meters per side; scaling two orders of magnitude introduces failure modes no one has flown.",
+  "why_it_blocks": "Sails could enable long-duration missions — solar polar orbiters, asteroid rendezvous — without propellant limits, but only if they can be built big enough to matter and controlled precisely enough to navigate.",
+  "current_state": "IKAROS (2010) and LightSail 2 demonstrated small sails; NASA's ACS3 tested composite booms in 2024. Large-scale operational sails remain unflown.",
+  "sources": [
+    {
+      "title": "NASA's giant solar-powered sail is designed to travel to deep space (Fast Company)",
+      "url": "https://www.fastcompany.com/91053260/how-one-nasa-scientist-turned-his-childhood-dream-of-building-a-solar-powered-space-sail-into-the-next-era-of-space-exploration"
+    },
+    {
+      "title": "We might soon have the technology to reach other star systems (New Space Economy)",
+      "url": "https://newspaceeconomy.ca/2026/09/12/we-might-soon-have-the-technology-to-reach-other-star-systems/"
+    }
+  ]
+}

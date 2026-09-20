@@ -1,0 +1,18 @@
+{
+  "id": 275,
+  "domain": "compute_semiconductors",
+  "title": "Probabilistic-bit hardware calibration at scale",
+  "bottleneck": "Probabilistic computers use noisy p-bits for optimization and sampling, but each p-bit's randomness must be precisely calibrated and stable; device-to-device variation and temperature drift corrupt the probability distributions the algorithms assume. Scaling to millions of interacting p-bits while maintaining calibration is unsolved, and interfacing probabilistic cores with deterministic systems adds overhead.",
+  "why_it_blocks": "Probabilistic computing could accelerate combinatorial optimization and Bayesian inference by orders of magnitude, but only if large p-bit arrays behave as modeled. Calibration drift turns a principled accelerator into an unreliable random-number generator.",
+  "current_state": "MTJ-based and CMOS-based p-bit prototypes demonstrate small-scale probabilistic circuits. Million-bit calibrated arrays with stable statistics are still research goals. Temperature drift detunes p-bit statistics during operation, requiring recalibration schemes that themselves consume area, power, and design effort.",
+  "sources": [
+    {
+      "title": "LinkedIn: Neuromorphic hardware challenges",
+      "url": "https://www.linkedin.com/pulse/neuromorphic-computing-next-frontier-brain-inspired-ai-ramachandran-h0xxe"
+    },
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    }
+  ]
+}

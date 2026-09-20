@@ -1,0 +1,18 @@
+{
+  "id": 829,
+  "domain": "climate_environment",
+  "title": "Heat-resilient staple crop breeding",
+  "bottleneck": "Wheat, rice, and maize lose yield sharply above temperature thresholds that are becoming routine — each degree of warming cuts global wheat yields roughly 6 percent — but breeding heat tolerance without sacrificing yield is slow: heat tolerance is polygenic, field trials take seasons, and tolerance to heat plus drought plus flooding together is barely addressed. Gene editing could accelerate progress but faces regulatory barriers in key markets. Current breeding pipelines are not keeping pace with the warming they target.",
+  "why_it_blocks": "Staple crops feed humanity; synchronized heat-driven yield shocks across breadbaskets could trigger food price crises and conflict. The breeding gap means agriculture is losing a race against the thermometer, with the poorest regions — least able to adapt — hit first.",
+  "current_state": "Heat-tolerant varieties are reaching farmers incrementally, and genomic selection is shortening breeding cycles. But the rate of genetic gain remains below the rate of warming in most programs, and orphan crops for the tropics get a fraction of the investment.",
+  "sources": [
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    },
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 927,
+  "domain": "food_water_agriculture",
+  "title": "Seed access for smallholder farmers",
+  "bottleneck": "Improved varieties exist for many crops and regions, but seed systems fail to deliver them to smallholders: formal seed markets don't reach remote areas, improved seed is unaffordable without credit, and farmer-saved seed — the dominant source — doesn't carry new genetics. The last mile of seed delivery defeats breeding gains, and counterfeit seed is rampant where regulation is weak. Counterfeit seed is rampant where regulation is weak, destroying farmer trust in improved varieties.",
+  "why_it_blocks": "The best variety in a genebank feeds nobody. Yield gaps persist largely because improved genetics never reach the field. The best variety in a genebank feeds nobody; yield gaps persist because improved genetics never reach the field.",
+  "current_state": "Community seed systems and agrodealer networks expand slowly; most smallholders still plant recycled seed of old varieties.",
+  "sources": [
+    {
+      "title": "Understanding the Yield Gap: Exploring the Factors Behind Crop Productivity Differences",
+      "url": "https://www.shiftingshares.com/understanding-the-yield-gap-exploring-the-factors-behind-crop-productivity-differences-2/"
+    },
+    {
+      "title": "Distinguishing between yield advances and yield plateaus in historical crop production trends (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3905725/"
+    }
+  ]
+}

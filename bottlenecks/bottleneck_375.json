@@ -1,0 +1,14 @@
+{
+  "id": 375,
+  "domain": "medicine_cures",
+  "title": "Glioblastoma treatment",
+  "bottleneck": "Glioblastoma, the most aggressive brain tumor, is diffusely infiltrative, shielded by the blood-brain barrier, profoundly immunosuppressive, and heterogeneous. Median survival remains around 15 months despite surgery, radiation, and temozolomide, a regimen largely unchanged for two decades.",
+  "why_it_blocks": "It exemplifies every hard problem in oncology at once, including delivery, heterogeneity, and immune evasion, making it the proving ground for whether those barriers can be broken.",
+  "current_state": "Tumor-treating fields, oncolytic viruses, CAR-T and vaccine trials, and barrier-opening technologies are in clinical testing with incremental gains. No breakthrough has yet shifted the survival curve. The tumor's diffuse infiltration means surgery can never remove it all, and its heterogeneity defeats single-target drugs. Glioblastoma will likely require multi-pronged strategies combining delivery, immune activation, and heterogeneity-aware drug combinations.",
+  "sources": [
+    {
+      "title": "Cancer Metastasis: Overcoming Therapeutic Challenges and Unlocking Opportunities",
+      "url": "https://scienmag.com/cancer-metastasis-overcoming-therapeutic-challenges-and-unlocking-opportunities/"
+    }
+  ]
+}

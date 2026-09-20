@@ -1,0 +1,18 @@
+{
+  "id": 239,
+  "domain": "compute_semiconductors",
+  "title": "Copper interconnect RC delay scaling",
+  "bottleneck": "As wires shrink, copper resistivity rises sharply due to surface and grain-boundary scattering, while thinner barrier liners steal cross-section. The result: interconnect RC delay now dominates gate delay, and the smallest metal layers are slower than the transistors they connect. Alternative conductors (ruthenium, cobalt, graphene) and air-gap dielectrics help but add cost and integration risk.",
+  "why_it_blocks": "Chips increasingly wait on their own wiring, so transistor improvements don't translate into faster circuits. Interconnect delay also forces more repeater insertion, which burns power and area, compounding the power wall.",
+  "current_state": "Ruthenium and cobalt interconnects are entering production at advanced nodes, and air-gap and subtractive-etch flows are in development. Copper remains dominant, and each new metal layer generation buys smaller gains at higher cost.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 464,
+  "domain": "health_longevity",
+  "title": "Tau pathology propagation and clearance in neurodegeneration",
+  "bottleneck": "Tau tangles correlate with cognitive decline more tightly than amyloid plaques, and tau spreads through the brain in prion-like fashion, but anti-tau antibodies and aggregation inhibitors have repeatedly failed in trials. It is unclear whether extracellular tau (what antibodies reach) or intracellular tau (where the pathology lives) is the right target.",
+  "why_it_blocks": "If amyloid is downstream and tau is the executioner, the field's pivot to tau must succeed for any Alzheimer's disease-modifying strategy to work. Repeated tau trial failures suggest the targeting strategy, not just the protein, is wrong.",
+  "current_state": "Multiple anti-tau antibodies (semorinemab, gosuranemab, zagotenemab) failed to slow decline. Intracellular approaches (antisense oligonucleotides, PROTAC degraders) are in early development. Tau PET imaging now lets trials verify target engagement, yet even confirmed tau lowering has not translated into cognitive benefit, deepening the mystery of what tau-directed therapy must achieve.",
+  "sources": [
+    {
+      "title": "Why Don't We Have a Cure for Alzheimer's? (WebMD)",
+      "url": "https://www.webmd.com/alzheimers/features/alzheimers-amyloid-hypothesis-rut"
+    },
+    {
+      "title": "World's Leading Theory on Alzheimer's in Crisis After Major Drug Trials Fail (ScienceAlert)",
+      "url": "https://www.sciencealert.com/worlds-leading-theory-on-alzheimers-in-crisis-after-major-drug-trials-fail"
+    }
+  ]
+}

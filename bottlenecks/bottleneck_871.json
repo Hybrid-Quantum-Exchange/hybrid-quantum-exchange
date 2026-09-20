@@ -1,0 +1,18 @@
+{
+  "id": 871,
+  "domain": "xr_interface",
+  "title": "Full-body tracking without suits or base stations",
+  "bottleneck": "Convincing avatars need full-body pose, but inside-out cameras see only the upper body; legs and feet are inferred, often wrongly. IMU suits drift, base stations tether users to rooms, and computer-vision leg estimation fails during occlusion. Social VR with floating torsos persists because legs are unsolved.",
+  "why_it_blocks": "Missing or wrong bodies break social presence and embodiment, limiting VR's promise for communication and training. Until bodies track reliably with no extra gear, avatars stay half-real.",
+  "current_state": "Headset cameras plus IMU pucks give approximate full-body tracking for enthusiasts; machine-learning pose estimation improves steadily. Accurate, drift-free, gear-free full body tracking doesn't exist. Legs are frequently occluded from headset cameras, so lower-body pose is guessed, and wrong guesses break embodiment more than missing legs do.",
+  "sources": [
+    {
+      "title": "Frontiers in VR: Haptic feedback & embodiment",
+      "url": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2020.573167"
+    },
+    {
+      "title": "InAirSpace: AR glasses trade-offs",
+      "url": "https://inairspace.com/blogs/learn-with-inair/ar-glasses-vs-monitor-the-ultimate-showdown-for-your-digital-workspace"
+    }
+  ]
+}

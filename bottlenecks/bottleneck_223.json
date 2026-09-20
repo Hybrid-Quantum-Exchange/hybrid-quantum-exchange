@@ -1,0 +1,18 @@
+{
+  "id": 223,
+  "domain": "energy",
+  "title": "Dynamic line rating deployment gap",
+  "bottleneck": "Most transmission lines use static ratings based on worst-case weather assumptions, leaving 10 to 40 percent of capacity unused most of the time. Dynamic line rating, adjusting limits with real-time temperature, wind, and sag sensors, is proven technology that utilities have been slow to adopt due to conservative operating culture and integration costs. It is the cheapest capacity expansion available.",
+  "why_it_blocks": "The grid leaves free capacity on the table while building expensive new lines. Dynamic ratings could relieve congestion in months, but institutional inertia keeps ratings static.",
+  "current_state": "Pilots show consistent gains and FERC has encouraged adoption. Deployment remains limited to a fraction of congested lines. Sensor maintenance in remote terrain adds operating cost, and operators remain wary of trusting automated ratings during storms.",
+  "sources": [
+    {
+      "title": "The Interconnection Bottleneck: How Renewable Approval Backlogs Are Repricing the Energy-to-Data Center Equation",
+      "url": "https://www.globaldatacenterhub.com/p/the-interconnection-bottleneck-how"
+    },
+    {
+      "title": "Green Energy Gridlock: Transmission and PPA Delays Slow Renewables",
+      "url": "https://www.datainsightsmarket.com/news/article/green-energy-gridlock-transmission-ppa-delays-slow-renewables-19750"
+    }
+  ]
+}

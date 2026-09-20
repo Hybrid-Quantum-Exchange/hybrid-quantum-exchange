@@ -1,0 +1,18 @@
+{
+  "id": 236,
+  "domain": "compute_semiconductors",
+  "title": "Gate-all-around nanosheet transistor variability",
+  "bottleneck": "Nanosheet (GAA) transistors replace FinFETs at 2nm-class nodes, but stacking multiple silicon sheets introduces new variability: sheet thickness, channel release etch uniformity, and interface trap density vary across billions of devices. Parasitic capacitance between stacked sheets also erodes the expected power gains. Taming this variability demands atomic-level process control that pushes etch and deposition tools to their limits.",
+  "why_it_blocks": "Transistor variability translates directly into wider timing margins, lower clocks, and lost power efficiency across the chip. If GAA variability cannot be controlled, the density gains of new nodes are partially surrendered to guardbands.",
+  "current_state": "TSMC, Intel, and Samsung are all shipping or ramping GAA-based nodes (Intel 18A RibbonFET, TSMC N2). Yields are improving, but sheet-release uniformity and parasitic reduction remain active research and process-tuning areas.",
+  "sources": [
+    {
+      "title": "Aminext: Beyond FinFET - GAAFET & CFET",
+      "url": "https://www.aminext.blog/en/post/beyond-finfet-gaafet-cfet-semiconductor-scaling"
+    },
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    }
+  ]
+}

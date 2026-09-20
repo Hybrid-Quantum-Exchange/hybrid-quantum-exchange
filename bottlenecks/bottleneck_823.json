@@ -1,0 +1,18 @@
+{
+  "id": 823,
+  "domain": "climate_environment",
+  "title": "Freshwater wetland ecosystem collapse",
+  "bottleneck": "Inland wetlands are disappearing three times faster than forests, drained for agriculture and starved of water by upstream extraction, yet their collapse dynamics are poorly studied: thresholds where a wetland flips from carbon sink to source, or from nursery to dead zone, are unmapped for most systems. Groundwater-surface water interactions that sustain wetlands are invisible to current monitoring, and restoration often fails because the hydrology cannot be rebuilt.",
+  "why_it_blocks": "Wetlands provide water purification, flood control, and biodiversity disproportionate to their area; their loss amplifies both floods and droughts for downstream communities. The science gap means collapses are noticed only after they are irreversible.",
+  "current_state": "The Ramsar Convention tracks designated sites, but most wetlands are undesignated and unmonitored. Restoration science is advancing where hydrology is understood, yet the global trend remains rapid net loss.",
+  "sources": [
+    {
+      "title": "Ecological tipping points could occur sooner than expected - Natural World Fund",
+      "url": "https://naturalworldfund.com/ecological-tipping-points-could-occur-sooner-than-expected/"
+    },
+    {
+      "title": "Peatlands may collapse under their own weight before reaching their carbon storage potential",
+      "url": "https://www.earth.com/environment/peatlands-may-collapse-under-their-own-weight-before-reaching-their-carbon-storage-potential/"
+    }
+  ]
+}

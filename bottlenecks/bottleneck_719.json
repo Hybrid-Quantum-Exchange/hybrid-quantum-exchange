@@ -1,0 +1,18 @@
+{
+  "id": 719,
+  "domain": "space",
+  "title": "Uncertainty in Kessler cascade modeling",
+  "bottleneck": "Whether low Earth orbit is already past the tipping point into a self-sustaining collision cascade depends on models fed by uncertain inputs: the true sub-10-cm population, future launch rates, disposal-rule compliance, and breakup physics. Different models give different answers, and the uncertainty is large enough that policymakers cannot tell whether aggressive removal is urgent or merely prudent. The 25-year disposal guideline itself rests on 1990s modeling now considered insufficient for congested shells.",
+  "why_it_blocks": "Policy — removal funding, disposal rules, launch licensing — needs a risk number; if the models cannot agree, regulation oscillates between complacency and overreaction, and neither stabilizes the environment.",
+  "current_state": "ESA's annual space environment report tracks the trends; interagency studies continue. No consensus model commands policy.",
+  "sources": [
+    {
+      "title": "ESA Warns Orbital Debris Risk Is Accelerating as Satellite Traffic Surges",
+      "url": "https://tower-post.com/2026/09/15/esa-warns-orbital-debris-risk-is-accelerating-as-satellite-traffic-surges/"
+    },
+    {
+      "title": "Space Debris and the Kessler Problem: A Reality Check",
+      "url": "https://medium.com/@marc.bara.iniesta/space-debris-and-the-kessler-problem-a-reality-check-99484cfa5e86"
+    }
+  ]
+}

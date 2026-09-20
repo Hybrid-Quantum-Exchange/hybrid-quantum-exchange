@@ -1,0 +1,18 @@
+{
+  "id": 810,
+  "domain": "climate_environment",
+  "title": "Boreal forest fire regime shift",
+  "bottleneck": "Boreal forests are shifting from a regime of stand-replacing fires every century to megafires that burn deeper into soils and peat, releasing carbon accumulated over millennia — but whether forests regenerate or convert to shrubland or grassland depends on fire severity, seed sources, and permafrost thaw in ways models capture poorly. The 2023-2024 Canadian fire seasons burned areas unprecedented in the satellite record, yet carbon accounting still treats such events as anomalies rather than the new baseline.",
+  "why_it_blocks": "Boreal forests and peatlands are the largest terrestrial carbon store; a permanent shift to a high-fire regime would convert them from sink to source, adding warming no policy currently budgets for. Fire management built for the old regime is already overwhelmed.",
+  "current_state": "Research is racing to map burn severity to regeneration outcomes, and Indigenous fire stewardship offers proven management models. But the climate-fire-vegetation feedback is intensifying faster than the science or the firefighting capacity.",
+  "sources": [
+    {
+      "title": "Thawing permafrost is affecting climate, but it's unclear by how much",
+      "url": "https://phys.org/news/2024-10-permafrost-affecting-climate-unclear.html"
+    },
+    {
+      "title": "Climate tipping points bring warning and hope",
+      "url": "https://www.forestsnews.org/153211/climate-tipping-points-ecosystem-collapse"
+    }
+  ]
+}

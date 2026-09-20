@@ -1,0 +1,18 @@
+{
+  "id": 750,
+  "domain": "materials",
+  "title": "Ultra-wide-bandgap semiconductor growth, doping, and contacts",
+  "bottleneck": "Diamond and aluminum nitride offer bandgaps far beyond gallium nitride, promising power electronics that switch higher voltages at higher temperatures with lower losses. But growing device-grade single crystals at scale, achieving reliable n- and p-type doping, and forming low-resistance ohmic contacts all remain unsolved or marginal.",
+  "why_it_blocks": "Power conversion eats a large share of global electricity, and ultra-wide-bandgap devices could shrink losses in grids, vehicles, and data centers dramatically. The material advantages are proven in principle; manufacturability is the wall between principle and deployment.",
+  "current_state": "Research reactors grow improving diamond and AlN substrates, and device demonstrators exist, but defect densities, doping activation, and contact resistance lag far behind silicon carbide and gallium nitride maturity. Commercial timelines keep slipping.",
+  "sources": [
+    {
+      "title": "Ultrawide-bandgap semiconductors",
+      "url": "https://spectrum.ieee.org/amp/ultrawide-bandgap-semiconductors-diamond-aln-gan"
+    },
+    {
+      "title": "Ultrawide-bandgap semiconductors: challenges and opportunities",
+      "url": "https://www.powerelectronics.com/technologies/ultra-wide-bandgap-materials/article/21286263/ultrawide-bandgap-semiconductors-challenges-and-opportunities"
+    }
+  ]
+}

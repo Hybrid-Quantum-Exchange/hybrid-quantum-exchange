@@ -1,0 +1,18 @@
+{
+  "id": 264,
+  "domain": "compute_semiconductors",
+  "title": "Energy-per-token floor for trillion-parameter training",
+  "bottleneck": "Training frontier models consumes tens of megawatt-hours per run, and energy per useful token improves far slower than model size grows. Data movement, interconnect, and cooling overheads mean total system energy scales superlinearly with parameters. There is no demonstrated path to order-of-magnitude efficiency gains without new devices or architectures.",
+  "why_it_blocks": "If training energy keeps scaling with capability, AI progress becomes gated by power-plant-scale infrastructure and carbon budgets, concentrating frontier AI in a handful of hyperscalers and slowing the diffusion of advanced models. Energy, not algorithms, could set the pace of AI.",
+  "current_state": "Efficiency gains from sparsity, quantization, better hardware, and improved algorithms continue incrementally. But the gap between model growth and efficiency improvement keeps widening. Jevons paradox applies: efficiency gains get reinvested into larger models rather than banked as energy savings.",
+  "sources": [
+    {
+      "title": "EE Times: Beyond Moore's Law - materials",
+      "url": "https://www.eetimes.com/beyond-moores-law-we-need-to-rethink-materials-for-the-new-computing-era/"
+    },
+    {
+      "title": "NumberAnalytics: Beyond Moore's Law era",
+      "url": "https://www.numberanalytics.com/blog/beyond-moore-law-computing-new-era"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 848,
+  "domain": "climate_environment",
+  "title": "Climate-smart fisheries management",
+  "bottleneck": "Fish stocks are shifting poleward and deeper as oceans warm, but management is built on static stock boundaries and historical baselines: quotas allocate fish that have moved to other jurisdictions, triggering conflicts, while the productivity of stocks in warmer, more acidic, less oxygenated water is poorly understood. Data-poor fisheries — most of the world's — have no assessments at all. No management framework handles rapid, directional range shifts.",
+  "why_it_blocks": "Fisheries feed 3 billion people with animal protein; mismanaged shifts mean collapsed stocks, food insecurity, and fishing wars. The governance lag turns a biological response into a human crisis.",
+  "current_state": "Dynamic ocean management using real-time data is being piloted for some fleets, and a few treaties have begun sharing shifting stocks. But the dominant regime remains fixed quotas for moving fish — a system designed for a stable climate.",
+  "sources": [
+    {
+      "title": "Without tackling climate change, coral restoration efforts are insufficient",
+      "url": "https://www.earth.com/climate/without-tackling-climate-change-coral-restoration-efforts-are-insufficient/"
+    },
+    {
+      "title": "Earth Veering Closer To Dangerous Tipping Points",
+      "url": "https://www.climatesignals.org/headlines/earth-veering-closer-dangerous-tipping-points"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 925,
+  "domain": "food_water_agriculture",
+  "title": "Accelerating crop breeding cycles",
+  "bottleneck": "Developing a new crop variety takes 8–15 years of crossing, selection, and multi-environment trials — far slower than the pace of climate change and evolving pests. Speed breeding, genomic selection, and gene editing can compress timelines, but regulatory field-trial requirements and the biological need to test across seasons and environments impose a floor that technology hasn't broken.",
+  "why_it_blocks": "Every year of breeding delay is a year farmers face new climate stresses with old genetics. The adaptation race is being lost on time alone. Every year of breeding delay is a year farmers face new climate stresses with old genetics.",
+  "current_state": "Speed breeding and genomic selection cut years off in advanced programs; regulatory and testing bottlenecks still dominate timelines.",
+  "sources": [
+    {
+      "title": "Understanding the Yield Gap: Exploring the Factors Behind Crop Productivity Differences",
+      "url": "https://www.shiftingshares.com/understanding-the-yield-gap-exploring-the-factors-behind-crop-productivity-differences-2/"
+    },
+    {
+      "title": "Genome Editing Regulations Stuck in 'Groundhog Day?'",
+      "url": "https://www.seedworld.com/us/2025/02/02/genome-editing-regulations-stuck-in-groundhog-day-scenario/"
+    }
+  ]
+}

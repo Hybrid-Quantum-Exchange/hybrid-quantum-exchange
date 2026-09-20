@@ -1,0 +1,18 @@
+{
+  "id": 180,
+  "domain": "energy",
+  "title": "Advanced reactor licensing timelines",
+  "bottleneck": "Novel reactor designs, molten salt, sodium fast, high-temperature gas, face licensing pathways built for light-water reactors, requiring years of pre-application engagement before formal review even begins. The NRC's new Part 53 framework aims to be technology-inclusive but is untested, and each first-of-a-kind design still needs custom safety-case development. Licensing costs alone can exceed hundreds of millions of dollars.",
+  "why_it_blocks": "Licensing risk is financing risk. Investors will not fund construction when the regulatory timeline is measured in uncertain years, so slow licensing directly throttles deployment.",
+  "current_state": "Several advanced designs are in NRC pre-application or review. Part 53 was finalized but no reactor has been licensed under it yet. Applicants report spending years and tens of millions of dollars in pre-application before the formal review clock even starts.",
+  "sources": [
+    {
+      "title": "Small Modular Reactors: Full Research Report",
+      "url": "https://github.com/chnclsr/research-platform/blob/HEAD/showcase/small-modular-reactors/02_full_research_report.md"
+    },
+    {
+      "title": "Nuclear electricity generation has hidden problems; don't expect advanced modular units to solve them",
+      "url": "https://energycentral.com/c/ec/nuclear-electricity-generation-has-hidden-problems-don’t-expect-advanced-modular"
+    }
+  ]
+}

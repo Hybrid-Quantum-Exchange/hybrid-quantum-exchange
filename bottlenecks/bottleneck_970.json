@@ -1,0 +1,18 @@
+{
+  "id": 970,
+  "domain": "coordination",
+  "title": "Scientific Fraud Detection at Scale",
+  "bottleneck": "Paper mills, image manipulation, and fabricated data now operate at industrial scale, while detection relies on volunteer sleuths and post-publication forensics. Retractions take years, and fraudulent papers keep getting cited after retraction, polluting downstream research. Retraction Watch and sleuth communities catch only a fraction of suspected misconduct, and institutions often protect their own.",
+  "why_it_blocks": "Undetected fraud is worse than no result: it actively misdirects the efforts of honest researchers. Each undetected fabrication can spawn dozens of wasted follow-up studies.",
+  "current_state": "Publishers deploy AI screening tools, but paper mills adapt faster; systematic detection remains an unsolved adversarial problem. Automated screening at submission is improving but remains an arms race against sophisticated fraud. Stronger institutional accountability for fraud is overdue across publishers and universities.",
+  "sources": [
+    {
+      "title": "Evidence and the Design and Reform of Scientific Institutions (Nintil)",
+      "url": "https://nintil.com/science-funding-evidence"
+    },
+    {
+      "title": "Should Research Funding Be Distributed Equally Among Scientists? (Discover)",
+      "url": "https://www.discovermagazine.com/should-research-funding-be-distributed-equally-among-scientists-9278"
+    }
+  ]
+}

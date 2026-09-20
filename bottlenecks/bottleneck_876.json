@@ -1,0 +1,18 @@
+{
+  "id": 876,
+  "domain": "xr_interface",
+  "title": "Universal language of touch for haptics",
+  "bottleneck": "Every app invents its own vibration patterns: a triple-tap means undo here and purchase there, forcing users to relearn tactile cues constantly. There is no shared haptic vocabulary, no standard for intensity or meaning, and accessibility guidelines are thin. Without standards, haptic UX stays inconsistent and untrustworthy.",
+  "why_it_blocks": "Inconsistent touch language prevents haptics from becoming a reliable communication channel like icons or sounds. Users can't trust what they feel, so they ignore it.",
+  "current_state": "Platform haptic APIs (Apple, Android) standardize low-level effects, and researchers propose open protocols. A true cross-platform semantic standard for touch doesn't exist. Without shared semantics, developers cannot rely on users understanding tactile cues, so haptics stay decorative rather than informative. Platform vendors have little incentive to standardize a channel that does not yet drive purchasing decisions.",
+  "sources": [
+    {
+      "title": "AndroidHeadlines: Haptic feedback tech",
+      "url": "https://www.androidheadlines.com/2026/06/haptic-feedback-technology-and-the-future-of-immersive-digital-interaction.html"
+    },
+    {
+      "title": "Frontiers in VR: Haptic feedback & embodiment",
+      "url": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2020.573167"
+    }
+  ]
+}

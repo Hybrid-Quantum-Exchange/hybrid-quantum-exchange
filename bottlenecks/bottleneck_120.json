@@ -1,0 +1,18 @@
+{
+  "id": 120,
+  "domain": "cosmology_multiverse",
+  "title": "Primordial Gravitational Waves (B-mode Polarization)",
+  "bottleneck": "Inflation generically predicts a stochastic gravitational-wave background imprinting B-mode polarization on the CMB, but only upper limits exist (r < 0.036). Foreground dust complexity nearly derailed the field after BICEP2, and reaching r ~ 0.001 requires controlling systematics and foregrounds at unprecedented levels. Galactic dust foregrounds are complex and frequency-dependent, requiring multi-band observations to separate from a primordial signal.",
+  "why_it_blocks": "A B-mode detection would be the first direct evidence of quantum gravity effects and pin down inflation's energy scale; continued nulls progressively kill large-field models without confirming alternatives.",
+  "current_state": "BICEP/Keck, Simons Observatory, and CMB-S4 are the staged path forward; LiteBIRD targets a space-based measurement late this decade. Delensing using high-resolution CMB maps will be essential to reach the faintest tensor amplitudes.",
+  "sources": [
+    {
+      "title": "Unsolved Problems in Cosmology (Open University)",
+      "url": "https://www.open.edu/openlearn/science-maths-technology/unsolved-problems-cosmology/altformat-printable"
+    },
+    {
+      "title": "DESI 2024 VI: Cosmological Constraints from BAO Measurements",
+      "url": "https://iac.edu.es/en/science-and-technology/publications/desi-2024-vi-cosmological-constraints-measurements-baryon-acoustic-oscillations"
+    }
+  ]
+}

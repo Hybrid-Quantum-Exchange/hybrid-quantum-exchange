@@ -1,0 +1,18 @@
+{
+  "id": 685,
+  "domain": "space",
+  "title": "Closed-loop space agriculture and nutrient cycling",
+  "bottleneck": "Growing food in space means closing the nutrient loop: plants need nitrogen, phosphorus, and potassium, but Martian regolith lacks key macronutrients and is laced with toxic perchlorates, while lunar regolith has essentially no bioavailable nitrogen. Human waste must become fertilizer without pathogens, transpired water must be recaptured, and lighting crops for months costs enormous power. The ISS grows only supplement-scale greens; a calorie-sufficient farm for a crew of four is orders of magnitude larger and has never been attempted.",
+  "why_it_blocks": "Without local food production, every calorie for a Mars base must be launched from Earth — making permanent settlement economically absurd.",
+  "current_state": "ISS Veggie and Advanced Plant Habitat experiments grow leafy greens; simulant growth trials show stunted yields without heavy amendment. Genetic engineering for perchlorate tolerance is early research.",
+  "sources": [
+    {
+      "title": "Advancements in Mars Habitation Technologies and Terrestrial Simulation Projects: A Comprehensive Review (MDPI)",
+      "url": "https://www.mdpi.com/2226-4310/12/6/510"
+    },
+    {
+      "title": "Biomaterials for organically generated habitats beyond Earth (Science Advances)",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adp4985"
+    }
+  ]
+}

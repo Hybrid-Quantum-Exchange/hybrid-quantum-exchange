@@ -1,0 +1,14 @@
+{
+  "id": 12,
+  "domain": "fundamental_physics",
+  "title": "Defining M-theory beyond perturbation theory",
+  "bottleneck": "M-theory is conjectured to be the non-perturbative completion unifying the five string theories through dualities, yet it has no fundamental definition independent of those perturbative limits. Matrix theory and AdS/CFT provide definitions only in specific backgrounds, not for the theory in general.",
+  "why_it_blocks": "The supposed master theory of unification cannot be written down; every calculation is done in one of its low-energy corners, so claims about M-theory's predictions rest on extrapolations across uncharted duality territory.",
+  "current_state": "BFSS matrix theory defines M-theory in light-front coordinates and AdS/CFT defines it in anti-de Sitter backgrounds, but a background-independent formulation remains the field's most wanted missing piece. Matrix theory captures discrete light-cone quantization and AdS/CFT captures specific backgrounds, but a background-independent definition of M-theory does not exist.",
+  "sources": [
+    {
+      "title": "List of unsolved problems in physics - Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+    }
+  ]
+}
