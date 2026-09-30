@@ -45,5 +45,11 @@ This repository is on **QPU Hold**: no QPU work is being requested or authorized
 
 Hard locks for this hold: **NO QPU, NO Settings, NO billing/IAM, NO invites, NO secrets, NO DeepNet runtime/schema, NO FIRE**. Progress and status remain documentation-only, with no `REAL_QPU` submission or unlock.
 
+## Operator reference
+- DeepNet Chat master face: https://agenci-main.github.io/deepnet-chat/
+- Do not invent yields or present projections as realized returns.
+- **QPU Hold:** do not submit hardware jobs or imply hardware results while submission is locked.
+- **Copilot = docs/CI only:** do not use it to change Settings, billing, QPU, or runtime.
+
 ## License
 See `LICENSE`. Third-party research trees keep their upstream attributions.
