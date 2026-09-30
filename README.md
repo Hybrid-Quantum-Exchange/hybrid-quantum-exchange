@@ -35,6 +35,7 @@ For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md);
 - A cloud API can queue QPU or simulator jobs; this repository does not establish an active QPU service. There is **no SSH shell into a QPU**.
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
 - Hardware runs require explicit unlock + receipts (`REAL_QPU`). Default posture: **submit locked**.
+- For the dated public track-by-track status, see [Research status](RESEARCH-STATUS.md); for the boundary between public research and private control, see the [vault map](docs/VAULT.md). `LOCAL_SIM` results are not hardware results.
 
 ## QPU Hold — 2026-09-30
 This repository is on **QPU Hold**: no QPU work is being requested or authorized. This is a documentation-only posture note; the DeepNet master is [text-only documentation](https://agenci-main.github.io/deepnet-chat/).
