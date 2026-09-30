@@ -9,4 +9,6 @@
 | [Site shell](index.html) | Public-facing product and exchange UI | Evidence of a working exchange or production backend |
 | [DeepNet master](https://agenci-main.github.io/deepnet-chat/) | External documentation link only | No integration, endpoint behavior, schema, or availability is verified here |
 
+The [public operations index](docs/ORG-OPS.md) maps documentation without authorizing operational work. The [CI evidence index](docs/CI-EVIDENCE-INDEX.md) separates candidate checks and historical local artifacts from linked CI run receipts; no CI result or pass rate is claimed.
+
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) applies throughout: no QPU submission or unlock, secrets, settings, billing/IAM, invites, DeepNet runtime/schema, or FIRE work is authorized by this documentation. No `REAL_QPU` results, quantum advantage, or live exchange are claimed.
