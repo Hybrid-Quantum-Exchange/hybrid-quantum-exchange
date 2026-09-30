@@ -23,5 +23,16 @@ Public research surface and product shell:
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
 - Hardware runs require explicit unlock + receipts (`REAL_QPU`). Default posture: **submit locked**.
 
+## Compact-500 paper posture
+
+The 2026-09-30 Compact-500 note is documentation-only. It records a
+burn-wave fuel H research posture, not a product capability, implementation,
+experiment, or evidence of performance. The [DeepNet master](https://agenci-main.github.io/deepnet-chat/)
+is referenced for documentation context only; this repository does not import
+or execute its runtime or schema.
+
+This posture does not authorize QPU access, Settings changes, billing or IAM
+work, invitations, secrets, or FIRE. No DeepNet runtime/schema work is planned.
+
 ## License
 See `LICENSE`. Third-party research trees keep their upstream attributions.

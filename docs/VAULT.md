@@ -10,3 +10,11 @@ Hybrid-Quantum-Exchange separates **public research** from **private control**.
 | `quantum-project-ledger` | private | Posture, progress, security rules (no secrets in git) |
 
 Hardware / paid cloud QPU work is gated. Default: **submit locked**. Labels: `LOCAL_SIM` · `CLOUD_SIM` · `REAL_QPU`.
+
+## Compact-500 honesty boundary
+
+The Compact-500 burn-wave fuel H note is a paper posture record, not evidence
+of a working system. It must not be read as authorization for QPU, Settings,
+billing/IAM, invite, secret, or FIRE work. The DeepNet master link is
+documentation-only context; this repository contains no DeepNet runtime or
+schema integration.
