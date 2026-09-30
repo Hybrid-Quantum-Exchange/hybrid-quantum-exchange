@@ -25,7 +25,7 @@ No CI workflow or run receipt is tracked in this repository. The checks below ar
 | Corpus integrity | [`bottlenecks/README.md`](bottlenecks/README.md) documents `search.py --verify` for entry hashes against `index.json` | Linked CI run with command, outcome, and artifact; verify manifest hashes separately before claiming full corpus integrity |
 | Aer lane verdicts | [`research/quantum-erdos-sequences/README.md`](research/quantum-erdos-sequences/README.md) documents `run_all.py` and generated `RESULTS.json` / `RESULTS.md` | Linked CI run and its generated results, with attempted, executed, and classical-check counts from that run |
 
-Until such receipts are linked, report no CI pass rate or lane yield from this index. Simulator verdicts are `LOCAL_SIM`, not hardware evidence or speedup.
+Until such receipts are linked, report no CI pass rate or lane yield from this index. The [public CI evidence index](docs/CI-EVIDENCE.md) is a documentation index only. Simulator verdicts are `LOCAL_SIM`, not hardware evidence or speedup.
 
 Do not interpret Aer or classical pilot results as hardware speedup.
 
