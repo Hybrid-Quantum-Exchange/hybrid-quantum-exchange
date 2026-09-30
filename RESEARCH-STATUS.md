@@ -1,6 +1,6 @@
 # Research status (public)
 
-**As of 2026-09-20.** Detailed posture lives in the private `quantum-project-ledger`.
+**Snapshot as of 2026-09-20; this is not a live status feed.** Detailed posture lives in the private `quantum-project-ledger`.
 
 | Track | Status | Label |
 | --- | --- | --- |
@@ -10,4 +10,4 @@
 | IBM Open Plan | Account handshake done; **job submit locked** | no `REAL_QPU` yet |
 | OEIS `sequences` branch | Public fork `oeisdata` | lookup library |
 
-Do not interpret Aer or classical pilot results as hardware speedup.
+No successful hardware run or benchmarked speedup is documented in this snapshot. Do not interpret Aer or classical pilot results as hardware speedup.

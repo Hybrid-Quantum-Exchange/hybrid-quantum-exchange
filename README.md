@@ -17,8 +17,10 @@ Public research surface and product shell:
 - **Private control plane:** `quantum-project-ledger` (posture, progress, security — no secrets)
 - **Private classical pilot:** `quantum-worker-pilot` (QAOA hybrid assign simulator — `LOCAL_SIM`)
 - **Public OEIS fork:** `oeisdata` branch `sequences` (optional sequence lookup)
+- **Related project:** [DeepNet master](https://agenci-main.github.io/deepnet-chat/)
 
 ## Honesty bar
+- The research corpus and UI shell do not establish a deployed exchange or successful hardware execution.
 - Classical client → cloud API → queued QPU or simulator. There is **no SSH shell into a QPU**.
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
 - Hardware runs require explicit unlock + receipts (`REAL_QPU`). Default posture: **submit locked**.
