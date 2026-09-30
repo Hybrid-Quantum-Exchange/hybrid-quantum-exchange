@@ -9,4 +9,8 @@
 | [Site shell](index.html) | Public-facing product and exchange UI | Evidence of a working exchange or production backend |
 | [DeepNet master](https://agenci-main.github.io/deepnet-chat/) | External documentation link only | No integration, endpoint behavior, schema, or availability is verified here |
 
+The [organization and operations map](docs/ORG-OPS.md) is the public endpoint
+and evidence index. It does not authorize runtime, QPU, settings, billing/IAM,
+invites, secrets, or FIRE work.
+
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) applies throughout: no QPU submission or unlock, secrets, settings, billing/IAM, invites, DeepNet runtime/schema, or FIRE work is authorized by this documentation. No `REAL_QPU` results, quantum advantage, or live exchange are claimed.
