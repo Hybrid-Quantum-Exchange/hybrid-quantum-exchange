@@ -1,13 +1,14 @@
 # Research status (public)
 
-**As of 2026-09-20.** Detailed posture lives in the private `quantum-project-ledger`.
+**Public snapshot: 2026-09-30.** This table describes evidence available in this repository; private posture is not independently verifiable here. See [progress](PROGRESS.md) and [honesty and evidence](docs/HONESTY.md).
 
 | Track | Status | Label |
 | --- | --- | --- |
-| Bottlenecks corpus (999) | Published in `bottlenecks/` | research notes |
-| Erdős quantum sequences | Published in `research/quantum-erdos-sequences/` | `LOCAL_SIM` (Aer) |
-| Classical hybrid pilot | Private repo `quantum-worker-pilot` | `LOCAL_SIM` |
-| IBM Open Plan | Account handshake done; **job submit locked** | no `REAL_QPU` yet |
-| OEIS `sequences` branch | Public fork `oeisdata` | lookup library |
+| Bottlenecks corpus (999) | [Entries and verification guide](bottlenecks/README.md) published | source-grounded notes; not peer reviewed |
+| Erdős quantum sequences | [Simulator scripts and limitations](research/quantum-erdos-sequences/README.md) published | `LOCAL_SIM` (ideal Aer); not problem solutions |
+| Classical hybrid pilot | `quantum-worker-pilot` is private | reported `LOCAL_SIM`; results not verified here |
+| Hardware execution | No public run receipts in this repository | no `REAL_QPU` evidence here |
+| OEIS `sequences` branch | Public fork `oeisdata` referenced | optional lookup, not a research result |
+| Product shell | `index.html` and `app.js` published | UI only; no live exchange evidence |
 
-Do not interpret Aer or classical pilot results as hardware speedup.
+Do not interpret Aer or privately reported pilot results as hardware speedup. Labels describe evidence, not promises.
