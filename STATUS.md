@@ -1,6 +1,7 @@
 # Public status and limitations
 
 This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
+For the public documentation map see [ORG-OPS](docs/ORG-OPS.md); for CI receipt status see the [CI evidence index](docs/CI-EVIDENCE.md).
 
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
