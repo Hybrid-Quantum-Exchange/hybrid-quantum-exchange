@@ -1,27 +1,32 @@
 # ammo — Erdős quantum sequences
 
-> **Provenance.** This tree is a byte-identical port of the `research/quantum-erdos-sequences/`
-> subtree from branch `claude/erdos-quantum-sequences` of `AgenCi-MAIN/core-platform-site`
-> (PR #179). All 999 lane scripts, `run_all.py`, and `requirements.txt` are preserved
-> exactly as they were there. The unrelated PR #166 history that contaminated the
-> source branch was deliberately left behind — this branch carries only the
-> Erdős content. It is the first pull request on the Hybrid Quantum Exchange
-> repository.
+> **Initial port provenance.** HQX PR #1 imported this subtree from
+> `AgenCi-MAIN/core-platform-site` PR #179 at
+> `58b171fcf9036e89c9a2b066ba2bda212e586b3a`. At HQX main
+> `051746a0b08f474e3cc0a6216b89d6424497e4bd`, all 999 lane scripts,
+> `run_all.py`, and `requirements.txt` matched that source exactly.
+> Unrelated PR #166 history was deliberately excluded.
+>
+> **Local evidence-runner revision, 2026-09-20.** The runner and documentation
+> are now hardened, with focused regression tests and per-run receipts.
+> All 999 circuit scripts and requirements remain unchanged. This revision
+> does not reproduce the historical full-corpus totals or establish quantum
+> advantage, hardware execution, or independent mathematical review.
 
 ## Quickstart
 
-```bash
-pip install -r requirements.txt   # qiskit, qiskit-aer, numpy (pinned)
-python3 run_all.py                # runs all 999 lanes, writes RESULTS.json / RESULTS.md
-python3 run_all.py --lane 123     # run a single lane
+```console
+pip install -r requirements.txt
+python run_all.py --lane 123
+python -m unittest -v test_run_all
 ```
 
-Simulators only — every circuit runs on the ideal Qiskit `AerSimulator`.
-No hardware, no network, no credentials needed.
+Qiskit and Aer versions are pinned; NumPy has a lower bound. Use an isolated
+Python environment. Actual installed versions are recorded in each receipt.
+The default without `--lane` executes all 999 scripts; start with a bounded lane.
 
 ---
-
-## Upstream documentation
+# quantum-erdos-sequences
 
 This directory holds 999 small, per-problem Python scripts, one for each numbered
 problem in the [erdosproblems.com dataset](https://github.com/manman4/erdosproblems)
@@ -35,29 +40,78 @@ attached OEIS sequence (a very common case — many entries in the source data c
 explicitly in its docstring and substitutes the closest honest, finite, self-computed
 property drawn from the problem's own tags, rather than fabricating a sequence tie-in.
 
-## Totals
+## Run evidence and interpretation
 
-These are reproducible: run `python3 run_all.py` from this directory (see
-`requirements.txt` for pinned dependency versions) and read `RESULTS.json` /
-`RESULTS.md`, which that script regenerates from a fresh subprocess run of
-every lane and its own printed PASS/FAIL verdict — not a hand-maintained
-claim. The figures below are from one such run.
+For a bounded local run with dependencies already installed, use:
 
-- **Attempted:** 999
-- **Produced a file:** 999
-- **`ran_ok` (script executed cleanly and printed a verdict):** 999 / 999
-- **`verified_against_classical` (lane printed PASS):** 993 / 999
+```console
+python run_all.py --lane 123
+```
 
-Lane scripts do not seed their shot counts, so a handful of lanes whose
-measured probability sits close to their pass threshold can flip between
-PASS and FAIL from one run to the next — rerunning `run_all.py` a few times
-during this PR's preparation showed problems 313, 515, 835, 927 and 935 in
-that category (their ideal, noiseless success probability is real and well
-above the uniform baseline, but shot noise near the threshold occasionally
-tips them under it). The large majority of lanes are not close to any
-threshold and are stable across reruns.
+Without `--lane`, the runner requires exactly one source for each problem 1–999
+and executes the full corpus. An empty or incomplete corpus, or a missing selected
+lane, fails before any lane executes. Dependencies are listed in `requirements.txt`;
+Qiskit and Aer are pinned, while NumPy has a lower bound. Receipts record the
+installed versions without importing the packages or installing anything.
 
-Problem 906 is different: it is not flaky, it fails by design every run.
+Every invocation creates a unique `.runs/<UTC timestamp>-<UUID>/` directory,
+ignored by Git. It contains a run `manifest.json`, aggregate `RESULTS.json` and
+`RESULTS.md` for completed runs, and a subdirectory per attempted lane containing
+`receipt.json`, byte-exact `stdout.log`, and byte-exact `stderr.log`. The manifest
+records SHA-256 hashes of the runner and requirements, Python and dependency
+versions, UTC timestamps, and the selected lanes. Each lane receipt records its
+source hash, command, working directory, duration, exit code, log hashes, and errors.
+Timeouts, launch failures, missing sources, and corpus-selection errors retain
+failure receipts. A filesystem failure that prevents writing the receipt directory
+cannot itself be recorded there. Source changes observed during execution invalidate
+the result. Hashes identify local bytes; receipts are neither signed nor an
+independent audit, and do not capture the complete operating-system environment.
+
+The top-level `RESULTS.json` and `RESULTS.md` remain latest-run convenience copies;
+the unique run directories retain earlier evidence. The legacy JSON keys remain:
+`ran_ok` means clean execution **and** a valid, unambiguous verdict;
+`verified_against_classical` is only a compatibility alias for
+`self_reported_demo_pass`. It does **not** establish independent classical
+verification or anything about the named Erdos problem. The separate statuses are:
+
+- `execution_status`: clean, failed, timeout, launch/source error, or changed source.
+- `protocol_status`: valid, missing verdict, or contradictory verdicts.
+- `hypothesis_status`: self-reported pass/fail for the demo, or not established.
+- `reviewer_status`: always `not_independently_reviewed`.
+
+Verdict parsing accepts complete, case-sensitive lines, with surrounding whitespace:
+bare `PASS`/`FAIL`, optionally followed by a colon or opening parenthesis and an
+explanation; `RESULT: PASS/FAIL`; or `PASS/FAIL: PASS/FAIL`. Two explicit legacy
+forms are supported: `Overall verdict for Erdos problem #<number>: PASS/FAIL`, and
+`Quantum result [<integers>] matches classical answer [<integers>]: PASS` (also
+`does NOT match` and `FAIL`). Here `PASS/FAIL` denotes either verdict, except the
+literal `PASS/FAIL:` prefix. Narrative occurrences such as `NOTE: PASS/FAIL`,
+intermediate check labels, and prose ending in `FAIL` are not verdicts. Both
+recognized verdicts in one output, including conflicting words in a verdict's
+explanation, fail the protocol check. Repeated identical verdicts are permitted.
+Exit 1 plus an unambiguous `FAIL` can be a clean failed experiment; exit 1 plus
+`PASS`, other nonzero exits, and Python tracebacks in **either** stream fail
+execution. A clean `FAIL` still makes the aggregate command exit nonzero.
+
+Lane scripts use unseeded shots. The runner does not seed simulators or transpilers,
+and its metadata is not a seed control. Results can vary; no deterministic rerun,
+hardware execution, named-problem proof, or quantum advantage is established.
+
+Run the runner's focused tests without Qiskit or a corpus execution:
+
+```console
+python -m unittest -v test_run_all.py
+```
+
+## Historical reports
+
+The prior README reported 999 attempted files, 999/999 `ran_ok`, and 993/999 printed
+PASS. Those figures predate the fail-closed parser and durable receipts and are
+**not revalidated totals**. The old parser could mistake `NOTE: PASS/FAIL` for PASS,
+so those aggregates must not be treated as proof. Prior notes named 313, 515, 835,
+927 and 935 as threshold-sensitive; that behavior was not rerun for the runner fix.
+
+Problem 906's final printed verdict is FAIL by design.
 Along with problems 225, 426, 689, 831, and 910, it is one of the 6 lanes
 whose own script says explicitly that no genuine OEIS sequence exists for
 that problem and that the substitute circuit run instead verifies nothing
@@ -66,14 +120,14 @@ as an overall FAIL rather than a caveated PASS (a discrepancy in how the
 individual lane scripts phrase their own honest-limitation verdict, not a
 correctness issue in what each one discloses).
 
-- **Honest-limitation count** (script's own docstring/notes state that the problem had
+- **Historically reported honest-limitation count** (script's own docstring/notes state that the problem had
   no genuine attached OEIS sequence — `oeis` field is `"N/A"`, `"none"`, or a
   non-numeric placeholder such as `"possible"` — and a substitute finite property was
   used instead): **710**, derived by reading each lane's reported `oeis` field.
 
-## 30 of the more interesting / cleanly successful lanes
+## 30 illustrative lanes (historical self-reports)
 
-| # | OEIS | Approach | Verified |
+| # | OEIS | Approach | Prior demo report |
 |---|------|----------|----------|
 | 1 | A276661 | Grover search over 4-qubit membership strings finds a 3-subset of {1..4} with all-distinct subset sums | PASS |
 | 3 | A003002 | Grover search over 2-colorings of {1..8} for AP-3-free colorings, witnessing van der Waerden W(2,3)=9 | PASS |
@@ -108,9 +162,9 @@ correctness issue in what each one discloses).
 
 ## What this library does and does not establish
 
-**What it is:** a large batch of small, individually-verified quantum circuits (almost
+**What it is:** a large batch of small quantum circuit demonstrations (almost
 all Grover's-algorithm instances on 2–12 qubits) run against the ideal `AerSimulator`,
-each cross-checked in the same script against a classical computation of the same
+each reporting its own check against a classical computation of the same
 finite property. The problems and their OEIS pointers are sourced from
 [github.com/manman4/erdosproblems](https://github.com/manman4/erdosproblems); no
 problem's actual open mathematical content is resolved by anything here.
@@ -129,12 +183,11 @@ problem's actual open mathematical content is resolved by anything here.
   limitation in that script's own docstring).
 - The 6 honest-limitation-by-design lanes (225, 426, 689, 831, 906, 910) are
   explicit about testing an unrelated placeholder circuit, not anything about the
-  named problem; see "Totals" above for which of the six report that as PASS
+  named problem; see "Historical reports" above for which of the six report that as PASS
   (with a caveat) vs. FAIL.
-- A handful of other lanes (see "Totals" above) can flip PASS/FAIL between runs
-  due to unseeded shots landing near a pass threshold; this is normal
-  binomial variance, not a correctness bug, and is why totals here are
-  described as reproducible via `run_all.py` rather than as a fixed number.
+- Other lanes can flip PASS/FAIL between runs due to unseeded shots landing near
+  a pass threshold. Shot noise is one possible explanation; the runner does not
+  independently diagnose a lane's correctness or stability.
 - This is a demonstration/exercise corpus, not a research result: it shows that a
   small Grover search can be built and verified against a classical ground truth for
   many finite combinatorial facts, nothing more.

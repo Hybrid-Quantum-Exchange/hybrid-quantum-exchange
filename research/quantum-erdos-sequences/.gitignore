@@ -1,0 +1,2 @@
+# Raw local evidence and per-run manifests; never replace an earlier run.
+/.runs/

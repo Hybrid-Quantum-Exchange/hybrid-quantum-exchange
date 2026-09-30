@@ -1,0 +1,4 @@
+# Preserve original artifact bytes and recognize CRLF line endings.
+* -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+# Generated circuit diagrams use trailing spaces for alignment.
+evidence/**/*.circuit.txt whitespace=-blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

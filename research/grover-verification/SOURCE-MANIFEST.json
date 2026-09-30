@@ -1,0 +1,82 @@
+[
+  {
+    "path": "research/grover-verification/.gitattributes",
+    "sha256": "901c2185e402ea09c79aed1eb284649c056e029fd1aebe878d9719cd79af89a1"
+  },
+  {
+    "path": "research/grover-verification/.gitignore",
+    "sha256": "8ab82a14208b065b865d52212ea90335ba1be707ee2b51181674578546ff3c21"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090236Z-63852a80822540a39ddfdcae69391575/positive.circuit.txt",
+    "sha256": "e0b4d789d5f3052ce5c110863b4be21a634b30b2174f999758cc3ad7c339c219"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090236Z-63852a80822540a39ddfdcae69391575/positive.json",
+    "sha256": "894277a415359624fbb8961eaa745b09793bf8e0641dc92ca921bcee1e7b98e8"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090236Z-63852a80822540a39ddfdcae69391575/positive.qasm",
+    "sha256": "3f592614fb818df7b6436a469ed00fb5fa12ed7ca84ce291a91050fbfd6a3c02"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090236Z-63852a80822540a39ddfdcae69391575/uniform_classical.json",
+    "sha256": "3909df1f4bf1fc040cc61c2d594c72bcd6faffe12c7a600da6c2cdee9a8cb1f4"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090236Z-63852a80822540a39ddfdcae69391575/wrong_oracle.circuit.txt",
+    "sha256": "5eab7febd016df379563b1a835d3768dc4474f99ba2398b10b15afd017e5ff79"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090236Z-63852a80822540a39ddfdcae69391575/wrong_oracle.json",
+    "sha256": "164be371415ab0ac238a2fc032463a5a5396b000794202a35b194916f3aa89f8"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090236Z-63852a80822540a39ddfdcae69391575/wrong_oracle.qasm",
+    "sha256": "79121b9e419d57801c43e7ea7a28d1239494f53b65f3c1c2b2ab25d91672b527"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090631Z-f670a7984fd84f87890ed437f3eb8ac9/positive.circuit.txt",
+    "sha256": "e0b4d789d5f3052ce5c110863b4be21a634b30b2174f999758cc3ad7c339c219"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090631Z-f670a7984fd84f87890ed437f3eb8ac9/positive.json",
+    "sha256": "722391049161b2deeb072a98967c5e5c3fe02e51ca79a7a2177c8cc8c5701027"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090631Z-f670a7984fd84f87890ed437f3eb8ac9/positive.qasm",
+    "sha256": "3f592614fb818df7b6436a469ed00fb5fa12ed7ca84ce291a91050fbfd6a3c02"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090631Z-f670a7984fd84f87890ed437f3eb8ac9/uniform_classical.json",
+    "sha256": "907d75f0afd5ad0e6f3215de2654fd33bdc6832bf611d61de55982dca38746dc"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090631Z-f670a7984fd84f87890ed437f3eb8ac9/wrong_oracle.circuit.txt",
+    "sha256": "5eab7febd016df379563b1a835d3768dc4474f99ba2398b10b15afd017e5ff79"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090631Z-f670a7984fd84f87890ed437f3eb8ac9/wrong_oracle.json",
+    "sha256": "95796047f57f98968092b0623045808d258ae2707365b33c1cdac49db224c7f4"
+  },
+  {
+    "path": "research/grover-verification/evidence/20260920T090631Z-f670a7984fd84f87890ed437f3eb8ac9/wrong_oracle.qasm",
+    "sha256": "79121b9e419d57801c43e7ea7a28d1239494f53b65f3c1c2b2ab25d91672b527"
+  },
+  {
+    "path": "research/grover-verification/evidence/README.md",
+    "sha256": "b21cea9f06436973cc4bf7dd51481a238f163b2b95d3235022ef9ecb58475131"
+  },
+  {
+    "path": "research/grover-verification/README.md",
+    "sha256": "1f3e1e94c033b1b5e3b499eb190933324b0eebd69df479349f870a4cebb2922f"
+  },
+  {
+    "path": "research/grover-verification/study.py",
+    "sha256": "28be906ece8a6ba29076c27e067072ecf10fb8fe43801d419933dfd83246060e"
+  },
+  {
+    "path": "research/grover-verification/tests/test_study.py",
+    "sha256": "2897283b274e2afe0457fabaa8e41528ac3b51c43a2f07e932873e406296087f"
+  }
+]
