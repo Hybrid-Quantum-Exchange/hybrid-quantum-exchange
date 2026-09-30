@@ -32,8 +32,8 @@ For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md);
 ## Related endpoint
 - **DeepNet master endpoint:** [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/) — a documentation reference only. This repository does not configure or connect to that endpoint; the link is not evidence of a running integration or QPU access.
 
-## Operator entry point
-Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) as the operator entry point. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
+## Operator reference
+The [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) is an external documentation reference only, not an operator runtime or verified integration. Do not invent yields or fidelity figures, or present projections, simulations, or estimates as measured results. Report measured yield or fidelity only with its source, method, and reproducible run receipt; any speedup or quantum-advantage claim also requires a classical baseline. **QPU: Hold** — no hardware submissions. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
 
 ## Honesty bar
 - A cloud API can queue QPU or simulator jobs; this repository does not establish an active QPU service. There is **no SSH shell into a QPU**.
@@ -45,12 +45,6 @@ Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) 
 This repository is on **QPU Hold**: no QPU work is being requested or authorized. This is a documentation-only posture note; the DeepNet master is [text-only documentation](https://agenci-main.github.io/deepnet-chat/).
 
 Hard locks for this hold: **NO QPU, NO Settings, NO billing/IAM, NO invites, NO secrets, NO DeepNet runtime/schema, NO FIRE**. Progress and status remain documentation-only, with no `REAL_QPU` submission or unlock.
-
-## Operator reference
-- DeepNet Chat master face: https://agenci-main.github.io/deepnet-chat/
-- Do not invent yields or present projections as realized returns.
-- **QPU Hold:** do not submit hardware jobs or imply hardware results while submission is locked.
-- **Copilot = docs/CI only:** do not use it to change Settings, billing, QPU, or runtime.
 
 ## Compact-500 posture
 Compact-500 is a classical-first paper/simulation effort, not a live financial-yield platform. Paper or simulation outcomes are not verified hardware measurements or financial yields; no live yields, returns, realized profits, quantum advantage, or hardware authorization are implied. This repository's exchange UI is a product shell, not evidence of live execution or earnings.
