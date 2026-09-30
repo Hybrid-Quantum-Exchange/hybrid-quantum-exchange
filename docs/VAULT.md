@@ -13,3 +13,7 @@ Hardware / paid cloud QPU work is gated. For the 2026-09-30 QPU Hold, this
 remains documentation-only: **NO QPU, NO Settings, NO billing/IAM, NO invites,
 NO secrets, NO DeepNet runtime/schema, NO FIRE**. Default: **submit locked**;
 no `REAL_QPU` submission or unlock. Labels: `LOCAL_SIM` · `CLOUD_SIM` · `REAL_QPU`.
+
+The [DeepNet operator map](ORG-OPS.md) and [CI evidence index](CI-EVIDENCE.md)
+are public documentation only; neither is an operational control plane or a
+DeepNet integration.
