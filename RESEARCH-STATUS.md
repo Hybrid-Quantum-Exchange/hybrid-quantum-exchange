@@ -16,16 +16,19 @@ DeepNet runtime/schema, or FIRE work is authorized. The DeepNet master is
 | OEIS `sequences` branch | Public fork `oeisdata` | lookup library |
 | DeepNet master | [DeepNet Chat](https://agenci-main.github.io/deepnet-chat/) | external project; link only, not an integration claim |
 
-## CI gates and receipts (index, not run results)
-
-No CI workflow or run receipt is tracked in this repository. The checks below are **proposed gates**, not passing CI checks or measured yields.
+## CI gates and receipts (scoped index)
+The [CI evidence index](docs/CI-EVIDENCE.md) records one green CodeQL receipt
+for static analysis of the pull-request revision. It is not a corpus,
+simulator, hardware, or production-readiness receipt.
 
 | Proposed gate | Existing documentation (not a receipt) | Evidence needed |
 | --- | --- | --- |
-| Corpus integrity | [`bottlenecks/README.md`](bottlenecks/README.md) documents `search.py --verify` for entry hashes against `index.json` | Linked CI run with command, outcome, and artifact; verify manifest hashes separately before claiming full corpus integrity |
-| Aer lane verdicts | [`research/quantum-erdos-sequences/README.md`](research/quantum-erdos-sequences/README.md) documents `run_all.py` and generated `RESULTS.json` / `RESULTS.md` | Linked CI run and its generated results, with attempted, executed, and classical-check counts from that run |
+| Corpus integrity | [`bottlenecks/README.md`](bottlenecks/README.md) documents `search.py --verify` for entry hashes against `index.json` | No linked corpus run; verify manifest hashes separately before claiming full corpus integrity |
+| Aer lane verdicts | [`research/quantum-erdos-sequences/README.md`](research/quantum-erdos-sequences/README.md) documents `run_all.py` and generated `RESULTS.json` / `RESULTS.md` | No linked lane run with attempted, executed, and classical-check counts |
 
-Until such receipts are linked, report no CI pass rate or lane yield from this index. Simulator verdicts are `LOCAL_SIM`, not hardware evidence or speedup.
+Until those receipts are linked, report no CI pass rate or lane yield from
+this index. Simulator verdicts are `LOCAL_SIM`, not hardware evidence or
+speedup.
 
 Do not interpret Aer or classical pilot results as hardware speedup.
 

@@ -1,6 +1,6 @@
 # Public status and limitations
 
-This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
+This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md) and the [CI evidence index](docs/CI-EVIDENCE.md).
 
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
@@ -14,3 +14,8 @@ This is a description of the repository, **not a live service or hardware status
 **DeepNet:** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is an external link. Its availability, behavior, schema, and integration with this repository are not verified or specified here.
 
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) records the documentation-only boundary; this page does not authorize QPU, settings, billing, or secret-handling work.
+
+The [organization/operations boundary](docs/ORG-OPS.md) and [CI evidence
+index](docs/CI-EVIDENCE.md) are documentation indexes only. A green static
+analysis receipt is not evidence of a passing research lane, QPU run, yield,
+fidelity, or financial return.
