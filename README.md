@@ -8,6 +8,7 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 - [Public status and limitations](STATUS.md) — what is published, what is simulated, and what is not established.
 - [Documentation progress](PROGRESS.md) — what is documented and what evidence is still missing.
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
+- [Organization operations boundary](docs/ORG-OPS.md) and [CI evidence index](docs/CI-EVIDENCE.md) — public-safe scope and missing receipts.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
 - [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
@@ -51,6 +52,7 @@ Hard locks for this hold: **NO QPU, NO Settings, NO billing/IAM, NO invites, NO 
 - Do not invent yields or present projections as realized returns.
 - **QPU Hold:** do not submit hardware jobs or imply hardware results while submission is locked.
 - **Copilot = docs/CI only:** do not use it to change Settings, billing, QPU, or runtime.
+- [CI evidence index](docs/CI-EVIDENCE.md) — proposed gates only; no passing CI run is claimed.
 
 ## Compact-500 posture
 Compact-500 is a classical-first paper/simulation effort, not a live financial-yield platform. Paper or simulation outcomes are not verified hardware measurements or financial yields; no live yields, returns, realized profits, quantum advantage, or hardware authorization are implied. This repository's exchange UI is a product shell, not evidence of live execution or earnings.

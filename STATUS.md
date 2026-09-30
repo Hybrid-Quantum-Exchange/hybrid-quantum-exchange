@@ -1,6 +1,6 @@
 # Public status and limitations
 
-This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
+This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md). The [CI evidence index](docs/CI-EVIDENCE.md) lists proposed gates, not passing runs.
 
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
