@@ -8,6 +8,7 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 - [Public status and limitations](STATUS.md) — what is published, what is simulated, and what is not established.
 - [Documentation progress](PROGRESS.md) — what is documented and what evidence is still missing.
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
+- [Operations boundary](docs/ORG-OPS.md) and [CI evidence index](docs/CI-EVIDENCE.md) — documentation-only scope and evidence status.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
 - [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
@@ -22,6 +23,7 @@ Public research surface and product shell:
 | Site (`index.html`, `app.js`, `styles.css`) | Product / exchange UI shell; not evidence of a live exchange | n/a |
 
 For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md); for the public/private boundary, see the [Vault map](docs/VAULT.md). The status snapshot is not a live hardware-status feed.
+The [operations boundary](docs/ORG-OPS.md) and [CI evidence index](docs/CI-EVIDENCE.md) document the current documentation-only scope and what evidence is, and is not, available.
 
 ## Sister repositories
 - **Private control plane:** `quantum-project-ledger` (posture, progress, security — no secrets)

@@ -1,6 +1,6 @@
 # Public status and limitations
 
-This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
+This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md). The [operations boundary](docs/ORG-OPS.md) and [CI evidence index](docs/CI-EVIDENCE.md) record the current docs-only scope and available evidence.
 
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
@@ -8,6 +8,7 @@ This is a description of the repository, **not a live service or hardware status
 | [Erdős simulator lanes](research/quantum-erdos-sequences/README.md) | 999 small, finite Qiskit Aer exercises checked against classical answers (`LOCAL_SIM`) | Solutions to open Erdős problems, quantum advantage, or hardware results |
 | [Site shell](index.html) | Public product and exchange UI | A live trading service, operational backend, or production readiness |
 | [Private pilot and control plane](docs/VAULT.md) | Separate private repositories are described in the vault map | Publicly reproducible pilot results or a public operational control plane |
+| [CI evidence index](docs/CI-EVIDENCE.md) | No workflow configuration or run receipt is present in this repository | A passing CI run, yield, or other measured outcome |
 
 **Hardware posture:** QPU job submission is documented as locked in the [dated research snapshot](RESEARCH-STATUS.md); no `REAL_QPU` results are claimed here. Simulation is not hardware evidence. Hardware or paid cloud runs require explicit unlock and receipts.
 
