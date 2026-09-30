@@ -8,5 +8,7 @@
 | [Erdős lanes](research/quantum-erdos-sequences/README.md) | 999 finite Qiskit Aer simulator exercises (`LOCAL_SIM`) | Linked run receipts for current outcomes; no open-problem solution or hardware result follows from simulator runs |
 | [Site shell](index.html) | Public-facing product and exchange UI | Evidence of a working exchange or production backend |
 | [DeepNet master](https://agenci-main.github.io/deepnet-chat/) | External documentation link only | No integration, endpoint behavior, schema, or availability is verified here |
+| [Org operations](docs/ORG-OPS.md) | Documentation-only operating boundaries | No settings, access, billing/IAM, invite, runtime, or FIRE authorization |
+| [CI evidence index](docs/CI-EVIDENCE.md) | Proposed checks and receipt requirements | No CI run, yield, fidelity, or hardware result is claimed without a linked receipt |
 
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) applies throughout: no QPU submission or unlock, secrets, settings, billing/IAM, invites, DeepNet runtime/schema, or FIRE work is authorized by this documentation. No `REAL_QPU` results, quantum advantage, or live exchange are claimed.
