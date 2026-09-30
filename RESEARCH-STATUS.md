@@ -14,6 +14,7 @@ DeepNet runtime/schema, or FIRE work is authorized. The DeepNet master is
 | Classical hybrid pilot | Private repo `quantum-worker-pilot` | `LOCAL_SIM` |
 | IBM Open Plan | Account handshake done; **job submit locked** | no `REAL_QPU` yet |
 | OEIS `sequences` branch | Public fork `oeisdata` | lookup library |
+| DeepNet master | [DeepNet Chat](https://agenci-main.github.io/deepnet-chat/) | external project; link only, not an integration claim |
 
 Do not interpret Aer or classical pilot results as hardware speedup.
 
