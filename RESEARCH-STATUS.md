@@ -27,6 +27,8 @@ No CI workflow or run receipt is tracked in this repository. The checks below ar
 
 Until such receipts are linked, report no CI pass rate or lane yield from this index. Simulator verdicts are `LOCAL_SIM`, not hardware evidence or speedup.
 
+The [DeepNet master](https://agenci-main.github.io/deepnet-chat/) is an external documentation reference only. It is not a CI target or receipt for this repository; its deployment, CI, availability, behavior, and integration are not verified here.
+
 Do not interpret Aer or classical pilot results as hardware speedup.
 
-**Documentation note (2026-09-30):** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is listed in the README as a reference only. This does not change the research status above or indicate an active integration, QPU run, or hardware speedup.
+**Documentation note (2026-09-30):** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is linked as a reference only. This does not change the research status above or indicate an active integration, CI result, QPU run, or hardware speedup.

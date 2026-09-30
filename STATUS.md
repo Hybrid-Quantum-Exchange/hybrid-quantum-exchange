@@ -1,6 +1,6 @@
 # Public status and limitations
 
-This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
+This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot and [CI evidence index](RESEARCH-STATUS.md#ci-gates-and-receipts-index-not-run-results), see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
 
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
@@ -12,5 +12,7 @@ This is a description of the repository, **not a live service or hardware status
 **Hardware posture:** QPU job submission is documented as locked in the [dated research snapshot](RESEARCH-STATUS.md); no `REAL_QPU` results are claimed here. Simulation is not hardware evidence. Hardware or paid cloud runs require explicit unlock and receipts.
 
 **DeepNet:** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is an external link. Its availability, behavior, schema, and integration with this repository are not verified or specified here.
+
+**CI evidence:** The linked index records proposed gates, not passing runs; no CI workflow or run receipt is tracked here.
 
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) records the documentation-only boundary; this page does not authorize QPU, settings, billing, or secret-handling work.
