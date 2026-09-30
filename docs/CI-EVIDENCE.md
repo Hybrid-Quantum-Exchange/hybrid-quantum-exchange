@@ -14,4 +14,3 @@ identifies the command, outcome, and artifact.
 Until receipts are linked, do not report CI pass rates, lane yields, fidelity,
 hardware results, or quantum advantage. Proposed checks and simulator output
 remain documentation or `LOCAL_SIM` evidence only.
-

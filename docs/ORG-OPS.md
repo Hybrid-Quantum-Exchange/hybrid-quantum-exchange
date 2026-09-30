@@ -25,4 +25,3 @@ The following remain hard holds: **NO QPU, NO Settings, NO billing/IAM, NO
 invites, NO secrets, NO DeepNet runtime/schema, NO FIRE**. No yield, fidelity,
 speedup, quantum-advantage, live-trading, or realized-return claim is made
 here. `LOCAL_SIM` is not `REAL_QPU` evidence.
-
