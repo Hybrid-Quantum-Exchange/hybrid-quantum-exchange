@@ -9,8 +9,8 @@ This is a description of the repository, **not a live service or hardware status
 | [Site shell](index.html) | Public product and exchange UI | A live trading service, operational backend, or production readiness |
 | [Private pilot and control plane](docs/VAULT.md) | Separate private repositories are described in the vault map | Publicly reproducible pilot results or a public operational control plane |
 
-**Hardware posture:** QPU job submission is documented as locked in the [dated research snapshot](RESEARCH-STATUS.md); no `REAL_QPU` results are claimed here. Simulation is not hardware evidence. Hardware or paid cloud runs require explicit unlock and receipts.
+**Hardware posture:** **QPU=0 (hold)**: no QPU submission is authorized by this documentation. QPU job submission is documented as locked in the [dated research snapshot](RESEARCH-STATUS.md); no `REAL_QPU` results are claimed here. Simulation is not hardware evidence. Hardware or paid cloud runs require explicit unlock and receipts.
 
-**DeepNet:** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is an external link. Its availability, behavior, schema, and integration with this repository are not verified or specified here.
+**Operator reference:** Start at the [DeepNet Chat master](https://agenci-main.github.io/deepnet-chat/) for external context only. Its availability, behavior, schema, and integration with this repository are not verified or specified here; the link does not grant operational access.
 
-The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) records the documentation-only boundary; this page does not authorize QPU, settings, billing, or secret-handling work.
+The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) records the documentation-only boundary; this page does not authorize QPU, FIRE, settings, billing/IAM, or secret-handling work.
