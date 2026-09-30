@@ -18,7 +18,7 @@ DeepNet runtime/schema, or FIRE work is authorized. The DeepNet master is
 
 ## CI gates and receipts (index, not run results)
 
-No CI workflow or run receipt is tracked in this repository. The checks below are **proposed gates**, not passing CI checks or measured yields.
+The [CI evidence index](docs/CI-EVIDENCE.md) records the proposed gates and receipt requirements in detail. No project-specific workflow or run receipt for these gates is checked into this repository. The checks below are **proposed gates**, not passing CI checks or measured yields.
 
 | Proposed gate | Existing documentation (not a receipt) | Evidence needed |
 | --- | --- | --- |
@@ -26,6 +26,8 @@ No CI workflow or run receipt is tracked in this repository. The checks below ar
 | Aer lane verdicts | [`research/quantum-erdos-sequences/README.md`](research/quantum-erdos-sequences/README.md) documents `run_all.py` and generated `RESULTS.json` / `RESULTS.md` | Linked CI run and its generated results, with attempted, executed, and classical-check counts from that run |
 
 Until such receipts are linked, report no CI pass rate or lane yield from this index. Simulator verdicts are `LOCAL_SIM`, not hardware evidence or speedup.
+
+The [public ORG-OPS boundary](docs/ORG-OPS.md) is documentation-only, not an operational authorization.
 
 Do not interpret Aer or classical pilot results as hardware speedup.
 
