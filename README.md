@@ -11,6 +11,7 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
 - [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
+- [Public operations and CI evidence indexes](docs/ORG-OPS.md) — documentation-only operating boundary and receipt index.
 
 ## What this repository is
 Public research surface and product shell:
@@ -34,6 +35,10 @@ For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md);
 
 ## Operator entry point
 Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) as the operator entry point. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
+
+The public operations pointer is [docs/ORG-OPS.md](docs/ORG-OPS.md). It links to the
+[CI evidence index](docs/CI-EVIDENCE.md); neither page is a live service,
+hardware, billing, or DeepNet runtime status feed.
 
 ## Honesty bar
 - A cloud API can queue QPU or simulator jobs; this repository does not establish an active QPU service. There is **no SSH shell into a QPU**.
