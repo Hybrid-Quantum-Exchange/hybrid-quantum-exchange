@@ -20,6 +20,8 @@ Public research surface and product shell:
 | `research/quantum-erdos-sequences/` | 999 Erdős-related Qiskit **Aer** simulator lanes; finite demonstrations, not solutions to open problems | `LOCAL_SIM` |
 | Site (`index.html`, `app.js`, `styles.css`) | Product / exchange UI shell; not evidence of a live exchange | n/a |
 
+For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md); for the public/private boundary, see the [Vault map](docs/VAULT.md). The status snapshot is not a live hardware-status feed.
+
 ## Sister repositories
 - **Private control plane:** `quantum-project-ledger` (posture, progress, security — no secrets)
 - **Private classical pilot:** `quantum-worker-pilot` (QAOA hybrid assign simulator — `LOCAL_SIM`)
