@@ -5,7 +5,8 @@ This is a description of the repository, **not a live service or hardware status
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
 | [Bottlenecks](bottlenecks/README.md) | 999 source-grounded research notes and stored embeddings | Peer review, scientific correctness, or 999 independent literature reviews |
-| [Erdős simulator lanes](research/quantum-erdos-sequences/README.md) | 999 small, finite Qiskit Aer exercises checked against classical answers (`LOCAL_SIM`) | Solutions to open Erdős problems, quantum advantage, or hardware results |
+| [Erdős simulator lanes](research/quantum-erdos-sequences/README.md) | 999 small, finite Qiskit Aer exercises with self-reported classical checks (`LOCAL_SIM`) | Independently reviewed verdicts, solutions to open Erdős problems, quantum advantage, or hardware results |
+| [Grover known-target study](research/grover-verification/README.md) | Selected historical ideal-simulator artifacts, with [published limitations](research/grover-verification/evidence/README.md) | A complete portable run receipt, independent replication, T9 acceptance or hardware execution |
 | [Site shell](index.html) | Public product and exchange UI | A live trading service, operational backend, or production readiness |
 | [Private pilot and control plane](docs/VAULT.md) | Separate private repositories are described in the vault map | Publicly reproducible pilot results or a public operational control plane |
 
@@ -13,4 +14,6 @@ This is a description of the repository, **not a live service or hardware status
 
 **DeepNet:** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is an external link. Its availability, behavior, schema, and integration with this repository are not verified or specified here.
 
-The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) records the documentation-only boundary; this page does not authorize QPU, settings, billing, or secret-handling work.
+**CI evidence:** The [evidence index](docs/CI-EVIDENCE-INDEX.md) separates published artifacts from proposed gates. No CI workflow or linked run receipt is tracked here; do not infer a pass rate, yield or fidelity from this status page.
+
+The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) and [public org operations boundary](docs/ORG-OPS.md) record the documentation-only scope; this page does not authorize QPU, settings, billing, or secret-handling work.

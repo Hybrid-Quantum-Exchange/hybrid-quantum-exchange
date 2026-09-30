@@ -18,12 +18,12 @@ DeepNet runtime/schema, or FIRE work is authorized. The DeepNet master is
 
 ## CI gates and receipts (index, not run results)
 
-No CI workflow or run receipt is tracked in this repository. The checks below are **proposed gates**, not passing CI checks or measured yields.
+No CI workflow or linked CI run receipt is tracked in this repository. The checks below are **proposed gates**, not passing CI checks or measured yields. See the [CI evidence index](docs/CI-EVIDENCE-INDEX.md) for published material, including the separate Grover study's selected historical simulator artifacts.
 
 | Proposed gate | Existing documentation (not a receipt) | Evidence needed |
 | --- | --- | --- |
 | Corpus integrity | [`bottlenecks/README.md`](bottlenecks/README.md) documents `search.py --verify` for entry hashes against `index.json` | Linked CI run with command, outcome, and artifact; verify manifest hashes separately before claiming full corpus integrity |
-| Aer lane verdicts | [`research/quantum-erdos-sequences/README.md`](research/quantum-erdos-sequences/README.md) documents `run_all.py` and generated `RESULTS.json` / `RESULTS.md` | Linked CI run and its generated results, with attempted, executed, and classical-check counts from that run |
+| Aer lane verdicts | [`research/quantum-erdos-sequences/README.md`](research/quantum-erdos-sequences/README.md) documents `run_all.py` and generated `RESULTS.json` / `RESULTS.md` | Linked CI run and its generated results, with attempted, executed, and self-reported demo verdict counts from that run; no independent classical-review count is established |
 
 Until such receipts are linked, report no CI pass rate or lane yield from this index. Simulator verdicts are `LOCAL_SIM`, not hardware evidence or speedup.
 
