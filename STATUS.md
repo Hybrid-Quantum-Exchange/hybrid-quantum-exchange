@@ -2,6 +2,8 @@
 
 This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
 
+The [CI evidence index](docs/CI-EVIDENCE-INDEX.md) is a directory of evidence sources and limitations, not a report of passing CI checks.
+
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
 | [Bottlenecks](bottlenecks/README.md) | 999 source-grounded research notes and stored embeddings | Peer review, scientific correctness, or 999 independent literature reviews |
