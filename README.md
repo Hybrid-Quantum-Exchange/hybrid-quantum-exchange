@@ -7,6 +7,7 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 ## Start here
 - [Public status and limitations](STATUS.md) — what is published, what is simulated, and what is not established.
 - [Documentation progress](PROGRESS.md) — what is documented and what evidence is still missing.
+- [CI and evidence index](docs/CI-EVIDENCE.md) — published artifacts versus missing CI receipts.
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
