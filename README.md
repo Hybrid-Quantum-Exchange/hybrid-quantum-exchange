@@ -17,6 +17,7 @@ Public research surface and product shell:
 - **Private control plane:** `quantum-project-ledger` (posture, progress, security — no secrets)
 - **Private classical pilot:** `quantum-worker-pilot` (QAOA hybrid assign simulator — `LOCAL_SIM`)
 - **Public OEIS fork:** `oeisdata` branch `sequences` (optional sequence lookup)
+- **DeepNet master:** [DeepNet Chat](https://agenci-main.github.io/deepnet-chat/) (external project; link only, not an integration claim)
 
 ## Honesty bar
 - Classical client → cloud API → queued QPU or simulator. There is **no SSH shell into a QPU**.
