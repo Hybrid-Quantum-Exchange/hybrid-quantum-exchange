@@ -16,9 +16,9 @@ DeepNet runtime/schema, or FIRE work is authorized. The DeepNet master is
 | OEIS `sequences` branch | Public fork `oeisdata` | lookup library |
 | DeepNet master | [DeepNet Chat](https://agenci-main.github.io/deepnet-chat/) | external project; link only, not an integration claim |
 
-## CI gates and receipts (index, not run results)
+## CI gates and receipts ([evidence index](docs/CI-EVIDENCE.md), not run results)
 
-No CI workflow or run receipt is tracked in this repository. The checks below are **proposed gates**, not passing CI checks or measured yields.
+No CI workflow or run receipt is tracked in this checkout. The checks below are **proposed gates**, not passing CI checks or measured yields.
 
 | Proposed gate | Existing documentation (not a receipt) | Evidence needed |
 | --- | --- | --- |
