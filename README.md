@@ -10,6 +10,8 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
+- [Operator boundaries](docs/ORG-OPS.md) — public-safe routing and documentation-only scope.
+- [CI evidence index](docs/CI-EVIDENCE.md) — available evidence, missing receipts, and proposed checks.
 - [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
 
 ## What this repository is

@@ -14,3 +14,5 @@ This is a description of the repository, **not a live service or hardware status
 **DeepNet:** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is an external link. Its availability, behavior, schema, and integration with this repository are not verified or specified here.
 
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) records the documentation-only boundary; this page does not authorize QPU, settings, billing, or secret-handling work.
+
+**CI evidence:** [The evidence index](docs/CI-EVIDENCE.md) separates an observed code-scanning check from proposed research checks. Neither is a hardware receipt or proof of simulator outcomes. [Operator boundaries](docs/ORG-OPS.md) describe what this public repository can and cannot direct.
