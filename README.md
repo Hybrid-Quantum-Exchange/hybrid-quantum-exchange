@@ -4,6 +4,12 @@
 
 Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exchange) · Site: [hybrid-quantum-exchange.vercel.app](https://hybrid-quantum-exchange.vercel.app)
 
+## Research and paper posture
+
+This repository contains public research notes, simulator exercises, and a product shell. It is not a peer-reviewed paper, does not claim a published research result, and does not claim quantum advantage or hardware speedup. Any future paper or hardware result must be reproducible, source-grounded, and compared with a classical baseline.
+
+The DeepNet master documentation is available at [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/). This is a documentation link only; this repository does not import or run DeepNet.
+
 ## What this repository is
 Public research surface and product shell:
 
@@ -22,6 +28,7 @@ Public research surface and product shell:
 - Classical client → cloud API → queued QPU or simulator. There is **no SSH shell into a QPU**.
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
 - Hardware runs require explicit unlock + receipts (`REAL_QPU`). Default posture: **submit locked**.
+- No secrets, billing/IAM, invitations, or runtime/schema integration are part of this documentation update.
 
 ## License
 See `LICENSE`. Third-party research trees keep their upstream attributions.
