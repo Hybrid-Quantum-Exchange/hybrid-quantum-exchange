@@ -2,6 +2,8 @@
 
 **Snapshot: 2026-09-30.** This page tracks what is documented in this repository, not live service uptime, operational readiness, or work in private repositories. See [public status](STATUS.md) for scope and limitations and [research status](RESEARCH-STATUS.md) for the research snapshot.
 
+The [CI evidence index](docs/CI-EVIDENCE-INDEX.md) distinguishes documented local checks from CI receipts; it does not report passing runs.
+
 | Surface | Documented here | Evidence still needed for stronger claims |
 | --- | --- | --- |
 | [Bottlenecks](bottlenecks/README.md) | 999 source-grounded research notes and a documented entry-hash check | Independent scientific review; `search.py --verify` checks entries against `index.json` only, so index and embeddings need separate comparison with the manifest hashes |

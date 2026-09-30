@@ -8,6 +8,8 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 - [Public status and limitations](STATUS.md) — what is published, what is simulated, and what is not established.
 - [Documentation progress](PROGRESS.md) — what is documented and what evidence is still missing.
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
+- [CI evidence index](docs/CI-EVIDENCE-INDEX.md) — documented checks versus linked CI receipts.
+- [Organization operations note](docs/ORG-OPS.md) — documentation-only operational boundaries.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
 - [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
@@ -21,7 +23,7 @@ Public research surface and product shell:
 | `research/quantum-erdos-sequences/` | 999 Erdős-related Qiskit **Aer** simulator lanes; finite demonstrations, not solutions to open problems | `LOCAL_SIM` |
 | Site (`index.html`, `app.js`, `styles.css`) | Product / exchange UI shell; not evidence of a live exchange | n/a |
 
-For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md); for the public/private boundary, see the [Vault map](docs/VAULT.md). The status snapshot is not a live hardware-status feed.
+For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md); for CI receipts, see the [CI evidence index](docs/CI-EVIDENCE-INDEX.md); for the public/private boundary, see the [Vault map](docs/VAULT.md). The status snapshot is not a live hardware-status feed.
 
 ## Sister repositories
 - **Private control plane:** `quantum-project-ledger` (posture, progress, security — no secrets)
