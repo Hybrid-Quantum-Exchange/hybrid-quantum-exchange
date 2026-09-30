@@ -1,6 +1,6 @@
 # Public documentation progress
 
-**Snapshot: 2026-09-30.** This page tracks what is documented in this repository, not live service uptime, operational readiness, or work in private repositories. See [public status](STATUS.md) for scope and limitations and [research status](RESEARCH-STATUS.md) for the research snapshot.
+**Snapshot: 2026-09-30.** This page tracks what is documented in this repository, not live service uptime, operational readiness, or work in private repositories. See [public status](STATUS.md) for scope and limitations, [research status](RESEARCH-STATUS.md) for the research snapshot, and the [CI evidence index](docs/CI-EVIDENCE.md) for receipt status.
 
 | Surface | Documented here | Evidence still needed for stronger claims |
 | --- | --- | --- |
@@ -10,3 +10,5 @@
 | [DeepNet master](https://agenci-main.github.io/deepnet-chat/) | External documentation link only | No integration, endpoint behavior, schema, or availability is verified here |
 
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) applies throughout: no QPU submission or unlock, secrets, settings, billing/IAM, invites, DeepNet runtime/schema, or FIRE work is authorized by this documentation. No `REAL_QPU` results, quantum advantage, or live exchange are claimed.
+
+The [ORG-OPS guardrails](docs/ORG-OPS.md) define the documentation-only boundary.
