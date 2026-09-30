@@ -33,7 +33,7 @@ For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md);
 - **DeepNet master endpoint:** [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/) — a documentation reference only. This repository does not configure or connect to that endpoint; the link is not evidence of a running integration or QPU access.
 
 ## Operator entry point
-Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) as the operator entry point. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
+The [DeepNet Chat master](https://agenci-main.github.io/deepnet-chat/) is linked for documentation reference only, not as an operator console or integration. Do not invent yields or fidelity figures, or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
 
 ## Honesty bar
 - A cloud API can queue QPU or simulator jobs; this repository does not establish an active QPU service. There is **no SSH shell into a QPU**.
@@ -44,7 +44,7 @@ Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) 
 ## QPU Hold — 2026-09-30
 This repository is on **QPU Hold**: no QPU work is being requested or authorized. This is a documentation-only posture note; the DeepNet master is [text-only documentation](https://agenci-main.github.io/deepnet-chat/).
 
-Hard locks for this hold: **NO QPU, NO Settings, NO billing/IAM, NO invites, NO secrets, NO DeepNet runtime/schema, NO FIRE**. Progress and status remain documentation-only, with no `REAL_QPU` submission or unlock.
+Hard locks for this hold: **NO QPU, NO Settings, NO billing/IAM, NO invites, NO secrets, NO DeepNet runtime/schema, NO FIRE**. Progress and status remain documentation-only, with no `REAL_QPU` submission or unlock. No yield, fidelity, speedup, or other performance result is established by this documentation.
 
 ## Operator reference
 - DeepNet Chat master face: https://agenci-main.github.io/deepnet-chat/
