@@ -21,7 +21,13 @@ Public research surface and product shell:
 ## Honesty bar
 - Classical client → cloud API → queued QPU or simulator. There is **no SSH shell into a QPU**.
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
-- Hardware runs require explicit unlock + receipts (`REAL_QPU`). Default posture: **submit locked**.
+- Hardware runs require explicit unlock + receipts (`REAL_QPU`). Current posture: **QPU Hold; no QPU submit**.
+- Do not invent or imply yields or `F` values. Report only measured, reproducible results with their evidence label.
+
+## DeepNet and Copilot scope
+- Sole master ops face: [DeepNet Chat](https://agenci-main.github.io/deepnet-chat/).
+- Copilot work here is limited to **docs/CI** and **draft PRs only**; do not merge.
+- This scope does not include QPU submit, Settings, billing/IAM, invites, secrets, or DeepNet runtime/schema changes.
 
 ## License
 See `LICENSE`. Third-party research trees keep their upstream attributions.
