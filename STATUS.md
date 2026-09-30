@@ -1,6 +1,6 @@
 # Public status and limitations
 
-This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
+This is a description of the repository, **not a live service or hardware status page**. See the [ORG-OPS index](docs/ORG-OPS.md) for public posture references; for the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
 
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
