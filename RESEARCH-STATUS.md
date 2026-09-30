@@ -28,5 +28,6 @@ No CI workflow or run receipt is tracked in this repository. The checks below ar
 Until such receipts are linked, report no CI pass rate or lane yield from this index. Simulator verdicts are `LOCAL_SIM`, not hardware evidence or speedup.
 
 Do not interpret Aer or classical pilot results as hardware speedup.
+See the [public operator guardrails](docs/ORG-OPS.md) for the documentation/CI-only scope and prohibited activity.
 
 **Documentation note (2026-09-30):** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is listed in the README as a reference only. This does not change the research status above or indicate an active integration, QPU run, or hardware speedup.
