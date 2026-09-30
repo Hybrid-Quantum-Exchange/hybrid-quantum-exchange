@@ -6,7 +6,10 @@
 | --- | --- | --- |
 | [Bottlenecks](bottlenecks/README.md) | 999 source-grounded research notes and a documented entry-hash check | Independent scientific review; `search.py --verify` checks entries against `index.json` only, so index and embeddings need separate comparison with the manifest hashes |
 | [Erdős lanes](research/quantum-erdos-sequences/README.md) | 999 finite Qiskit Aer simulator exercises (`LOCAL_SIM`) | Linked run receipts for current outcomes; no open-problem solution or hardware result follows from simulator runs |
+| [Grover demonstrator](research/grover-verification/evidence/README.md) | Selected historical simulator outputs and circuit exports | Complete portable public run receipts and independent review; these artifacts do not establish a CI pass or quantum advantage |
 | [Site shell](index.html) | Public-facing product and exchange UI | Evidence of a working exchange or production backend |
 | [DeepNet master](https://agenci-main.github.io/deepnet-chat/) | External documentation link only | No integration, endpoint behavior, schema, or availability is verified here |
 
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) applies throughout: no QPU submission or unlock, secrets, settings, billing/IAM, invites, DeepNet runtime/schema, or FIRE work is authorized by this documentation. No `REAL_QPU` results, quantum advantage, or live exchange are claimed.
+
+The [CI evidence index](RESEARCH-STATUS.md#ci-gates-and-receipts-index-not-run-results) lists proposed gates and distinguishes published artifacts from missing CI receipts.
