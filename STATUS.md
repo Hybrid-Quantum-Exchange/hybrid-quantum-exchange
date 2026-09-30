@@ -11,6 +11,6 @@ This is a description of the repository, **not a live service or hardware status
 
 **Hardware posture:** QPU job submission is documented as locked in the [dated research snapshot](RESEARCH-STATUS.md); no `REAL_QPU` results are claimed here. Simulation is not hardware evidence. Hardware or paid cloud runs require explicit unlock and receipts.
 
-**DeepNet:** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is an external link. Its availability, behavior, schema, and integration with this repository are not verified or specified here.
+**Operator reference:** Start at the [DeepNet Chat master](https://agenci-main.github.io/deepnet-chat/), then use this page and [documentation progress](PROGRESS.md) to check what can be claimed. The external link does not verify its availability, behavior, schema, or integration with this repository.
 
-The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) records the documentation-only boundary; this page does not authorize QPU, settings, billing, or secret-handling work.
+The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) records the documentation-only boundary: **QPU=0**. This page does not authorize QPU submissions, FIRE, Settings, billing/IAM, or secret-handling work.
