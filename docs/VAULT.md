@@ -9,4 +9,7 @@ Hybrid-Quantum-Exchange separates **public research** from **private control**.
 | `quantum-worker-pilot` | private | Classical hybrid QAOA pilot |
 | `quantum-project-ledger` | private | Posture, progress, security rules (no secrets in git) |
 
-Hardware / paid cloud QPU work is gated. Default: **submit locked**. Labels: `LOCAL_SIM` · `CLOUD_SIM` · `REAL_QPU`.
+Hardware / paid cloud QPU work is gated. For the 2026-09-30 QPU Hold, this
+remains documentation-only: **NO QPU, NO Settings, NO billing/IAM, NO invites,
+NO secrets, NO DeepNet runtime/schema, NO FIRE**. Default: **submit locked**;
+no `REAL_QPU` submission or unlock. Labels: `LOCAL_SIM` · `CLOUD_SIM` · `REAL_QPU`.

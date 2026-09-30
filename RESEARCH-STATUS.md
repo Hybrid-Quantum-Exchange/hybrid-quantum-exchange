@@ -1,6 +1,11 @@
 # Research status (public)
 
-**As of 2026-09-20.** Detailed posture lives in the private `quantum-project-ledger`.
+**As of 2026-09-30.** Detailed posture lives in the private `quantum-project-ledger`.
+
+**QPU Hold:** Documentation-only. No QPU, Settings, billing/IAM, invites, secrets,
+DeepNet runtime/schema, or FIRE work is authorized. The DeepNet master is
+[text-only documentation](https://agenci-main.github.io/deepnet-chat/); no
+`REAL_QPU` submission or unlock is planned.
 
 | Track | Status | Label |
 | --- | --- | --- |
