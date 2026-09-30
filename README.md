@@ -51,5 +51,8 @@ Hard locks for this hold: **NO QPU, NO Settings, NO billing/IAM, NO invites, NO 
 - **QPU Hold:** do not submit hardware jobs or imply hardware results while submission is locked.
 - **Copilot = docs/CI only:** do not use it to change Settings, billing, QPU, or runtime.
 
+## Compact-500 posture
+Compact-500 is a classical-first paper/simulation effort, not a live financial-yield platform. Paper or simulation outcomes are not verified hardware measurements or financial yields; no live yields, returns, realized profits, quantum advantage, or hardware authorization are implied. This repository's exchange UI is a product shell, not evidence of live execution or earnings.
+
 ## License
 See `LICENSE`. Third-party research trees keep their upstream attributions.
