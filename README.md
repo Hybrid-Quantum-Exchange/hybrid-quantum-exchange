@@ -23,5 +23,11 @@ Public research surface and product shell:
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
 - Hardware runs require explicit unlock + receipts (`REAL_QPU`). Default posture: **submit locked**.
 
+## Operator reference
+- DeepNet Chat master face: https://agenci-main.github.io/deepnet-chat/
+- Do not invent yields or present projections as realized returns.
+- **QPU Hold:** do not submit hardware jobs or imply hardware results while submission is locked.
+- **Copilot = docs/CI only:** do not use it to change Settings, billing, QPU, or runtime.
+
 ## License
 See `LICENSE`. Third-party research trees keep their upstream attributions.
