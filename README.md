@@ -4,6 +4,8 @@
 
 Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exchange) · Site: [hybrid-quantum-exchange.vercel.app](https://hybrid-quantum-exchange.vercel.app)
 
+DeepNet master face: [deepnet-chat](https://agenci-main.github.io/deepnet-chat/).
+
 ## What this repository is
 Public research surface and product shell:
 
@@ -20,8 +22,9 @@ Public research surface and product shell:
 
 ## Honesty bar
 - Classical client → cloud API → queued QPU or simulator. There is **no SSH shell into a QPU**.
-- No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
-- Hardware runs require explicit unlock + receipts (`REAL_QPU`). Default posture: **submit locked**.
+- No invented yields, returns, speedup, or quantum-advantage claims. Report results only with reproducible evidence and a classical baseline where applicable.
+- **QPU Hold:** hardware / paid cloud QPU job submission stays locked; hardware runs require explicit unlock + receipts (`REAL_QPU`).
+- **Copilot scope:** documentation and CI only; no QPU, settings, billing, secrets, runtime, or schema changes.
 
 ## License
 See `LICENSE`. Third-party research trees keep their upstream attributions.
