@@ -33,7 +33,7 @@ For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md);
 - **DeepNet master endpoint:** [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/) — a documentation reference only. This repository does not configure or connect to that endpoint; the link is not evidence of a running integration or QPU access.
 
 ## Operator entry point
-Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) as the operator entry point. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
+For operator-facing reference, start at the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/); this is a link, not a verified connection from this repository. Do not invent yields or present estimates as measured results. **QPU=0: Hold** — no hardware submissions or unlock as part of this documentation task. **No FIRE, secrets, Settings, billing/IAM, or invites.** Copilot work here is documentation-only; see the [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) for the evidence boundary.
 
 ## Honesty bar
 - A cloud API can queue QPU or simulator jobs; this repository does not establish an active QPU service. There is **no SSH shell into a QPU**.
