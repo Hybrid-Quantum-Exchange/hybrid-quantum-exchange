@@ -20,6 +20,8 @@ DeepNet runtime/schema, or FIRE work is authorized. The DeepNet master is
 
 No CI workflow or run receipt is tracked in this repository. The checks below are **proposed gates**, not passing CI checks or measured yields.
 
+**Receipt index (2026-09-30): no CI run or artifact links recorded.** Before reporting a gate as passing, link its run and artifacts with the commit, command, environment/dependency versions, outcome, and date. A local check alone is not a CI receipt.
+
 | Proposed gate | Existing documentation (not a receipt) | Evidence needed |
 | --- | --- | --- |
 | Corpus integrity | [`bottlenecks/README.md`](bottlenecks/README.md) documents `search.py --verify` for entry hashes against `index.json` | Linked CI run with command, outcome, and artifact; verify manifest hashes separately before claiming full corpus integrity |
