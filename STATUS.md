@@ -1,6 +1,6 @@
 # Public status and limitations
 
-This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
+This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md). The [honesty](docs/HONESTY-INDEX.md), [org-ops](docs/ORG-OPS.md), and [CI evidence](docs/CI-EVIDENCE.md) indexes define the same public-safe boundary.
 
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
