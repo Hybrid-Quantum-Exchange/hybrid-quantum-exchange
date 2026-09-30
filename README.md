@@ -18,6 +18,12 @@ Public research surface and product shell:
 - **Private classical pilot:** `quantum-worker-pilot` (QAOA hybrid assign simulator — `LOCAL_SIM`)
 - **Public OEIS fork:** `oeisdata` branch `sequences` (optional sequence lookup)
 
+## Operations documentation
+- [Organization operations](ORG-OPS.md) — DeepNet master reference and hard locks
+- [Progress](PROGRESS.md)
+- [Status](STATUS.md)
+- [Honesty](HONESTY.md)
+
 ## Honesty bar
 - Classical client → cloud API → queued QPU or simulator. There is **no SSH shell into a QPU**.
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
