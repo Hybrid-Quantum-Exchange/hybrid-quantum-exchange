@@ -18,6 +18,9 @@ Public research surface and product shell:
 - **Private classical pilot:** `quantum-worker-pilot` (QAOA hybrid assign simulator — `LOCAL_SIM`)
 - **Public OEIS fork:** `oeisdata` branch `sequences` (optional sequence lookup)
 
+## Operator entry point
+Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) as the operator entry point. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
+
 ## Honesty bar
 - Classical client → cloud API → queued QPU or simulator. There is **no SSH shell into a QPU**.
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
