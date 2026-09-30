@@ -11,3 +11,5 @@
 | OEIS `sequences` branch | Public fork `oeisdata` | lookup library |
 
 Do not interpret Aer or classical pilot results as hardware speedup.
+
+**Documentation note (2026-09-30):** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is listed in the README as a reference only. This does not change the research status above or indicate an active integration, QPU run, or hardware speedup.
