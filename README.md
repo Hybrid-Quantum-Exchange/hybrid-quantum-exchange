@@ -4,6 +4,14 @@
 
 Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exchange) · Site: [hybrid-quantum-exchange.vercel.app](https://hybrid-quantum-exchange.vercel.app)
 
+**Project status:** This repository contains a public research corpus, local simulator
+examples, and a product UI shell—not a live exchange or a demonstrated QPU service.
+See [STATUS.md](STATUS.md) for the evidence and
+[CI honesty](docs/ci-honesty.md) for what is (and is not) checked.
+
+**DeepNet master endpoint:** [https://agenci-main.github.io/deepnet-chat/](https://agenci-main.github.io/deepnet-chat/)
+(external project link; not an API or runtime integration in this repository).
+
 ## What this repository is
 Public research surface and product shell:
 
