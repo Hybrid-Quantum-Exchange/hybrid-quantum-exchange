@@ -1,6 +1,6 @@
 # Public documentation progress
 
-**Snapshot: 2026-09-30.** This page tracks what is documented in this repository, not live service uptime, operational readiness, or work in private repositories. See [public status](STATUS.md) for scope and limitations and [research status](RESEARCH-STATUS.md) for the research snapshot.
+**Snapshot: 2026-09-30.** This page tracks what is documented in this repository, not live service uptime, operational readiness, or work in private repositories. See [public status](STATUS.md) for scope and limitations, [research status](RESEARCH-STATUS.md) for the research snapshot, the [org/ops posture](docs/ORG-OPS.md) for documentation guardrails, and the [CI evidence index](docs/CI-EVIDENCE.md) for candidate checks versus linked receipts.
 
 | Surface | Documented here | Evidence still needed for stronger claims |
 | --- | --- | --- |
