@@ -8,6 +8,8 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 - [Public status and limitations](STATUS.md) — what is published, what is simulated, and what is not established.
 - [Documentation progress](PROGRESS.md) — what is documented and what evidence is still missing.
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
+- [ORG-OPS guide](docs/ORG-OPS.md) — documentation-only operator boundaries.
+- [CI evidence index](docs/CI-EVIDENCE.md) — documented checks versus linked run receipts.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
 - [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
@@ -33,7 +35,7 @@ For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md);
 - **DeepNet master endpoint:** [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/) — a documentation reference only. This repository does not configure or connect to that endpoint; the link is not evidence of a running integration or QPU access.
 
 ## Operator entry point
-Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) as the operator entry point. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
+Reference the [DeepNet Chat master documentation](https://agenci-main.github.io/deepnet-chat/); this is not an operational integration or authorization channel. Follow the [ORG-OPS guide](docs/ORG-OPS.md) for documentation-only boundaries. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
 
 ## Honesty bar
 - A cloud API can queue QPU or simulator jobs; this repository does not establish an active QPU service. There is **no SSH shell into a QPU**.
