@@ -8,6 +8,7 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 - [Public status and limitations](STATUS.md) — what is published, what is simulated, and what is not established.
 - [Documentation progress](PROGRESS.md) — what is documented and what evidence is still missing.
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
+- [Public org / ops reference](docs/ORG-OPS.md) and [CI evidence index](docs/CI-EVIDENCE.md) — operating boundaries and evidence status.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
 - [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
@@ -40,6 +41,7 @@ Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) 
 - No speedup / quantum-advantage claims without reproducible evidence and a classical baseline.
 - Hardware runs require explicit unlock + receipts (`REAL_QPU`). Default posture: **submit locked**.
 - For the dated public track-by-track status, see [Research status](RESEARCH-STATUS.md); for the boundary between public research and private control, see the [vault map](docs/VAULT.md). `LOCAL_SIM` results are not hardware results.
+- See the [org / ops reference](docs/ORG-OPS.md) and [CI evidence index](docs/CI-EVIDENCE.md) for the documentation-only boundaries and tracked evidence gaps.
 
 ## QPU Hold — 2026-09-30
 This repository is on **QPU Hold**: no QPU work is being requested or authorized. This is a documentation-only posture note; the DeepNet master is [text-only documentation](https://agenci-main.github.io/deepnet-chat/).
