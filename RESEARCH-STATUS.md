@@ -18,7 +18,7 @@ DeepNet runtime/schema, or FIRE work is authorized. The DeepNet master is
 
 ## CI gates and receipts (index, not run results)
 
-No CI workflow or run receipt is tracked in this repository. The checks below are **proposed gates**, not passing CI checks or measured yields.
+No CI workflow or run receipt is tracked in this repository. The checks below are **proposed gates**, not passing CI checks or measured yields. See the [public operations and CI evidence index](docs/ORG-OPS.md) for reporting boundaries and evidence requirements.
 
 | Proposed gate | Existing documentation (not a receipt) | Evidence needed |
 | --- | --- | --- |
