@@ -2,6 +2,18 @@
 
 This is a description of the repository, **not a live service or hardware status page**. For the dated research snapshot, see [RESEARCH-STATUS.md](RESEARCH-STATUS.md); for documentation progress and missing evidence, see [PROGRESS.md](PROGRESS.md).
 
+## Operator greenboard — 2026-09-30
+
+| Area | Public posture |
+| --- | --- |
+| Documentation and CI evidence indexing | **GREEN** — permitted in this repository; claims remain receipt-bound |
+| QPU or paid-cloud submission | **HOLD** — no unlock, submission, or `REAL_QPU` result |
+| Settings, billing/IAM, invites, and secrets | **HOLD** — not authorized |
+| DeepNet runtime or schema work | **HOLD** — master link is documentation-only |
+| FIRE or live exchange operations | **HOLD** — no authorization or live-service claim |
+
+This greenboard is a dated documentation marker, not an uptime, readiness, or performance signal. See [operator operations](docs/ORG-OPS.md) and the [CI evidence index](docs/CI-EVIDENCE.md).
+
 | Surface | What is documented | What it does not establish |
 | --- | --- | --- |
 | [Bottlenecks](bottlenecks/README.md) | 999 source-grounded research notes and stored embeddings | Peer review, scientific correctness, or 999 independent literature reviews |
