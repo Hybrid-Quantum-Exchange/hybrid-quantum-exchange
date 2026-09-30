@@ -37,6 +37,20 @@ python3 search.py --verify         # verify all 999 file hashes against index.js
 > stored vectors in `embeddings.json` exist so you can run your own semantic
 > queries — but embedding a query requires the pinned model.
 
+## Integrity checks
+
+`python3 search.py --verify` checks entry files against the hashes recorded in
+`index.json` only. To check the index and embeddings as well, run this from the
+repository root:
+
+```bash
+sha256sum bottlenecks/index.json bottlenecks/embeddings.json
+```
+
+Compare the two digests with `index_sha256` and `embeddings_sha256`, respectively,
+in `bottlenecks/manifest.json`. These checks establish consistency with the
+checked-in hashes, not the scientific correctness of the entries.
+
 ## Verifiable embeddings
 
 Vectors were produced with `BAAI/bge-small-en-v1.5` at pinned commit
