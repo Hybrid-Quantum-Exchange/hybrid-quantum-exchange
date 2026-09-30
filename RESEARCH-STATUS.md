@@ -29,4 +29,4 @@ Until such receipts are linked, report no CI pass rate or lane yield from this i
 
 Do not interpret Aer or classical pilot results as hardware speedup.
 
-**Documentation note (2026-09-30):** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is listed in the README as a reference only. This does not change the research status above or indicate an active integration, QPU run, or hardware speedup.
+**Documentation note (2026-09-30):** The [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) is an external documentation reference only ([operator note](docs/ORG-OPS.md)), not a CI artifact or evidence of endpoint availability, active integration, QPU run, yield, fidelity, or hardware speedup. No CI pass rate or measured yield is established by this index.
