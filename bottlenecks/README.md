@@ -32,6 +32,14 @@ python3 search.py --top "fusion"   # keyword search (see warning below)
 python3 search.py --verify         # verify all 999 file hashes against index.json
 ```
 
+`--verify` checks entry files against `index.json` only. It does not check
+`index.json` or `embeddings.json` against `manifest.json`. To check those
+artifacts separately, run `sha256sum index.json embeddings.json` from this
+directory and compare the outputs with the manifest's `index_sha256` and
+`embeddings_sha256` fields, respectively. These comparisons detect mismatches
+within the published corpus; they do not independently authenticate the
+manifest or establish the scientific validity of the entries.
+
 > **Important:** `search.py --top` is **keyword-based token matching, not
 > semantic embedding search.** It is labeled as such in its output. The
 > stored vectors in `embeddings.json` exist so you can run your own semantic
