@@ -7,6 +7,7 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 ## Start here
 - [Public status and limitations](STATUS.md) — what is published, what is simulated, and what is not established.
 - [Documentation progress](PROGRESS.md) — what is documented and what evidence is still missing.
+- [ORG-OPS documentation boundary](docs/ORG-OPS.md) and [CI evidence index](docs/CI-EVIDENCE.md) — public operator references, limits, and evidence gaps.
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
@@ -45,6 +46,7 @@ Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) 
 This repository is on **QPU Hold**: no QPU work is being requested or authorized. This is a documentation-only posture note; the DeepNet master is [text-only documentation](https://agenci-main.github.io/deepnet-chat/).
 
 Hard locks for this hold: **NO QPU, NO Settings, NO billing/IAM, NO invites, NO secrets, NO DeepNet runtime/schema, NO FIRE**. Progress and status remain documentation-only, with no `REAL_QPU` submission or unlock.
+See [ORG-OPS documentation boundary](docs/ORG-OPS.md) and the [CI evidence index](docs/CI-EVIDENCE.md) for the operator-facing references and the evidence required for CI claims.
 
 ## Operator reference
 - DeepNet Chat master face: https://agenci-main.github.io/deepnet-chat/
