@@ -26,11 +26,20 @@ for research, not as settled verdicts.
 
 ## Searching
 
+From the `bottlenecks/` directory:
+
 ```bash
 python3 search.py --id 42          # print entry 42, verify its hash
 python3 search.py --top "fusion"   # keyword search (see warning below)
 python3 search.py --verify         # verify all 999 file hashes against index.json
 ```
+
+`--verify` checks entry files against `index.json`; it does **not** check
+`index.json` or `embeddings.json` against `manifest.json`. To check those
+files too, compare the output of `sha256sum index.json embeddings.json` with
+`index_sha256` and `embeddings_sha256` in `manifest.json`. These checks
+establish internal consistency with the checked-in metadata, not the
+authenticity or scientific correctness of the research or its sources.
 
 > **Important:** `search.py --top` is **keyword-based token matching, not
 > semantic embedding search.** It is labeled as such in its output. The
