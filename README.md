@@ -10,7 +10,7 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
 - [Bottlenecks guide](bottlenecks/README.md) and [Erdős simulator guide](research/quantum-erdos-sequences/README.md) — methods, verification, and caveats.
 - [Vault map](docs/VAULT.md) — public vs. private surfaces.
-- [DeepNet master endpoint](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
+- [DeepNet master page](https://agenci-main.github.io/deepnet-chat/) — external link; this repository does not define or verify a DeepNet API or integration.
 
 ## What this repository is
 Public research surface and product shell:
@@ -29,11 +29,11 @@ For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md);
 - **Public OEIS fork:** `oeisdata` branch `sequences` (optional sequence lookup)
 - **DeepNet master:** [DeepNet Chat](https://agenci-main.github.io/deepnet-chat/) (external project; link only, not an integration claim)
 
-## Related endpoint
-- **DeepNet master endpoint:** [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/) — a documentation reference only. This repository does not configure or connect to that endpoint; the link is not evidence of a running integration or QPU access.
+## External DeepNet reference
+- **DeepNet master page:** [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/) — an external reference only. This repository does not configure or connect to it; the link is not evidence of a running integration or QPU access.
 
-## Operator entry point
-Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) as the operator entry point. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
+## Operator reference
+The [DeepNet Chat master page](https://agenci-main.github.io/deepnet-chat/) is an external reference, not a verified operator interface or integration for this repository. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
 
 ## Honesty bar
 - A cloud API can queue QPU or simulator jobs; this repository does not establish an active QPU service. There is **no SSH shell into a QPU**.
@@ -42,12 +42,12 @@ Use the [DeepNet Chat master face](https://agenci-main.github.io/deepnet-chat/) 
 - For the dated public track-by-track status, see [Research status](RESEARCH-STATUS.md); for the boundary between public research and private control, see the [vault map](docs/VAULT.md). `LOCAL_SIM` results are not hardware results.
 
 ## QPU Hold — 2026-09-30
-This repository is on **QPU Hold**: no QPU work is being requested or authorized. This is a documentation-only posture note; the DeepNet master is [text-only documentation](https://agenci-main.github.io/deepnet-chat/).
+This repository is on **QPU Hold**: no QPU work is being requested or authorized. This is a documentation-only posture note; the DeepNet master is an external page at [https://agenci-main.github.io/deepnet-chat/](https://agenci-main.github.io/deepnet-chat/) whose content and availability are not verified here.
 
 Hard locks for this hold: **NO QPU, NO Settings, NO billing/IAM, NO invites, NO secrets, NO DeepNet runtime/schema, NO FIRE**. Progress and status remain documentation-only, with no `REAL_QPU` submission or unlock.
 
 ## Operator reference
-- DeepNet Chat master face: https://agenci-main.github.io/deepnet-chat/
+- DeepNet Chat master page: https://agenci-main.github.io/deepnet-chat/
 - Do not invent yields or present projections as realized returns.
 - **QPU Hold:** do not submit hardware jobs or imply hardware results while submission is locked.
 - **Copilot = docs/CI only:** do not use it to change Settings, billing, QPU, or runtime.
