@@ -10,3 +10,11 @@
 | [DeepNet master](https://agenci-main.github.io/deepnet-chat/) | External documentation link only | No integration, endpoint behavior, schema, or availability is verified here |
 
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) applies throughout: no QPU submission or unlock, secrets, settings, billing/IAM, invites, DeepNet runtime/schema, or FIRE work is authorized by this documentation. No `REAL_QPU` results, quantum advantage, or live exchange are claimed.
+
+## Org and CI documentation
+
+- [Org operations posture](docs/ORG-OPS.md) is a public boundary document, not an access
+  grant, operational runbook, or claim that organization controls were exercised.
+- [CI evidence index](docs/CI-EVIDENCE.md) distinguishes documented commands from linked
+  run receipts. No yield, fidelity, pass rate, or hardware result is inferred without a
+  dated artifact or receipt.
