@@ -1,6 +1,6 @@
 # Honesty / QPU Hold
 
-The [DeepNet master](https://agenci-main.github.io/deepnet-chat/) is an external documentation link, not a verified integration, QPU execution, or evidence of quantum advantage.
+**DeepNet master pointer:** [DeepNet Chat](https://agenci-main.github.io/deepnet-chat/) is an external documentation/operator reference only. This repository does not host or verify its availability, behavior, schema, or integration. The link is not evidence of QPU execution or quantum advantage.
 
 **QPU Hold:** Hardware / paid cloud QPU submission remains locked. Published Aer and classical pilot work is `LOCAL_SIM`, not `REAL_QPU`. Do not claim a hardware run, speedup, or quantum advantage without explicit unlock, run receipts, reproducible evidence, and a classical baseline.
 
