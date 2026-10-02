@@ -1,9 +1,9 @@
 # Closeout receipt — PR #54
 
-**PR:** [#54 — Document 2026-09-30 QPU Hold posture](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/54)  
-**Merged:** 2026-09-30 into `main`  
-**Evidence collected:** 2026-10-02 07:18:05 CDT (America/Chicago)  
-**Evidence source:** [Merged PR diff](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/54.diff) and [PR metadata](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/54).
+- **PR:** [#54 — Document 2026-09-30 QPU Hold posture](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/54)
+- **Merged:** 2026-09-30 into `main`
+- **Evidence collected:** 2026-10-02 07:18:05 CDT (America/Chicago)
+- **Evidence source:** [Merged PR diff](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/54.diff) and [PR metadata](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/54).
 
 ## What was added
 
