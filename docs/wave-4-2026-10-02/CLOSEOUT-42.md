@@ -1,7 +1,9 @@
 # Closeout receipt: PR #42
 
-**PR:** [#42 — Document DeepNet master as an external reference](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/42)  
-**Merged:** 2026-09-30 11:52:09 UTC  
+**PR:** [#42 — Document DeepNet master as an external reference](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/42)
+
+**Merged:** 2026-09-30 11:52:09 UTC
+
 **Collected:** 2026-10-02 07:32:35 CDT (America/Chicago)
 
 The merged change adds DeepNet Chat as an external-project link, explicitly not an integration claim, in the README and research status table.
