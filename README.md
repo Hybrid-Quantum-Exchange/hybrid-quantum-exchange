@@ -7,6 +7,7 @@ Org: [github.com/Hybrid-Quantum-Exchange](https://github.com/Hybrid-Quantum-Exch
 ## Start here
 - [Public status and limitations](STATUS.md) — what is published, what is simulated, and what is not established.
 - [Documentation progress](PROGRESS.md) — what is documented and what evidence is still missing.
+- [Honesty / QPU-hold checklist](docs/HONESTY-QPU-HOLD.md) — evidence and claim checks for public updates.
 - [Research status](RESEARCH-STATUS.md) — dated research snapshot.
 - [Organization operations](docs/ORG-OPS.md) — public-safe org pointers and
   documentation-only boundaries.
