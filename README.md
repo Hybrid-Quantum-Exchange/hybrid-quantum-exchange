@@ -33,8 +33,9 @@ For the dated public status snapshot, see [Research status](RESEARCH-STATUS.md);
 - **Public OEIS fork:** `oeisdata` branch `sequences` (optional sequence lookup)
 - **DeepNet master:** [DeepNet Chat](https://agenci-main.github.io/deepnet-chat/) (external project; link only, not an integration claim)
 
-## Related endpoint
-- **DeepNet master endpoint:** [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/) — a documentation reference only. This repository does not configure or connect to that endpoint; the link is not evidence of a running integration or QPU access.
+## Operator endpoint note
+- **DeepNet master endpoint:** [agenci-main.github.io/deepnet-chat](https://agenci-main.github.io/deepnet-chat/) — the operator-facing documentation link for this project.
+- This repository does not configure or call a DeepNet API. The page, its availability, and any endpoint behavior are unverified here; the link is not evidence of a running integration or QPU access.
 
 ## Operator endpoint note
 The [DeepNet Chat master](https://agenci-main.github.io/deepnet-chat/) is an external documentation reference, not a verified operational endpoint or integration. This repository does not establish its availability, behavior, or API/schema. Do not invent yields or present estimates as measured results. **QPU: Hold** — no hardware submissions without explicit unlock and receipts. **Copilot: docs/CI only**; do not use it to change Settings, billing, QPU, or runtime.
