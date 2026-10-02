@@ -19,3 +19,5 @@ Evidence was collected from the read-only GitHub PR API (PR metadata and diff) o
 ## STATUS receipt
 
 **STATUS: CLOSED OUT** — PR #9 is merged; the one changed file is verified from its merged diff.
+
+**Own-lane cost: UNKNOWN** (not combined with Codex/Claude).
