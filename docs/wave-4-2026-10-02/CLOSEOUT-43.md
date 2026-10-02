@@ -1,7 +1,7 @@
 # Closeout receipt: PR #43
 
-**PR:** [#43 — Clarify public research status and link DeepNet master endpoint](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/43)  
-**Merged:** 2026-09-30  
+**PR:** [#43 — Clarify public research status and link DeepNet master endpoint](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/43)
+**Merged:** 2026-09-30
 **Evidence collected:** 2026-10-02 07:32:42 CDT (America/Chicago)
 
 PR #43 clarified that this repository is a public research surface and product shell, not evidence of a production exchange, quantum advantage, active QPU service, or hardware results. It added a prominent documentation index, clearer caveats for simulator and site-shell content, a public status-and-limitations page, and an external DeepNet master endpoint link explicitly described as unverified and not an integration or API contract.
