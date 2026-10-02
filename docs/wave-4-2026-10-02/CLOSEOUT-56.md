@@ -1,7 +1,9 @@
 # Closeout receipt — PR #56
 
-**PR:** [#56 — “[WIP] Create and expand docs files for burn-wave fuel K”](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/56)  
-**Merged:** 2026-09-30 (GitHub API: `2026-09-30T11:54:25Z`)  
+**PR:** [#56 — “[WIP] Create and expand docs files for burn-wave fuel K”](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/56)
+
+**Merged:** 2026-09-30 (GitHub API: `2026-09-30T11:54:25Z`)
+
 **Evidence collected:** 2026-10-02 07:26:58 CDT (America/Chicago)
 
 ## Result
@@ -14,6 +16,8 @@ No changed files are listed. **Evidence status: VERIFIED** — the merged diff a
 
 ## STATUS receipt
 
-**STATUS:** CLOSED — PR #56 merged; no file changes are evidenced by its merged diff.  
-**Own-lane cost:** UNKNOWN.  
+**STATUS:** CLOSED — PR #56 merged; no file changes are evidenced by its merged diff.
+
+**Own-lane cost:** UNKNOWN.
+
 **Authorization gates:** No direct Shawn authorization phrase received; none authorized here.
