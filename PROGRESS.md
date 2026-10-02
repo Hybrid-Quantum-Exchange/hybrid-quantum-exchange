@@ -20,4 +20,14 @@ There is no tracked CI workflow or linked CI run receipt in this repository. The
 
 Before claiming a CI result, link a specific run with its revision, commands, outcomes, and retained evidence. No pass rate or lane yield is established by this page.
 
+## Evidence receipt stub (no results recorded)
+
+No CI or experiment run receipts are linked from this progress snapshot. The entries below are placeholders, not evidence; no yield or fidelity numbers are reported.
+
+| Receipt | Link / artifact | Status | Claims supported |
+| --- | --- | --- | --- |
+| CI run | Not provided | No receipt linked | None |
+| QPU run | Not provided | Submission locked; no run claimed | None |
+| Yield / fidelity result | Not provided | No receipt linked | None |
+
 The [honesty / QPU hold](docs/HONESTY-QPU-HOLD.md) applies throughout: no QPU submission or unlock, secrets, settings, billing/IAM, invites, DeepNet runtime/schema, or FIRE work is authorized by this documentation. No `REAL_QPU` results, quantum advantage, or live exchange are claimed.
