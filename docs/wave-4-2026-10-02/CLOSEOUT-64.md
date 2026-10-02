@@ -1,7 +1,7 @@
 # Closeout receipt: PR #64
 
-**PR:** [#64 — “[WIP] Create and expand docs for burn-wave fuel”](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/64)  
-**Merged:** 2026-09-30 ([GitHub reports 2026-09-30 11:55:58 UTC](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/64))  
+**PR:** [#64 — “[WIP] Create and expand docs for burn-wave fuel”](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/64)
+**Merged:** 2026-09-30 ([GitHub reports 2026-09-30 11:55:58 UTC](https://github.com/Hybrid-Quantum-Exchange/hybrid-quantum-exchange/pull/64))
 **Collected:** 2026-10-02 07:20:54 CDT (America/Chicago)
 
 ## Scope and files
@@ -17,6 +17,6 @@ The PR description requests documentation-only burn-wave fuel work and mentions 
 
 ## STATUS receipt
 
-**STATUS:** Closeout recorded; merged date and PR metadata verified. Actual additions and changed-file list remain **UNVERIFIED** because the available diff evidence has no patch or file records.  
-**Own-lane cost:** UNKNOWN.  
+**STATUS:** Closeout recorded; merged date and PR metadata verified. Actual additions and changed-file list remain **UNVERIFIED** because the available diff evidence has no patch or file records.
+**Own-lane cost:** UNKNOWN.
 **Authorization:** No gate authorization inferred.
